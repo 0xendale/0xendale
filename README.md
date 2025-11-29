@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" That’s why I can’t make a change. Everything I do is so… Half-assed. "</i></h5>**
+**<h5><i>" It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings. "</i></h5>**
 
-*<b>___ Hiroshi Kido ___</b>*
+*<b>___ Ann Landers ___</b>*
 
 -----
 
