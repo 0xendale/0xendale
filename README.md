@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Build your own dreams, or someone else will hire you to build theirs. "</i></h5>**
+**<h5><i>" I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. "</i></h5>**
 
-*<b>___ Farrah Gray ___</b>*
+*<b>___ Julis Alexia Van Riessfeld ___</b>*
 
 -----
 
