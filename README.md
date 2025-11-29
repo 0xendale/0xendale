@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Roy Mustang ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
