@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
+**<h5><i>" Build your own dreams, or someone else will hire you to build theirs. "</i></h5>**
 
-*<b>___ Alice Walker ___</b>*
+*<b>___ Farrah Gray ___</b>*
 
 -----
 
