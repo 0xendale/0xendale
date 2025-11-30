@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Your time is limited, so don’t waste it living someone else’s life. "</i></h5>**
+**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
