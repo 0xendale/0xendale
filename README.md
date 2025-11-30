@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The ticket to the future is always open. "</i></h5>**
+**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
 
-*<b>___ Vash The Stampede ___</b>*
+*<b>___ Nico Robin ___</b>*
 
 -----
 
