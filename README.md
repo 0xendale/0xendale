@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
+**<h5><i>" I refuse to let my fear control me anymore. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Maka Albarn ___</b>*
 
 -----
 
