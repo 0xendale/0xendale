@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. "</i></h5>**
+**<h5><i>" We can’t waste time worrying about the what if’s. "</i></h5>**
 
-*<b>___ Edward Elric  ___</b>*
+*<b>___ Ichigo Kurosaki ___</b>*
 
 -----
 
