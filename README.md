@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
