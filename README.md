@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
+**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ John Lennon ___</b>*
 
 -----
 
