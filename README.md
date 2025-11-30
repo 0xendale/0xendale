@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are no traffic jams along the extra mile. "</i></h5>**
+**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
 
-*<b>___ Roger Staubach ___</b>*
+*<b>___ Nelson Mandela ___</b>*
 
 -----
 
