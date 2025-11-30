@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can dream it, you can achieve it. "</i></h5>**
+**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
 
-*<b>___ Zig Ziglar ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
