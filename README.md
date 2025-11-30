@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you do, enjoy it to the fullest. That is the secret of life. "</i></h5>**
+**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
 
-*<b>___ Rider ___</b>*
+*<b>___ Shoyo Hinata ___</b>*
 
 -----
 
