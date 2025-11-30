@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can’t waste time worrying about the what if’s. "</i></h5>**
+**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
 
-*<b>___ Ichigo Kurosaki ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
