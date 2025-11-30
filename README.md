@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
+**<h5><i>" If you do what you’ve always done, you’ll get what you’ve always gotten. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Tony Robbins ___</b>*
 
 -----
 
