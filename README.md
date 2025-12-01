@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
+**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
