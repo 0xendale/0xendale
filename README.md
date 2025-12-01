@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can’t waste time worrying about the what if’s. "</i></h5>**
+**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
 
-*<b>___ Ichigo Kurosaki ___</b>*
+*<b>___ Princess Lenessia ___</b>*
 
 -----
 
