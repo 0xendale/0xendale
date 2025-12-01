@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
