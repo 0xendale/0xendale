@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt. "</i></h5>**
+**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
 
-*<b>___ Grimsley ___</b>*
+*<b>___ Saitama ___</b>*
 
 -----
 
