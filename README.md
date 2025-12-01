@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
