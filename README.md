@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
+**<h5><i>" We can’t waste time worrying about the what if’s. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Ichigo Kurosaki ___</b>*
 
 -----
 
