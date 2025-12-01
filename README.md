@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
+**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
 
-*<b>___ Shoyo Hinata ___</b>*
+*<b>___ Lao Tzu ___</b>*
 
 -----
 
