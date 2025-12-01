@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes it’s necessary to do unnecessary things. "</i></h5>**
+**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
 
-*<b>___ Kanade Jinguuji ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
 
 -----
 
