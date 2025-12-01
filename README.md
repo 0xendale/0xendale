@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
+**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
 
-*<b>___ Lao Tzu ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
