@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
+**<h5><i>" When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life. "</i></h5>**
 
-*<b>___ Princess Lenessia ___</b>*
+*<b>___ John Lennon ___</b>*
 
 -----
 
