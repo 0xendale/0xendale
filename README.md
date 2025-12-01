@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
+**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
 
-*<b>___ Vincent Van Gogh ___</b>*
+*<b>___ Bill Cosby ___</b>*
 
 -----
 
