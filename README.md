@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
+**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Shoyo Hinata ___</b>*
 
 -----
 
