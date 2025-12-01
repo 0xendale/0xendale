@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" Build your own dreams, or someone else will hire you to build theirs. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Farrah Gray ___</b>*
 
 -----
 
