@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Juuzou Suzuya ___</b>*
 
 -----
 
