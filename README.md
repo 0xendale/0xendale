@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. "</i></h5>**
+**<h5><i>" Definiteness of purpose is the starting point of all achievement. "</i></h5>**
 
-*<b>___ Marie Curie ___</b>*
+*<b>___ W. Clement Stone ___</b>*
 
 -----
 
