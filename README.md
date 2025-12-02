@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
+**<h5><i>" When you give up, that’s when the game ends. "</i></h5>**
 
-*<b>___ Levi Ackerman ___</b>*
+*<b>___ Mitsuyoshi Anzai ___</b>*
 
 -----
 
