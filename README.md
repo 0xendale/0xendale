@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Deneil Young ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
