@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
