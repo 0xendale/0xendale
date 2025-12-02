@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Definiteness of purpose is the starting point of all achievement. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ W. Clement Stone ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
