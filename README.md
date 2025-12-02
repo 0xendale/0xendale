@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You become what you believe. "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
