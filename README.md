@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Marie Curie ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
