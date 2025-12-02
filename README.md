@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
+**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
 
-*<b>___ Reiko Mikami ___</b>*
+*<b>___ Theodore Roosevelt ___</b>*
 
 -----
 
