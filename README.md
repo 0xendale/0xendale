@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you do, enjoy it to the fullest. That is the secret of life. "</i></h5>**
+**<h5><i>" Certain things catch your eye, but pursue only those that capture the heart. "</i></h5>**
 
-*<b>___ Rider ___</b>*
+*<b>___  Ancient Indian Proverb ___</b>*
 
 -----
 
