@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ll leave tomorrow’s problems to tomorrow’s me. "</i></h5>**
+**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Reiko Mikami ___</b>*
 
 -----
 
