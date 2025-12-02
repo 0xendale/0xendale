@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Shintar Midorima ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
