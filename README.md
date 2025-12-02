@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life isn’t about getting and having, it’s about giving and being. "</i></h5>**
+**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Vincent Van Gogh ___</b>*
 
 -----
 
