@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The best revenge is massive success. "</i></h5>**
+**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
 
-*<b>___ Frank Sinatra ___</b>*
+*<b>___ Saitama ___</b>*
 
 -----
 
