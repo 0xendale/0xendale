@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You become what you believe. "</i></h5>**
+**<h5><i>" Being weak means that there is room to grow "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Ittetsu Takeda ___</b>*
 
 -----
 
