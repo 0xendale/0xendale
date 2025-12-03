@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
+**<h5><i>" Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. "</i></h5>**
 
-*<b>___ Nico Robin ___</b>*
+*<b>___ Gildarts Clive ___</b>*
 
 -----
 
