@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
+**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Miche Zacharius ___</b>*
 
 -----
 
