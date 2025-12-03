@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life isn’t about getting and having, it’s about giving and being. "</i></h5>**
+**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Florence Nightingale ___</b>*
 
 -----
 
