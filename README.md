@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. "</i></h5>**
+**<h5><i>" I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. "</i></h5>**
 
-*<b>___ Gildarts Clive ___</b>*
+*<b>___ Leonardo da Vinci ___</b>*
 
 -----
 
