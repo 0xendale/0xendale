@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has beauty, but not everyone can see. "</i></h5>**
+**<h5><i>" I would rather die of passion than of boredom. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Vincent van Gogh ___</b>*
 
 -----
 
