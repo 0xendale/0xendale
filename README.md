@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
+**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Nico Robin ___</b>*
 
 -----
 
