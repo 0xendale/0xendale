@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
+**<h5><i>" If you don’t like your destiny, don’t accept it. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
