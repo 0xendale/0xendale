@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" Sometimes it’s necessary to do unnecessary things. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Kanade Jinguuji ___</b>*
 
 -----
 
