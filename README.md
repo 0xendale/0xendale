@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
