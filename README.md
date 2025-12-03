@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful. "</i></h5>**
+**<h5><i>" I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person "</i></h5>**
 
-*<b>___ Roy Mustang ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
