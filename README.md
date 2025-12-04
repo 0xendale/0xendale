@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
+**<h5><i>" Being weak means that there is room to grow "</i></h5>**
 
-*<b>___ Akame ___</b>*
+*<b>___ Ittetsu Takeda ___</b>*
 
 -----
 
