@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are no regrets. If one can be proud of one’s life, one should not wish for another chance. "</i></h5>**
+**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
 
-*<b>___ Saber ___</b>*
+*<b>___ Lao Tzu ___</b>*
 
 -----
 
