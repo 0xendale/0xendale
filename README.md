@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The ticket to the future is always open. "</i></h5>**
+**<h5><i>" Success usually comes to those who are too busy to be looking for it. "</i></h5>**
 
-*<b>___ Vash The Stampede ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
 
 -----
 
