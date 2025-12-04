@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
+**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
 
-*<b>___ Lao Tzu ___</b>*
+*<b>___ Nelson Mandela ___</b>*
 
 -----
 
