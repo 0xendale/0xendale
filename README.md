@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" The ticket to the future is always open. "</i></h5>**
 
-*<b>___ Shintar Midorima ___</b>*
+*<b>___ Vash The Stampede ___</b>*
 
 -----
 
