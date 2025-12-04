@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
+**<h5><i>" Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. "</i></h5>**
 
-*<b>___ Natsu Dragneel ___</b>*
+*<b>___ Yato ___</b>*
 
 -----
 
