@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
+**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
 
-*<b>___ Tsunade ___</b>*
+*<b>___ Renton Thurston ___</b>*
 
 -----
 
