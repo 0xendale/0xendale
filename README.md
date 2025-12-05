@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Alice Walker ___</b>*
 
 -----
 
