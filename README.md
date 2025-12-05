@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
+**<h5><i>" Life s a bore if you don t challenge yourself "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Yuu Nishinoya ___</b>*
 
 -----
 
