@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life isn’t about getting and having, it’s about giving and being. "</i></h5>**
+**<h5><i>" There are some flowers you only see when you take detours "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Tanaka Saeko ___</b>*
 
 -----
 
