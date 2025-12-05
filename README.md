@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. "</i></h5>**
+**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
 
-*<b>___ Jamie Paolinetti ___</b>*
+*<b>___ Mikasa ___</b>*
 
 -----
 
