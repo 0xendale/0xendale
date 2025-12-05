@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
+**<h5><i>" When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey. "</i></h5>**
 
-*<b>___ Lao Tzu ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
