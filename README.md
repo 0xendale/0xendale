@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you give up, that’s when the game ends. "</i></h5>**
+**<h5><i>" The ticket to the future is always open. "</i></h5>**
 
-*<b>___ Mitsuyoshi Anzai ___</b>*
+*<b>___ Vash The Stampede ___</b>*
 
 -----
 
