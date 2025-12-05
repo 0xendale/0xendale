@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
+**<h5><i>" Life shrinks or expands in proportion to one’s courage. "</i></h5>**
 
-*<b>___  Albert Einstein ___</b>*
+*<b>___ Anais Nin ___</b>*
 
 -----
 
