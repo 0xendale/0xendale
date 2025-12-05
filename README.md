@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
+**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
 
-*<b>___ Buddha ___</b>*
+*<b>___ Nelson Mandela ___</b>*
 
 -----
 
