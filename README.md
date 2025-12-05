@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life s a bore if you don t challenge yourself "</i></h5>**
+**<h5><i>" Every child is an artist.  The problem is how to remain an artist once he grows up. "</i></h5>**
 
-*<b>___ Yuu Nishinoya ___</b>*
+*<b>___ Pablo Picasso ___</b>*
 
 -----
 
