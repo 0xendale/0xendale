@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Your time is limited, so don’t waste it living someone else’s life. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
