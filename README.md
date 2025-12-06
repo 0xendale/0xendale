@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
+**<h5><i>" I refuse to let my fear control me anymore. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Maka Albarn ___</b>*
 
 -----
 
