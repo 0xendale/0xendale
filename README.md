@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt. "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Grimsley ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
