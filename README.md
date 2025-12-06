@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Erza Scarlet ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
