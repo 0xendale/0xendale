@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People’s lives don’t end when they die, it ends when they lose faith. "</i></h5>**
+**<h5><i>" When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey. "</i></h5>**
 
-*<b>___ Itachi Uchiha ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
