@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Mikasa ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
