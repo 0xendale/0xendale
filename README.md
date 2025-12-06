@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
+**<h5><i>" Being lonely is more painful then getting hurt. "</i></h5>**
 
-*<b>___ Buddha ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
