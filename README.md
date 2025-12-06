@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being lonely is more painful then getting hurt. "</i></h5>**
+**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Aristotle ___</b>*
 
 -----
 
