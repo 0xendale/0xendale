@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
+**<h5><i>" You can fly even higher "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
