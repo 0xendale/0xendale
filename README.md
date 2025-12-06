@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
+**<h5><i>" There are some flowers you only see when you take detours "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Tanaka Saeko ___</b>*
 
 -----
 
