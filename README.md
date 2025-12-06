@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you lose sight of your path, listen for the destination in your heart. "</i></h5>**
+**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
 
-*<b>___ Allen Walker ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
