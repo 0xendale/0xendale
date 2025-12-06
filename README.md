@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Certain things catch your eye, but pursue only those that capture the heart. "</i></h5>**
+**<h5><i>" Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover. "</i></h5>**
 
-*<b>___  Ancient Indian Proverb ___</b>*
+*<b>___ Mark Twain ___</b>*
 
 -----
 
