@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Power comes in response to a need, not a desire. You have to create that need. "</i></h5>**
+**<h5><i>" When you give up, that’s when the game ends. "</i></h5>**
 
-*<b>___ Goku ___</b>*
+*<b>___ Mitsuyoshi Anzai ___</b>*
 
 -----
 
