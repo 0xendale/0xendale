@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has beauty, but not everyone can see. "</i></h5>**
+**<h5><i>" We become what we think about. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Earl Nightingale ___</b>*
 
 -----
 
