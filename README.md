@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
+**<h5><i>" I would rather die of passion than of boredom. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Vincent van Gogh ___</b>*
 
 -----
 
