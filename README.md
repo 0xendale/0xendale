@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We become what we think about. "</i></h5>**
+**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
 
-*<b>___ Earl Nightingale ___</b>*
+*<b>___ –Audrey Hepburn ___</b>*
 
 -----
 
