@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. "</i></h5>**
+**<h5><i>" I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you! "</i></h5>**
 
-*<b>___ Edward Elric  ___</b>*
+*<b>___ Son Goku ___</b>*
 
 -----
 
