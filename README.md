@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" People who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Armin Arlelt ___</b>*
 
 -----
 
