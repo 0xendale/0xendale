@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are no regrets. If one can be proud of one’s life, one should not wish for another chance. "</i></h5>**
+**<h5><i>" I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. "</i></h5>**
 
-*<b>___ Saber ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
