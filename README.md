@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
+**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Deneil Young ___</b>*
 
 -----
 
