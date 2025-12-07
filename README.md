@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you do what you’ve always done, you’ll get what you’ve always gotten. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
