@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Akame ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
