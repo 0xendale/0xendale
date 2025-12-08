@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
+**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
 
-*<b>___ Akame ___</b>*
+*<b>___ Martin Luther King Jr. ___</b>*
 
 -----
 
