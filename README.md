@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every child is an artist.  The problem is how to remain an artist once he grows up. "</i></h5>**
+**<h5><i>" You miss 100% of the shots you don’t take. "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___ Wayne Gretzky ___</b>*
 
 -----
 
