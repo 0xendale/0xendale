@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
+**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
 
-*<b>___ Grandma Moses ___</b>*
+*<b>___ Akame ___</b>*
 
 -----
 
