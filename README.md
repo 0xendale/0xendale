@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
+**<h5><i>" To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have. "</i></h5>**
 
-*<b>___ George Eliot ___</b>*
+*<b>___ Matsumoto Rangiku ___</b>*
 
 -----
 
