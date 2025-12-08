@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" An unexamined life is not worth living. "</i></h5>**
+**<h5><i>" Dreaming, after all, is a form of planning. "</i></h5>**
 
-*<b>___ Socrates ___</b>*
+*<b>___ Gloria Steinem ___</b>*
 
 -----
 
