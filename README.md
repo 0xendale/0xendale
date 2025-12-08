@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" How wonderful it is that nobody need wait a single moment before starting to improve the world. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Anne Frank ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
