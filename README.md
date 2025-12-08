@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
