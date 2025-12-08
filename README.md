@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
+**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Grandma Moses ___</b>*
 
 -----
 
