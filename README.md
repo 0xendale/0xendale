@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. "</i></h5>**
+**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
 
-*<b>___ Miss Kobayashi ___</b>*
+*<b>___ Ronald Reagan ___</b>*
 
 -----
 
