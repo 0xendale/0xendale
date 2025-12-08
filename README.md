@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Thinking you’re no-good and worthless is the worst thing you can do "</i></h5>**
+**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
 
-*<b>___ Nobito ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
