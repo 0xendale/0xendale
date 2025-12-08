@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dreaming, after all, is a form of planning. "</i></h5>**
+**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
 
-*<b>___ Gloria Steinem ___</b>*
+*<b>___ John Lennon ___</b>*
 
 -----
 
