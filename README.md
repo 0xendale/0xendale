@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
+**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
 
-*<b>___ Akame ___</b>*
+*<b>___ Kenshin Himura ___</b>*
 
 -----
 
