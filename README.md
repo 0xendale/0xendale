@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
+**<h5><i>" Remember no one can make you feel inferior without your consent. "</i></h5>**
 
-*<b>___ Maimonides ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
 
 -----
 
