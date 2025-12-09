@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Japanese Proverb ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
