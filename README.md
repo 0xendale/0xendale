@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
+**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
 
-*<b>___ Vincent Van Gogh ___</b>*
+*<b>___ Akame ___</b>*
 
 -----
 
