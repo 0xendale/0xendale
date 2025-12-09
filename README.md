@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
+**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
 
-*<b>___ Yuuji Kazami ___</b>*
+*<b>___ Japanese Proverb ___</b>*
 
 -----
 
