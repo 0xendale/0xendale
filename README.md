@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
+**<h5><i>" Thinking you’re no-good and worthless is the worst thing you can do "</i></h5>**
 
-*<b>___ Yuuji Kazami ___</b>*
+*<b>___ Nobito ___</b>*
 
 -----
 
