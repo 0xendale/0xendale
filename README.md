@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about. "</i></h5>**
+**<h5><i>" First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end. "</i></h5>**
 
-*<b>___ Jet Black ___</b>*
+*<b>___ Aristotle ___</b>*
 
 -----
 
