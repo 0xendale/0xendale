@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I would rather die of passion than of boredom. "</i></h5>**
+**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
 
-*<b>___ Vincent van Gogh ___</b>*
+*<b>___ Vincent Van Gogh ___</b>*
 
 -----
 
