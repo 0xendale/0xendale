@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. "</i></h5>**
+**<h5><i>" Either you run the day, or the day runs you. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Jim Rohn ___</b>*
 
 -----
 
