@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either you run the day, or the day runs you. "</i></h5>**
+**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
 
-*<b>___ Jim Rohn ___</b>*
+*<b>___ Natsu Dragneel ___</b>*
 
 -----
 
