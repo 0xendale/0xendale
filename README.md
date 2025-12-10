@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i></h5>**
+**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Sebastian Michaelis ___</b>*
 
 -----
 
