@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Today might be the chance to grasp the chance to let your talent bloom "</i></h5>**
+**<h5><i>" We must balance conspicuous consumption with conscious capitalism. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Kevin Kruse ___</b>*
 
 -----
 
