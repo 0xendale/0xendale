@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
+**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Amelia Earhart ___</b>*
 
 -----
 
