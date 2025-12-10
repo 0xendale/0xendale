@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
+**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
 
-*<b>___ –Audrey Hepburn ___</b>*
+*<b>___ Teddy Roosevelt ___</b>*
 
 -----
 
