@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
