@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. "</i></h5>**
+**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
 
-*<b>___ Plato ___</b>*
+*<b>___ Les Brown ___</b>*
 
 -----
 
