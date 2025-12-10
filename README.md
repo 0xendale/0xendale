@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever. "</i></h5>**
+**<h5><i>" There are no regrets. If one can be proud of one’s life, one should not wish for another chance. "</i></h5>**
 
-*<b>___ Hitsugaya Toshiro ___</b>*
+*<b>___ Saber ___</b>*
 
 -----
 
