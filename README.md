@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Les Brown ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
