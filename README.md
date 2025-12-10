@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
+**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
