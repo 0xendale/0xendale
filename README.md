@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You re Gonna Care What Other People Think And Be Someone You re Not Your Whole Life You re Fine As You Are So Talk In Your Own Words "</i></h5>**
+**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
 
-*<b>___ Ymir ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
