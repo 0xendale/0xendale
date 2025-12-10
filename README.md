@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember no one can make you feel inferior without your consent. "</i></h5>**
+**<h5><i>" I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Michael Jordan ___</b>*
 
 -----
 
