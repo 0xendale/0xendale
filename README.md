@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
+**<h5><i>" When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i></h5>**
 
-*<b>___ Japanese Proverb ___</b>*
+*<b>___ Henry Ford ___</b>*
 
 -----
 
