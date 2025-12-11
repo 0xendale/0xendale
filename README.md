@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
+**<h5><i>" Definiteness of purpose is the starting point of all achievement. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ W. Clement Stone ___</b>*
 
 -----
 
