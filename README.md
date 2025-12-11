@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Vision is not what your eyes see, but an image that your brain comprehends. "</i></h5>**
+**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
 
-*<b>___ Touko Aozaki ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
