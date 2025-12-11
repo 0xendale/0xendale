@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you! "</i></h5>**
+**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
 
-*<b>___ Son Goku ___</b>*
+*<b>___ Bill Cosby ___</b>*
 
 -----
 
