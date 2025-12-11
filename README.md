@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must balance conspicuous consumption with conscious capitalism. "</i></h5>**
+**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
