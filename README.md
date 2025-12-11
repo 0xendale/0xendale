@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. "</i></h5>**
+**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
 
-*<b>___ Mavis Vermillion ___</b>*
+*<b>___ Buddha ___</b>*
 
 -----
 
