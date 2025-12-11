@@ -17,7 +17,7 @@
 
 -----
 
-**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
+**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
 
 *<b>___ Dalai Lama ___</b>*
 
