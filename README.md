@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must balance conspicuous consumption with conscious capitalism. "</i></h5>**
+**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Rock Lee ___</b>*
 
 -----
 
