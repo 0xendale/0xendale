@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t like your destiny, don’t accept it. "</i></h5>**
+**<h5><i>" Vision is not what your eyes see, but an image that your brain comprehends. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Touko Aozaki ___</b>*
 
 -----
 
