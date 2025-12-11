@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life s a bore if you don t challenge yourself "</i></h5>**
+**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
 
-*<b>___ Yuu Nishinoya ___</b>*
+*<b>___ Shoyo Hinata ___</b>*
 
 -----
 
