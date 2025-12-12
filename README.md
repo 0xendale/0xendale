@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
+**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
 
-*<b>___ Latin Proverb ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
 
 -----
 
