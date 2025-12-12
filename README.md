@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
+**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
 
-*<b>___ Unknown ___</b>*
+*<b>___ Saitama ___</b>*
 
 -----
 
