@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Thinking you’re no-good and worthless is the worst thing you can do "</i></h5>**
+**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
 
-*<b>___ Nobito ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
 
 -----
 
