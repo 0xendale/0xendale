@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak is nothing to be ashamed of… Staying weak is !! "</i></h5>**
+**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
 
-*<b>___ Fuegoleon Vermillion ___</b>*
+*<b>___ Mark Twain ___</b>*
 
 -----
 
