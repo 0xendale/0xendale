@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
+**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
 
-*<b>___ Mark Twain ___</b>*
+*<b>___ Unknown ___</b>*
 
 -----
 
