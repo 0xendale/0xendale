@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
+**<h5><i>" How wonderful it is that nobody need wait a single moment before starting to improve the world. "</i></h5>**
 
-*<b>___ Teddy Roosevelt ___</b>*
+*<b>___ Anne Frank ___</b>*
 
 -----
 
