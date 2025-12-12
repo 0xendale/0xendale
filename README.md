@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
+**<h5><i>" We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. "</i></h5>**
 
-*<b>___ Erica Jong ___</b>*
+*<b>___ Plato ___</b>*
 
 -----
 
