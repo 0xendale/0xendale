@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
