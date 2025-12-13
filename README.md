@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
+**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
 
-*<b>___ George Eliot ___</b>*
+*<b>___ Bill Cosby ___</b>*
 
 -----
 
