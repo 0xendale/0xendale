@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
+**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Saitama ___</b>*
 
 -----
 
