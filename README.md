@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
+**<h5><i>" You miss 100% of the shots you don’t take. "</i></h5>**
 
-*<b>___ Bill Cosby ___</b>*
+*<b>___ Wayne Gretzky ___</b>*
 
 -----
 
