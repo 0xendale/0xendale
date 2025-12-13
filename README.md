@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
+**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
