@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
+**<h5><i>" Dream big and dare to fail. "</i></h5>**
 
-*<b>___ Miche Zacharius ___</b>*
+*<b>___ Norman Vaughan ___</b>*
 
 -----
 
