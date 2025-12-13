@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is at the moment of death that humanity has value. "</i></h5>**
+**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
 
-*<b>___ Archer ___</b>*
+*<b>___ Napoleon Hill ___</b>*
 
 -----
 
