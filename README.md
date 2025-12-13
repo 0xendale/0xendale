@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" How wonderful it is that nobody need wait a single moment before starting to improve the world. "</i></h5>**
+**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
 
-*<b>___ Anne Frank ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
