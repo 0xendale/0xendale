@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is 10% what happens to me and 90% of how I react to it. "</i></h5>**
+**<h5><i>" It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live. "</i></h5>**
 
-*<b>___ Charles Swindoll ___</b>*
+*<b>___ Mae Jemison ___</b>*
 
 -----
 
