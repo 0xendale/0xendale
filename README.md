@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
+**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
 
-*<b>___ Deneil Young ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
