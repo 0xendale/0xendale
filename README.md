@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you do what you’ve always done, you’ll get what you’ve always gotten. "</i></h5>**
+**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Winston Churchill ___</b>*
 
 -----
 
