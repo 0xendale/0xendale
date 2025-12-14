@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
+**<h5><i>" Don’t give up, there’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Princess Lenessia ___</b>*
+*<b>___ Shintaro Midorima ___</b>*
 
 -----
 
