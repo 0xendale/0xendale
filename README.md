@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
+**<h5><i>" Life s a bore if you don t challenge yourself "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Yuu Nishinoya ___</b>*
 
 -----
 
