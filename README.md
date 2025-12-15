@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
+**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
 
-*<b>___ Milly Thompson ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
