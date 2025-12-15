@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Change your thoughts and you change your world. "</i></h5>**
+**<h5><i>" The best time to plant a tree was 20 years ago. The second best time is now. "</i></h5>**
 
-*<b>___ Norman Vincent Peale ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
