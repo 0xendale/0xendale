@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
+**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Unknown ___</b>*
 
 -----
 
