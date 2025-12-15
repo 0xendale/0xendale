@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
+**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Levi Ackerman ___</b>*
 
 -----
 
