@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
+**<h5><i>" There are no traffic jams along the extra mile. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Roger Staubach ___</b>*
 
 -----
 
