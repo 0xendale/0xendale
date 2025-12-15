@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either you run the day, or the day runs you. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Jim Rohn ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
