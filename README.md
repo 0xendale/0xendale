@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
+**<h5><i>" The best time to plant a tree was 20 years ago. The second best time is now. "</i></h5>**
 
-*<b>___ Walter Bagehot ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
