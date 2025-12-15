@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
+**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
 
-*<b>___ Miche Zacharius ___</b>*
+*<b>___ Walter Bagehot ___</b>*
 
 -----
 
