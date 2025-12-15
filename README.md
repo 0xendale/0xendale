@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
+**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Theodore Roosevelt ___</b>*
 
 -----
 
