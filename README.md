@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is at the moment of death that humanity has value. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Archer ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
