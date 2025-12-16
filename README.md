@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
+**<h5><i>" People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. "</i></h5>**
 
-*<b>___ Florence Nightingale ___</b>*
+*<b>___ Zig Ziglar ___</b>*
 
 -----
 
