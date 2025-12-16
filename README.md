@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
+**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
 
-*<b>___ Arthur Ashe ___</b>*
+*<b>___ Martin Luther King Jr. ___</b>*
 
 -----
 
