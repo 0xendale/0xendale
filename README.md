@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Definiteness of purpose is the starting point of all achievement. "</i></h5>**
+**<h5><i>" Every strike brings me closer to the next home run. "</i></h5>**
 
-*<b>___ W. Clement Stone ___</b>*
+*<b>___ Babe Ruth ___</b>*
 
 -----
 
