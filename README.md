@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" I’ll leave tomorrow’s problems to tomorrow’s me. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Saitama ___</b>*
 
 -----
 
