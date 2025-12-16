@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is not measured by the number of breaths we take, but by the moments that take our breath away. "</i></h5>**
+**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Vincent Van Gogh ___</b>*
 
 -----
 
