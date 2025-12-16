@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
+**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ –Audrey Hepburn ___</b>*
 
 -----
 
