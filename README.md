@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
+**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
 
-*<b>___ Grandma Moses ___</b>*
+*<b>___ Vincent Van Gogh ___</b>*
 
 -----
 
