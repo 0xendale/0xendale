@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
+**<h5><i>" Life shrinks or expands in proportion to one’s courage. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Anais Nin ___</b>*
 
 -----
 
