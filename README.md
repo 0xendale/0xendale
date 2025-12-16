@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
+**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
 
-*<b>___ Martin Luther King Jr. ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
