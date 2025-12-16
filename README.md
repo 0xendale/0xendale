@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
+**<h5><i>" Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. "</i></h5>**
 
-*<b>___ Mikasa ___</b>*
+*<b>___ Miss Kobayashi ___</b>*
 
 -----
 
