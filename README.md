@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ll leave tomorrow’s problems to tomorrow’s me. "</i></h5>**
+**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Florence Nightingale ___</b>*
 
 -----
 
