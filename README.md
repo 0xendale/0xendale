@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
+**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
 
-*<b>___ Unknown ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
