@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey. "</i></h5>**
+**<h5><i>" You can never cross the ocean until you have the courage to lose sight of the shore. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Christopher Columbus ___</b>*
 
 -----
 
