@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" Definiteness of purpose is the starting point of all achievement. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ W. Clement Stone ___</b>*
 
 -----
 
