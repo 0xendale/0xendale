@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I didn’t fail the test. I just found 100 ways to do it wrong. "</i></h5>**
+**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Keiichi Maebara ___</b>*
 
 -----
 
