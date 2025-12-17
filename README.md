@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything you’ve ever wanted is on the other side of fear. "</i></h5>**
+**<h5><i>" The best time to plant a tree was 20 years ago. The second best time is now. "</i></h5>**
 
-*<b>___ George Addair ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
