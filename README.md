@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is not a game of luck. If you wanna win, work hard. "</i></h5>**
+**<h5><i>" When you give up, that’s when the game ends. "</i></h5>**
 
-*<b>___ Sora ___</b>*
+*<b>___ Mitsuyoshi Anzai ___</b>*
 
 -----
 
