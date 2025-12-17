@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
+**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Princess Lenessia ___</b>*
 
 -----
 
