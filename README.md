@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
+**<h5><i>" Being weak means that there is room to grow "</i></h5>**
 
-*<b>___ Erica Jong ___</b>*
+*<b>___ Ittetsu Takeda ___</b>*
 
 -----
 
