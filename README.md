@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. "</i></h5>**
+**<h5><i>" When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. "</i></h5>**
 
-*<b>___ Edward Elric  ___</b>*
+*<b>___ Erma Bombeck ___</b>*
 
 -----
 
