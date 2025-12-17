@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has beauty, but not everyone can see. "</i></h5>**
+**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Rock Lee ___</b>*
 
 -----
 
