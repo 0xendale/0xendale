@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
+**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
 
-*<b>___ Kenshin Himura ___</b>*
+*<b>___ Yuuji Kazami ___</b>*
 
 -----
 
