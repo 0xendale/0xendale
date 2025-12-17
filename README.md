@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Power comes in response to a need, not a desire. You have to create that need. "</i></h5>**
+**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
 
-*<b>___ Goku ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
