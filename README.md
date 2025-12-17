@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
+**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ Renton Thurston ___</b>*
 
 -----
 
