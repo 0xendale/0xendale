@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. "</i></h5>**
+**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
 
-*<b>___ Miss Kobayashi ___</b>*
+*<b>___ Theodore Roosevelt ___</b>*
 
 -----
 
