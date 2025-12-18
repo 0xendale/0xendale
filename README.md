@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey. "</i></h5>**
+**<h5><i>" You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Unknown ___</b>*
 
 -----
 
