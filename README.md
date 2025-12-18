@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. "</i></h5>**
+**<h5><i>" People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Zig Ziglar ___</b>*
 
 -----
 
