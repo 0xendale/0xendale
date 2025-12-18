@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It doesn’t do any good to pretend you can’t see what’s going on. "</i></h5>**
+**<h5><i>" Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that. "</i></h5>**
 
-*<b>___ Yuuya Mochizuki ___</b>*
+*<b>___ Keima Katsuragi ___</b>*
 
 -----
 
