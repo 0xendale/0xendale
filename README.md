@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you re gonna hit it hit it until it breaks "</i></h5>**
+**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Mark Twain ___</b>*
 
 -----
 
