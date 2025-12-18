@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Today might be the chance to grasp the chance to let your talent bloom "</i></h5>**
+**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Theodore Roosevelt ___</b>*
 
 -----
 
