@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" The only limit to our realization of tomorrow will be our doubts of today. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
 
 -----
 
