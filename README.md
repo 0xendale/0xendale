@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
+**<h5><i>" Being weak is nothing to be ashamed of… Staying weak is !! "</i></h5>**
 
-*<b>___ Rock Lee ___</b>*
+*<b>___ Fuegoleon Vermillion ___</b>*
 
 -----
 
