@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about. "</i></h5>**
+**<h5><i>" I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. "</i></h5>**
 
-*<b>___ Jet Black ___</b>*
+*<b>___ Michael Jordan ___</b>*
 
 -----
 
