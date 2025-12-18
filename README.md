@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
+**<h5><i>" If you want to lift yourself up, lift up someone else. "</i></h5>**
 
-*<b>___ Grandma Moses ___</b>*
+*<b>___ Booker T. Washington ___</b>*
 
 -----
 
