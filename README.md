@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
