@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
+**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Shoyo Hinata ___</b>*
 
 -----
 
