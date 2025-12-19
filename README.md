@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
+**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
