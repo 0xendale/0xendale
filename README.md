@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is not a game of luck. If you wanna win, work hard. "</i></h5>**
+**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
 
-*<b>___ Sora ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
 
 -----
 
