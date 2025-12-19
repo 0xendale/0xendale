@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
+**<h5><i>" We can’t waste time worrying about the what if’s. "</i></h5>**
 
-*<b>___ Mikasa ___</b>*
+*<b>___ Ichigo Kurosaki ___</b>*
 
 -----
 
