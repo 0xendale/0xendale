@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. "</i></h5>**
+**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
 
-*<b>___ Albert Schweitzer ___</b>*
+*<b>___ Mikasa ___</b>*
 
 -----
 
