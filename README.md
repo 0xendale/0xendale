@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People’s lives don’t end when they die, it ends when they lose faith. "</i></h5>**
+**<h5><i>" Your time is limited, so don’t waste it living someone else’s life. "</i></h5>**
 
-*<b>___ Itachi Uchiha ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
