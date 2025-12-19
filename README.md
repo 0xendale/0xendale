@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes it’s necessary to do unnecessary things. "</i></h5>**
+**<h5><i>" Success usually comes to those who are too busy to be looking for it. "</i></h5>**
 
-*<b>___ Kanade Jinguuji ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
 
 -----
 
