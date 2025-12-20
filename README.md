@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
