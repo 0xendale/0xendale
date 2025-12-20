@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Might Guy ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
