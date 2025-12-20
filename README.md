@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful. "</i></h5>**
+**<h5><i>" You can fly even higher "</i></h5>**
 
-*<b>___ Roy Mustang ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
