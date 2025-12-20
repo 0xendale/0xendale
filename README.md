@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever. "</i></h5>**
+**<h5><i>" Life is not measured by the number of breaths we take, but by the moments that take our breath away. "</i></h5>**
 
-*<b>___ Hitsugaya Toshiro ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
