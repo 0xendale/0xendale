@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
+**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
