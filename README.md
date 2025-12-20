@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Your time is limited, so don’t waste it living someone else’s life. "</i></h5>**
+**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___  Albert Einstein ___</b>*
 
 -----
 
