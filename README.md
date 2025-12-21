@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
+**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
 
-*<b>___ Sebastian Michaelis ___</b>*
+*<b>___ Les Brown ___</b>*
 
 -----
 
