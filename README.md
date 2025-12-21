@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t do something, then don’t. Focus on what you can. "</i></h5>**
+**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
 
-*<b>___ Shiroe ___</b>*
+*<b>___ –Audrey Hepburn ___</b>*
 
 -----
 
