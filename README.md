@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
+**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
 
-*<b>___ Deneil Young ___</b>*
+*<b>___ Sebastian Michaelis ___</b>*
 
 -----
 
