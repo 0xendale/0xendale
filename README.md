@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
+**<h5><i>" Giving up kills people. When people reject giving up… they finally win the right to transcend humanity. "</i></h5>**
 
-*<b>___ Alice Walker ___</b>*
+*<b>___ Alucard ___</b>*
 
 -----
 
