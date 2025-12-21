@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
+**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
 
-*<b>___ –Audrey Hepburn ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
