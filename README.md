@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Power comes in response to a need, not a desire. You have to create that need. "</i></h5>**
+**<h5><i>" I am not a product of my circumstances. I am a product of my decisions. "</i></h5>**
 
-*<b>___ Goku ___</b>*
+*<b>___ Stephen Covey ___</b>*
 
 -----
 
