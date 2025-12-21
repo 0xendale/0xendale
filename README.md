@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
+**<h5><i>" Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? "</i></h5>**
 
-*<b>___ Buddha ___</b>*
+*<b>___ Juuzou Suzuya ___</b>*
 
 -----
 
