@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
+**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
 
-*<b>___ Florence Nightingale ___</b>*
+*<b>___ Deneil Young ___</b>*
 
 -----
 
