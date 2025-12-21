@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
+**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Napoleon Hill ___</b>*
 
 -----
 
