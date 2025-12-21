@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
+**<h5><i>" Power comes in response to a need, not a desire. You have to create that need. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Goku ___</b>*
 
 -----
 
