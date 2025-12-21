@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Challenges are what make life interesting and overcoming them is what makes life meaningful. "</i></h5>**
+**<h5><i>" Life shrinks or expands in proportion to one’s courage. "</i></h5>**
 
-*<b>___ Joshua J. Marine ___</b>*
+*<b>___ Anais Nin ___</b>*
 
 -----
 
