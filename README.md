@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
+**<h5><i>" Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Mavis Vermillion ___</b>*
 
 -----
 
