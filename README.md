@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must balance conspicuous consumption with conscious capitalism. "</i></h5>**
+**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Buddha ___</b>*
 
 -----
 
