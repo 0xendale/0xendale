@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you do what you’ve always done, you’ll get what you’ve always gotten. "</i></h5>**
+**<h5><i>" Sometimes it’s necessary to do unnecessary things. "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Kanade Jinguuji ___</b>*
 
 -----
 
