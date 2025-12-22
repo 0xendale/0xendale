@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you want your children to turn out well, spend twice as much time with them, and half as much money. "</i></h5>**
+**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
 
-*<b>___ Abigail Van Buren ___</b>*
+*<b>___ Kenshin Himura ___</b>*
 
 -----
 
