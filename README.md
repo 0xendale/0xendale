@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
+**<h5><i>" People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Zig Ziglar ___</b>*
 
 -----
 
