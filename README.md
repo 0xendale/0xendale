@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
+**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Aristotle ___</b>*
 
 -----
 
