@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you re gonna hit it hit it until it breaks "</i></h5>**
+**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Amelia Earhart ___</b>*
 
 -----
 
