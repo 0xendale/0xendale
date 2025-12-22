@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has beauty, but not everyone can see. "</i></h5>**
+**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
