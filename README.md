@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. "</i></h5>**
+**<h5><i>" I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you! "</i></h5>**
 
-*<b>___ Michael Jordan ___</b>*
+*<b>___ Son Goku ___</b>*
 
 -----
 
