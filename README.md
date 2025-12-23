@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is like a tube of toothpaste. When you’ve used all the toothpaste down to the last squeeze, that’s when you’ve really lived. Live with all your might, and struggle as long as you have life. "</i></h5>**
+**<h5><i>" Every child is an artist.  The problem is how to remain an artist once he grows up. "</i></h5>**
 
-*<b>___ Mion Sonozaki ___</b>*
+*<b>___ Pablo Picasso ___</b>*
 
 -----
 
