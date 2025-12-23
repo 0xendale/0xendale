@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I am not a product of my circumstances. I am a product of my decisions. "</i></h5>**
+**<h5><i>" It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. "</i></h5>**
 
-*<b>___ Stephen Covey ___</b>*
+*<b>___ Might Guy ___</b>*
 
 -----
 
