@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t give up, there’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
 
-*<b>___ Shintaro Midorima ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
