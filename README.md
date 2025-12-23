@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Martin Luther King Jr. ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
