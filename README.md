@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
+**<h5><i>" The question isn’t who is going to let me; it’s who is going to stop me. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Ayn Rand ___</b>*
 
 -----
 
