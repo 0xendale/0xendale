@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Winning isn’t everything, but wanting to win is. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Vince Lombardi ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
