@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
+**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
 
-*<b>___ Keiichi Maebara ___</b>*
+*<b>___ Sebastian Michaelis ___</b>*
 
 -----
 
