@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
+**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Keiichi Maebara ___</b>*
 
 -----
 
