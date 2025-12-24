@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
