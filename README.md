@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is not measured by the number of breaths we take, but by the moments that take our breath away. "</i></h5>**
+**<h5><i>" When you lose sight of your path, listen for the destination in your heart. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Allen Walker ___</b>*
 
 -----
 
