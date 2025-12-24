@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
+**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
 
-*<b>___ Arthur Ashe ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
