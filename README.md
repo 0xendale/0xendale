@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. "</i></h5>**
+**<h5><i>" Challenges are what make life interesting and overcoming them is what makes life meaningful. "</i></h5>**
 
-*<b>___ Erza Scarlet ___</b>*
+*<b>___ Joshua J. Marine ___</b>*
 
 -----
 
