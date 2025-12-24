@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about. "</i></h5>**
+**<h5><i>" If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! "</i></h5>**
 
-*<b>___ Jet Black ___</b>*
+*<b>___ Haruhi Fujioka ___</b>*
 
 -----
 
