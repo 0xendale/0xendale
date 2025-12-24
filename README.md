@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
+**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Keiichi Maebara ___</b>*
 
 -----
 
