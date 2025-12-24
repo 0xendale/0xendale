@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
+**<h5><i>" Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. "</i></h5>**
 
-*<b>___ Sebastian Michaelis ___</b>*
+*<b>___ Kyousuke Natsume ___</b>*
 
 -----
 
