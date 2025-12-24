@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Challenges are what make life interesting and overcoming them is what makes life meaningful. "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Joshua J. Marine ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
