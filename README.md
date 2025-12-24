@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
+**<h5><i>" Winning isn’t everything, but wanting to win is. "</i></h5>**
 
-*<b>___ Japanese Proverb ___</b>*
+*<b>___ Vince Lombardi ___</b>*
 
 -----
 
