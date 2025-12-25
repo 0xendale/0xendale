@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
