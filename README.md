@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. "</i></h5>**
+**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Teddy Roosevelt ___</b>*
 
 -----
 
