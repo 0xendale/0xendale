@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end. "</i></h5>**
+**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
 
-*<b>___ Clare ___</b>*
+*<b>___  Albert Einstein ___</b>*
 
 -----
 
