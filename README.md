@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
+**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
 
-*<b>___  Albert Einstein ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
