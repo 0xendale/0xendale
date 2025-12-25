@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
+**<h5><i>" You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane "</i></h5>**
 
-*<b>___ Vincent Van Gogh ___</b>*
+*<b>___ Hange Zoë ___</b>*
 
 -----
 
