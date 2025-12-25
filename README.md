@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you’re gonna insist on gambling and then complain when you lose, you had better work on your game. "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Hatsu Kominato ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
