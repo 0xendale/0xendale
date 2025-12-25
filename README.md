@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
+**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
 
-*<b>___ Walter Bagehot ___</b>*
+*<b>___ Rock Lee ___</b>*
 
 -----
 
