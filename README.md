@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
+**<h5><i>" The last ones standing are the victors Only the strongest If you want to be the last one standing become strong "</i></h5>**
 
-*<b>___ Reiko Mikami ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
