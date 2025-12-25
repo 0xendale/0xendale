@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Simplicity is the easiest path to true beauty. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Seishuu Handa ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
