@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
