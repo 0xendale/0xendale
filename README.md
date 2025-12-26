@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The last ones standing are the victors Only the strongest If you want to be the last one standing become strong "</i></h5>**
+**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Seiya Kanie ___</b>*
 
 -----
 
