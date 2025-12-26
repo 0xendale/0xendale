@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
+**<h5><i>" Success usually comes to those who are too busy to be looking for it. "</i></h5>**
 
-*<b>___ Yuuji Kazami ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
 
 -----
 
