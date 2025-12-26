@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
+**<h5><i>" Being lonely is more painful then getting hurt. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
