@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every strike brings me closer to the next home run. "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Babe Ruth ___</b>*
+*<b>___ Kenshin Himura ___</b>*
 
 -----
 
