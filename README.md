@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
+**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
 
-*<b>___ Shiroe ___</b>*
+*<b>___ Ronald Reagan ___</b>*
 
 -----
 
