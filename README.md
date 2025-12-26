@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
+**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
 
-*<b>___ Buddha ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
