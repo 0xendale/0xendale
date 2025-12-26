@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. "</i></h5>**
+**<h5><i>" If you want your children to turn out well, spend twice as much time with them, and half as much money. "</i></h5>**
 
-*<b>___ Paine ___</b>*
+*<b>___ Abigail Van Buren ___</b>*
 
 -----
 
