@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
+**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
 
-*<b>___ Shoyo Hinata ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
 
 -----
 
