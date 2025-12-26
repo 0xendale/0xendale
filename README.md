@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Giving up kills people. When people reject giving up… they finally win the right to transcend humanity. "</i></h5>**
+**<h5><i>" The ticket to the future is always open. "</i></h5>**
 
-*<b>___ Alucard ___</b>*
+*<b>___ Vash The Stampede ___</b>*
 
 -----
 
