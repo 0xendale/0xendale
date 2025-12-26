@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Power comes in response to a need, not a desire. You have to create that need. "</i></h5>**
+**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
 
-*<b>___ Goku ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
