@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything you’ve ever wanted is on the other side of fear. "</i></h5>**
+**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
 
-*<b>___ George Addair ___</b>*
+*<b>___ Teddy Roosevelt ___</b>*
 
 -----
 
