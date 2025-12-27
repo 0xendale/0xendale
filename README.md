@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
+**<h5><i>" Either you run the day, or the day runs you. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Jim Rohn ___</b>*
 
 -----
 
