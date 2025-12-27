@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
+**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
 
-*<b>___ Nico Robin ___</b>*
+*<b>___ Buddha ___</b>*
 
 -----
 
