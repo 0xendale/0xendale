@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
+**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
 
-*<b>___ Grandma Moses ___</b>*
+*<b>___ Shiroe ___</b>*
 
 -----
 
