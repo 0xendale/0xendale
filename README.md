@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
+**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
 
-*<b>___ Walter Bagehot ___</b>*
+*<b>___ Maimonides ___</b>*
 
 -----
 
