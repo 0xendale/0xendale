@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We become what we think about. "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Earl Nightingale ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
