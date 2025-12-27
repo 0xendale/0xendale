@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
+**<h5><i>" I have learned over the years that when one’s mind is made up, this diminishes fear. "</i></h5>**
 
-*<b>___ Nico Robin ___</b>*
+*<b>___ Rosa Parks ___</b>*
 
 -----
 
