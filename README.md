@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
+**<h5><i>" “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. "</i></h5>**
 
-*<b>___ Seiya Kanie ___</b>*
+*<b>___ Edward Elric  ___</b>*
 
 -----
 
