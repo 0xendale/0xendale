@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The question isn’t who is going to let me; it’s who is going to stop me. "</i></h5>**
+**<h5><i>" Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes. "</i></h5>**
 
-*<b>___ Ayn Rand ___</b>*
+*<b>___ Junichirou Kagami ___</b>*
 
 -----
 
