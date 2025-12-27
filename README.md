@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
+**<h5><i>" It is at the moment of death that humanity has value. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Archer ___</b>*
 
 -----
 
