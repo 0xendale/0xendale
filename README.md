@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every child is an artist.  The problem is how to remain an artist once he grows up. "</i></h5>**
+**<h5><i>" Certain things catch your eye, but pursue only those that capture the heart. "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___  Ancient Indian Proverb ___</b>*
 
 -----
 
