@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Today might be the chance to grasp the chance to let your talent bloom "</i></h5>**
+**<h5><i>" The mind is everything. What you think you become. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Buddha ___</b>*
 
 -----
 
