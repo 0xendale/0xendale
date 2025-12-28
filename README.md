@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
+**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
 
-*<b>___ Bill Cosby ___</b>*
+*<b>___ Deneil Young ___</b>*
 
 -----
 
