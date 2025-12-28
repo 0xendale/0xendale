@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
+**<h5><i>" Every child is an artist.  The problem is how to remain an artist once he grows up. "</i></h5>**
 
-*<b>___ Natsu Dragneel ___</b>*
+*<b>___ Pablo Picasso ___</b>*
 
 -----
 
