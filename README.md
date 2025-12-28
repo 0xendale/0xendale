@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. "</i></h5>**
+**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
 
-*<b>___ Edward Elric  ___</b>*
+*<b>___ Martin Luther King Jr. ___</b>*
 
 -----
 
