@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Certain things catch your eye, but pursue only those that capture the heart. "</i></h5>**
+**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
 
-*<b>___  Ancient Indian Proverb ___</b>*
+*<b>___ Bill Cosby ___</b>*
 
 -----
 
