@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It doesn’t do any good to pretend you can’t see what’s going on. "</i></h5>**
+**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
 
-*<b>___ Yuuya Mochizuki ___</b>*
+*<b>___ Deneil Young ___</b>*
 
 -----
 
