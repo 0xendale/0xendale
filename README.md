@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are no traffic jams along the extra mile. "</i></h5>**
+**<h5><i>" Power comes in response to a need, not a desire. You have to create that need. "</i></h5>**
 
-*<b>___ Roger Staubach ___</b>*
+*<b>___ Goku ___</b>*
 
 -----
 
