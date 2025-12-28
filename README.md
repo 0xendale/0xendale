@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane "</i></h5>**
+**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
 
-*<b>___ Hange Zoë ___</b>*
+*<b>___ Natsu Dragneel ___</b>*
 
 -----
 
