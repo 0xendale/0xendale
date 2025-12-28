@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
+**<h5><i>" You can’t always hold on to the things that are important. By letting them go we gain something else. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Kunio Yaobi ___</b>*
 
 -----
 
