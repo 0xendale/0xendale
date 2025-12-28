@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. "</i></h5>**
+**<h5><i>" Life is 10% what happens to me and 90% of how I react to it. "</i></h5>**
 
-*<b>___ Mavis Vermillion ___</b>*
+*<b>___ Charles Swindoll ___</b>*
 
 -----
 
