@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is 10% what happens to me and 90% of how I react to it. "</i></h5>**
+**<h5><i>" Challenges are what make life interesting and overcoming them is what makes life meaningful. "</i></h5>**
 
-*<b>___ Charles Swindoll ___</b>*
+*<b>___ Joshua J. Marine ___</b>*
 
 -----
 
