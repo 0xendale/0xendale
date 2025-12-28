@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
+**<h5><i>" You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. "</i></h5>**
 
-*<b>___ Mark Twain ___</b>*
+*<b>___ Junichirou Kagami ___</b>*
 
 -----
 
