@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We become what we think about. "</i></h5>**
+**<h5><i>" Whatever you do, enjoy it to the fullest. That is the secret of life. "</i></h5>**
 
-*<b>___ Earl Nightingale ___</b>*
+*<b>___ Rider ___</b>*
 
 -----
 
