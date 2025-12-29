@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person "</i></h5>**
+**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Les Brown ___</b>*
 
 -----
 
