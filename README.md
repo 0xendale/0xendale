@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___  Albert Einstein ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
