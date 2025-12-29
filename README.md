@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you re gonna hit it hit it until it breaks "</i></h5>**
+**<h5><i>" Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Albert Schweitzer ___</b>*
 
 -----
 
