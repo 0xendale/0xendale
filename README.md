@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
+**<h5><i>" Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? "</i></h5>**
 
-*<b>___ Sebastian Michaelis ___</b>*
+*<b>___ Juuzou Suzuya ___</b>*
 
 -----
 
