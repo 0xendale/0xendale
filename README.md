@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
+**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
 
-*<b>___ Japanese Proverb ___</b>*
+*<b>___ Teddy Roosevelt ___</b>*
 
 -----
 
