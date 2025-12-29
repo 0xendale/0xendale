@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
+**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
 
-*<b>___ George Eliot ___</b>*
+*<b>___ Japanese Proverb ___</b>*
 
 -----
 
