@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If You Win You Live If You Lose You Die If You Don t Fight You Can t Win "</i></h5>**
+**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
 
-*<b>___ Eren ___</b>*
+*<b>___  Albert Einstein ___</b>*
 
 -----
 
