@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you want to lift yourself up, lift up someone else. "</i></h5>**
+**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Erica Jong ___</b>*
 
 -----
 
