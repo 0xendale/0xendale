@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
+**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
