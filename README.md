@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
