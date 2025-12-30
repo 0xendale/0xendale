@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
+**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
 
-*<b>___ Unknown ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
