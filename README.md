@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! "</i></h5>**
+**<h5><i>" The question isn’t who is going to let me; it’s who is going to stop me. "</i></h5>**
 
-*<b>___ Haruhi Fujioka ___</b>*
+*<b>___ Ayn Rand ___</b>*
 
 -----
 
