@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
+**<h5><i>" We must balance conspicuous consumption with conscious capitalism. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Kevin Kruse ___</b>*
 
 -----
 
