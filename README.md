@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
