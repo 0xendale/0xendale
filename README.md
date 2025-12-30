@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
+**<h5><i>" You can never cross the ocean until you have the courage to lose sight of the shore. "</i></h5>**
 
-*<b>___ Arthur Ashe ___</b>*
+*<b>___ Christopher Columbus ___</b>*
 
 -----
 
