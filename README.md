@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
+**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
 
-*<b>___ Teddy Roosevelt ___</b>*
+*<b>___ George Eliot ___</b>*
 
 -----
 
