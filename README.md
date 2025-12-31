@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey. "</i></h5>**
+**<h5><i>" There are no traffic jams along the extra mile. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Roger Staubach ___</b>*
 
 -----
 
