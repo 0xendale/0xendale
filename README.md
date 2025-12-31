@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
+**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
 
-*<b>___ Maimonides ___</b>*
+*<b>___ Ronald Reagan ___</b>*
 
 -----
 
