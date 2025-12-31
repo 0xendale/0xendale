@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It doesn’t do any good to pretend you can’t see what’s going on. "</i></h5>**
+**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
 
-*<b>___ Yuuya Mochizuki ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
