@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
+**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
 
-*<b>___ Keiichi Maebara ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
