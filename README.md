@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
+**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
 
-*<b>___ Shiroe ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
 
 -----
 
