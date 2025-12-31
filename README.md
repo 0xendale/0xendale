@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Simplicity is the easiest path to true beauty. "</i></h5>**
+**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
 
-*<b>___ Seishuu Handa ___</b>*
+*<b>___ Shiroe ___</b>*
 
 -----
 
