@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is not measured by the number of breaths we take, but by the moments that take our breath away. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
