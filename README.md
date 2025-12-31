@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you re gonna hit it hit it until it breaks "</i></h5>**
+**<h5><i>" You should never give up on life, no matter how you feel. No matter how badly you want to give up. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Canaan ___</b>*
 
 -----
 
