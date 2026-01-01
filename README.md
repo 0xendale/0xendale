@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper. "</i></h5>**
+**<h5><i>" Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image. "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Archer ___</b>*
 
 -----
 
