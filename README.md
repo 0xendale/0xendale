@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Jiraiya ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
