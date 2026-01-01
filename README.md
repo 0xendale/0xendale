@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t do something, then don’t. Focus on what you can. "</i></h5>**
+**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
 
-*<b>___ Shiroe ___</b>*
+*<b>___ Natsu Dragneel ___</b>*
 
 -----
 
