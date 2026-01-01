@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Education costs money.  But then so does ignorance. "</i></h5>**
+**<h5><i>" Reject common sense to make the impossible possible. "</i></h5>**
 
-*<b>___ Sir Claus Moser ___</b>*
+*<b>___ Simon ___</b>*
 
 -----
 
