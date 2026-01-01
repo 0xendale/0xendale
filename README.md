@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I have learned over the years that when one’s mind is made up, this diminishes fear. "</i></h5>**
+**<h5><i>" Challenges are what make life interesting and overcoming them is what makes life meaningful. "</i></h5>**
 
-*<b>___ Rosa Parks ___</b>*
+*<b>___ Joshua J. Marine ___</b>*
 
 -----
 
