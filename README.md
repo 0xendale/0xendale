@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever! "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Izuku Midoriya ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
