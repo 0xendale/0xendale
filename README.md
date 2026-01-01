@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have. "</i></h5>**
+**<h5><i>" Life is like a tube of toothpaste. When you’ve used all the toothpaste down to the last squeeze, that’s when you’ve really lived. Live with all your might, and struggle as long as you have life. "</i></h5>**
 
-*<b>___ Matsumoto Rangiku ___</b>*
+*<b>___ Mion Sonozaki ___</b>*
 
 -----
 
