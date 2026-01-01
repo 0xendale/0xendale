@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live. "</i></h5>**
+**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
 
-*<b>___ Mae Jemison ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
