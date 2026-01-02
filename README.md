@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
+**<h5><i>" Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end. "</i></h5>**
 
-*<b>___ Milly Thompson ___</b>*
+*<b>___ Clare ___</b>*
 
 -----
 
