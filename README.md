@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
+**<h5><i>" People’s lives don’t end when they die, it ends when they lose faith. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Itachi Uchiha ___</b>*
 
 -----
 
