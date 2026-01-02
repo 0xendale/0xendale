@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
+**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
 
-*<b>___ Walter Bagehot ___</b>*
+*<b>___ Henry Ford ___</b>*
 
 -----
 
