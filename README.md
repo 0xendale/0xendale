@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
+**<h5><i>" If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity "</i></h5>**
 
-*<b>___ Alibaba Saluja ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
