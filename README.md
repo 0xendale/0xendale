@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes it’s necessary to do unnecessary things. "</i></h5>**
+**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
 
-*<b>___ Kanade Jinguuji ___</b>*
+*<b>___ Henry Ford ___</b>*
 
 -----
 
