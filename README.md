@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Erica Jong ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
