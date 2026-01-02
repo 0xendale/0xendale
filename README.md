@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
+**<h5><i>" Life is not a game of luck. If you wanna win, work hard. "</i></h5>**
 
-*<b>___ Walter Bagehot ___</b>*
+*<b>___ Sora ___</b>*
 
 -----
 
