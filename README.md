@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People’s lives don’t end when they die, it ends when they lose faith. "</i></h5>**
+**<h5><i>" Remember no one can make you feel inferior without your consent. "</i></h5>**
 
-*<b>___ Itachi Uchiha ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
 
 -----
 
