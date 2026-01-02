@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes it’s necessary to do unnecessary things. "</i></h5>**
+**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
 
-*<b>___ Kanade Jinguuji ___</b>*
+*<b>___ Maimonides ___</b>*
 
 -----
 
