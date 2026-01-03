@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
+**<h5><i>" If you’re gonna insist on gambling and then complain when you lose, you had better work on your game. "</i></h5>**
 
-*<b>___ Tsunade ___</b>*
+*<b>___ Hatsu Kominato ___</b>*
 
 -----
 
