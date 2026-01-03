@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image. "</i></h5>**
+**<h5><i>" It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. "</i></h5>**
 
-*<b>___ Archer ___</b>*
+*<b>___ Might Guy ___</b>*
 
 -----
 
