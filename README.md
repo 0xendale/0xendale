@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
+**<h5><i>" The only limit to our realization of tomorrow will be our doubts of today. "</i></h5>**
 
-*<b>___ Erica Jong ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
 
 -----
 
