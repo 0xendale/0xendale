@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. "</i></h5>**
+**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
 
-*<b>___ Mavis Vermillion ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
