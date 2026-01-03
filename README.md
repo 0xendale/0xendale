@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can fly even higher "</i></h5>**
+**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Kenshin Himura ___</b>*
 
 -----
 
