@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. "</i></h5>**
+**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
 
-*<b>___ Erza Scarlet ___</b>*
+*<b>___ Erica Jong ___</b>*
 
 -----
 
