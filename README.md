@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
+**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
 
-*<b>___ Kenshin Himura ___</b>*
+*<b>___ Latin Proverb ___</b>*
 
 -----
 
