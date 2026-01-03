@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes. "</i></h5>**
+**<h5><i>" Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end. "</i></h5>**
 
-*<b>___ Junichirou Kagami ___</b>*
+*<b>___ Clare ___</b>*
 
 -----
 
