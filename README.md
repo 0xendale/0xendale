@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
+**<h5><i>" It doesn’t do any good to pretend you can’t see what’s going on. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Yuuya Mochizuki ___</b>*
 
 -----
 
