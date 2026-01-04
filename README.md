@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Reject common sense to make the impossible possible. "</i></h5>**
+**<h5><i>" It doesn’t do any good to pretend you can’t see what’s going on. "</i></h5>**
 
-*<b>___ Simon ___</b>*
+*<b>___ Yuuya Mochizuki ___</b>*
 
 -----
 
