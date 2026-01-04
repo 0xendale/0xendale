@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" How wonderful it is that nobody need wait a single moment before starting to improve the world. "</i></h5>**
+**<h5><i>" The only limit to our realization of tomorrow will be our doubts of today. "</i></h5>**
 
-*<b>___ Anne Frank ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
 
 -----
 
