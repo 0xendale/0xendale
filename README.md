@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
+**<h5><i>" Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes. "</i></h5>**
 
-*<b>___ George Eliot ___</b>*
+*<b>___ Junichirou Kagami ___</b>*
 
 -----
 
