@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
+**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Mark Twain ___</b>*
 
 -----
 
