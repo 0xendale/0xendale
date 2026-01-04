@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
 
-*<b>___ Kenshin Himura ___</b>*
+*<b>___ Martin Luther King Jr. ___</b>*
 
 -----
 
