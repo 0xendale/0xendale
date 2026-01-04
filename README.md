@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
+**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Mikasa ___</b>*
 
 -----
 
