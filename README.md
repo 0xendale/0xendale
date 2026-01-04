@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has beauty, but not everyone can see. "</i></h5>**
+**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
 
-*<b>___ Confucius ___</b>*
+*<b>___ George Eliot ___</b>*
 
 -----
 
