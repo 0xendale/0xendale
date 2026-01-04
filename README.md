@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Change your thoughts and you change your world. "</i></h5>**
+**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
 
-*<b>___ Norman Vincent Peale ___</b>*
+*<b>___ Les Brown ___</b>*
 
 -----
 
