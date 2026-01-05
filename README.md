@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dreaming, after all, is a form of planning. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Gloria Steinem ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
