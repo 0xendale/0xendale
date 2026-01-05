@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
