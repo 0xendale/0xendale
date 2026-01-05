@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
+**<h5><i>" When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Helen Keller ___</b>*
 
 -----
 
