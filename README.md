@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
+**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Deneil Young ___</b>*
 
 -----
 
