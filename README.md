@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
+**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Japanese Proverb ___</b>*
 
 -----
 
