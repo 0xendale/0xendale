@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
+**<h5><i>" Don’t give up, there’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Shintaro Midorima ___</b>*
 
 -----
 
