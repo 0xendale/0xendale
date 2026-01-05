@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Success usually comes to those who are too busy to be looking for it. "</i></h5>**
+**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Seiya Kanie ___</b>*
 
 -----
 
