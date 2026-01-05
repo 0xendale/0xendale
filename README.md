@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is 10% what happens to me and 90% of how I react to it. "</i></h5>**
+**<h5><i>" Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. "</i></h5>**
 
-*<b>___ Charles Swindoll ___</b>*
+*<b>___ Erza Scarlet ___</b>*
 
 -----
 
