@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. "</i></h5>**
+**<h5><i>" I have learned over the years that when one’s mind is made up, this diminishes fear. "</i></h5>**
 
-*<b>___ Paine ___</b>*
+*<b>___ Rosa Parks ___</b>*
 
 -----
 
