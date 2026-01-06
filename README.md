@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
+**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
 
-*<b>___ Les Brown ___</b>*
+*<b>___ Bill Cosby ___</b>*
 
 -----
 
