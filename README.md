@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
+**<h5><i>" We become what we think about. "</i></h5>**
 
-*<b>___ Miche Zacharius ___</b>*
+*<b>___ Earl Nightingale ___</b>*
 
 -----
 
