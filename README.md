@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
+**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Miche Zacharius ___</b>*
 
 -----
 
