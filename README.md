@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. "</i></h5>**
+**<h5><i>" Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. "</i></h5>**
 
-*<b>___ Yato ___</b>*
+*<b>___ Gilgamesh ___</b>*
 
 -----
 
