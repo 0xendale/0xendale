@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
+**<h5><i>" Our lives begin to end the day we become silent about things that matter. "</i></h5>**
 
-*<b>___ Chinese Proverb ___</b>*
+*<b>___ Martin Luther King Jr. ___</b>*
 
 -----
 
