@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You become what you believe. "</i></h5>**
+**<h5><i>" People’s lives don’t end when they die, it ends when they lose faith. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Itachi Uchiha ___</b>*
 
 -----
 
