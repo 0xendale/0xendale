@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
+**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
 
-*<b>___ Latin Proverb ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
