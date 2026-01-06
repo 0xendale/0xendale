@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only limit to our realization of tomorrow will be our doubts of today. "</i></h5>**
+**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
 
-*<b>___ Franklin D. Roosevelt ___</b>*
+*<b>___ Winston Churchill ___</b>*
 
 -----
 
