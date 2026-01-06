@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i></h5>**
+**<h5><i>" You become what you believe. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
 
 -----
 
