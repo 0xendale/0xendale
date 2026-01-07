@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
+**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
 
-*<b>___ Arthur Ashe ___</b>*
+*<b>___ Milly Thompson ___</b>*
 
 -----
 
