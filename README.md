@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Michael Jordan ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
