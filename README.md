@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I would rather die of passion than of boredom. "</i></h5>**
+**<h5><i>" Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes. "</i></h5>**
 
-*<b>___ Vincent van Gogh ___</b>*
+*<b>___ Junichirou Kagami ___</b>*
 
 -----
 
