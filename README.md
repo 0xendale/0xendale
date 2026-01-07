@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is 10% what happens to me and 90% of how I react to it. "</i></h5>**
+**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
 
-*<b>___ Charles Swindoll ___</b>*
+*<b>___ Ronald Reagan ___</b>*
 
 -----
 
