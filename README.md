@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
+**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
 
-*<b>___ Chinese Proverb ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
