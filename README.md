@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___ Ronald Reagan ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
