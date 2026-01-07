@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
+**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
 
-*<b>___ Milly Thompson ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
