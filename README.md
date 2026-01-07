@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
+**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
 
-*<b>___ Unknown ___</b>*
+*<b>___ Winston Churchill ___</b>*
 
 -----
 
