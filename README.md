@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
+**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
