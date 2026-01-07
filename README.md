@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
+**<h5><i>" If you can dream it, you can achieve it. "</i></h5>**
 
-*<b>___ Princess Lenessia ___</b>*
+*<b>___ Zig Ziglar ___</b>*
 
 -----
 
