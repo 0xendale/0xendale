@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can fly even higher "</i></h5>**
+**<h5><i>" Life is 10% what happens to me and 90% of how I react to it. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Charles Swindoll ___</b>*
 
 -----
 
