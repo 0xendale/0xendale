@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
+**<h5><i>" A truly rich man is one whose children run into his arms when his hands are empty. "</i></h5>**
 
-*<b>___ Miche Zacharius ___</b>*
+*<b>___ Unknown ___</b>*
 
 -----
 
