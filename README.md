@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything you’ve ever wanted is on the other side of fear. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ George Addair ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
