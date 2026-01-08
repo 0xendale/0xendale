@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
+**<h5><i>" I didn’t fail the test. I just found 100 ways to do it wrong. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
 
 -----
 
