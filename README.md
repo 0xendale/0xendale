@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t give up, there’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Shintaro Midorima ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
