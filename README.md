@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Simplicity is the easiest path to true beauty. "</i></h5>**
+**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
 
-*<b>___ Seishuu Handa ___</b>*
+*<b>___ –Audrey Hepburn ___</b>*
 
 -----
 
