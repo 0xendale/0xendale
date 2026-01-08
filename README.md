@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
+**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Akame ___</b>*
 
 -----
 
