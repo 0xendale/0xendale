@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Leonardo da Vinci ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
