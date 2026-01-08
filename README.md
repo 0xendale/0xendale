@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
