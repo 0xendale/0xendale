@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you want your children to turn out well, spend twice as much time with them, and half as much money. "</i></h5>**
+**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
 
-*<b>___ Abigail Van Buren ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
