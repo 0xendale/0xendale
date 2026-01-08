@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Simplicity is the easiest path to true beauty. "</i></h5>**
+**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
 
-*<b>___ Seishuu Handa ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
