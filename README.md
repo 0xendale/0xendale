@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
