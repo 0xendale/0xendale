@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
+**<h5><i>" If you want your children to turn out well, spend twice as much time with them, and half as much money. "</i></h5>**
 
-*<b>___ Ronald Reagan ___</b>*
+*<b>___ Abigail Van Buren ___</b>*
 
 -----
 
