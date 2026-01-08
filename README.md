@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
+**<h5><i>" Simplicity is the easiest path to true beauty. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ Seishuu Handa ___</b>*
 
 -----
 
