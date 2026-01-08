@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I didn’t fail the test. I just found 100 ways to do it wrong. "</i></h5>**
+**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
