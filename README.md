@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
