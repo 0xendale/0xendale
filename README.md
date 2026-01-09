@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity "</i></h5>**
+**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
