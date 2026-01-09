@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dream big and dare to fail. "</i></h5>**
+**<h5><i>" Being weak means that there is room to grow "</i></h5>**
 
-*<b>___ Norman Vaughan ___</b>*
+*<b>___ Ittetsu Takeda ___</b>*
 
 -----
 
