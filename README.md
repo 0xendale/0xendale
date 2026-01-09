@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
+**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
 
-*<b>___ Latin Proverb ___</b>*
+*<b>___ Levi Ackerman ___</b>*
 
 -----
 
