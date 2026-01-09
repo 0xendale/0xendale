@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Levi Ackerman ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
