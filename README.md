@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dreaming, after all, is a form of planning. "</i></h5>**
+**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
 
-*<b>___ Gloria Steinem ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
