@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I want you to be happy. I want you to laugh a lot. I don’t know what exactly I’ll be able to do for you, but I’ll always be by your side. "</i></h5>**
+**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
 
-*<b>___ Kagome ___</b>*
+*<b>___ Theodore Roosevelt ___</b>*
 
 -----
 
