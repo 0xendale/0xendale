@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. "</i></h5>**
+**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
 
-*<b>___ Kyousuke Natsume ___</b>*
+*<b>___ Henry Ford ___</b>*
 
 -----
 
