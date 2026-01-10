@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you re gonna hit it hit it until it breaks "</i></h5>**
+**<h5><i>" You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Junichirou Kagami ___</b>*
 
 -----
 
