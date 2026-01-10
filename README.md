@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Kenshin Himura ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
