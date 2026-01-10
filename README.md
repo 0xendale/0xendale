@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You may be disappointed if you fail, but you are doomed if you don’t try. "</i></h5>**
+**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
 
-*<b>___ Beverly Sills ___</b>*
+*<b>___ Florence Nightingale ___</b>*
 
 -----
 
