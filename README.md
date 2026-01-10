@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. "</i></h5>**
+**<h5><i>" Today might be the chance to grasp the chance to let your talent bloom "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Tooru Oikawa ___</b>*
 
 -----
 
