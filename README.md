@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
+**<h5><i>" Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. "</i></h5>**
 
-*<b>___ Florence Nightingale ___</b>*
+*<b>___ Booker T. Washington ___</b>*
 
 -----
 
