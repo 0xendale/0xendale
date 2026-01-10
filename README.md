@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You become what you believe. "</i></h5>**
+**<h5><i>" If you re gonna hit it hit it until it breaks "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Tooru Oikawa ___</b>*
 
 -----
 
