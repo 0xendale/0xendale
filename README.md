@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face. "</i></h5>**
+**<h5><i>" I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person "</i></h5>**
 
-*<b>___ Roronoa Zoro ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
