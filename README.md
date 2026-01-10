@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t share someone’s pain, you can never understand them. "</i></h5>**
+**<h5><i>" You may be disappointed if you fail, but you are doomed if you don’t try. "</i></h5>**
 
-*<b>___ Nagato ___</b>*
+*<b>___ Beverly Sills ___</b>*
 
 -----
 
