@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ll leave tomorrow’s problems to tomorrow’s me. "</i></h5>**
+**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Shiroe ___</b>*
 
 -----
 
