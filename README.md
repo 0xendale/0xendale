@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every child is an artist.  The problem is how to remain an artist once he grows up. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Pablo Picasso ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
