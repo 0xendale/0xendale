@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
+**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Lao Tzu ___</b>*
 
 -----
 
