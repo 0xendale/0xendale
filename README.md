@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. "</i></h5>**
+**<h5><i>" It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings. "</i></h5>**
 
-*<b>___ Gilgamesh ___</b>*
+*<b>___ Ann Landers ___</b>*
 
 -----
 
