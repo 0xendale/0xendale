@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Florence Nightingale ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
