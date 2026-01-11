@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
+**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
 
-*<b>___ Kenny Ackerman ___</b>*
+*<b>___ Latin Proverb ___</b>*
 
 -----
 
