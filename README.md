@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t do something, then don’t. Focus on what you can. "</i></h5>**
+**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
 
-*<b>___ Shiroe ___</b>*
+*<b>___ Maimonides ___</b>*
 
 -----
 
