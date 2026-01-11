@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
+**<h5><i>" Don’t give up, there’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Kenny Ackerman ___</b>*
+*<b>___ Shintaro Midorima ___</b>*
 
 -----
 
