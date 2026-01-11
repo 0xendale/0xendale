@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You miss 100% of the shots you don’t take. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Wayne Gretzky ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
