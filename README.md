@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
+**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
 
-*<b>___ Latin Proverb ___</b>*
+*<b>___ Milly Thompson ___</b>*
 
 -----
 
