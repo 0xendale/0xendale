@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
+**<h5><i>" You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Roronoa Zoro ___</b>*
 
 -----
 
