@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today! "</i></h5>**
+**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
 
-*<b>___ Natsu Dragneel ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
