@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
+**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Princess Lenessia ___</b>*
 
 -----
 
