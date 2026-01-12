@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
+**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
 
-*<b>___ Nico Yazawa ___</b>*
+*<b>___ Reiko Mikami ___</b>*
 
 -----
 
