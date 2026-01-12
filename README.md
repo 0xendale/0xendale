@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
+**<h5><i>" Winning isn’t everything, but wanting to win is. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Vince Lombardi ___</b>*
 
 -----
 
