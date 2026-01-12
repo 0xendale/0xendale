@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are some flowers you only see when you take detours "</i></h5>**
+**<h5><i>" Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference. "</i></h5>**
 
-*<b>___ Tanaka Saeko ___</b>*
+*<b>___ Robert Frost ___</b>*
 
 -----
 
