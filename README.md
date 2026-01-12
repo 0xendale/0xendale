@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
+**<h5><i>" If You Win You Live If You Lose You Die If You Don t Fight You Can t Win "</i></h5>**
 
-*<b>___ Ronald Reagan ___</b>*
+*<b>___ Eren ___</b>*
 
 -----
 
