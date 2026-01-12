@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If the wind will not serve, take to the oars. "</i></h5>**
+**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
 
-*<b>___ Latin Proverb ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
 
 -----
 
