@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. "</i></h5>**
+**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
 
-*<b>___ Erma Bombeck ___</b>*
+*<b>___ George Eliot ___</b>*
 
 -----
 
