@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. "</i></h5>**
+**<h5><i>" Today might be the chance to grasp the chance to let your talent bloom "</i></h5>**
 
-*<b>___ Erma Bombeck ___</b>*
+*<b>___ Tooru Oikawa ___</b>*
 
 -----
 
