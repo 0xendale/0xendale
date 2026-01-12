@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
+**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
 
-*<b>___ Reiko Mikami ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
