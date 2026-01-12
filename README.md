@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If You Win You Live If You Lose You Die If You Don t Fight You Can t Win "</i></h5>**
+**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
 
-*<b>___ Eren ___</b>*
+*<b>___ Levi Ackerman ___</b>*
 
 -----
 
