@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Rock Lee ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
