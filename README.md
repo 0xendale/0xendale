@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
+**<h5><i>" The ticket to the future is always open. "</i></h5>**
 
-*<b>___ Levi Ackerman ___</b>*
+*<b>___ Vash The Stampede ___</b>*
 
 -----
 
