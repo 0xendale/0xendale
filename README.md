@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today! "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___ Natsu Dragneel ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
