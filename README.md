@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Kenny Ackerman ___</b>*
 
 -----
 
