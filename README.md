@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
+**<h5><i>" Life s a bore if you don t challenge yourself "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Yuu Nishinoya ___</b>*
 
 -----
 
