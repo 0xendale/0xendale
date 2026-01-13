@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We become what we think about. "</i></h5>**
+**<h5><i>" People who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Earl Nightingale ___</b>*
+*<b>___ Armin Arlelt ___</b>*
 
 -----
 
