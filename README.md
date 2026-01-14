@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" That’s why I can’t make a change. Everything I do is so… Half-assed. "</i></h5>**
+**<h5><i>" A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. "</i></h5>**
 
-*<b>___ Hiroshi Kido ___</b>*
+*<b>___ Jiraiya ___</b>*
 
 -----
 
