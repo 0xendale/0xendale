@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
+**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Grandma Moses ___</b>*
 
 -----
 
