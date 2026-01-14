@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. "</i></h5>**
+**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
 
-*<b>___ Jiraiya ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
