@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" If you don’t share someone’s pain, you can never understand them. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Nagato ___</b>*
 
 -----
 
