@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
+**<h5><i>" Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. "</i></h5>**
 
-*<b>___ Maimonides ___</b>*
+*<b>___ Gilgamesh ___</b>*
 
 -----
 
