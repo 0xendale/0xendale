@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Education costs money.  But then so does ignorance. "</i></h5>**
+**<h5><i>" Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. "</i></h5>**
 
-*<b>___ Sir Claus Moser ___</b>*
+*<b>___ Jesus ___</b>*
 
 -----
 
