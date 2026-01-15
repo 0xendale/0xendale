@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are no traffic jams along the extra mile. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Roger Staubach ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
