@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t share someone’s pain, you can never understand them. "</i></h5>**
+**<h5><i>" The greatest pleasure in life is doing what people say you cannot do. "</i></h5>**
 
-*<b>___ Nagato ___</b>*
+*<b>___ Walter Bagehot ___</b>*
 
 -----
 
