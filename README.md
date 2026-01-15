@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t share someone’s pain, you can never understand them. "</i></h5>**
+**<h5><i>" There are no traffic jams along the extra mile. "</i></h5>**
 
-*<b>___ Nagato ___</b>*
+*<b>___ Roger Staubach ___</b>*
 
 -----
 
