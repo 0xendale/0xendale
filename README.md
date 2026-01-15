@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever! "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Izuku Midoriya ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
