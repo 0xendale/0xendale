@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you want to lift yourself up, lift up someone else. "</i></h5>**
+**<h5><i>" The ticket to the future is always open. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Vash The Stampede ___</b>*
 
 -----
 
