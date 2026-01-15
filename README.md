@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Winning isn’t everything, but wanting to win is. "</i></h5>**
+**<h5><i>" No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least "</i></h5>**
 
-*<b>___ Vince Lombardi ___</b>*
+*<b>___ Levi Ackerman ___</b>*
 
 -----
 
