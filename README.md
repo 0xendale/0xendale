@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
 
 -----
 
