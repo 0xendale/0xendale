@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
+**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ John Lennon ___</b>*
 
 -----
 
