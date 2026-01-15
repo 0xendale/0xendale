@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
+**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
