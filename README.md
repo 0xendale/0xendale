@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" An unexamined life is not worth living. "</i></h5>**
+**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
 
-*<b>___ Socrates ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
