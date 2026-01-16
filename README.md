@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
+**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
 
-*<b>___ Ronald Reagan ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
 
 -----
 
