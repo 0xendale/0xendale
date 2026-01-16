@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. "</i></h5>**
+**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Yato ___</b>*
+*<b>___ Shintar Midorima ___</b>*
 
 -----
 
