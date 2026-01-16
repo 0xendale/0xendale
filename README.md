@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on. "</i></h5>**
+**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
 
-*<b>___ Sheryl Sandberg ___</b>*
+*<b>___ Milly Thompson ___</b>*
 
 -----
 
