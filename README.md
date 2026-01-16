@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" Life is not a game of luck. If you wanna win, work hard. "</i></h5>**
 
-*<b>___ Shintar Midorima ___</b>*
+*<b>___ Sora ___</b>*
 
 -----
 
