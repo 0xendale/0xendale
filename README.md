@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do you need a reason to not want to lose "</i></h5>**
+**<h5><i>" We can’t help everyone, but everyone can help someone. "</i></h5>**
 
-*<b>___ Shoyo Hinata ___</b>*
+*<b>___ Ronald Reagan ___</b>*
 
 -----
 
