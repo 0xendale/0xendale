@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
+**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ John Lennon ___</b>*
 
 -----
 
