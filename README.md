@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
+**<h5><i>" There are no regrets. If one can be proud of one’s life, one should not wish for another chance. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Saber ___</b>*
 
 -----
 
