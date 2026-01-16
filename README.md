@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are no regrets. If one can be proud of one’s life, one should not wish for another chance. "</i></h5>**
+**<h5><i>" A place where someone still thinks about you is a place you can call home. "</i></h5>**
 
-*<b>___ Saber ___</b>*
+*<b>___ Jiraiya ___</b>*
 
 -----
 
