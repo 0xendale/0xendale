@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that. "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Keima Katsuragi ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
