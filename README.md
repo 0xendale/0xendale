@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
+**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
 
 -----
 
