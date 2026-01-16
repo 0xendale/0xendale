@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
+**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
 
-*<b>___ Henry David Thoreau ___</b>*
+*<b>___ Florence Nightingale ___</b>*
 
 -----
 
