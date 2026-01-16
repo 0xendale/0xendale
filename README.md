@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. "</i></h5>**
+**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
 
-*<b>___ Jesus ___</b>*
+*<b>___ Yuuji Kazami ___</b>*
 
 -----
 
