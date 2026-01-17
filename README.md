@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
+**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
 
-*<b>___ Nico Yazawa ___</b>*
+*<b>___ Japanese Proverb ___</b>*
 
 -----
 
