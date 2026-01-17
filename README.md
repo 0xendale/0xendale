@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
+**<h5><i>" Life is not measured by the number of breaths we take, but by the moments that take our breath away. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
