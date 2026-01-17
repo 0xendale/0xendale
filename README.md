@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you do what you’ve always done, you’ll get what you’ve always gotten. "</i></h5>**
+**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Tony Robbins ___</b>*
+*<b>___ Shintar Midorima ___</b>*
 
 -----
 
