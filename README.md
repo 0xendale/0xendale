@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do. "</i></h5>**
+**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
 
-*<b>___ Bob Dylan ___</b>*
+*<b>___ Shiroe ___</b>*
 
 -----
 
