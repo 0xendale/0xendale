@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
+**<h5><i>" I refuse to let my fear control me anymore. "</i></h5>**
 
-*<b>___ Alice Walker ___</b>*
+*<b>___ Maka Albarn ___</b>*
 
 -----
 
