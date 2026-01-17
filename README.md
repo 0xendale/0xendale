@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We become what we think about. "</i></h5>**
+**<h5><i>" Eighty percent of success is showing up. "</i></h5>**
 
-*<b>___ Earl Nightingale ___</b>*
+*<b>___ Woody Allen ___</b>*
 
 -----
 
