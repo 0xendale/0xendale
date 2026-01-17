@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either you run the day, or the day runs you. "</i></h5>**
+**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
 
-*<b>___ Jim Rohn ___</b>*
+*<b>___ Seiya Kanie ___</b>*
 
 -----
 
