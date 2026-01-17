@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Eighty percent of success is showing up. "</i></h5>**
+**<h5><i>" It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live. "</i></h5>**
 
-*<b>___ Woody Allen ___</b>*
+*<b>___ Mae Jemison ___</b>*
 
 -----
 
