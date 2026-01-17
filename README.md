@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
+**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
 
-*<b>___ Alibaba Saluja ___</b>*
+*<b>___ Eleanor Roosevelt ___</b>*
 
 -----
 
