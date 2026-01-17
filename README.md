@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever. "</i></h5>**
+**<h5><i>" Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. "</i></h5>**
 
-*<b>___ Hitsugaya Toshiro ___</b>*
+*<b>___ Albert Schweitzer ___</b>*
 
 -----
 
