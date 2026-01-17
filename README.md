@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
+**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
 
-*<b>___ Milly Thompson ___</b>*
+*<b>___ Florence Nightingale ___</b>*
 
 -----
 
