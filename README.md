@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
