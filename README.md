@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
+**<h5><i>" Either you run the day, or the day runs you. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Jim Rohn ___</b>*
 
 -----
 
