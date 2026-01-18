@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The ticket to the future is always open. "</i></h5>**
+**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
 
-*<b>___ Vash The Stampede ___</b>*
+*<b>___ Winston Churchill ___</b>*
 
 -----
 
