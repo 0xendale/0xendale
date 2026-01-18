@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
+**<h5><i>" What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do. "</i></h5>**
 
-*<b>___ Bill Cosby ___</b>*
+*<b>___ Bob Dylan ___</b>*
 
 -----
 
