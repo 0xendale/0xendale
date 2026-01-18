@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you really want to be strong… Stop caring about what your surrounding thinks of you! "</i></h5>**
+**<h5><i>" Everything you’ve ever wanted is on the other side of fear. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ George Addair ___</b>*
 
 -----
 
