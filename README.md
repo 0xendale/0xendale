@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Challenges are what make life interesting and overcoming them is what makes life meaningful. "</i></h5>**
+**<h5><i>" If you can dream it, you can achieve it. "</i></h5>**
 
-*<b>___ Joshua J. Marine ___</b>*
+*<b>___ Zig Ziglar ___</b>*
 
 -----
 
