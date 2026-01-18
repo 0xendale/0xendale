@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Helen Keller ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
