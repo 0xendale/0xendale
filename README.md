@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
+**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Tsunade ___</b>*
 
 -----
 
