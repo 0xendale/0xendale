@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
