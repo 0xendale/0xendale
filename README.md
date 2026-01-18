@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" An unexamined life is not worth living. "</i></h5>**
+**<h5><i>" In order to succeed, your desire for success should be greater than your fear of failure. "</i></h5>**
 
-*<b>___ Socrates ___</b>*
+*<b>___ Bill Cosby ___</b>*
 
 -----
 
