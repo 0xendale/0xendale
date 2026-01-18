@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can’t find a reason to fight, then you shouldn’t be fighting. "</i></h5>**
+**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
 
-*<b>___ Akame ___</b>*
+*<b>___ Ralph Waldo Emerson ___</b>*
 
 -----
 
