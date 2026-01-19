@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you lose sight of your path, listen for the destination in your heart. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Allen Walker ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
