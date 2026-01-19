@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember no one can make you feel inferior without your consent. "</i></h5>**
+**<h5><i>" Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Jamie Paolinetti ___</b>*
 
 -----
 
