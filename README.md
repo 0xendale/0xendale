@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Believe you can and you're halfway there. "</i></h5>**
+**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
 
-*<b>___ Theodore Roosevelt ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
