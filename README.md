@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can fly even higher "</i></h5>**
+**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Miche Zacharius ___</b>*
 
 -----
 
