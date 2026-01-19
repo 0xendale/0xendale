@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Happiness is not something readymade.  It comes from your own actions. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
