@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. "</i></h5>**
+**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
 
-*<b>___ Jamie Paolinetti ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
