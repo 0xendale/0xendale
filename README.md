@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. "</i></h5>**
+**<h5><i>" It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight "</i></h5>**
 
-*<b>___ Erza Scarlet ___</b>*
+*<b>___ Eren ___</b>*
 
 -----
 
