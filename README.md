@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" All we can do is live until the day we die. Control what we can…and fly free. "</i></h5>**
+**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
 
-*<b>___ Deneil Young ___</b>*
+*<b>___ Reiko Mikami ___</b>*
 
 -----
 
