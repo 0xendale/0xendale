@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A place where someone still thinks about you is a place you can call home. "</i></h5>**
+**<h5><i>" You can’t always hold on to the things that are important. By letting them go we gain something else. "</i></h5>**
 
-*<b>___ Jiraiya ___</b>*
+*<b>___ Kunio Yaobi ___</b>*
 
 -----
 
