@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
+**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
 
-*<b>___ Rock Lee ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
