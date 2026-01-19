@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t share someone’s pain, you can never understand them. "</i></h5>**
+**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
 
-*<b>___ Nagato ___</b>*
+*<b>___ Alice Walker ___</b>*
 
 -----
 
