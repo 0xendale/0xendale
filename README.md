@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Too many of us are not living our dreams because we are living our fears. "</i></h5>**
+**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
 
-*<b>___ Les Brown ___</b>*
+*<b>___ Mark Twain ___</b>*
 
 -----
 
