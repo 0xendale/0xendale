@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. "</i></h5>**
+**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
 
-*<b>___ Helen Keller ___</b>*
+*<b>___ Nelson Mandela ___</b>*
 
 -----
 
