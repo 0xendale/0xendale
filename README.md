@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you’re gonna insist on gambling and then complain when you lose, you had better work on your game. "</i></h5>**
+**<h5><i>" Everything you’ve ever wanted is on the other side of fear. "</i></h5>**
 
-*<b>___ Hatsu Kominato ___</b>*
+*<b>___ George Addair ___</b>*
 
 -----
 
