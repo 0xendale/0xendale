@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
+**<h5><i>" Being weak is nothing to be ashamed of… Staying weak is !! "</i></h5>**
 
-*<b>___ Mikasa ___</b>*
+*<b>___ Fuegoleon Vermillion ___</b>*
 
 -----
 
