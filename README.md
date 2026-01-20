@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak is nothing to be ashamed of… Staying weak is !! "</i></h5>**
+**<h5><i>" The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful. "</i></h5>**
 
-*<b>___ Fuegoleon Vermillion ___</b>*
+*<b>___ Roy Mustang ___</b>*
 
 -----
 
