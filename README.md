@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
+**<h5><i>" If you’re gonna insist on gambling and then complain when you lose, you had better work on your game. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Hatsu Kominato ___</b>*
 
 -----
 
