@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Change your thoughts and you change your world. "</i></h5>**
+**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
 
-*<b>___ Norman Vincent Peale ___</b>*
+*<b>___ Sebastian Michaelis ___</b>*
 
 -----
 
