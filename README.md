@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
+**<h5><i>" No matter how hard or impossible it is, never lose sight of your goal. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
