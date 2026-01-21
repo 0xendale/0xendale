@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
+**<h5><i>" You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground. "</i></h5>**
 
-*<b>___ Japanese Proverb ___</b>*
+*<b>___ Unknown ___</b>*
 
 -----
 
