@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you’re gonna insist on gambling and then complain when you lose, you had better work on your game. "</i></h5>**
+**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
 
-*<b>___ Hatsu Kominato ___</b>*
+*<b>___ Renton Thurston ___</b>*
 
 -----
 
