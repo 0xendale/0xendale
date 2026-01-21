@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being lonely is more painful then getting hurt. "</i></h5>**
+**<h5><i>" If you can dream it, you can achieve it. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Zig Ziglar ___</b>*
 
 -----
 
