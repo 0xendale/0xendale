@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
+**<h5><i>" It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Grimsley ___</b>*
 
 -----
 
