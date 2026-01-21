@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you begin to regret, you’ll dull your future decisions and let others make your choices for you. All that’s left for you then is to die. Nobody can foretell the outcome. Each decision you make holds meaning only by affecting your next decision. "</i></h5>**
+**<h5><i>" The last ones standing are the victors Only the strongest If you want to be the last one standing become strong "</i></h5>**
 
-*<b>___ Erwin Smith ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
