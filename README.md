@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
+**<h5><i>" Fall seven times and stand up eight. "</i></h5>**
 
-*<b>___ Renton Thurston ___</b>*
+*<b>___ Japanese Proverb ___</b>*
 
 -----
 
