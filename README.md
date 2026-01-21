@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
+**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Renton Thurston ___</b>*
+*<b>___ Shintar Midorima ___</b>*
 
 -----
 
