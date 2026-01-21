@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
+**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Erica Jong ___</b>*
 
 -----
 
