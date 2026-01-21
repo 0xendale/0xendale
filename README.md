@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The last ones standing are the victors Only the strongest If you want to be the last one standing become strong "</i></h5>**
+**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
 
 -----
 
