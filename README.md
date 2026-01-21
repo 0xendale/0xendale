@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
+**<h5><i>" I have learned over the years that when one’s mind is made up, this diminishes fear. "</i></h5>**
 
-*<b>___ George Eliot ___</b>*
+*<b>___ Rosa Parks ___</b>*
 
 -----
 
