@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" In the middle of every difficulty lies opportunity. "</i></h5>**
+**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
 
-*<b>___ Albert Einstein ___</b>*
+*<b>___ Princess Lenessia ___</b>*
 
 -----
 
