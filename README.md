@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Lao Tzu ___</b>*
 
 -----
 
