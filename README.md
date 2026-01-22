@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Giving up kills people. When people reject giving up… they finally win the right to transcend humanity. "</i></h5>**
+**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
 
-*<b>___ Alucard ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
 
 -----
 
