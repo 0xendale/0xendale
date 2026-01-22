@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ll leave tomorrow’s problems to tomorrow’s me. "</i></h5>**
+**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
 
-*<b>___ Saitama ___</b>*
+*<b>___ Rock Lee ___</b>*
 
 -----
 
