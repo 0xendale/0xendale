@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must balance conspicuous consumption with conscious capitalism. "</i></h5>**
+**<h5><i>" Being weak is nothing to be ashamed of… Staying weak is !! "</i></h5>**
 
-*<b>___ Kevin Kruse ___</b>*
+*<b>___ Fuegoleon Vermillion ___</b>*
 
 -----
 
