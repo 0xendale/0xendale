@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything you’ve ever wanted is on the other side of fear. "</i></h5>**
+**<h5><i>" Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. "</i></h5>**
 
-*<b>___ George Addair ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
