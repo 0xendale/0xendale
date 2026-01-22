@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I have learned over the years that when one’s mind is made up, this diminishes fear. "</i></h5>**
+**<h5><i>" You can’t always hold on to the things that are important. By letting them go we gain something else. "</i></h5>**
 
-*<b>___ Rosa Parks ___</b>*
+*<b>___ Kunio Yaobi ___</b>*
 
 -----
 
