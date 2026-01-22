@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. "</i></h5>**
+**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
 
-*<b>___ Marie Curie ___</b>*
+*<b>___ Natsu Dragneel ___</b>*
 
 -----
 
