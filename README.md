@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
 
-*<b>___ Kenshin Himura ___</b>*
+*<b>___ Aristotle ___</b>*
 
 -----
 
