@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference. "</i></h5>**
+**<h5><i>" Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. "</i></h5>**
 
-*<b>___ Robert Frost ___</b>*
+*<b>___ Yato ___</b>*
 
 -----
 
