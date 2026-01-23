@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
+**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
 
-*<b>___ Seiya Kanie ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
