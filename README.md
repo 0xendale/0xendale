@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
+**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Seiya Kanie ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
