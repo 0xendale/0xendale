@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You become what you believe. "</i></h5>**
+**<h5><i>" If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Sheryl Sandberg ___</b>*
 
 -----
 
