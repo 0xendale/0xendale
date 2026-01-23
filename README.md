@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
+**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Erica Jong ___</b>*
 
 -----
 
