@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
+**<h5><i>" If you wanna make people dream, you’ve gotta start by believing in that dream yourself! "</i></h5>**
 
-*<b>___ Tsunade ___</b>*
+*<b>___ Seiya Kanie ___</b>*
 
 -----
 
