@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" That’s why I can’t make a change. Everything I do is so… Half-assed. "</i></h5>**
+**<h5><i>" The person who says it cannot be done should not interrupt the person who is doing it. "</i></h5>**
 
-*<b>___ Hiroshi Kido ___</b>*
+*<b>___ Chinese Proverb ___</b>*
 
 -----
 
