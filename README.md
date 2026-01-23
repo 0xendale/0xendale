@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___ Milly Thompson ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
