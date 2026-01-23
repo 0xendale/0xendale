@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People, who can’t throw something important away, can never hope to change anything. "</i></h5>**
+**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Steve Jobs ___</b>*
 
 -----
 
