@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You miss 100% of the shots you don’t take. "</i></h5>**
+**<h5><i>" If you do what you’ve always done, you’ll get what you’ve always gotten. "</i></h5>**
 
-*<b>___ Wayne Gretzky ___</b>*
+*<b>___ Tony Robbins ___</b>*
 
 -----
 
