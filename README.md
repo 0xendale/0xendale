@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
+**<h5><i>" Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference. "</i></h5>**
 
-*<b>___ Grandma Moses ___</b>*
+*<b>___ Robert Frost ___</b>*
 
 -----
 
