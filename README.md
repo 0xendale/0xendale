@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. "</i></h5>**
+**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
 
-*<b>___ Yato ___</b>*
+*<b>___ Milly Thompson ___</b>*
 
 -----
 
