@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. "</i></h5>**
+**<h5><i>" Every strike brings me closer to the next home run. "</i></h5>**
 
-*<b>___ Jamie Paolinetti ___</b>*
+*<b>___ Babe Ruth ___</b>*
 
 -----
 
