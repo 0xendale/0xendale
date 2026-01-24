@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
+**<h5><i>" The question isn’t who is going to let me; it’s who is going to stop me. "</i></h5>**
 
-*<b>___ Florence Nightingale ___</b>*
+*<b>___ Ayn Rand ___</b>*
 
 -----
 
