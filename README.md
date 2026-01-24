@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can dream it, you can achieve it. "</i></h5>**
+**<h5><i>" Being weak means that there is room to grow "</i></h5>**
 
-*<b>___ Zig Ziglar ___</b>*
+*<b>___ Ittetsu Takeda ___</b>*
 
 -----
 
