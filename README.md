@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People who can’t throw something important away, can never hope to change anything. "</i></h5>**
+**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
 
-*<b>___ Armin Arlelt ___</b>*
+*<b>___ Himura Kenshin ___</b>*
 
 -----
 
