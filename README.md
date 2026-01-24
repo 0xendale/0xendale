@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
+**<h5><i>" The best revenge is massive success. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Frank Sinatra ___</b>*
 
 -----
 
