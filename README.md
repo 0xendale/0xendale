@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
+**<h5><i>" You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground. "</i></h5>**
 
-*<b>___ Kenshin Himura ___</b>*
+*<b>___ Unknown ___</b>*
 
 -----
 
