@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Every strike brings me closer to the next home run. "</i></h5>**
+**<h5><i>" Dreaming, after all, is a form of planning. "</i></h5>**
 
-*<b>___ Babe Ruth ___</b>*
+*<b>___ Gloria Steinem ___</b>*
 
 -----
 
