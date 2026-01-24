@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. "</i></h5>**
+**<h5><i>" Life isn’t about getting and having, it’s about giving and being. "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Kevin Kruse ___</b>*
 
 -----
 
