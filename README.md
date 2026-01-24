@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The question isn’t who is going to let me; it’s who is going to stop me. "</i></h5>**
+**<h5><i>" It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. "</i></h5>**
 
-*<b>___ Ayn Rand ___</b>*
+*<b>___ Might Guy ___</b>*
 
 -----
 
