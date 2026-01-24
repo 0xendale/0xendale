@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight "</i></h5>**
+**<h5><i>" Strive not to be a success, but rather to be of value. "</i></h5>**
 
-*<b>___ Eren ___</b>*
+*<b>___ Albert Einstein ___</b>*
 
 -----
 
