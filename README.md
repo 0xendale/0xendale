@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
+**<h5><i>" Believe you can and you’re halfway there. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Theodore Roosevelt ___</b>*
 
 -----
 
