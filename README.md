@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Johann Wolfgang von Goethe ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
