@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. "</i></h5>**
+**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
 
-*<b>___ Gilgamesh ___</b>*
+*<b>___ Shintar Midorima ___</b>*
 
 -----
 
