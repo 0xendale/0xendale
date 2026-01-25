@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. "</i></h5>**
+**<h5><i>" It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. "</i></h5>**
 
-*<b>___ Erma Bombeck ___</b>*
+*<b>___ Might Guy ___</b>*
 
 -----
 
