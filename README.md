@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. "</i></h5>**
 
-*<b>___ Shintar Midorima ___</b>*
+*<b>___ Booker T. Washington ___</b>*
 
 -----
 
