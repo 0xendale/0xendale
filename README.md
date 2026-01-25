@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak is nothing to be ashamed of… Staying weak is !! "</i></h5>**
+**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
 
-*<b>___ Fuegoleon Vermillion ___</b>*
+*<b>___ John Lennon ___</b>*
 
 -----
 
