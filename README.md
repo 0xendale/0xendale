@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Junichirou Kagami ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
