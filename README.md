@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
+**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Keiichi Maebara ___</b>*
 
 -----
 
