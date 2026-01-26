@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
+**<h5><i>" Every journey begins with a single step. We just have to have patience. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Milly Thompson ___</b>*
 
 -----
 
