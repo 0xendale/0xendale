@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Nothing is impossible, the word itself says, “I’m possible!” "</i></h5>**
+**<h5><i>" The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful. "</i></h5>**
 
-*<b>___ –Audrey Hepburn ___</b>*
+*<b>___ Roy Mustang ___</b>*
 
 -----
 
