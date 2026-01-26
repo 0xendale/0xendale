@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you want to lift yourself up, lift up someone else. "</i></h5>**
+**<h5><i>" When you give up, that’s when the game ends. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Mitsuyoshi Anzai ___</b>*
 
 -----
 
