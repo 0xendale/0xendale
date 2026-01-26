@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful. "</i></h5>**
+**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
 
-*<b>___ Roy Mustang ___</b>*
+*<b>___ Monkey D Luffy ___</b>*
 
 -----
 
