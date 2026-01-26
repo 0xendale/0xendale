@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Forgetting is like a wound. The wound may heal, but it has already left a scar. "</i></h5>**
+**<h5><i>" Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Gilgamesh ___</b>*
 
 -----
 
