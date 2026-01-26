@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
+**<h5><i>" An excellent leader must be passionate because it’s their duty to keep everyone moving forward. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___ Nico Yazawa ___</b>*
 
 -----
 
