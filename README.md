@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
+**<h5><i>" Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. "</i></h5>**
 
-*<b>___ Lao Tzu ___</b>*
+*<b>___ Miss Kobayashi ___</b>*
 
 -----
 
