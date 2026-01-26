@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The greatest glory in living lies not in never falling, but in rising every time we fall. "</i></h5>**
+**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
 
-*<b>___ Nelson Mandela ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
