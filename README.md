@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Definiteness of purpose is the starting point of all achievement. "</i></h5>**
+**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
 
-*<b>___ W. Clement Stone ___</b>*
+*<b>___ Winston Churchill ___</b>*
 
 -----
 
