@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Success is not final, failure is not fatal: It is the courage to continue that counts. "</i></h5>**
+**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
 
-*<b>___ Winston Churchill ___</b>*
+*<b>___ Lao Tzu ___</b>*
 
 -----
 
