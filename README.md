@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" This World Is Cruel And It s Also Very Beautiful "</i></h5>**
+**<h5><i>" Eighty percent of success is showing up. "</i></h5>**
 
-*<b>___ Mikasa ___</b>*
+*<b>___ Woody Allen ___</b>*
 
 -----
 
