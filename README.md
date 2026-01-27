@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The future belongs to those who believe in the beauty of their dreams. "</i></h5>**
+**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
 
-*<b>___ Eleanor Roosevelt ___</b>*
+*<b>___ Benjamin Franklin ___</b>*
 
 -----
 
