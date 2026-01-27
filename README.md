@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You miss 100% of the shots you don’t take. "</i></h5>**
+**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
 
-*<b>___ Wayne Gretzky ___</b>*
+*<b>___ Reiko Mikami ___</b>*
 
 -----
 
