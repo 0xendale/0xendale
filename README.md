@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
+**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
 
-*<b>___ Renton Thurston ___</b>*
+*<b>___ Grandma Moses ___</b>*
 
 -----
 
