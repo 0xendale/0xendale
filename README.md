@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you! "</i></h5>**
+**<h5><i>" You can’t use up creativity.  The more you use, the more you have. "</i></h5>**
 
-*<b>___ Son Goku ___</b>*
+*<b>___ Maya Angelou ___</b>*
 
 -----
 
