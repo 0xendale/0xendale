@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
+**<h5><i>" Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. "</i></h5>**
 
-*<b>___ Arthur Ashe ___</b>*
+*<b>___ Sebastian Michaelis ___</b>*
 
 -----
 
