@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t always hold on to the things that are important. By letting them go we gain something else. "</i></h5>**
+**<h5><i>" Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. "</i></h5>**
 
-*<b>___ Kunio Yaobi ___</b>*
+*<b>___ Jesus ___</b>*
 
 -----
 
