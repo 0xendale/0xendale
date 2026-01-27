@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only way to do great work is to love what you do. "</i></h5>**
+**<h5><i>" A person who never made a mistake never tried anything new. "</i></h5>**
 
-*<b>___ Steve Jobs ___</b>*
+*<b>___  Albert Einstein ___</b>*
 
 -----
 
