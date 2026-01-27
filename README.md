@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You should never give up on life, no matter how you feel. No matter how badly you want to give up. "</i></h5>**
+**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
 
-*<b>___ Canaan ___</b>*
+*<b>___ Vincent Van Gogh ___</b>*
 
 -----
 
