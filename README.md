@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is not a game of luck. If you wanna win, work hard. "</i></h5>**
+**<h5><i>" A place where someone still thinks about you is a place you can call home. "</i></h5>**
 
-*<b>___ Sora ___</b>*
+*<b>___ Jiraiya ___</b>*
 
 -----
 
