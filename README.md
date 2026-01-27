@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
+**<h5><i>" It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Might Guy ___</b>*
 
 -----
 
