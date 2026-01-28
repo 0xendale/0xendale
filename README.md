@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Today might be the chance to grasp the chance to let your talent bloom "</i></h5>**
+**<h5><i>" Thinking you’re no-good and worthless is the worst thing you can do "</i></h5>**
 
-*<b>___ Tooru Oikawa ___</b>*
+*<b>___ Nobito ___</b>*
 
 -----
 
