@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The last ones standing are the victors Only the strongest If you want to be the last one standing become strong "</i></h5>**
+**<h5><i>" I have learned over the years that when one’s mind is made up, this diminishes fear. "</i></h5>**
 
-*<b>___ Tobio Kageyama ___</b>*
+*<b>___ Rosa Parks ___</b>*
 
 -----
 
