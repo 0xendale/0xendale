@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Being weak means that there is room to grow "</i></h5>**
+**<h5><i>" Life is what we make it, always has been, always will be. "</i></h5>**
 
-*<b>___ Ittetsu Takeda ___</b>*
+*<b>___ Grandma Moses ___</b>*
 
 -----
 
