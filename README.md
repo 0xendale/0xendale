@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey. "</i></h5>**
+**<h5><i>" Do what you can, where you are, with what you have. "</i></h5>**
 
-*<b>___ Hinata Miyake ___</b>*
+*<b>___ Teddy Roosevelt ___</b>*
 
 -----
 
