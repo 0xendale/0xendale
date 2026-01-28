@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Build your own dreams, or someone else will hire you to build theirs. "</i></h5>**
+**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
 
-*<b>___ Farrah Gray ___</b>*
+*<b>___ Abraham Lincoln ___</b>*
 
 -----
 
