@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dream big and dare to fail. "</i></h5>**
+**<h5><i>" Being the best decoy ever is as cool as being the ace "</i></h5>**
 
-*<b>___ Norman Vaughan ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
