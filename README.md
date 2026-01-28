@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
+**<h5><i>" You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. "</i></h5>**
 
-*<b>___ Alice Walker ___</b>*
+*<b>___ Junichirou Kagami ___</b>*
 
 -----
 
