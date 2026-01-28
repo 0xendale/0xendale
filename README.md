@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. "</i></h5>**
+**<h5><i>" The question isn’t who is going to let me; it’s who is going to stop me. "</i></h5>**
 
-*<b>___ Booker T. Washington ___</b>*
+*<b>___ Ayn Rand ___</b>*
 
 -----
 
