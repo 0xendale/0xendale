@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s not the years in your life that count. It’s the life in your years. "</i></h5>**
+**<h5><i>" Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever! "</i></h5>**
 
-*<b>___ Abraham Lincoln ___</b>*
+*<b>___ Izuku Midoriya ___</b>*
 
 -----
 
