@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
+**<h5><i>" You can never cross the ocean until you have the courage to lose sight of the shore. "</i></h5>**
 
-*<b>___ Alibaba Saluja ___</b>*
+*<b>___ Christopher Columbus ___</b>*
 
 -----
 
