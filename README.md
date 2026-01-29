@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Build your own dreams, or someone else will hire you to build theirs. "</i></h5>**
+**<h5><i>" People who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Farrah Gray ___</b>*
+*<b>___ Armin Arlelt ___</b>*
 
 -----
 
