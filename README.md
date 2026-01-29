@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whether you think you can or you think you can’t, you’re right. "</i></h5>**
+**<h5><i>" The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful. "</i></h5>**
 
-*<b>___ Henry Ford ___</b>*
+*<b>___ Roy Mustang ___</b>*
 
 -----
 
