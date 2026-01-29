@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. "</i></h5>**
+**<h5><i>" If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity "</i></h5>**
 
-*<b>___ Vincent Van Gogh ___</b>*
+*<b>___ Armin Arlert ___</b>*
 
 -----
 
