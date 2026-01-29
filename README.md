@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When you lose sight of your path, listen for the destination in your heart. "</i></h5>**
+**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
 
-*<b>___ Allen Walker ___</b>*
+*<b>___ Renton Thurston ___</b>*
 
 -----
 
