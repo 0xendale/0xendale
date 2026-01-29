@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t beg for things. Do it yourself, or else you won’t get anything. "</i></h5>**
+**<h5><i>" It is never too late to be what you might have been. "</i></h5>**
 
-*<b>___ Renton Thurston ___</b>*
+*<b>___ George Eliot ___</b>*
 
 -----
 
