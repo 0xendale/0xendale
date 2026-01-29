@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t take risks, you can’t create a future! "</i></h5>**
+**<h5><i>" It is at the moment of death that humanity has value. "</i></h5>**
 
-*<b>___ Monkey D Luffy ___</b>*
+*<b>___ Archer ___</b>*
 
 -----
 
