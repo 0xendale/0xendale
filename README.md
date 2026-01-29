@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s just pathetic to give up on something before you even give it a shot. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Reiko Mikami ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
