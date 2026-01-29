@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People who can’t throw something important away, can never hope to change anything. "</i></h5>**
+**<h5><i>" We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today! "</i></h5>**
 
-*<b>___ Armin Arlelt ___</b>*
+*<b>___ Natsu Dragneel ___</b>*
 
 -----
 
