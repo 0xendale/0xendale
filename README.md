@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. "</i></h5>**
+**<h5><i>" A dropout will beat a genius through hard work. "</i></h5>**
 
-*<b>___ Maya Angelou ___</b>*
+*<b>___ Rock Lee ___</b>*
 
 -----
 
