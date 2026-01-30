@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
+**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
 
-*<b>___ Lao Tzu ___</b>*
+*<b>___ Yuuji Kazami ___</b>*
 
 -----
 
