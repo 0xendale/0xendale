@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The only person you are destined to become is the person you decide to be. "</i></h5>**
+**<h5><i>" Giving up kills people. When people reject giving up… they finally win the right to transcend humanity. "</i></h5>**
 
-*<b>___ Ralph Waldo Emerson ___</b>*
+*<b>___ Alucard ___</b>*
 
 -----
 
