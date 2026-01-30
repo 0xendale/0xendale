@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can die anytime, but living takes true courage. "</i></h5>**
+**<h5><i>" Vision is not what your eyes see, but an image that your brain comprehends. "</i></h5>**
 
-*<b>___ Himura Kenshin ___</b>*
+*<b>___ Touko Aozaki ___</b>*
 
 -----
 
