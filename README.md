@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today! "</i></h5>**
+**<h5><i>" Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? "</i></h5>**
 
-*<b>___ Natsu Dragneel ___</b>*
+*<b>___ Yuuji Kazami ___</b>*
 
 -----
 
