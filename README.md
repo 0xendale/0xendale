@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. "</i></h5>**
+**<h5><i>" When I let go of what I am, I become what I might be. "</i></h5>**
 
-*<b>___ Naruto Uzumaki ___</b>*
+*<b>___ Lao Tzu ___</b>*
 
 -----
 
