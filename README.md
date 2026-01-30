@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Teach thy tongue to say, “I do not know,” and thous shalt progress. "</i></h5>**
+**<h5><i>" If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward "</i></h5>**
 
-*<b>___ Maimonides ___</b>*
+*<b>___ Tobio Kageyama ___</b>*
 
 -----
 
