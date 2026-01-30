@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dreaming, after all, is a form of planning. "</i></h5>**
+**<h5><i>" Go confidently in the direction of your dreams.  Live the life you have imagined. "</i></h5>**
 
-*<b>___ Gloria Steinem ___</b>*
+*<b>___ Henry David Thoreau ___</b>*
 
 -----
 
