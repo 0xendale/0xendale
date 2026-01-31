@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
+**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Nico Robin ___</b>*
 
 -----
 
