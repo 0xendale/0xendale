@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity "</i></h5>**
+**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
 
-*<b>___ Armin Arlert ___</b>*
+*<b>___ Napoleon Hill ___</b>*
 
 -----
 
