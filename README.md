@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground. "</i></h5>**
+**<h5><i>" Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. "</i></h5>**
 
-*<b>___ Unknown ___</b>*
+*<b>___ Albert Schweitzer ___</b>*
 
 -----
 
