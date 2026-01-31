@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The ticket to the future is always open. "</i></h5>**
+**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
 
-*<b>___ Vash The Stampede ___</b>*
+*<b>___ Keiichi Maebara ___</b>*
 
 -----
 
