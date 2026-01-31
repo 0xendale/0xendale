@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about. "</i></h5>**
+**<h5><i>" Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. "</i></h5>**
 
-*<b>___ Jet Black ___</b>*
+*<b>___ Erza Scarlet ___</b>*
 
 -----
 
