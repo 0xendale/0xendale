@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
+**<h5><i>" People who can’t throw something important away, can never hope to change anything. "</i></h5>**
 
-*<b>___ Keiichi Maebara ___</b>*
+*<b>___ Armin Arlelt ___</b>*
 
 -----
 
