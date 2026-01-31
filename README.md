@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Dream big and dare to fail. "</i></h5>**
+**<h5><i>" Fools who don’t respect the past are likely to repeat it. "</i></h5>**
 
-*<b>___ Norman Vaughan ___</b>*
+*<b>___ Nico Robin ___</b>*
 
 -----
 
