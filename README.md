@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. "</i></h5>**
+**<h5><i>" You take your life in your own hands, and what happens? A terrible thing, no one to blame. "</i></h5>**
 
-*<b>___ Mavis Vermillion ___</b>*
+*<b>___ Erica Jong ___</b>*
 
 -----
 
