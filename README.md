@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The two most important days in your life are the day you are born and the day you find out why. "</i></h5>**
+**<h5><i>" Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. "</i></h5>**
 
-*<b>___ Mark Twain ___</b>*
+*<b>___ Paine ___</b>*
 
 -----
 
