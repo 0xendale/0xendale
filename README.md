@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
+**<h5><i>" The only limit to our realization of tomorrow will be our doubts of today. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
 
 -----
 
