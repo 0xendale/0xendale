@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I attribute my success to this: I never gave or took any excuse. "</i></h5>**
+**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
 
-*<b>___ Florence Nightingale ___</b>*
+*<b>___ Amelia Earhart ___</b>*
 
 -----
 
