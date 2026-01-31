@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I refuse to let my fear control me anymore. "</i></h5>**
+**<h5><i>" Dream big and dare to fail. "</i></h5>**
 
-*<b>___ Maka Albarn ___</b>*
+*<b>___ Norman Vaughan ___</b>*
 
 -----
 
