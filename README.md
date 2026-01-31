@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" People become stronger because they have memories they can’t forget. "</i></h5>**
+**<h5><i>" The ticket to the future is always open. "</i></h5>**
 
-*<b>___ Tsunade ___</b>*
+*<b>___ Vash The Stampede ___</b>*
 
 -----
 
