@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" As Long As We Continue To Fight We Are Not Defeated "</i></h5>**
+**<h5><i>" Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. "</i></h5>**
 
-*<b>___ Miche Zacharius ___</b>*
+*<b>___ Jamie Paolinetti ___</b>*
 
 -----
 
