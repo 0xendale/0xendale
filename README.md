@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The moment you think of giving up, think of the reason why you held on so long. "</i></h5>**
+**<h5><i>" The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at. "</i></h5>**
 
-*<b>___ Natsu Dragneel ___</b>*
+*<b>___ Jesse Owens ___</b>*
 
 -----
 
