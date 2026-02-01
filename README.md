@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ Julis Alexia Van Riessfeld ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
