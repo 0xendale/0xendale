@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. "</i></h5>**
+**<h5><i>" To act is not necessarily compassion. True compassion sometimes comes from inaction. "</i></h5>**
 
-*<b>___ Gildarts Clive ___</b>*
+*<b>___ Hinata Miyake ___</b>*
 
 -----
 
