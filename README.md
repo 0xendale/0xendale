@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most difficult thing is the decision to act, the rest is merely tenacity. "</i></h5>**
+**<h5><i>" I want you to be happy. I want you to laugh a lot. I don’t know what exactly I’ll be able to do for you, but I’ll always be by your side. "</i></h5>**
 
-*<b>___ Amelia Earhart ___</b>*
+*<b>___ Kagome ___</b>*
 
 -----
 
