@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live. "</i></h5>**
+**<h5><i>" If you just submit yourself to fate, then that’s the end of it. "</i></h5>**
 
-*<b>___ Mae Jemison ___</b>*
+*<b>___ Keiichi Maebara ___</b>*
 
 -----
 
