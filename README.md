@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
+**<h5><i>" Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. "</i></h5>**
 
-*<b>___ Alibaba Saluja ___</b>*
+*<b>___ Gildarts Clive ___</b>*
 
 -----
 
