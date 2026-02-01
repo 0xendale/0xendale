@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Either write something worth reading or do something worth writing. "</i></h5>**
+**<h5><i>" Hard work is worthless for those that don’t believe in themselves. "</i></h5>**
 
-*<b>___ Benjamin Franklin ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
