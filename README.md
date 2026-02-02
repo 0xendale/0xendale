@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Life is what happens to you while you’re busy making other plans. "</i></h5>**
+**<h5><i>" If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. "</i></h5>**
 
-*<b>___ John Lennon ___</b>*
+*<b>___ Alibaba Saluja ___</b>*
 
 -----
 
