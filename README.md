@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you can dream it, you can achieve it. "</i></h5>**
+**<h5><i>" If you can’t do something, then don’t. Focus on what you can do. "</i></h5>**
 
-*<b>___ Zig Ziglar ___</b>*
+*<b>___ Shiroe ___</b>*
 
 -----
 
