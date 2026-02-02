@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on. "</i></h5>**
+**<h5><i>" I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. "</i></h5>**
 
-*<b>___ Sheryl Sandberg ___</b>*
+*<b>___ Leonardo da Vinci ___</b>*
 
 -----
 
