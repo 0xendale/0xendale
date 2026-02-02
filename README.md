@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
+**<h5><i>" If you don’t like your destiny, don’t accept it. "</i></h5>**
 
-*<b>___ Alice Walker ___</b>*
+*<b>___ Naruto Uzumaki ___</b>*
 
 -----
 
