@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Whatever the mind of man can conceive and believe, it can achieve. "</i></h5>**
+**<h5><i>" The most common way people give up their power is by thinking they don’t have any. "</i></h5>**
 
-*<b>___ Napoleon Hill ___</b>*
+*<b>___ Alice Walker ___</b>*
 
 -----
 
