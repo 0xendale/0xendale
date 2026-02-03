@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Protecting someone means giving them a place to belong. Giving them a place where they can be happy. "</i></h5>**
+**<h5><i>" Start where you are. Use what you have.  Do what you can. "</i></h5>**
 
-*<b>___ Princess Lenessia ___</b>*
+*<b>___ Arthur Ashe ___</b>*
 
 -----
 
