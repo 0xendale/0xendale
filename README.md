@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Change your thoughts and you change your world. "</i></h5>**
+**<h5><i>" There is only one way to avoid criticism: do nothing, say nothing, and be nothing. "</i></h5>**
 
-*<b>___ Norman Vincent Peale ___</b>*
+*<b>___ Aristotle ___</b>*
 
 -----
 
