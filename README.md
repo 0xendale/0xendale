@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! "</i></h5>**
+**<h5><i>" If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough. "</i></h5>**
 
-*<b>___ Haruhi Fujioka ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
 
 -----
 
