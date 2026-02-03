@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You re Gonna Care What Other People Think And Be Someone You re Not Your Whole Life You re Fine As You Are So Talk In Your Own Words "</i></h5>**
+**<h5><i>" Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. "</i></h5>**
 
-*<b>___ Ymir ___</b>*
+*<b>___ Gildarts Clive ___</b>*
 
 -----
 
