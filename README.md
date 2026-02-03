@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Remember that not getting what you want is sometimes a wonderful stroke of luck. "</i></h5>**
+**<h5><i>" There are some flowers you only see when you take detours "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Tanaka Saeko ___</b>*
 
 -----
 
