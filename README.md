@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Reject common sense to make the impossible possible. "</i></h5>**
+**<h5><i>" The only limit to our realization of tomorrow will be our doubts of today. "</i></h5>**
 
-*<b>___ Simon ___</b>*
+*<b>___ Franklin D. Roosevelt ___</b>*
 
 -----
 
