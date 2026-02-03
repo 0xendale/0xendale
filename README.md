@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" There are some flowers you only see when you take detours "</i></h5>**
+**<h5><i>" If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! "</i></h5>**
 
-*<b>___ Tanaka Saeko ___</b>*
+*<b>___ Haruhi Fujioka ___</b>*
 
 -----
 
