@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" We are always complaining that our days are few, and acting as though there would be no end of them.   "</i></h5>**
+**<h5><i>" Honesty is the first chapter in the book of wisdom. "</i></h5>**
 
-*<b>___ Seneca ___</b>*
+*<b>___ Thomas Jefferson ___</b>*
 
 -----
 
