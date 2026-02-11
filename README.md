@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Unhappiness enters through a door that has been left open. "</i></h5>**
+**<h5><i>" The right thing to do and the hard thing to do are usually the same. "</i></h5>**
 
-*<b>___ Zen Proverb ___</b>*
+*<b>___ Steve Maraboli ___</b>*
 
 -----
 
