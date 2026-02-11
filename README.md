@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Always turn a negative situation into a positive situation. "</i></h5>**
+**<h5><i>" Choose to be optimistic, it feels better. "</i></h5>**
 
-*<b>___ Michael Jordan ___</b>*
+*<b>___ Dalai Lama ___</b>*
 
 -----
 
