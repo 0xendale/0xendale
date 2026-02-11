@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Luck is a matter of preparation meeting opportunity. "</i></h5>**
+**<h5><i>" Everybody has talent, but ability takes hard work. "</i></h5>**
 
-*<b>___ Oprah Winfrey ___</b>*
+*<b>___ Michael Jordan ___</b>*
 
 -----
 
