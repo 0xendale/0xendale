@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" What you seek is seeking you. "</i></h5>**
+**<h5><i>" Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable. "</i></h5>**
 
-*<b>___ Rumi ___</b>*
+*<b>___ Bhagavad Gita ___</b>*
 
 -----
 
