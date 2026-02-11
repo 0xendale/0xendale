@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Choose to be optimistic, it feels better. "</i></h5>**
+**<h5><i>" What you seek is seeking you. "</i></h5>**
 
-*<b>___ Dalai Lama ___</b>*
+*<b>___ Rumi ___</b>*
 
 -----
 
