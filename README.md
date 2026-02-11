@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The right thing to do and the hard thing to do are usually the same. "</i></h5>**
+**<h5><i>" If your mind is empty, it is always ready for anything, it is open to everything. "</i></h5>**
 
-*<b>___ Steve Maraboli ___</b>*
+*<b>___ Shunryu Suzuki ___</b>*
 
 -----
 
