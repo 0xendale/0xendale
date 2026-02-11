@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" He who wishes to be obeyed must know how to command. "</i></h5>**
+**<h5><i>" Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories. "</i></h5>**
 
-*<b>___ Niccolo Machiavelli ___</b>*
+*<b>___ Ray Bradbury ___</b>*
 
 -----
 
