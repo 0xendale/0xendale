@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. "</i></h5>**
+**<h5><i>" Learning is a gift, even when pain is your teacher. "</i></h5>**
 
-*<b>___ Jiddu Krishnamurti ___</b>*
+*<b>___ Michael Jordan ___</b>*
 
 -----
 
