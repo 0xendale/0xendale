@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Honesty is the first chapter in the book of wisdom. "</i></h5>**
+**<h5><i>" The roots of education are bitter, but the fruit is sweet. "</i></h5>**
 
-*<b>___ Thomas Jefferson ___</b>*
+*<b>___ Aristotle ___</b>*
 
 -----
 
