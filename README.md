@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you aren't sure which way to do something, do it both ways and see which works better. "</i></h5>**
+**<h5><i>" If you want more luck, take more chances. "</i></h5>**
 
-*<b>___ John Carmack ___</b>*
+*<b>___ Brian Tracy ___</b>*
 
 -----
 
