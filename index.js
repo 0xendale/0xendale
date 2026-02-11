@@ -9,9 +9,12 @@ async function main() {
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
     ).toString("utf-8");
 
-    const quote = await (
-        await fetch("https://quotes-api-self.vercel.app/quote")
-    ).json();
+    const response = await fetch("https://zenquotes.io/api/random");
+    const data = await response.json();
+    const quote = {
+        quote: data[0].q,
+        author: data[0].a
+    };
 
     const readme = readmeTemplate
         .replace("{__quote}", `" ${quote?.quote} "`)
