@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The less you respond to negative people, the more positive your life will become. "</i></h5>**
+**<h5><i>" It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. "</i></h5>**
 
-*<b>___ Paulo Coelho ___</b>*
+*<b>___ Jiddu Krishnamurti ___</b>*
 
 -----
 
