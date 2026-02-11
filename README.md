@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Don’t give up, there’s no shame in falling down! True shame is to not stand up again! "</i></h5>**
+**<h5><i>" Mistake is a mistake only if you make it twice. "</i></h5>**
 
-*<b>___ Shintaro Midorima ___</b>*
+*<b>___ Robin Sharma ___</b>*
 
 -----
 
