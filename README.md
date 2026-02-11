@@ -17,7 +17,7 @@
 
 -----
 
-**<h5><i>" Motivation is what gets you started. Habit is what keeps you going. "</i></h5>**
+**<h5><i>" You must either modify your dreams or magnify your skills. "</i></h5>**
 
 *<b>___ Jim Rohn ___</b>*
 
