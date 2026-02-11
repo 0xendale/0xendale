@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If your mind is empty, it is always ready for anything, it is open to everything. "</i></h5>**
+**<h5><i>" Motivation is what gets you started. Habit is what keeps you going. "</i></h5>**
 
-*<b>___ Shunryu Suzuki ___</b>*
+*<b>___ Jim Rohn ___</b>*
 
 -----
 
