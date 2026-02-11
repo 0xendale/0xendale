@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Learning is a gift, even when pain is your teacher. "</i></h5>**
+**<h5><i>" Luck is a matter of preparation meeting opportunity. "</i></h5>**
 
-*<b>___ Michael Jordan ___</b>*
+*<b>___ Oprah Winfrey ___</b>*
 
 -----
 
