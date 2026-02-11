@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" You must either modify your dreams or magnify your skills. "</i></h5>**
+**<h5><i>" We are always complaining that our days are few, and acting as though there would be no end of them.   "</i></h5>**
 
-*<b>___ Jim Rohn ___</b>*
+*<b>___ Seneca ___</b>*
 
 -----
 
