@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everything eaten is killed. Every meal is a sacrifice. "</i></h5>**
+**<h5><i>" He who wishes to be obeyed must know how to command. "</i></h5>**
 
-*<b>___ Adi Da Samraj ___</b>*
+*<b>___ Niccolo Machiavelli ___</b>*
 
 -----
 
