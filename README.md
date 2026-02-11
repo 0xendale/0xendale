@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable. "</i></h5>**
+**<h5><i>" If you aren't sure which way to do something, do it both ways and see which works better. "</i></h5>**
 
-*<b>___ Bhagavad Gita ___</b>*
+*<b>___ John Carmack ___</b>*
 
 -----
 
