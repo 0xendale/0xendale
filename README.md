@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories. "</i></h5>**
+**<h5><i>" Unhappiness enters through a door that has been left open. "</i></h5>**
 
-*<b>___ Ray Bradbury ___</b>*
+*<b>___ Zen Proverb ___</b>*
 
 -----
 
