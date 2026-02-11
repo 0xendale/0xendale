@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" The roots of education are bitter, but the fruit is sweet. "</i></h5>**
+**<h5><i>" Always turn a negative situation into a positive situation. "</i></h5>**
 
-*<b>___ Aristotle ___</b>*
+*<b>___ Michael Jordan ___</b>*
 
 -----
 
