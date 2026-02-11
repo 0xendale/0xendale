@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" If you want more luck, take more chances. "</i></h5>**
+**<h5><i>" The less you respond to negative people, the more positive your life will become. "</i></h5>**
 
-*<b>___ Brian Tracy ___</b>*
+*<b>___ Paulo Coelho ___</b>*
 
 -----
 
