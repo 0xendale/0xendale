@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Mistake is a mistake only if you make it twice. "</i></h5>**
+**<h5><i>" Everything eaten is killed. Every meal is a sacrifice. "</i></h5>**
 
-*<b>___ Robin Sharma ___</b>*
+*<b>___ Adi Da Samraj ___</b>*
 
 -----
 
