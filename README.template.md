@@ -23,7 +23,7 @@
     <i>Learning through building and research.</i>
   </p>
   <p>
-    <code>Rust</code> • <code>Go</code> • <code>Ethereum</code> • <code>Solidity</code> • <code>Solana</code>
+    <code>Rust</code> • <code>Typescript</code> • <code>Solidity</code> • <code>Go</code> • <code>EVM</code> • <code>Solana</code>
   </p>
 </div>
 
