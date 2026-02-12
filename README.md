@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Better to have, and not need, than to need, and not have. ""</i></sub><br>
-    <b>— ___ Franz Kafka ___</b>
+    <sub><i>"" If you can change your mind, you can change your life. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
