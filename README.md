@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not look for a sanctuary in anyone except your self. ""</i></sub><br>
-    <b>— ___ Buddha ___</b>
+    <sub><i>"" Great minds are always feared by lesser minds. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
