@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Dreams provide nourishment for the soul, just as a meal does for the body. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" All know that the drop merges into the ocean, but few know that the ocean merges into the drop. ""</i></sub><br>
+    <b>— ___ Kabir ___</b>
   </p>
 </div>
 
