@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Before preparing to improve the world, first look around your own home three times.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" A friend to all is a friend to none. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
