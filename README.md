@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are not the drop in the ocean, but the ocean in the drop. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" Start each day with a positive thought and a grateful heart. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
