@@ -23,7 +23,7 @@
     <i>Learning through building and research.</i>
   </p>
   <p>
-    <code>Rust</code> • <code>Go</code> • <code>Ethereum</code> • <code>Solidity</code> • <code>Solana</code>
+    <code>Rust</code> • <code>Typescript</code> • <code>Solidity</code> • <code>Go</code> • <code>EVM</code> • <code>Solana</code>
   </p>
 </div>
 
@@ -32,8 +32,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Man should fear never beginning to live. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" Happiness is when what you think, what you say, and what you do are in harmony. ""</i></sub><br>
+    <b>— ___ Mahatma Gandhi ___</b>
   </p>
 </div>
 
