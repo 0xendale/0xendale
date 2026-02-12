@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Aim for the moon. If you miss, you may hit a star. ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" Before preparing to improve the world, first look around your own home three times.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
