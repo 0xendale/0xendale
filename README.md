@@ -3,9 +3,7 @@
 <div align="center">
   <code><h1>Endale D.</h1></code>
   <p>
-    <a href="https://t.me/d41d3v">Telegram</a> • 
-    <a href="https://www.linkedin.com/in/endadinh/">LinkedIn</a> • 
-    <a href="https://x.com/endadinhh">Twitter</a>
+    • <a href="https://t.me/d41d3v">Telegram</a> • 
   </p>
 </div>
 
@@ -17,23 +15,13 @@
 
 <br />
 
-<div align="center">
-  <h3>Systems & Web3 Explorer</h3>
-  <p align="center">
-    <i>Learning through building and research.</i>
-  </p>
-  <p>
-    <code>Rust</code> • <code>Typescript</code> • <code>Solidity</code> • <code>Go</code> • <code>EVM</code> • <code>Solana</code>
-  </p>
-</div>
-
 <br />
 
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Happiness is when what you think, what you say, and what you do are in harmony. ""</i></sub><br>
-    <b>— ___ Mahatma Gandhi ___</b>
+    <sub><i>"" I like the dreams of the future better than the history of the past. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
