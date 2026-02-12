@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you can change your mind, you can change your life. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you. ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
