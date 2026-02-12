@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A gentleman accepts the responsibility of his actions and bears the burden of their consequences. ""</i></sub><br>
-    <b>— ___ William Faulkner ___</b>
+    <sub><i>"" Nothing important is learned; it is simply remembered. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
