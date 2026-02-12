@@ -17,9 +17,9 @@
 
 -----
 
-**<h5><i>" Everybody has talent, but ability takes hard work. "</i></h5>**
+**<h5><i>" When one door closes another door opens.  "</i></h5>**
 
-*<b>___ Michael Jordan ___</b>*
+*<b>___ Alexander Graham Bell ___</b>*
 
 -----
 
