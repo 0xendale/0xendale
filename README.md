@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" Aim for the moon. If you miss, you may hit a star. ""</i></sub><br>
+    <b>— ___ W. Clement Stone ___</b>
   </p>
 </div>
 
