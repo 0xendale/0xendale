@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Great things are not done by impulse, but by a series of small things brought together. ""</i></sub><br>
-    <b>— ___ Vincent van Gogh ___</b>
+    <sub><i>"" Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. ""</i></sub><br>
+    <b>— ___ Herbert Hoover ___</b>
   </p>
 </div>
 
