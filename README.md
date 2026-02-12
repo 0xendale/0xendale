@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. ""</i></sub><br>
-    <b>— ___ Herbert Hoover ___</b>
+    <sub><i>"" Creativity is the greatest rebellion in existence. ""</i></sub><br>
+    <b>— ___ Osho ___</b>
   </p>
 </div>
 
