@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only way to make sense out of change is to plunge into it, move with it, and join the dance. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
