@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Great minds are always feared by lesser minds. ""</i></sub><br>
-    <b>— ___ Dan Brown ___</b>
+    <sub><i>"" Fear is your worst enemy. Risk is your best friend. ""</i></sub><br>
+    <b>— ___ Gurbaksh Chahal ___</b>
   </p>
 </div>
 
