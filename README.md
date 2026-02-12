@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fear is your worst enemy. Risk is your best friend. ""</i></sub><br>
-    <b>— ___ Gurbaksh Chahal ___</b>
+    <sub><i>"" Better to have, and not need, than to need, and not have. ""</i></sub><br>
+    <b>— ___ Franz Kafka ___</b>
   </p>
 </div>
 
