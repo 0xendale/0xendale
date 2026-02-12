@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always seek out the seed of triumph in every adversity. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" The only way to make sense out of change is to plunge into it, move with it, and join the dance. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
