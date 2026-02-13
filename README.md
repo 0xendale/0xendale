@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You will have bad times, but they will always wake you up to the stuff you weren't paying attention to. ""</i></sub><br>
-    <b>— ___ Robin Williams ___</b>
+    <sub><i>"" You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
