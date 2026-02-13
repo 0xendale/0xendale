@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A friend to all is a friend to none. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Blessed is he who expects nothing, for he shall be disappointed. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
