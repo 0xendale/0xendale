@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change yourself - you are in control. ""</i></sub><br>
-    <b>— ___ Mahatma Gandhi ___</b>
+    <sub><i>"" Happiness is only real when shared. ""</i></sub><br>
+    <b>— ___ Christopher McCandless ___</b>
   </p>
 </div>
 
