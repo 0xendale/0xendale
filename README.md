@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Let the beauty of what you love be what you do. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" If you want to be successful, you have to jump, there's no way around it. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
