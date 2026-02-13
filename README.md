@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's the unknown we fear when we look upon death and darkness, nothing more. ""</i></sub><br>
-    <b>— ___ Albus Dumbledore ___</b>
+    <sub><i>"" Where does a thought go when it's forgotten? ""</i></sub><br>
+    <b>— ___ Sigmund Freud ___</b>
   </p>
 </div>
 
