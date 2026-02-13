@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" The world is changed by your example, not by your opinion. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
