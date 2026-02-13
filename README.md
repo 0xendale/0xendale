@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not what happens to you, but how you react to it that matters. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Let the beauty of what you love be what you do. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
