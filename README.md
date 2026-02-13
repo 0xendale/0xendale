@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Happiness is only real when shared. ""</i></sub><br>
-    <b>— ___ Christopher McCandless ___</b>
+    <sub><i>"" Being entirely honest with oneself is a good exercise. ""</i></sub><br>
+    <b>— ___ Sigmund Freud ___</b>
   </p>
 </div>
 
