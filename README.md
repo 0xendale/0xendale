@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where does a thought go when it's forgotten? ""</i></sub><br>
-    <b>— ___ Sigmund Freud ___</b>
+    <sub><i>"" Insanity: doing the same thing over and over again and expecting different results. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
