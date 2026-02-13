@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In order to control myself I must first accept myself by going with and not against my nature. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
