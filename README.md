@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Blessed is he who expects nothing, for he shall be disappointed. ""</i></sub><br>
-    <b>— ___ Jonathan Swift ___</b>
+    <sub><i>"" Life is like a wheel. Sooner or later, it always comes around to where you started again. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
