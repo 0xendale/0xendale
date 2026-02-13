@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" There exists only the present instant; a Now which always and without end is itself new. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
