@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Silence is the great teacher and to learn its lessons you must pay attention to it. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" Sometimes adversity is what you need to face in order to become successful. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
