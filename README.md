@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Insanity: doing the same thing over and over again and expecting different results. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" What the caterpillar calls the end of the world, the master calls a butterfly. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
