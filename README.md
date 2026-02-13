@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Facts are the enemy of truth.  ""</i></sub><br>
-    <b>— ___ Miguel de Cervantes ___</b>
+    <sub><i>"" You will have bad times, but they will always wake you up to the stuff you weren't paying attention to. ""</i></sub><br>
+    <b>— ___ Robin Williams ___</b>
   </p>
 </div>
 
