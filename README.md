@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" Happiness is the meaning and the purpose of life, the whole aim and end of human existence. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
