@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving. ""</i></sub><br>
-    <b>— ___ Yanni ___</b>
+    <sub><i>"" We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right. ""</i></sub><br>
+    <b>— ___ Sonia Ricotti ___</b>
   </p>
 </div>
 
