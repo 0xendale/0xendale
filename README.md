@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't need a weatherman to know which way the wind blows. ""</i></sub><br>
-    <b>— ___ Bob Dylan ___</b>
+    <sub><i>"" Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
