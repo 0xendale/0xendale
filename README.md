@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Words without actions are the assassins of idealism. ""</i></sub><br>
-    <b>— ___ Herbert Hoover ___</b>
+    <sub><i>"" Obstacles don't block the path, they are the path. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
