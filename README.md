@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not the size of the dog in the fight, it's the size of the fight in the dog. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Longevity is a fleeting moment that lasts forever. ""</i></sub><br>
+    <b>— ___ Vidal Sassoon ___</b>
   </p>
 </div>
 
