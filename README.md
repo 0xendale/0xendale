@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Longevity is a fleeting moment that lasts forever. ""</i></sub><br>
-    <b>— ___ Vidal Sassoon ___</b>
+    <sub><i>"" It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
