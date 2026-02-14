@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Poverty and hardship are created by false thinking. ""</i></sub><br>
-    <b>— ___ Bodhidharma ___</b>
+    <sub><i>"" When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. ""</i></sub><br>
+    <b>— ___ Josh Waitzkin ___</b>
   </p>
 </div>
 
