@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In the End, we will remember not the words of our enemies, but the silence of our friends. ""</i></sub><br>
-    <b>— ___ Martin Luther King, Jr. ___</b>
+    <sub><i>"" Words without actions are the assassins of idealism. ""</i></sub><br>
+    <b>— ___ Herbert Hoover ___</b>
   </p>
 </div>
 
