@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Some of us learn from other people's mistakes and the rest of us have to be other people.   ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" You don't need a weatherman to know which way the wind blows. ""</i></sub><br>
+    <b>— ___ Bob Dylan ___</b>
   </p>
 </div>
 
