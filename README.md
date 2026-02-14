@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right. ""</i></sub><br>
-    <b>— ___ Sonia Ricotti ___</b>
+    <sub><i>"" Your life does not get better by chance, it gets better by change. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
