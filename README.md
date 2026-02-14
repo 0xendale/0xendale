@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" It's not the size of the dog in the fight, it's the size of the fight in the dog. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
