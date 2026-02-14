@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In the midst of chaos, there is also opportunity. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections. ""</i></sub><br>
+    <b>— ___ Bob Marley ___</b>
   </p>
 </div>
 
