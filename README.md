@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
