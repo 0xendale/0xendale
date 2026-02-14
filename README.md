@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If a man knows not to which port he sails, no wind is favorable.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" In the End, we will remember not the words of our enemies, but the silence of our friends. ""</i></sub><br>
+    <b>— ___ Martin Luther King, Jr. ___</b>
   </p>
 </div>
 
