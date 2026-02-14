@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" When one door closes another door opens.  ""</i></sub><br>
+    <b>— ___ Alexander Graham Bell ___</b>
   </p>
 </div>
 
