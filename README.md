@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Talk to someone about themselves and they'll listen for hours. ""</i></sub><br>
-    <b>— ___ Dale Carnegie ___</b>
+    <sub><i>"" In the midst of chaos, there is also opportunity. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
