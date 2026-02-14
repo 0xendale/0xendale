@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Obstacles don't block the path, they are the path. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" The thing about smart people is that they seem like crazy people to dumb people. ""</i></sub><br>
+    <b>— ___ Stephen Hawking ___</b>
   </p>
 </div>
 
