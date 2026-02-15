@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love is the absence of judgment. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! ""</i></sub><br>
+    <b>— ___ Charles Darwin ___</b>
   </p>
 </div>
 
