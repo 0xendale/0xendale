@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No snowflake ever falls in the wrong place. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" A journey of a thousand miles must begin with a single step. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
