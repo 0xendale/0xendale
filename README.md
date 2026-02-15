@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.  ""</i></sub><br>
-    <b>— ___ Jack London ___</b>
+    <sub><i>"" If you believe you can, you can. If you believe you can't, then, well you can't. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
