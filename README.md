@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want more luck, take more chances. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" When we think about our strengths, we are strong. When we think about our weaknesses, we are weak. ""</i></sub><br>
+    <b>— ___ Peter A. Cohen ___</b>
   </p>
 </div>
 
