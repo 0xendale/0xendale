@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more you extend kindness to yourself, the more it will become your automatic response to others. ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" If you want more luck, take more chances. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
