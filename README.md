@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't earn loyalty in a day. You earn loyalty day-by-day. ""</i></sub><br>
-    <b>— ___ Jeffrey Gitomer ___</b>
+    <sub><i>"" Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
