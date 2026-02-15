@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change is not a four letter word...but often your reaction to it is! ""</i></sub><br>
-    <b>— ___ Jeffrey Gitomer ___</b>
+    <sub><i>"" The most effective way to do it, is to do it. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
