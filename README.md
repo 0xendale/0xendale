@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Go for it now. The future is promised to no one.  ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" The birth of the mind is the death of the senses. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
