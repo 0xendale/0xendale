@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trust is built and maintained by many small actions over time. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" Confidence is consistency of thinking about what is possible and how to make it possible. ""</i></sub><br>
+    <b>— ___ John Eliot ___</b>
   </p>
 </div>
 
