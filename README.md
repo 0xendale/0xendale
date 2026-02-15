@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Confidence is consistency of thinking about what is possible and how to make it possible. ""</i></sub><br>
-    <b>— ___ John Eliot ___</b>
+    <sub><i>"" Love is the absence of judgment. ""</i></sub><br>
+    <b>— ___ Dalai Lama ___</b>
   </p>
 </div>
 
