@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you believe you can, you can. If you believe you can't, then, well you can't. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" The only thing more frustrating than slanderers is those foolish enough to listen to them. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
