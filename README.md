@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. ""</i></sub><br>
-    <b>— ___ Sonia Ricotti ___</b>
+    <sub><i>"" Older men declare war. But it is youth that must fight and die. ""</i></sub><br>
+    <b>— ___ Herbert Hoover ___</b>
   </p>
 </div>
 
