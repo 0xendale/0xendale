@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Motivation is what gets you started. Habit is what keeps you going. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" Trust is built and maintained by many small actions over time. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
