@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When we think about our strengths, we are strong. When we think about our weaknesses, we are weak. ""</i></sub><br>
-    <b>— ___ Peter A. Cohen ___</b>
+    <sub><i>"" Wheresoever you go, go with all your heart. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
