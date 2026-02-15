@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life belongs to the living, and he who lives must be prepared for changes. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" Go for it now. The future is promised to no one.  ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
