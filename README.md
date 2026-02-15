@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you believe you can, you can. If you believe you can't, then, well you can't. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" The wiser you get, the less you care to look like a fool. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
