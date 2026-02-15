@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only thing more frustrating than slanderers is those foolish enough to listen to them. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Motivation is what gets you started. Habit is what keeps you going. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
