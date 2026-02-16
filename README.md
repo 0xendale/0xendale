@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Live simply, expect little, give much. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" It is up to each of us to sing as we feel moved by the overall song of life. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
