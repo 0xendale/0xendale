@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fear can hold you prisoner. Hope can set you free. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
