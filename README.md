@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is up to each of us to sing as we feel moved by the overall song of life. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" Life is 10% what happens to you and 90% how you react to it.  ""</i></sub><br>
+    <b>— ___ Charles Swindoll ___</b>
   </p>
 </div>
 
