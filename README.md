@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Admire as much as you can. Most people do not admire enough. ""</i></sub><br>
-    <b>— ___ Vincent van Gogh ___</b>
+    <sub><i>"" When you believe in a thing, believe in it all the way, implicitly and unquestionable. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
