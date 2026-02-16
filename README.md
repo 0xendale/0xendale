@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The heart that gives, gathers. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" The traveler sees what he sees. The tourist sees what he has come to see. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
