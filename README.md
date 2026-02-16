@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Victims recite problems, leaders provide solutions. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" Walk slowly but never walk backward. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
