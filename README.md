@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be brave enough to suck at something new. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Victims recite problems, leaders provide solutions. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
