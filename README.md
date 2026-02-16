@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is 10% what happens to you and 90% how you react to it.  ""</i></sub><br>
-    <b>— ___ Charles Swindoll ___</b>
+    <sub><i>"" Men are disturbed not by things, but by the view which they take of them. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
