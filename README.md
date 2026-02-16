@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Champions keep playing until they get it right. ""</i></sub><br>
-    <b>— ___ Billie Jean King ___</b>
+    <sub><i>"" Friends ask you questions; enemies question you. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
