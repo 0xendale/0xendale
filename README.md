@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What would life be if we had no courage to attempt anything?  ""</i></sub><br>
-    <b>— ___ Vincent van Gogh ___</b>
+    <sub><i>"" The wise man reads both books and life itself. ""</i></sub><br>
+    <b>— ___ Lin Yutang ___</b>
   </p>
 </div>
 
