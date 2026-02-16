@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Walk slowly but never walk backward. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" The heart that gives, gathers. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
