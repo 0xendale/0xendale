@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Friends ask you questions; enemies question you. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Admire as much as you can. Most people do not admire enough. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
