@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The wise man reads both books and life itself. ""</i></sub><br>
-    <b>— ___ Lin Yutang ___</b>
+    <sub><i>"" The moment you doubt whether you can fly, you cease for ever to be able to do it. ""</i></sub><br>
+    <b>— ___ James Matthew Barrie ___</b>
   </p>
 </div>
 
