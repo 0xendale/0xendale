@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Be brave enough to suck at something new. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
