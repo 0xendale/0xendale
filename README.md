@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your mind will make you rich or poor, depending on the use you put to it. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" As you think, so shall you become.  ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
