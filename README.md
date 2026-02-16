@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is peace even in the storm. ""</i></sub><br>
-    <b>— ___ Vincent van Gogh ___</b>
+    <sub><i>"" Champions keep playing until they get it right. ""</i></sub><br>
+    <b>— ___ Billie Jean King ___</b>
   </p>
 </div>
 
