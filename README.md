@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not why the addiction but why the pain. ""</i></sub><br>
-    <b>— ___ Gabor Mate ___</b>
+    <sub><i>"" I am always doing that which I can not do, in order that I may learn how to do it. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
