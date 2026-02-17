@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is the highway to success. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
