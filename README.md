@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What most people need to learn in life is how to love people and use things instead of using people and loving things. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Everything flows, nothing stands still. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
