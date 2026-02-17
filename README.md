@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I am always doing that which I can not do, in order that I may learn how to do it. ""</i></sub><br>
-    <b>— ___ Pablo Picasso ___</b>
+    <sub><i>"" Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
