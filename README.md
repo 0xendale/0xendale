@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everything flows, nothing stands still. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" Not why the addiction but why the pain. ""</i></sub><br>
+    <b>— ___ Gabor Mate ___</b>
   </p>
 </div>
 
