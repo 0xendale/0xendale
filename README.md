@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you believe in a thing, believe in it all the way, implicitly and unquestionable. ""</i></sub><br>
-    <b>— ___ Walt Disney ___</b>
+    <sub><i>"" Where focus goes, energy flows. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
