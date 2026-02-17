@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Anyone telling you it's pointless to share your perspective is sharing their perspective. ""</i></sub><br>
-    <b>— ___ Jack Butcher ___</b>
+    <sub><i>"" To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. ""</i></sub><br>
+    <b>— ___ Samuel Butler ___</b>
   </p>
 </div>
 
