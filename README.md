@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Hope is not a strategy. Luck is not a factor. Fear is not an option. ""</i></sub><br>
-    <b>— ___ James Cameron ___</b>
+    <sub><i>"" Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined. ""</i></sub><br>
+    <b>— ___ Deepak Chopra ___</b>
   </p>
 </div>
 
