@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" People who avoid failure also avoid success. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
