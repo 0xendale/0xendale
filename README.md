@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. ""</i></sub><br>
-    <b>— ___ Jiddu Krishnamurti ___</b>
+    <sub><i>"" Hope is not a strategy. Luck is not a factor. Fear is not an option. ""</i></sub><br>
+    <b>— ___ James Cameron ___</b>
   </p>
 </div>
 
