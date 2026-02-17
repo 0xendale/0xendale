@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. ""</i></sub><br>
-    <b>— ___ Bhagavad Gita ___</b>
+    <sub><i>"" The soul should always stand ajar, ready to welcome the ecstatic experience. ""</i></sub><br>
+    <b>— ___ Emily Dickinson ___</b>
   </p>
 </div>
 
