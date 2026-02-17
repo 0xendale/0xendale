@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" Over time, loneliness gets inside you and doesn't go away. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
