@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is those who concentrate on but one thing at a time who advance in this world. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Sad thing is, you can still love someone and be wrong for them. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
