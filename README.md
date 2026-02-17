@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Over time, loneliness gets inside you and doesn't go away. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" The more we have the less we own. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
