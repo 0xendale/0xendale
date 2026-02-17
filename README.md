@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead. ""</i></sub><br>
-    <b>— ___ Samuel Butler ___</b>
+    <sub><i>"" It is those who concentrate on but one thing at a time who advance in this world. ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
