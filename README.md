@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where focus goes, energy flows. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Anyone telling you it's pointless to share your perspective is sharing their perspective. ""</i></sub><br>
+    <b>— ___ Jack Butcher ___</b>
   </p>
 </div>
 
