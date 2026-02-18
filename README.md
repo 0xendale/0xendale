@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" In order to control myself I must first accept myself by going with and not against my nature. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
