@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If a man knows not to which port he sails, no wind is favorable.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" Success is not to be pursued, it is to be attracted by the person you become. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
