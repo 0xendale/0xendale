@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One never does wrong by doing right. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" There is no absolute success in the world, only constant progress. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
