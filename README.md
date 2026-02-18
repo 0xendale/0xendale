@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" With the new day comes new strength and new thoughts. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" If you can't argue both sides, you can't argue. ""</i></sub><br>
+    <b>— ___ Jack Butcher ___</b>
   </p>
 </div>
 
