@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not the love you make. It's the love you give.  ""</i></sub><br>
-    <b>— ___ Nikola Tesla ___</b>
+    <sub><i>"" If a man knows not to which port he sails, no wind is favorable.   ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
