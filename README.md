@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" My instinct is always to seek out challenges as opposed to avoiding them. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" With the new day comes new strength and new thoughts. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
