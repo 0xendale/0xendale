@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. ""</i></sub><br>
-    <b>— ___ Christopher Reeve ___</b>
+    <sub><i>"" Among the things you can give and still keep are your word, a smile, and a grateful heart. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
