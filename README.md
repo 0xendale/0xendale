@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" My instinct is always to seek out challenges as opposed to avoiding them. ""</i></sub><br>
+    <b>— ___ Josh Waitzkin ___</b>
   </p>
 </div>
 
