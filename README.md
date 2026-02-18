@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We learn to walk by falling down. If we never fell down, we would never walk. ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" At the end of the day, let there be no excuses, no explanations, no regrets. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
