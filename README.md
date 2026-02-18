@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. ""</i></sub><br>
-    <b>— ___ Anita Krizzan ___</b>
+    <sub><i>"" One never does wrong by doing right. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
