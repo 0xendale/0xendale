@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If fear is too strong, the genius is suppressed. ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
