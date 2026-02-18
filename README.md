@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. ""</i></sub><br>
+    <b>— ___ Og Mandino ___</b>
   </p>
 </div>
 
