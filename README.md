@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is not to be pursued, it is to be attracted by the person you become. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" There is nothing in the world so irresistibly contagious as laughter and good humor. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
