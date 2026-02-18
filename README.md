@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The few who do are the envy of the many who only watch. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. ""</i></sub><br>
+    <b>— ___ Anita Krizzan ___</b>
   </p>
 </div>
 
