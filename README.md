@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I will not walk backward in life. ""</i></sub><br>
-    <b>— ___ J.R.R. Tolkien ___</b>
+    <sub><i>"" A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. ""</i></sub><br>
+    <b>— ___ Christopher Reeve ___</b>
   </p>
 </div>
 
