@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Choose a job you love, and you will never have to work a day in your life.  ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Good entrepreneurs don't fail because they stay at it. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
