@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only when one allows themself the right to die, do they then give yourself the permission to live. ""</i></sub><br>
-    <b>— ___ C. Sean McGee ___</b>
+    <sub><i>"" Make each day a new horizon. ""</i></sub><br>
+    <b>— ___ Christopher McCandless ___</b>
   </p>
 </div>
 
