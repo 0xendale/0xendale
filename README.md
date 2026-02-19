@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Being ignorant is not so much a shame, as being unwilling to learn. ""</i></sub><br>
-    <b>— ___ Benjamin Franklin ___</b>
+    <sub><i>"" You can't go forward and backwards at the same time. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
