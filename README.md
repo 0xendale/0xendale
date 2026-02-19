@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't go forward and backwards at the same time. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" Wherever you are is the entry point. ""</i></sub><br>
+    <b>— ___ Kabir ___</b>
   </p>
 </div>
 
