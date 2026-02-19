@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Choose to be optimistic, it feels better. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. ""</i></sub><br>
+    <b>— ___ Charles Spurgeon ___</b>
   </p>
 </div>
 
