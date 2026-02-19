@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It always seems impossible until it's done. ""</i></sub><br>
-    <b>— ___ Nelson Mandela ___</b>
+    <sub><i>"" You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. ""</i></sub><br>
+    <b>— ___ Dr. Seuss ___</b>
   </p>
 </div>
 
