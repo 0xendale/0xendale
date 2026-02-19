@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You will not do incredible things without an incredible dream. ""</i></sub><br>
-    <b>— ___ John Eliot ___</b>
+    <sub><i>"" It all depends on what you choose to believe. ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
