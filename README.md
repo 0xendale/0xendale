@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Realistic people do not accomplish extraordinary things. ""</i></sub><br>
-    <b>— ___ John Eliot ___</b>
+    <sub><i>"" Only when one allows themself the right to die, do they then give yourself the permission to live. ""</i></sub><br>
+    <b>— ___ C. Sean McGee ___</b>
   </p>
 </div>
 
