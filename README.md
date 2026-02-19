@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We cannot always do great things in life, but we can do small things with great love. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" The world is a puzzle; no need to make sense out of it. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
