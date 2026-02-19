@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is nothing more than a few simple disciplines practiced every day. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" Although the world is full of suffering, it is also full of the overcoming of it. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
