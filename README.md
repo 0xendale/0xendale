@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" Realistic people do not accomplish extraordinary things. ""</i></sub><br>
+    <b>— ___ John Eliot ___</b>
   </p>
 </div>
 
