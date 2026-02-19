@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not fear failure but rather fear not trying. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" We cannot always do great things in life, but we can do small things with great love. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
