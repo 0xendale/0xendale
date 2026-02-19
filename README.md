@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" How many times do you have to get hit over the head until you figure out who's hitting you? ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" Success is nothing more than a few simple disciplines practiced every day. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
