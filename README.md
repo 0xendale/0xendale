@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you cannot understand something, then you have understood it incorrectly. ""</i></sub><br>
-    <b>— ___ Kabir ___</b>
+    <sub><i>"" Sometimes a change of perspective is all it takes to see the light. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
