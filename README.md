@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to be successful, you have to jump, there's no way around it. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" Real growth comes through intense, difficult, and challenging situations. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
