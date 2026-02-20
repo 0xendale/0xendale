@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Today will never happen again. Don't waste it with a false start or no start at all. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" Very little is needed to make a happy life; it is all within yourself, in your way of thinking. ""</i></sub><br>
+    <b>— ___ Marcus Aurelius ___</b>
   </p>
 </div>
 
