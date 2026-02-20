@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The longer we dwell on our misfortunes, the greater is their power to harm us. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Every moment is a fresh beginning. ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
