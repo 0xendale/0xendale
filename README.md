@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" When you love someone, you love the person as they are, and not as you'd like them to be. ""</i></sub><br>
+    <b>— ___ Leo Tolstoy ___</b>
   </p>
 </div>
 
