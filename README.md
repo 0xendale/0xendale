@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Shoot for the moon, because even if you miss, you'll land among the stars. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" It ain't where you start in life, it's where you end up, and what you did along the way. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
