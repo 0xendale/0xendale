@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no self-discovery without pain and loss. ""</i></sub><br>
-    <b>— ___ Anita Krizzan ___</b>
+    <sub><i>"" Courage is the price that life exacts for granting peace. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
