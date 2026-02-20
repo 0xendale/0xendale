@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" There is no self-discovery without pain and loss. ""</i></sub><br>
+    <b>— ___ Anita Krizzan ___</b>
   </p>
 </div>
 
