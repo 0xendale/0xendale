@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It ain't where you start in life, it's where you end up, and what you did along the way. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
