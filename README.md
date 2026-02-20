@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Get mad, then get over it. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
