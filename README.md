@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Things turn out best for the people who make the best of the way things turn out. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Yesterday is gone. Tomorrow has not yet come. We have only today. ""</i></sub><br>
+    <b>— ___ Mother Teresa ___</b>
   </p>
 </div>
 
