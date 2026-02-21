@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only reason to be alive is to enjoy it. ""</i></sub><br>
-    <b>— ___ Rita Mae Brown ___</b>
+    <sub><i>"" Do not go where the path may lead, go instead where there is no path and leave a trail. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
