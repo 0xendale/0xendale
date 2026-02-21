@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" The time is now, the place is here. Stay in the present. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
