@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" For the things we have to learn before we can do them, we learn by doing them. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Outstanding people have one thing in common: an absolute sense of mission.   ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
