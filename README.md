@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When something is important enough, you do it even if the odds are not in your favor. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.  ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
