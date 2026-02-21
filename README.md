@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The wise accomplish all that they want without arousing the envy or scorn of others. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" When you're curious, you find lots of interesting things to do. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
