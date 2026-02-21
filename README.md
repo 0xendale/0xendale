@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" You cannot find peace avoiding life. ""</i></sub><br>
+    <b>— ___ Virginia Woolf ___</b>
   </p>
 </div>
 
