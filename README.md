@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sometimes a change of perspective is all it takes to see the light. ""</i></sub><br>
-    <b>— ___ Dan Brown ___</b>
+    <sub><i>"" Make no small plans for they have no power to stir the soul. ""</i></sub><br>
+    <b>— ___ Niccolo Machiavelli ___</b>
   </p>
 </div>
 
