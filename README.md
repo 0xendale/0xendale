@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What people say, what people do, and what they say they do are entirely different things.  ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" Be grateful for what you have now, and nothing should be taken for granted. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
