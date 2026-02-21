@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Some of your greatest lessons come from your darkest moments. ""</i></sub><br>
-    <b>— ___ Roger Lee ___</b>
+    <sub><i>"" I can think of nothing less pleasurable than a life devoted to pleasure. ""</i></sub><br>
+    <b>— ___ John D. Rockefeller ___</b>
   </p>
 </div>
 
