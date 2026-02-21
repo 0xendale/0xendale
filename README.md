@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You cannot find peace avoiding life. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" Catch, then, O catch the transient hour; Improve each moment as it flies!  ""</i></sub><br>
+    <b>— ___ St. Jerome ___</b>
   </p>
 </div>
 
