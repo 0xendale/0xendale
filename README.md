@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love never keeps a man from pursuing his destiny. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" Bloom where you are planted! ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
