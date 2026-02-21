@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man who dares to waste one hour of time has not discovered the value of life. ""</i></sub><br>
-    <b>— ___ Charles Darwin ___</b>
+    <sub><i>"" Some of your greatest lessons come from your darkest moments. ""</i></sub><br>
+    <b>— ___ Roger Lee ___</b>
   </p>
 </div>
 
