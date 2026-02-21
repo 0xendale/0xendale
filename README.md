@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Yesterday is gone. Tomorrow has not yet come. We have only today. ""</i></sub><br>
-    <b>— ___ Mother Teresa ___</b>
+    <sub><i>"" For the things we have to learn before we can do them, we learn by doing them. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
