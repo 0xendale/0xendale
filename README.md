@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Catch, then, O catch the transient hour; Improve each moment as it flies!  ""</i></sub><br>
-    <b>— ___ St. Jerome ___</b>
+    <sub><i>"" We take care of the future best by taking care of the present now. ""</i></sub><br>
+    <b>— ___ Jon Kabat-Zinn ___</b>
   </p>
 </div>
 
