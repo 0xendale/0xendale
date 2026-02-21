@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Keep your dreams, you never know when you might need them. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" If it entertains you now but will bore you someday, it's a distraction. Keep looking. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
