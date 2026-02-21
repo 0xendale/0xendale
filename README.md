@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Choose to be optimistic, it feels better. ""</i></sub><br>
+    <b>— ___ Dalai Lama ___</b>
   </p>
 </div>
 
