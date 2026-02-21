@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We take care of the future best by taking care of the present now. ""</i></sub><br>
-    <b>— ___ Jon Kabat-Zinn ___</b>
+    <sub><i>"" Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
