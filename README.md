@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.  ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" What people say, what people do, and what they say they do are entirely different things.  ""</i></sub><br>
+    <b>— ___ Margaret Mead ___</b>
   </p>
 </div>
 
