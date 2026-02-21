@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The man who moved the mountain was the one who began carrying away the smallest stones. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" There are no shortcuts to any place worth going. ""</i></sub><br>
+    <b>— ___ Beverly Sills ___</b>
   </p>
 </div>
 
