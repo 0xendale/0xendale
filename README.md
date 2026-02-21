@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Choose to be optimistic, it feels better. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" The only reason to be alive is to enjoy it. ""</i></sub><br>
+    <b>— ___ Rita Mae Brown ___</b>
   </p>
 </div>
 
