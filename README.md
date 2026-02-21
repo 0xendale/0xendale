@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I can think of nothing less pleasurable than a life devoted to pleasure. ""</i></sub><br>
-    <b>— ___ John D. Rockefeller ___</b>
+    <sub><i>"" The man who moved the mountain was the one who began carrying away the smallest stones. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
