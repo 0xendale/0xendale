@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Outstanding people have one thing in common: an absolute sense of mission.   ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" Keep your dreams, you never know when you might need them. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
