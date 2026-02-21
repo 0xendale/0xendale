@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no excuse for not trying. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" To seek is to suffer. To seek nothing is bliss. ""</i></sub><br>
+    <b>— ___ Bodhidharma ___</b>
   </p>
 </div>
 
