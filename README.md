@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime. ""</i></sub><br>
-    <b>— ___ Steve Maraboli ___</b>
+    <sub><i>"" Money poisons you when you've got it, and starves you when you haven't. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
