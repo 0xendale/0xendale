@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Confidence breeds beauty.   ""</i></sub><br>
-    <b>— ___ Estee Lauder ___</b>
+    <sub><i>"" Within every desire is the mechanics of its fulfillment. ""</i></sub><br>
+    <b>— ___ Deepak Chopra ___</b>
   </p>
 </div>
 
