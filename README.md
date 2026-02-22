@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret of life isn't what happens to you, but what you do with what happens to you. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" If you let your head get too big, it'll break your neck. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
