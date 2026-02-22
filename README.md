@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wheresoever you go, go with all your heart. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Action is the foundational key to all success. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
