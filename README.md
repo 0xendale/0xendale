@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" The way to get started is to quit talking and begin doing. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
