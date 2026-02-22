@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What do we live for if not to make life less difficult for each other? ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" Progress comes to those who train and train; reliance on secret techniques will get you nowhere. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
