@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The time is now, the place is here. Stay in the present. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" No man will make a great leader who wants to do it all himself or to get all the credit for doing it. ""</i></sub><br>
+    <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
 
