@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Money poisons you when you've got it, and starves you when you haven't. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" If you let your head get too big, it'll break your neck. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
