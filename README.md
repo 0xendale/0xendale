@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Action is the foundational key to all success. ""</i></sub><br>
-    <b>— ___ Pablo Picasso ___</b>
+    <sub><i>"" It is better to change an opinion than to persist in a wrong one. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
