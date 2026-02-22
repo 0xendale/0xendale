@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The truth is simple. If it was complicated, everyone would understand it. ""</i></sub><br>
-    <b>— ___ Walt Whitman ___</b>
+    <sub><i>"" It is indeed a radical act of love just to sit down and be quiet for a time by yourself. ""</i></sub><br>
+    <b>— ___ Jon Kabat-Zinn ___</b>
   </p>
 </div>
 
