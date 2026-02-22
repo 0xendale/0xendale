@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Reality is nothing but a collective hunch. ""</i></sub><br>
-    <b>— ___ Lily Tomlin ___</b>
+    <sub><i>"" Everyone has the right to make his own decisions, but none has the right to force his decision on others. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
