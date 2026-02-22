@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Within every desire is the mechanics of its fulfillment. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" Wheresoever you go, go with all your heart. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
