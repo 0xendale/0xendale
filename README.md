@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The way to get started is to quit talking and begin doing. ""</i></sub><br>
-    <b>— ___ Walt Disney ___</b>
+    <sub><i>"" Wrong turns are as important as right turns. More important, sometimes. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
