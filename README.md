@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you let your head get too big, it'll break your neck. ""</i></sub><br>
-    <b>— ___ Elvis Presley ___</b>
+    <sub><i>"" In order to attain the impossible, one must attempt the absurd. ""</i></sub><br>
+    <b>— ___ Miguel de Cervantes ___</b>
   </p>
 </div>
 
