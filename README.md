@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The harder you work, the harder it is to surrender. ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" If you truly expect something to be difficult, it will be. ""</i></sub><br>
+    <b>— ___ Peter A. Cohen ___</b>
   </p>
 </div>
 
