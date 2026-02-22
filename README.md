@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Judge a man by his questions rather than his answers. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Every second you have on this planet is very precious and it's your responsibility that you're happy. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
