@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone has the right to make his own decisions, but none has the right to force his decision on others. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" Sometimes you have to travel a long way to find what is near. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
