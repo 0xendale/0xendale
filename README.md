@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you let your head get too big, it'll break your neck. ""</i></sub><br>
-    <b>— ___ Elvis Presley ___</b>
+    <sub><i>"" To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
