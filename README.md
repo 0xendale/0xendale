@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" The secret of life isn't what happens to you, but what you do with what happens to you. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
