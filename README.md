@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more one judges, the less one loves. ""</i></sub><br>
-    <b>— ___ Honore de Balzac ___</b>
+    <sub><i>"" It matters not what someone is born, but what they grow to be. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
