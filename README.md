@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Passion is born deaf and dumb. ""</i></sub><br>
-    <b>— ___ Honore de Balzac ___</b>
+    <sub><i>"" Every blessing ignored becomes a curse. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
