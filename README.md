@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is not what we get. But who we become, what we contribute... that gives meaning to our lives. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" The universe doesn't allow perfection. ""</i></sub><br>
+    <b>— ___ Stephen Hawking ___</b>
   </p>
 </div>
 
