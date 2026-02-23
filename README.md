@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" You may forget with whom you laughed, but you will never forget with whom you wept.   ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
