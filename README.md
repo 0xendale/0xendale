@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wealth is the product of man's capacity to think. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" It is not what we get. But who we become, what we contribute... that gives meaning to our lives. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
