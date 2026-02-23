@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Meditate. It won't be fun but it will surface what you need to deal with. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" Some of your greatest lessons come from your darkest moments. ""</i></sub><br>
+    <b>— ___ Roger Lee ___</b>
   </p>
 </div>
 
