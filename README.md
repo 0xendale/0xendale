@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Become the kind of leader that people would follow voluntarily, even if you had no title or position. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" Wealth is the product of man's capacity to think. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
