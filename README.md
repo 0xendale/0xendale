@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Some of your greatest lessons come from your darkest moments. ""</i></sub><br>
-    <b>— ___ Roger Lee ___</b>
+    <sub><i>"" The pen is the tongue of the mind.  ""</i></sub><br>
+    <b>— ___ Miguel de Cervantes ___</b>
   </p>
 </div>
 
