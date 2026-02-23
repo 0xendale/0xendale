@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you care about someone enough, you'll always be there for them no matter what. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Do not fight with pigs - you will be smeared in mud but the pig will like it. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
