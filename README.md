@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your home is where your thoughts find peace. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" If you care about someone enough, you'll always be there for them no matter what. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
