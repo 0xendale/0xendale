@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" We have to live life with a sense of urgency so not a minute is wasted. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
