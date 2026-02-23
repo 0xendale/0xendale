@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every blessing ignored becomes a curse. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" To get angry is like to revenge yourself for the guilt of others. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
