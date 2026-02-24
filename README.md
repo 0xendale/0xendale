@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Manifest plainness, embrace simplicity, reduce selfishness, have few desires. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" If you run you stand a chance of losing, but if you don't run you've already lost. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
