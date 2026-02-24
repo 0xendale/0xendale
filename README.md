@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" There is no fear for one whose mind is not filled with desires. ""</i></sub><br>
+    <b>— ___ Buddha ___</b>
   </p>
 </div>
 
