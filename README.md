@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" When something comes from within, when it is a part of you, you have no choice but to live it, to express it. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
