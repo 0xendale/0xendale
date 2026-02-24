@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. ""</i></sub><br>
-    <b>— ___ G.I. Gurdjieff ___</b>
+    <sub><i>"" Belief creates the actual fact. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
