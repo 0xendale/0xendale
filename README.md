@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" There are no accidents... there is only some purpose that we haven't yet understood. ""</i></sub><br>
+    <b>— ___ Deepak Chopra ___</b>
   </p>
 </div>
 
