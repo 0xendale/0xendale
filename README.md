@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you run you stand a chance of losing, but if you don't run you've already lost. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" Wherever you are, it's the place you need to be. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
