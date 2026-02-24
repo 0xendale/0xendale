@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The way of success is the way of continuous pursuit of knowledge. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
