@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Ripe fruit falls by itself - but it doesn't fall in your mouth.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Because a thing seems difficult for you, do not think it impossible. ""</i></sub><br>
+    <b>— ___ Marcus Aurelius ___</b>
   </p>
 </div>
 
