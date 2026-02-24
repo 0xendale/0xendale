@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Because a thing seems difficult for you, do not think it impossible. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" If you build the guts to do something, anything, then you better save enough to face the consequences. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
