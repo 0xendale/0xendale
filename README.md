@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" We have a duty to maintain the light of consciousness to make sure it continues into the future. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
