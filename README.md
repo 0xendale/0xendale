@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When something comes from within, when it is a part of you, you have no choice but to live it, to express it. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. ""</i></sub><br>
+    <b>— ___ G.I. Gurdjieff ___</b>
   </p>
 </div>
 
