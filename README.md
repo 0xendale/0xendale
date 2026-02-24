@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All problems are illusions of the mind. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" Manifest plainness, embrace simplicity, reduce selfishness, have few desires. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
