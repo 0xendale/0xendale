@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no fear for one whose mind is not filled with desires. ""</i></sub><br>
-    <b>— ___ Buddha ___</b>
+    <sub><i>"" The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
