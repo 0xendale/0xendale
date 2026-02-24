@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving. ""</i></sub><br>
-    <b>— ___ Yanni ___</b>
+    <sub><i>"" Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
