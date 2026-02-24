@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" Ripe fruit falls by itself - but it doesn't fall in your mouth.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
