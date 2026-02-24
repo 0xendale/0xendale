@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do you have the patience to wait until your mud settles and the water is clear? ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
