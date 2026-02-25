@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Live in the sunshine, swim the sea, drink the wild air. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" We're kept from our goal not by obstacles, but by a clear path to a lesser goal. ""</i></sub><br>
+    <b>— ___ Bhagavad Gita ___</b>
   </p>
 </div>
 
