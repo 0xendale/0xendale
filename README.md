@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Education breeds confidence. Confidence breeds hope. Hope breeds peace. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Blessed is he who expects nothing, for he shall never be disappointed. ""</i></sub><br>
+    <b>— ___ Alexander Pope ___</b>
   </p>
 </div>
 
