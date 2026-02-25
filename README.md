@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never let your memories be greater than your dreams. ""</i></sub><br>
-    <b>— ___ Doug Ivester ___</b>
+    <sub><i>"" A dead thing can go with the stream, but only a living thing can go against it. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
