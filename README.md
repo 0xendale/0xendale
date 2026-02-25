@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change happens when the pain of holding on becomes greater than the fear of letting go. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" No man is free who is not master of himself. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
