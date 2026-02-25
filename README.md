@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You will succeed because most people are lazy. ""</i></sub><br>
-    <b>— ___ Shahir Zag ___</b>
+    <sub><i>"" They who have conquered doubt and fear have conquered failure. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
