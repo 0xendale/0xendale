@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We're kept from our goal not by obstacles, but by a clear path to a lesser goal. ""</i></sub><br>
-    <b>— ___ Bhagavad Gita ___</b>
+    <sub><i>"" It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
