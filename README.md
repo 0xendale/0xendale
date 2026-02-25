@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The heart wants what it wants. There's no logic.  ""</i></sub><br>
-    <b>— ___ Woody Allen ___</b>
+    <sub><i>"" Education breeds confidence. Confidence breeds hope. Hope breeds peace. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
