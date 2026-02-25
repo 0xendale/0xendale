@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I will not walk backward in life. ""</i></sub><br>
-    <b>— ___ J.R.R. Tolkien ___</b>
+    <sub><i>"" Live in the sunshine, swim the sea, drink the wild air. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
