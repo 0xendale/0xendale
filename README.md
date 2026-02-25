@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Begin at once to live, and count each separate day as a separate life.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" Good judgment comes from experience, and experience comes from bad judgment. ""</i></sub><br>
+    <b>— ___ Rita Mae Brown ___</b>
   </p>
 </div>
 
