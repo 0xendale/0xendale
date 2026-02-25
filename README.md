@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trust in dreams, for in them is the hidden gate to eternity.   ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" Never let your memories be greater than your dreams. ""</i></sub><br>
+    <b>— ___ Doug Ivester ___</b>
   </p>
 </div>
 
