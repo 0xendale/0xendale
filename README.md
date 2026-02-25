@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't know who is important to you until you actually lose them. ""</i></sub><br>
-    <b>— ___ Mahatma Gandhi ___</b>
+    <sub><i>"" Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
