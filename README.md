@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" They who have conquered doubt and fear have conquered failure. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" I will not walk backward in life. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
