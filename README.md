@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" From the errors of others, a wise man corrects his own. ""</i></sub><br>
-    <b>— ___ Publilius Syrus ___</b>
+    <sub><i>"" Be happy now, without reason - or you never will be at all. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
