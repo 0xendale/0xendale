@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Adventure is worthwhile in itself. ""</i></sub><br>
-    <b>— ___ Amelia Earhart ___</b>
+    <sub><i>"" Life has the name of life, but in reality it is death. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
