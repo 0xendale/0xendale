@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Freedom from desire leads to inner peace. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Best be yourself, imperial, plain, and true. ""</i></sub><br>
+    <b>— ___ Robert Browning ___</b>
   </p>
 </div>
 
