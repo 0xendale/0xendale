@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I have never in my life learned anything from any man who agreed with me. ""</i></sub><br>
-    <b>— ___ Dudley Field Malone ___</b>
+    <sub><i>"" If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return. ""</i></sub><br>
+    <b>— ___ Deepak Chopra ___</b>
   </p>
 </div>
 
