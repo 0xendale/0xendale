@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every hour of every day is an unspeakably perfect miracle. ""</i></sub><br>
-    <b>— ___ Walt Whitman ___</b>
+    <sub><i>"" Adventure is worthwhile in itself. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
