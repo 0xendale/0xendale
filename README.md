@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. ""</i></sub><br>
-    <b>— ___ Sathya Sai Baba ___</b>
+    <sub><i>"" Troubles are often the tools by which God fashions us for better things. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
