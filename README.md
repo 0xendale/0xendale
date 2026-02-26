@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is a balance of holding on and letting go. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Acknowledging the good that you already have in your life is the foundation for all abundance. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
