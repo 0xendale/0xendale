@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Best be yourself, imperial, plain, and true. ""</i></sub><br>
-    <b>— ___ Robert Browning ___</b>
+    <sub><i>"" Numbing the pain for a while will only make it worse when you finally feel it. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
