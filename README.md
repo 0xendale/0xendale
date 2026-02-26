@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is from the inside out. When you shift on the inside, life shifts on the outside. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" The foolish reject what they see, not what they think; the wise reject what they think, not what they see. ""</i></sub><br>
+    <b>— ___ Huang Po ___</b>
   </p>
 </div>
 
