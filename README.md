@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Good judgment comes from experience, and experience comes from bad judgment. ""</i></sub><br>
-    <b>— ___ Rita Mae Brown ___</b>
+    <sub><i>"" I skate to where the puck is going to be, not where it has been. ""</i></sub><br>
+    <b>— ___ Wayne Gretzky ___</b>
   </p>
 </div>
 
