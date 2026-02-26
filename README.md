@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Quality means doing it right when no one is looking. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Life is a balance of holding on and letting go. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
