@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Storms don't last forever. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Take into account that great love and great achievements involve great risk. ""</i></sub><br>
+    <b>— ___ Dalai Lama ___</b>
   </p>
 </div>
 
