@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The foolish reject what they see, not what they think; the wise reject what they think, not what they see. ""</i></sub><br>
-    <b>— ___ Huang Po ___</b>
+    <sub><i>"" Age is a very high price to pay for maturity. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
