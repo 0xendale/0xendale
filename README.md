@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Acknowledging the good that you already have in your life is the foundation for all abundance. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" Every hour of every day is an unspeakably perfect miracle. ""</i></sub><br>
+    <b>— ___ Walt Whitman ___</b>
   </p>
 </div>
 
