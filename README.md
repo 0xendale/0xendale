@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life has the name of life, but in reality it is death. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. ""</i></sub><br>
+    <b>— ___ Sathya Sai Baba ___</b>
   </p>
 </div>
 
