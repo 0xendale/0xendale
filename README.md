@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Take into account that great love and great achievements involve great risk. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" From the errors of others, a wise man corrects his own. ""</i></sub><br>
+    <b>— ___ Publilius Syrus ___</b>
   </p>
 </div>
 
