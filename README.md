@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is the power of the mind to be unconquerable. ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" It is better to light a single candle than to curse the darkness. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
