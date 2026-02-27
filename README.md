@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your gift is something that you can do innately better than anything else. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
