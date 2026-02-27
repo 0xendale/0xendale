@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The two most powerful warriors are patience and time. ""</i></sub><br>
-    <b>— ___ Leo Tolstoy ___</b>
+    <sub><i>"" It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
