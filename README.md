@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People are not disturbed by things, but by the views they take of them. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Where there is anger, there is always pain underneath. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
