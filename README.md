@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only way to make sense out of change is to plunge into it, move with it, and join the dance. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. ""</i></sub><br>
+    <b>— ___ Voltaire ___</b>
   </p>
 </div>
 
