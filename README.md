@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Leadership is solving problems ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" The only difference between success and failure is the ability to take action. ""</i></sub><br>
+    <b>— ___ Alexander Graham Bell ___</b>
   </p>
 </div>
 
