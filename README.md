@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A mountain never yields to the wind no matter how strong it is. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" The older you get, the more you understand how your conscience works. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
