@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Consider the rights of others before your own feelings, and the feelings of others before your own rights. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Life should be touched, not strangled.   ""</i></sub><br>
+    <b>— ___ Ray Bradbury ___</b>
   </p>
 </div>
 
