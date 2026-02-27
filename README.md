@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The quieter you become, the more you are able to hear. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" The time is now, the place is here. Stay in the present. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
