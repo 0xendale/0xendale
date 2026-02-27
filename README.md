@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You live by what you thrill to, and there's the end of it. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" To do two things at once is to do neither. ""</i></sub><br>
+    <b>— ___ Publilius Syrus ___</b>
   </p>
 </div>
 
