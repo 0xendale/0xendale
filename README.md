@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can have the mind or you can have the moment. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" The two most powerful warriors are patience and time. ""</i></sub><br>
+    <b>— ___ Leo Tolstoy ___</b>
   </p>
 </div>
 
