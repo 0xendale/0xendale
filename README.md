@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you are ever the smartest person in the room, you are in the wrong room. ""</i></sub><br>
-    <b>— ___ C. Sean McGee ___</b>
+    <sub><i>"" Consider the rights of others before your own feelings, and the feelings of others before your own rights. ""</i></sub><br>
+    <b>— ___ John Wooden ___</b>
   </p>
 </div>
 
