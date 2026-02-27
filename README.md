@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All know that the drop merges into the ocean, but few know that the ocean merges into the drop. ""</i></sub><br>
-    <b>— ___ Kabir ___</b>
+    <sub><i>"" A man with outward courage dares to die: a man with inner courage dares to live. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
