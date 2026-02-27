@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Is it really possible to tell someone else what one feels? ""</i></sub><br>
-    <b>— ___ Leo Tolstoy ___</b>
+    <sub><i>"" The dream is free, but the hustle is sold separately. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
