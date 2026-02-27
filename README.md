@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" Your gift is something that you can do innately better than anything else. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
