@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only difference between success and failure is the ability to take action. ""</i></sub><br>
-    <b>— ___ Alexander Graham Bell ___</b>
+    <sub><i>"" It is the power of the mind to be unconquerable. ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
