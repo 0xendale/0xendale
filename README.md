@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A self that goes on changing is a self that goes on living. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" Throw your heart over the bar and your body will follow. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
