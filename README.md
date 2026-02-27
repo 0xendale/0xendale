@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The time is now, the place is here. Stay in the present. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. ""</i></sub><br>
+    <b>— ___ James Cameron ___</b>
   </p>
 </div>
 
