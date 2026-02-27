@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The older you get, the more you understand how your conscience works. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" If you are ever the smartest person in the room, you are in the wrong room. ""</i></sub><br>
+    <b>— ___ C. Sean McGee ___</b>
   </p>
 </div>
 
