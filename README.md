@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man with outward courage dares to die: a man with inner courage dares to live. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" A mountain never yields to the wind no matter how strong it is. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
