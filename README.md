@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" an action committed in anger is an action doomed to failure.  ""</i></sub><br>
-    <b>— ___ Genghis Khan ___</b>
+    <sub><i>"" Is it really possible to tell someone else what one feels? ""</i></sub><br>
+    <b>— ___ Leo Tolstoy ___</b>
   </p>
 </div>
 
