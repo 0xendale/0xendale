@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. ""</i></sub><br>
-    <b>— ___ John Tukey ___</b>
+    <sub><i>"" He suffers more than necessary, who suffers before it is necessary.   ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
