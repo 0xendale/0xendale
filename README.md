@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There's no coming to consciousness without pain ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" The great use of life is to spend it for something that will outlast it. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
