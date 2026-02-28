@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are no mistakes in life, only lessons. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" Closing your eyes and listening to silence is self-care. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
