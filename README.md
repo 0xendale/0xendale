@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He suffers more than necessary, who suffers before it is necessary.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" Discontent is the first necessity of progress. ""</i></sub><br>
+    <b>— ___ Thomas Edison ___</b>
   </p>
 </div>
 
