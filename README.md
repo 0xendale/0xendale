@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Reality is the leading cause of stress among those in touch with it. ""</i></sub><br>
-    <b>— ___ Lily Tomlin ___</b>
+    <sub><i>"" There are no shortcuts to any place worth going. ""</i></sub><br>
+    <b>— ___ Beverly Sills ___</b>
   </p>
 </div>
 
