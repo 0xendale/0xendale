@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing is really work unless you would rather be doing something else.  ""</i></sub><br>
-    <b>— ___ James Matthew Barrie ___</b>
+    <sub><i>"" Courage is fear that has said its prayers and decided to go forward anyway. ""</i></sub><br>
+    <b>— ___ Joyce Meyer ___</b>
   </p>
 </div>
 
