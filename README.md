@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The hard path is often the right one. The river teaches more than the shore. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" Keep your face always toward the sunshine -  shadows will fall behind you. ""</i></sub><br>
+    <b>— ___ Walt Whitman ___</b>
   </p>
 </div>
 
