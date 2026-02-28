@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Better to live until you die. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" You are never too old to set another goal or to dream a new dream. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
