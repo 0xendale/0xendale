@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Discontent is the first necessity of progress. ""</i></sub><br>
-    <b>— ___ Thomas Edison ___</b>
+    <sub><i>"" No valid plans for the future can be made by those who have no capacity for living now. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
