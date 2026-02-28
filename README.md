@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sometimes you put walls up not to keep people out, but to see who cares enough to break them down. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
