@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Till it has loved, no man or woman can become itself. ""</i></sub><br>
-    <b>— ___ Emily Dickinson ___</b>
+    <sub><i>"" Don't blame others. it won't make you a better person. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
