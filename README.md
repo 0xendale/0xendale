@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where there is anger, there is always pain underneath. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" You don't earn loyalty in a day. You earn loyalty day-by-day. ""</i></sub><br>
+    <b>— ___ Jeffrey Gitomer ___</b>
   </p>
 </div>
 
