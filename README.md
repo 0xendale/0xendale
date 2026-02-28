@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't blame others. it won't make you a better person. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" The pursuit of mastery bears gifts.  ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
