@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To create more positive results in your life, replace 'if only' with 'next time'. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" Success is a poor teacher. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
