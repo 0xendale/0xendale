@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Courage is fear that has said its prayers and decided to go forward anyway. ""</i></sub><br>
-    <b>— ___ Joyce Meyer ___</b>
+    <sub><i>"" Victims recite problems, leaders provide solutions. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
