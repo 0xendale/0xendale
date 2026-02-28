@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One always begins to forgive a place as soon as it's left behind. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" There's no coming to consciousness without pain ""</i></sub><br>
+    <b>— ___ Carl Jung ___</b>
   </p>
 </div>
 
