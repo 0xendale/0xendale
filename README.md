@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Abundance of knowledge does not teach men to be wise. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" Reality is the leading cause of stress among those in touch with it. ""</i></sub><br>
+    <b>— ___ Lily Tomlin ___</b>
   </p>
 </div>
 
