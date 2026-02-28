@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't earn loyalty in a day. You earn loyalty day-by-day. ""</i></sub><br>
-    <b>— ___ Jeffrey Gitomer ___</b>
+    <sub><i>"" Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
