@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The pursuit of mastery bears gifts.  ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" There are no mistakes in life, only lessons. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
