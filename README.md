@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  ""</i></sub><br>
-    <b>— ___ George Washington ___</b>
+    <sub><i>"" Better to live until you die. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
