@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Men go to far greater lengths to avoid what they fear than to obtain what they desire. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
