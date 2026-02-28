@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The impossible can always be broken down into possibilities. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Till it has loved, no man or woman can become itself. ""</i></sub><br>
+    <b>— ___ Emily Dickinson ___</b>
   </p>
 </div>
 
