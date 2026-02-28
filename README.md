@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The great use of life is to spend it for something that will outlast it. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" You are your best thing. ""</i></sub><br>
+    <b>— ___ Toni Morrison ___</b>
   </p>
 </div>
 
