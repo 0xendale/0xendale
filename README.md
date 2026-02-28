@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are never too old to set another goal or to dream a new dream. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Go confidently in the direction of your dreams. Live the life you've imagined. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
