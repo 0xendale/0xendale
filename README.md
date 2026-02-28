@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Go confidently in the direction of your dreams. Live the life you've imagined. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" Opportunity often comes disguised in the form of misfortune or temporary defeat. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
