@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  ""</i></sub><br>
+    <b>— ___ George Washington ___</b>
   </p>
 </div>
 
