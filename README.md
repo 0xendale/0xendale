@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We have no more right to consume happiness without producing it than to consume wealth without producing it. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" To create more positive results in your life, replace 'if only' with 'next time'. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
