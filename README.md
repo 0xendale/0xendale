@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't bother people for help without first trying to solve the problem yourself. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Sometimes you put walls up not to keep people out, but to see who cares enough to break them down. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
