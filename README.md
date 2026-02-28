@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Men go to far greater lengths to avoid what they fear than to obtain what they desire. ""</i></sub><br>
-    <b>— ___ Dan Brown ___</b>
+    <sub><i>"" Don't bother people for help without first trying to solve the problem yourself. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
