@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never argue with stupid people, they will drag you down to their level and then beat you with experience. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Turn off your mind, relax, and float downstream. ""</i></sub><br>
+    <b>— ___ John Lennon ___</b>
   </p>
 </div>
 
