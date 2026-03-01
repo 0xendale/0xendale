@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" It takes half your life before you discover life is a do-it-yourself project. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
