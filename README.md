@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is but one dream flowing into another. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" Fear does not have any special power unless you empower it by submitting to it. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
