@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is essentially an endless series of problems. The solution to one problem is merely the creation of another. ""</i></sub><br>
-    <b>— ___ Mark Manson ___</b>
+    <sub><i>"" There is no path to Happiness. Happiness is the path. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
