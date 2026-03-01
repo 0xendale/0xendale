@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You cannot find peace avoiding life. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" I know of only one duty, and that is to love. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
