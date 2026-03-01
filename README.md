@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. ""</i></sub><br>
-    <b>— ___ Anita Krizzan ___</b>
+    <sub><i>"" Sadness is but a wall between two gardens. ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
