@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Blessed is he who expects nothing, for he shall never be disappointed. ""</i></sub><br>
-    <b>— ___ Alexander Pope ___</b>
+    <sub><i>"" We cannot change anything unless we accept it. ""</i></sub><br>
+    <b>— ___ Carl Jung ___</b>
   </p>
 </div>
 
