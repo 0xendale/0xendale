@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Shoot for the moon, because even if you miss, you'll land among the stars. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Life is ten percent what you experience and ninety percent how you respond to it. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
