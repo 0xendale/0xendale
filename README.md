@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If your mind is empty, it is always ready for anything, it is open to everything. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" Blessed is he who expects nothing, for he shall never be disappointed. ""</i></sub><br>
+    <b>— ___ Alexander Pope ___</b>
   </p>
 </div>
 
