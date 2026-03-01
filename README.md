@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We cannot change anything unless we accept it. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" Life is essentially an endless series of problems. The solution to one problem is merely the creation of another. ""</i></sub><br>
+    <b>— ___ Mark Manson ___</b>
   </p>
 </div>
 
