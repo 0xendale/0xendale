@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The pursuit of mastery bears gifts.  ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Learn to value yourself, which means: fight for your happiness. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
