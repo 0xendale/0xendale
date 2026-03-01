@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Chop your own wood and it will warm you twice.  ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" We can either add to our character each day, or we can fritter away our energies in distractions. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
