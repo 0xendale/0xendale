@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is not fair to ask of others what you are not willing to do yourself. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" Management is doing things right; leadership is doing the right things. ""</i></sub><br>
+    <b>— ___ Peter Drucker ___</b>
   </p>
 </div>
 
