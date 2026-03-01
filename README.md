@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who wishes to be obeyed must know how to command. ""</i></sub><br>
-    <b>— ___ Niccolo Machiavelli ___</b>
+    <sub><i>"" The pain of parting is nothing to the joy of meeting again. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
