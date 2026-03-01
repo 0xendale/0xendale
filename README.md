@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no path to Happiness. Happiness is the path. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Chop your own wood and it will warm you twice.  ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
