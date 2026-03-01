@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are shaped and fashioned by what we love. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" The decisions of our past are the architects of our present. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
