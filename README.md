@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Management is doing things right; leadership is doing the right things. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" Shoot for the moon, because even if you miss, you'll land among the stars. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
