@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Learn to value yourself, which means: fight for your happiness. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" Life is but one dream flowing into another. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
