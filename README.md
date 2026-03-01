@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" You cannot find peace avoiding life. ""</i></sub><br>
+    <b>— ___ Virginia Woolf ___</b>
   </p>
 </div>
 
