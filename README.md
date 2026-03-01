@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Turn off your mind, relax, and float downstream. ""</i></sub><br>
-    <b>— ___ John Lennon ___</b>
+    <sub><i>"" Every drop in the ocean counts.  ""</i></sub><br>
+    <b>— ___ Yoko Ono ___</b>
   </p>
 </div>
 
