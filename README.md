@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are only encounters in history. There are no accidents. ""</i></sub><br>
-    <b>— ___ Pablo Picasso ___</b>
+    <sub><i>"" The energy of the mind is the essence of life. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
