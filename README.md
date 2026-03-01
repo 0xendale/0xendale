@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The energy of the mind is the essence of life. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" We are shaped and fashioned by what we love. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
