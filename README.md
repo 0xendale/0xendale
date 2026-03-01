@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It takes half your life before you discover life is a do-it-yourself project. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" The pursuit of mastery bears gifts.  ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
