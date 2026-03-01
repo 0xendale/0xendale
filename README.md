@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not pray for an easy life, pray for the strength to endure a difficult one.   ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" There are only encounters in history. There are no accidents. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
