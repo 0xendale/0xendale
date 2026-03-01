@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The pain of parting is nothing to the joy of meeting again. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" Yesterday is but today's memory, tomorrow is today's dream. ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
