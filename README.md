@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In order to attain the impossible, one must attempt the absurd. ""</i></sub><br>
-    <b>— ___ Miguel de Cervantes ___</b>
+    <sub><i>"" If your mind is empty, it is always ready for anything, it is open to everything. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
