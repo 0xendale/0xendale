@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Unhappiness enters through a door that has been left open. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" Fortunate are those who take the first steps. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
