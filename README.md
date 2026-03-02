@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only people without problems are those in cemeteries. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" You are what you do, not what you say you'll do. ""</i></sub><br>
+    <b>— ___ Carl Jung ___</b>
   </p>
 </div>
 
