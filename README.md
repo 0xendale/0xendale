@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" See what you're doing wrong, laugh at it, change and do better. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" You can start changing our world for the better daily, no matter how small the action. ""</i></sub><br>
+    <b>— ___ Nelson Mandela ___</b>
   </p>
 </div>
 
