@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Start each day with a positive thought and a grateful heart. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" If you think adventure is dangerous, try routine; it is lethal. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
