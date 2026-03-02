@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In matters of style, swim with the current; in matters of principle, stand like a rock. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Start each day with a positive thought and a grateful heart. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
