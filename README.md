@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The man who removes a mountain begins by carrying away small stones. ""</i></sub><br>
-    <b>— ___ William Faulkner ___</b>
+    <sub><i>"" In matters of style, swim with the current; in matters of principle, stand like a rock. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
