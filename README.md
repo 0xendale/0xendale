@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Focus is a matter of deciding what things you're not going to do. ""</i></sub><br>
-    <b>— ___ John Carmack ___</b>
+    <sub><i>"" There is little success where there is little laughter. ""</i></sub><br>
+    <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
 
