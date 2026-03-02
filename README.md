@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I learned the value of hard work by working hard.  ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" In order to control myself I must first accept myself by going with and not against my nature. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
