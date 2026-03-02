@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are what you do, not what you say you'll do. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" There is an essence of when you are fearless, you become more creative. ""</i></sub><br>
+    <b>— ___ Gurbaksh Chahal ___</b>
   </p>
 </div>
 
