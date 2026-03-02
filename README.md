@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them. ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" Only when you can be extremely pliable and soft can you be extremely hard and strong. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
