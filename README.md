@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you do what you've always done, you'll get what you've always gotten. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" The source of a true smile is an awakened mind. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
