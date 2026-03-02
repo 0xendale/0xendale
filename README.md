@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Whatever happens always happens on time. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" Great ones are willing to get burned time and again as they sharpen their swords in the fire. ""</i></sub><br>
+    <b>— ___ Josh Waitzkin ___</b>
   </p>
 </div>
 
