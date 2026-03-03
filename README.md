@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't get to a place that you don't believe exists. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Everyone is a moon, and has a dark side which he never shows to anybody. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
