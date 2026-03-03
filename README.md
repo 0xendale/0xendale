@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People should pursue what they're passionate about. That will make them happier than pretty much anything else. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" What do we live for if not to make life less difficult for each other? ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
