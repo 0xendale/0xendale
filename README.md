@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Either get busy living or get busy dying. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" Every limit is a beginning as well as an ending. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
