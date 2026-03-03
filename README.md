@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest adventure you can ever take is to live the life of your dreams.  ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" The health of nations is more important than the wealth of nations. ""</i></sub><br>
+    <b>— ___ Will Rogers ___</b>
   </p>
 </div>
 
