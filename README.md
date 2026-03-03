@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You need to be doing fewer things for more effect instead of doing more things with side effects. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Re-examine all that you have been told... dismiss that which insults your soul. ""</i></sub><br>
+    <b>— ___ Walt Whitman ___</b>
   </p>
 </div>
 
