@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not what happens to you, but how you react to it that matters. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" People should pursue what they're passionate about. That will make them happier than pretty much anything else. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
