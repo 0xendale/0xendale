@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Re-examine all that you have been told... dismiss that which insults your soul. ""</i></sub><br>
-    <b>— ___ Walt Whitman ___</b>
+    <sub><i>"" If you're really truthful with yourself, it's a wonderful guidance.   ""</i></sub><br>
+    <b>— ___ Charlie Chaplin ___</b>
   </p>
 </div>
 
