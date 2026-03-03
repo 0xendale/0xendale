@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The guest will judge better of a feast than the cook. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
