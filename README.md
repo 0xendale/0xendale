@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is growth. If we stop growing, technically and spiritually, we are as good as dead. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" Honor is the foundation of courage. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
