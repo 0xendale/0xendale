@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life's too mysterious to take too serious. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" You can't get to a place that you don't believe exists. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
