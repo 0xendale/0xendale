@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you're really truthful with yourself, it's a wonderful guidance.   ""</i></sub><br>
-    <b>— ___ Charlie Chaplin ___</b>
+    <sub><i>"" You are the average of the five people you spend the most time with. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
