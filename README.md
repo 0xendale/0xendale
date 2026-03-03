@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The health of nations is more important than the wealth of nations. ""</i></sub><br>
-    <b>— ___ Will Rogers ___</b>
+    <sub><i>"" You need to be doing fewer things for more effect instead of doing more things with side effects. ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
