@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If the plan doesn't work, change the plan, but never the goal. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" The final mystery is oneself. ""</i></sub><br>
+    <b>— ___ Oscar Wilde ___</b>
   </p>
 </div>
 
