@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are the average of the five people you spend the most time with. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" The guest will judge better of a feast than the cook. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
