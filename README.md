@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you don't like something, change it. If you can't change it, change your attitude. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" The biggest adventure you can ever take is to live the life of your dreams.  ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
