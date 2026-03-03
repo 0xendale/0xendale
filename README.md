@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Blessed is he who expects nothing, for he shall never be disappointed. ""</i></sub><br>
-    <b>— ___ Alexander Pope ___</b>
+    <sub><i>"" Life's too mysterious to take too serious. ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
