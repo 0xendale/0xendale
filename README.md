@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every limit is a beginning as well as an ending. ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" Life is growth. If we stop growing, technically and spiritually, we are as good as dead. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
