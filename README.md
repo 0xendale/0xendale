@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Relax. Nothing is under control. ""</i></sub><br>
-    <b>— ___ Adi Da Samraj ___</b>
+    <sub><i>"" Trust, but verify. ""</i></sub><br>
+    <b>— ___ Ronald Reagan ___</b>
   </p>
 </div>
 
