@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change yourself and you have done your part in changing the world. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" If you think you can do a thing or think you can't do a thing, you're right. ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
