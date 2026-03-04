@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" We must have strong minds, ready to accept facts as they are. ""</i></sub><br>
+    <b>— ___ Harry S. Truman ___</b>
   </p>
 </div>
 
