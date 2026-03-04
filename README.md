@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What keeps life fascinating is the constant creativity of the soul. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better. ""</i></sub><br>
+    <b>— ___ Benjamin Mays ___</b>
   </p>
 </div>
 
