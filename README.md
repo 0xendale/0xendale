@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you know what you want, and you want it bad enough, you will find a way to get it. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" Always keep your eyes open. Keep watching. Because whatever you see can inspire you. ""</i></sub><br>
+    <b>— ___ Grace Coddington ___</b>
   </p>
 </div>
 
