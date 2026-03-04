@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. ""</i></sub><br>
-    <b>— ___ Amelia Earhart ___</b>
+    <sub><i>"" Big people don't make people feel small. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
