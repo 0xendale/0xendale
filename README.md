@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always keep your eyes open. Keep watching. Because whatever you see can inspire you. ""</i></sub><br>
-    <b>— ___ Grace Coddington ___</b>
+    <sub><i>"" You are never too old to become younger. ""</i></sub><br>
+    <b>— ___ Mae West ___</b>
   </p>
 </div>
 
