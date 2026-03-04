@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Big people don't make people feel small. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" Maybe you are searching among the branches, for what only appears in the roots. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
