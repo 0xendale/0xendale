@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It doesn't matter how slow you go, as long as you don't stop. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Success is the sum of small efforts, repeated day in and day out. ""</i></sub><br>
+    <b>— ___ Robert Collier ___</b>
   </p>
 </div>
 
