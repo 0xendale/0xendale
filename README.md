@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only I can change my life. No one can do it for me. ""</i></sub><br>
-    <b>— ___ Carol Burnett ___</b>
+    <sub><i>"" Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
