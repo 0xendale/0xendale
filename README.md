@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everything you've ever wanted is on the other side of fear. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
