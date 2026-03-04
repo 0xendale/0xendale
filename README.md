@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We have no more right to consume happiness without producing it than to consume wealth without producing it. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" It doesn't matter how slow you go, as long as you don't stop. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
