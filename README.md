@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are never too old to become younger. ""</i></sub><br>
-    <b>— ___ Mae West ___</b>
+    <sub><i>"" We have no more right to consume happiness without producing it than to consume wealth without producing it. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
