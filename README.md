@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" Management is doing things right; leadership is doing the right things. ""</i></sub><br>
+    <b>— ___ Peter Drucker ___</b>
   </p>
 </div>
 
