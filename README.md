@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Management is doing things right; leadership is doing the right things. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" I've always tried to go a step past wherever people expected me to end up. ""</i></sub><br>
+    <b>— ___ Beverly Sills ___</b>
   </p>
 </div>
 
