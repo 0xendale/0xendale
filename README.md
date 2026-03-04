@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Maybe you are searching among the branches, for what only appears in the roots. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Change yourself and you have done your part in changing the world. ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
