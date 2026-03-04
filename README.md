@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We must have strong minds, ready to accept facts as they are. ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" Failure means you've now learned another valuable lesson that pushes you one step closer to success. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
