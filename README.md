@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The truth is rarely pure and never simple.  ""</i></sub><br>
-    <b>— ___ Oscar Wilde ___</b>
+    <sub><i>"" You are not stuck where you are unless you decide to be.   ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
