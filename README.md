@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your gift is something that you can do innately better than anything else. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  ""</i></sub><br>
+    <b>— ___ Nikola Tesla ___</b>
   </p>
 </div>
 
