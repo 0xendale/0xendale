@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is never too late to be what you might have been. ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
