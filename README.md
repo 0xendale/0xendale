@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wealth consists not in having great possessions, but in having few wants. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" The truth is rarely pure and never simple.  ""</i></sub><br>
+    <b>— ___ Oscar Wilde ___</b>
   </p>
 </div>
 
