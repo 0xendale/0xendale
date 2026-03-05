@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" Don't live the same year 75 times and call it a life. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
