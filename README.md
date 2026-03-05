@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always remember that you are absolutely unique. Just like everyone else.  ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" We can see through others only when we can see through ourselves. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
