@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are not stuck where you are unless you decide to be.   ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
