@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We run to win, not just to be in the race.   ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" A clear conscience never fears midnight knocking. ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
