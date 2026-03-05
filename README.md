@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A Penny Saved is a Penny Earned ""</i></sub><br>
-    <b>— ___ Benjamin Franklin ___</b>
+    <sub><i>"" It is never too late to be what you might have been. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
