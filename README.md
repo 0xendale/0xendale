@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" A Penny Saved is a Penny Earned ""</i></sub><br>
+    <b>— ___ Benjamin Franklin ___</b>
   </p>
 </div>
 
