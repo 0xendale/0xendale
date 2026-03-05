@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Strategy is a commodity, execution is an art. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" We run to win, not just to be in the race.   ""</i></sub><br>
+    <b>— ___ Vince Lombardi ___</b>
   </p>
 </div>
 
