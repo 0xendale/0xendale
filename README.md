@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't need to be better than anyone else, you just need to be better than you used to be. ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" Always remember that you are absolutely unique. Just like everyone else.  ""</i></sub><br>
+    <b>— ___ Margaret Mead ___</b>
   </p>
 </div>
 
