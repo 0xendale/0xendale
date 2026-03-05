@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A clear conscience never fears midnight knocking. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
