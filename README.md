@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Beware of false knowledge, it is more dangerous than ignorance. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" Either get busy living or get busy dying. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
