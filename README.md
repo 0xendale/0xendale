@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow.  ""</i></sub><br>
-    <b>— ___ Orison Swett Marden ___</b>
+    <sub><i>"" The moment you stop to think about whether you love someone, you've already stopped loving that person forever. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
