@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you don't like something, change it. If you can't change it, change your attitude. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" We have more possibilities available in each moment than we realize. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
