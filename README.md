@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is a poor teacher. ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" Opportunity is missed by most people because it is dressed in overalls and looks like work. ""</i></sub><br>
+    <b>— ___ Thomas Edison ___</b>
   </p>
 </div>
 
