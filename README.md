@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not everything that weighs you down is yours to carry. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Success is a poor teacher. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
