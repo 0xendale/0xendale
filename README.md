@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing is permanent in this wicked world - not even our troubles. ""</i></sub><br>
-    <b>— ___ Charlie Chaplin ___</b>
+    <sub><i>"" Ripe fruit falls by itself - but it doesn't fall in your mouth.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
