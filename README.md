@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can often change your circumstances by changing your attitude. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" Once a decision was made, I didn't worry about it afterward. ""</i></sub><br>
+    <b>— ___ Harry S. Truman ___</b>
   </p>
 </div>
 
