@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Opportunity is missed by most people because it is dressed in overalls and looks like work. ""</i></sub><br>
-    <b>— ___ Thomas Edison ___</b>
+    <sub><i>"" People become attached to their burdens sometimes more than the burdens are attached to them. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
