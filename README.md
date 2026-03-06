@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If there were no God, there would be no atheists. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Blessed is he who expects nothing, for he shall never be disappointed. ""</i></sub><br>
+    <b>— ___ Alexander Pope ___</b>
   </p>
 </div>
 
