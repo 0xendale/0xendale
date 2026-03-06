@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" You can often change your circumstances by changing your attitude. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
