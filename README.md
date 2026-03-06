@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" By changing nothing, nothing changes. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" Every limit is a beginning as well as an ending. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
