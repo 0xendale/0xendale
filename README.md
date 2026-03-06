@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In the end, it's not the years in your life that count. It's the life in your years. ""</i></sub><br>
-    <b>— ___ Abraham Lincoln ___</b>
+    <sub><i>"" Never buy a thing you do not want, because it is cheap, it will be dear to you. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
