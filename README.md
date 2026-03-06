@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never buy a thing you do not want, because it is cheap, it will be dear to you. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" If you don't like something, change it. If you can't change it, change your attitude. ""</i></sub><br>
+    <b>— ___ Maya Angelou ___</b>
   </p>
 </div>
 
