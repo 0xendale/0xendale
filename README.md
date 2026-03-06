@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" True wealth is of the heart, not of the purse. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" In the end, it's not the years in your life that count. It's the life in your years. ""</i></sub><br>
+    <b>— ___ Abraham Lincoln ___</b>
   </p>
 </div>
 
