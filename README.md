@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your greatest asset is your earning ability. Your greatest resource is your time. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" A good stance and posture reflect a proper state of mind. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
