@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trusting our intuition often saves us from disaster.  ""</i></sub><br>
-    <b>— ___ Anne Wilson Schaef ___</b>
+    <sub><i>"" Truth is such a rare thing, it is delighted to tell it. ""</i></sub><br>
+    <b>— ___ Emily Dickinson ___</b>
   </p>
 </div>
 
