@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" But better die than live mechanically a life that is a repetition of repetitions. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  ""</i></sub><br>
+    <b>— ___ Samuel Beckett ___</b>
   </p>
 </div>
 
