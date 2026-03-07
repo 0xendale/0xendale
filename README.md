@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" How you think is as important as as what you think. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Don't try to be young. Just open your mind. Stay interested in stuff. ""</i></sub><br>
+    <b>— ___ Betty White ___</b>
   </p>
 </div>
 
