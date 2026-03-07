@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
