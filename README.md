@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
