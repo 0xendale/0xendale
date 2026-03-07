@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Without the rain there would be no rainbow. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
