@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself. ""</i></sub><br>
-    <b>— ___ Alexander Graham Bell ___</b>
+    <sub><i>"" The fear of death is more to be feared, than death itself. ""</i></sub><br>
+    <b>— ___ Publilius Syrus ___</b>
   </p>
 </div>
 
