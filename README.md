@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" You can calculate the worth of a man by the number of his enemies. ""</i></sub><br>
+    <b>— ___ Gustave Flaubert ___</b>
   </p>
 </div>
 
