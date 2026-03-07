@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who laughs at himself never runs out of things to laugh at. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Happiness is pretty simple: someone to love, something to do, something to look forward to. ""</i></sub><br>
+    <b>— ___ Rita Mae Brown ___</b>
   </p>
 </div>
 
