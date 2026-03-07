@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  ""</i></sub><br>
-    <b>— ___ Nikola Tesla ___</b>
+    <sub><i>"" It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
