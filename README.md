@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The fear of death is more to be feared, than death itself. ""</i></sub><br>
-    <b>— ___ Publilius Syrus ___</b>
+    <sub><i>"" We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences  ""</i></sub><br>
+    <b>— ___ Nikola Tesla ___</b>
   </p>
 </div>
 
