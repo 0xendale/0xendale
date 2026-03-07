@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't try to be young. Just open your mind. Stay interested in stuff. ""</i></sub><br>
-    <b>— ___ Betty White ___</b>
+    <sub><i>"" I don't walk away from things that I think are unfinished. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
