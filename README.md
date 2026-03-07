@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. ""</i></sub><br>
-    <b>— ___ Albus Dumbledore ___</b>
+    <sub><i>"" Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. ""</i></sub><br>
+    <b>— ___ Alexandre Dumas ___</b>
   </p>
 </div>
 
