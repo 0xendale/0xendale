@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. ""</i></sub><br>
-    <b>— ___ Charles Spurgeon ___</b>
+    <sub><i>"" A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself. ""</i></sub><br>
+    <b>— ___ Alexander Graham Bell ___</b>
   </p>
 </div>
 
