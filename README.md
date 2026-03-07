@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To love means loving the unlovable. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
