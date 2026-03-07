@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All human wisdom is contained in these two words - Wait and Hope ""</i></sub><br>
-    <b>— ___ Alexandre Dumas ___</b>
+    <sub><i>"" The danger of an adventure is worth a thousand days of ease and comfort. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
