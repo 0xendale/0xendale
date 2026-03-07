@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. ""</i></sub><br>
-    <b>— ___ Alexandre Dumas ___</b>
+    <sub><i>"" Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
