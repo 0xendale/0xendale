@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Showing off is the fool's idea of glory.  ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" How you think is as important as as what you think. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
