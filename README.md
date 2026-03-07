@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The wisest men follow their own direction. ""</i></sub><br>
-    <b>— ___ Euripides ___</b>
+    <sub><i>"" Life does not get better by chance, it gets better by change. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
