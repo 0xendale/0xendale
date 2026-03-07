@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I don't walk away from things that I think are unfinished. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" The wisest men follow their own direction. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
