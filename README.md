@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Doing what you love is the cornerstone of having abundance in your life.  ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" Man suffers only because he takes seriously what the gods made for fun. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
