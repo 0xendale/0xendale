@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
