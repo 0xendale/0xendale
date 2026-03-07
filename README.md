@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. ""</i></sub><br>
-    <b>— ___ Billie Jean King ___</b>
+    <sub><i>"" Doing what you love is the cornerstone of having abundance in your life.  ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
