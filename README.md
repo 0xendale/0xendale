@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We become brave by doing brave acts. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
