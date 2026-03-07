@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Dreams are the royal road to the unconscious.  ""</i></sub><br>
-    <b>— ___ Sigmund Freud ___</b>
+    <sub><i>"" Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.  ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
