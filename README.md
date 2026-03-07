@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" It is not uncommon for people to spend their whole life waiting to start living. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
