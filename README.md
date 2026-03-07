@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  ""</i></sub><br>
-    <b>— ___ Samuel Beckett ___</b>
+    <sub><i>"" Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. ""</i></sub><br>
+    <b>— ___ Billie Jean King ___</b>
   </p>
 </div>
 
