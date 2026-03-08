@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can discover what your enemy fears most by observing the means he uses to frighten you. ""</i></sub><br>
-    <b>— ___ Eric Hoffer ___</b>
+    <sub><i>"" Don't explain your philosophy. Embody it. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
