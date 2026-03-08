@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even the smallest person can change the course of the future. ""</i></sub><br>
-    <b>— ___ J.R.R. Tolkien ___</b>
+    <sub><i>"" It is in the darkness that one finds the light. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
