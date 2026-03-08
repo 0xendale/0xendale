@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing can bring you peace but yourself. ""</i></sub><br>
-    <b>— ___ Dale Carnegie ___</b>
+    <sub><i>"" Any fool can turn a blind eye but who knows what the ostrich sees in the sand. ""</i></sub><br>
+    <b>— ___ Samuel Beckett ___</b>
   </p>
 </div>
 
