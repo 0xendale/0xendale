@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Let the beauty of what you love be what you do. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Our truest life is when we are in dreams awake. ""</i></sub><br>
+    <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
 
