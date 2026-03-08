@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can easily judge the character of a man by how he treats those who can do nothing for him. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" The two most powerful warriors are patience and time. ""</i></sub><br>
+    <b>— ___ Leo Tolstoy ___</b>
   </p>
 </div>
 
