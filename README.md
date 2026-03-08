@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never was anything great achieved without danger. ""</i></sub><br>
-    <b>— ___ Niccolo Machiavelli ___</b>
+    <sub><i>"" It's necessary to get the losers out of your life if you want to live your dream. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
