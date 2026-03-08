@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You know you are on the road to success if you would do your job and not be paid for it. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" Without the confidence, nothing can be accomplished. ""</i></sub><br>
+    <b>— ___ Sathya Sai Baba ___</b>
   </p>
 </div>
 
