@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is really simple, but men insist on making it complicated.  ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Treat every moment as your last. It is not preparation for something else. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
