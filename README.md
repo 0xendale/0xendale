@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is achieved and maintained by those who try and keep trying.  ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" No one can compete with you on being you. Most of life is a search for who and what needs you the most. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
