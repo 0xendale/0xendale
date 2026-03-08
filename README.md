@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" Self-control is strength. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
