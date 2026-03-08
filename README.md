@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. ""</i></sub><br>
-    <b>— ___ Albus Dumbledore ___</b>
+    <sub><i>"" All men are equal before fish. ""</i></sub><br>
+    <b>— ___ Herbert Hoover ___</b>
   </p>
 </div>
 
