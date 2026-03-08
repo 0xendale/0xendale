@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The two most powerful warriors are patience and time. ""</i></sub><br>
-    <b>— ___ Leo Tolstoy ___</b>
+    <sub><i>"" Successful people tend to become more successful because they are always thinking about their successes. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
