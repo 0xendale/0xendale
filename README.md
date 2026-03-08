@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Growth comes at the point of resistance. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" Even the smallest person can change the course of the future. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
