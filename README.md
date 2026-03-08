@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Why compare yourself with others? No one in the entire world can do a better job of being you than you. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Abundance of knowledge does not teach men to be wise. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
