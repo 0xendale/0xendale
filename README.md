@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All men are equal before fish. ""</i></sub><br>
-    <b>— ___ Herbert Hoover ___</b>
+    <sub><i>"" Nothing can bring you peace but yourself. ""</i></sub><br>
+    <b>— ___ Dale Carnegie ___</b>
   </p>
 </div>
 
