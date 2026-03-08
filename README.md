@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Our truest life is when we are in dreams awake. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" If you don't make things happen then things will happen to you. ""</i></sub><br>
+    <b>— ___ Robert Collier ___</b>
   </p>
 </div>
 
