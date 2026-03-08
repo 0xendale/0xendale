@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's necessary to get the losers out of your life if you want to live your dream. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Success is achieved and maintained by those who try and keep trying.  ""</i></sub><br>
+    <b>— ___ W. Clement Stone ___</b>
   </p>
 </div>
 
