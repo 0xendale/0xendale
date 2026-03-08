@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No one can compete with you on being you. Most of life is a search for who and what needs you the most. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
