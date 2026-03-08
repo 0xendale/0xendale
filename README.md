@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A zen master's life is one continuous mistake. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" I'm an optimist by choice not by stupidity. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
