@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" We may not be able to stop evil in the world, but how we treat one another is entirely up to us. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
