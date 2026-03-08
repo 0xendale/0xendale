@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Treat every moment as your last. It is not preparation for something else. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" You can easily judge the character of a man by how he treats those who can do nothing for him. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
