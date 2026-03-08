@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Without the confidence, nothing can be accomplished. ""</i></sub><br>
-    <b>— ___ Sathya Sai Baba ___</b>
+    <sub><i>"" A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
