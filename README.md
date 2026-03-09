@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who are possessed by nothing possess everything. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" Fear is a natural reaction to moving closer to the truth. ""</i></sub><br>
+    <b>— ___ Pema Chodron ___</b>
   </p>
 </div>
 
