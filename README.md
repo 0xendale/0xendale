@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People think about what they don't want and attract more of the same. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Whatever you think the world is withholding from you, you are withholding from the world. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
