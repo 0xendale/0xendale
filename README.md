@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is ours to be spent, not to be saved.  ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" Those who are possessed by nothing possess everything. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
