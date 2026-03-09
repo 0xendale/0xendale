@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If no one ever broke the rules, then we'd never advance. ""</i></sub><br>
-    <b>— ___ Simon Sinek ___</b>
+    <sub><i>"" Never to suffer would never to have been blessed. ""</i></sub><br>
+    <b>— ___ Edgar Allan Poe ___</b>
   </p>
 </div>
 
