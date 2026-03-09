@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to know what God thinks about money just look at the people He gives it to. ""</i></sub><br>
-    <b>— ___ Alexander Pope ___</b>
+    <sub><i>"" The most difficult times for many of us are the ones we give ourselves. ""</i></sub><br>
+    <b>— ___ Pema Chodron ___</b>
   </p>
 </div>
 
