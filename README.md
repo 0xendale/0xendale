@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do. ""</i></sub><br>
-    <b>— ___ Nelson Mandela ___</b>
+    <sub><i>"" If you want to know what God thinks about money just look at the people He gives it to. ""</i></sub><br>
+    <b>— ___ Alexander Pope ___</b>
   </p>
 </div>
 
