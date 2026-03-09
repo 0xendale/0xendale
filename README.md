@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No amount of regretting can change the past, and no amount of worrying can change the future. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" I'm an optimist by choice not by stupidity. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
