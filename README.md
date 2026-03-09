@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who possesses most must be most afraid of loss. ""</i></sub><br>
-    <b>— ___ Leonardo da Vinci ___</b>
+    <sub><i>"" Courage is not having the strength to go on; it is going on when you don't have the strength. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
