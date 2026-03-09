@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Either get busy living or get busy dying. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" He who possesses most must be most afraid of loss. ""</i></sub><br>
+    <b>— ___ Leonardo da Vinci ___</b>
   </p>
 </div>
 
