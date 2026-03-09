@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The wise man reads both books and life itself. ""</i></sub><br>
-    <b>— ___ Lin Yutang ___</b>
+    <sub><i>"" Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do. ""</i></sub><br>
+    <b>— ___ Nelson Mandela ___</b>
   </p>
 </div>
 
