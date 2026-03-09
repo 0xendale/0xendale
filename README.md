@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories. ""</i></sub><br>
-    <b>— ___ Ray Bradbury ___</b>
+    <sub><i>"" If no one ever broke the rules, then we'd never advance. ""</i></sub><br>
+    <b>— ___ Simon Sinek ___</b>
   </p>
 </div>
 
