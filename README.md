@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Let us rather run the risk of wearing out than rusting out. ""</i></sub><br>
-    <b>— ___ Theodore Roosevelt ___</b>
+    <sub><i>"" Faithless is he that says farewell when the road darkens. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
