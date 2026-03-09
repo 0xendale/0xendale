@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I like the dreams of the future better than the history of the past. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Every one of us is the sum total of his own thoughts. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
