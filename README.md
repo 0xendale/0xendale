@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fear is a natural reaction to moving closer to the truth. ""</i></sub><br>
-    <b>— ___ Pema Chodron ___</b>
+    <sub><i>"" Let us rather run the risk of wearing out than rusting out. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
