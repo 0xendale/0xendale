@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's just a bad day, not a bad life. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" When one door closes another door opens.  ""</i></sub><br>
+    <b>— ___ Alexander Graham Bell ___</b>
   </p>
 </div>
 
