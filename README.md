@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Night is a more quiet time to work. It aids thought. ""</i></sub><br>
+    <b>— ___ Alexander Graham Bell ___</b>
   </p>
 </div>
 
