@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Stay away from people who makes you feel like you are wasting their time. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
