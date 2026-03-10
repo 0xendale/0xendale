@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What's the point in being smart enough to read, if everything you read makes you dumb? ""</i></sub><br>
-    <b>— ___ C. Sean McGee ___</b>
+    <sub><i>"" None but ourselves can free our minds. ""</i></sub><br>
+    <b>— ___ Bob Marley ___</b>
   </p>
 </div>
 
