@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never fear quarrels, but seek hazardous adventures. ""</i></sub><br>
-    <b>— ___ Alexandre Dumas ___</b>
+    <sub><i>"" Focused, hard work is the real key to success. ""</i></sub><br>
+    <b>— ___ John Carmack ___</b>
   </p>
 </div>
 
