@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" None but ourselves can free our minds. ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" Never fear quarrels, but seek hazardous adventures. ""</i></sub><br>
+    <b>— ___ Alexandre Dumas ___</b>
   </p>
 </div>
 
