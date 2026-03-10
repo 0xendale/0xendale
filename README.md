@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We must accept finite disappointment, but never lose infinite hope. ""</i></sub><br>
-    <b>— ___ Martin Luther King, Jr. ___</b>
+    <sub><i>"" The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence. ""</i></sub><br>
+    <b>— ___ Josh Waitzkin ___</b>
   </p>
 </div>
 
