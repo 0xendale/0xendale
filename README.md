@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
