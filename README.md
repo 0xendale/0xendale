@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You will not do incredible things without an incredible dream. ""</i></sub><br>
-    <b>— ___ John Eliot ___</b>
+    <sub><i>"" If we know how to adapt, we end up being superior. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
