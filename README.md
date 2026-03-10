@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Obstacles don't block the path, they are the path. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" Forever is composed of now's. ""</i></sub><br>
+    <b>— ___ Emily Dickinson ___</b>
   </p>
 </div>
 
