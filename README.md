@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When one door closes another door opens.  ""</i></sub><br>
-    <b>— ___ Alexander Graham Bell ___</b>
+    <sub><i>"" It's always to soon to quit! ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
