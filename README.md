@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Night is a more quiet time to work. It aids thought. ""</i></sub><br>
-    <b>— ___ Alexander Graham Bell ___</b>
+    <sub><i>"" The world doesn't owe you anything. It was here first. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
