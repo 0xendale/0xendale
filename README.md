@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A mountain never yields to the wind no matter how strong it is. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" We must accept finite disappointment, but never lose infinite hope. ""</i></sub><br>
+    <b>— ___ Martin Luther King, Jr. ___</b>
   </p>
 </div>
 
