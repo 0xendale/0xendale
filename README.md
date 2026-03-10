@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Integrity is the ability to stand by an idea. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" A goal is a dream with a deadline. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
