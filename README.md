@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We have a duty to maintain the light of consciousness to make sure it continues into the future. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" The man who removes a mountain begins by carrying away small stones. ""</i></sub><br>
+    <b>— ___ William Faulkner ___</b>
   </p>
 </div>
 
