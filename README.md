@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's always to soon to quit! ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" What's the point in being smart enough to read, if everything you read makes you dumb? ""</i></sub><br>
+    <b>— ___ C. Sean McGee ___</b>
   </p>
 </div>
 
