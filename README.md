@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The world doesn't owe you anything. It was here first. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" We have a duty to maintain the light of consciousness to make sure it continues into the future. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
