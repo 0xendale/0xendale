@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Our stories may be singular, but our destination is shared. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" You will not do incredible things without an incredible dream. ""</i></sub><br>
+    <b>— ___ John Eliot ___</b>
   </p>
 </div>
 
