@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A lie can travel half way around the world while the truth is putting on its shoes. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Our stories may be singular, but our destination is shared. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
