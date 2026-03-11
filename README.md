@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" First learn the meaning of what you say, and then speak. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
