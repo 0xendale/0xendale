@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Focused, hard work is the real key to success. ""</i></sub><br>
-    <b>— ___ John Carmack ___</b>
+    <sub><i>"" Better a diamond with a flaw than a pebble without one. ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
