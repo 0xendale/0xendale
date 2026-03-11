@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" First learn the meaning of what you say, and then speak. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" For every minute you are angry you lose sixty seconds of happiness. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
