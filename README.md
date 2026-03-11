@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" It is well known that those who do not trust themselves never trust others. ""</i></sub><br>
+    <b>— ___ Alfred Adler ___</b>
   </p>
 </div>
 
