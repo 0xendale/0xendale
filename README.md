@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Blessed is he who expects nothing, for he shall never be disappointed. ""</i></sub><br>
-    <b>— ___ Alexander Pope ___</b>
+    <sub><i>"" Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
