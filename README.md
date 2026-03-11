@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The best way out is always through. ""</i></sub><br>
-    <b>— ___ Robert Frost ___</b>
+    <sub><i>"" A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
