@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You just can't beat the person who never gives up.  ""</i></sub><br>
-    <b>— ___ Babe Ruth ___</b>
+    <sub><i>"" Help others and give something back. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
