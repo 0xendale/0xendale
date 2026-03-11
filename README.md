@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A person hears only what they understand. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" The smallest act of kindness is worth more than the greatest intention.   ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
