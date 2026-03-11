@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are what you believe yourself to be. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" The best way out is always through. ""</i></sub><br>
+    <b>— ___ Robert Frost ___</b>
   </p>
 </div>
 
