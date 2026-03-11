@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is well known that those who do not trust themselves never trust others. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" No matter how tall the mountain is, it cannot block the sun. ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
