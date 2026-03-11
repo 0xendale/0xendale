@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Help others and give something back. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" Simplicity is a difficult thing to achieve.   ""</i></sub><br>
+    <b>— ___ Charlie Chaplin ___</b>
   </p>
 </div>
 
