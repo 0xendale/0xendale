@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No matter how tall the mountain is, it cannot block the sun. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Learning is a gift, even when pain is your teacher. ""</i></sub><br>
+    <b>— ___ Michael Jordan ___</b>
   </p>
 </div>
 
