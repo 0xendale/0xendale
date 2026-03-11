@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Chase your passion, not your pension.  ""</i></sub><br>
-    <b>— ___ Denis Waitley ___</b>
+    <sub><i>"" If you're really truthful with yourself, it's a wonderful guidance.   ""</i></sub><br>
+    <b>— ___ Charlie Chaplin ___</b>
   </p>
 </div>
 
