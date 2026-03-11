@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Learning is a weightless treasure you can always carry easily. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Action may not always bring happiness, but there is no happiness without action. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
