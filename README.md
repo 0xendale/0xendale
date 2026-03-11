@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is just information and an opportunity to change your course. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" You just can't beat the person who never gives up.  ""</i></sub><br>
+    <b>— ___ Babe Ruth ___</b>
   </p>
 </div>
 
