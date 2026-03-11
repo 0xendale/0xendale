@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Action may not always bring happiness, but there is no happiness without action. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" There are two things a person should never be angry at, what they can help, and what they cannot. ""</i></sub><br>
+    <b>— ___ Plato ___</b>
   </p>
 </div>
 
