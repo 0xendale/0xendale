@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Care about what other people think and you will always be their prisoner. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
