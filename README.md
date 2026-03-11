@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The smallest act of kindness is worth more than the greatest intention.   ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" Care about what other people think and you will always be their prisoner. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
