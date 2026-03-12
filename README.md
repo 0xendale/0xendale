@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Integrity is telling myself the truth. And honesty is telling the truth to other people. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" The quality of your life is determined by the quality of questions you ask. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
