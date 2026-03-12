@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People will forget what you said, people will forget what you did, but people will never forget how you made them feel. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" The greatest test of courage on earth is to bear defeat without losing heart. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
