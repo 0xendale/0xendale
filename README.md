@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The road to success is always under construction.. ""</i></sub><br>
-    <b>— ___ Lily Tomlin ___</b>
+    <sub><i>"" People will forget what you said, people will forget what you did, but people will never forget how you made them feel. ""</i></sub><br>
+    <b>— ___ Maya Angelou ___</b>
   </p>
 </div>
 
