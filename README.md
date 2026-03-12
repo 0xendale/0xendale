@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wishing to be friends is quick work, but friendship is a slow ripening fruit. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Our view of the world is truly shaped by what we decide to hear. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
