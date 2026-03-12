@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not what we do once in a while that shapes our lives, but what we do consistently. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
