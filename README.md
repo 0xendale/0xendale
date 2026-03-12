@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" You can avoid reality, but you cannot avoid the consequences of avoiding reality. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
