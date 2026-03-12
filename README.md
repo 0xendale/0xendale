@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The greatest test of courage on earth is to bear defeat without losing heart. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about. ""</i></sub><br>
+    <b>— ___ Franklin D. Roosevelt ___</b>
   </p>
 </div>
 
