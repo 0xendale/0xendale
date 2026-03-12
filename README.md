@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't talk about what you have done or what you are going to do. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Greatest success comes just one step beyond the point at which defeat overtakes you. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
