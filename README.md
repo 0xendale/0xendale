@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" an action committed in anger is an action doomed to failure.  ""</i></sub><br>
-    <b>— ___ Genghis Khan ___</b>
+    <sub><i>"" The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
