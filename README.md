@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can avoid reality, but you cannot avoid the consequences of avoiding reality. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" Life isn't about finding yourself. Life is about creating yourself. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
