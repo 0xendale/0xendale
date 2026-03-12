@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What the caterpillar calls the end of the world, the master calls a butterfly. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Wishing to be friends is quick work, but friendship is a slow ripening fruit. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
