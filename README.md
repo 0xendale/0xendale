@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Whenever you do a thing, act as if all the world were watching. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" It is the power of the mind to be unconquerable. ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
