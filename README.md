@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about. ""</i></sub><br>
-    <b>— ___ Franklin D. Roosevelt ___</b>
+    <sub><i>"" Whenever you do a thing, act as if all the world were watching. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
