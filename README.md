@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When one does not have what one wants, one must want what one has. ""</i></sub><br>
-    <b>— ___ Sigmund Freud ___</b>
+    <sub><i>"" Believe you can and you will be halfway there. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
