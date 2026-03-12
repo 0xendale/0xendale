@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. ""</i></sub><br>
-    <b>— ___ Albus Dumbledore ___</b>
+    <sub><i>"" A leader is one who knows the way, goes the way, and shows the way. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
