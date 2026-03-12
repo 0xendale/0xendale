@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is the power of the mind to be unconquerable. ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" It's not what we do once in a while that shapes our lives, but what we do consistently. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
