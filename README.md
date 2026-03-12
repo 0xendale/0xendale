@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success comes to those who become success conscious. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" an action committed in anger is an action doomed to failure.  ""</i></sub><br>
+    <b>— ___ Genghis Khan ___</b>
   </p>
 </div>
 
