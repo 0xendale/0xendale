@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can see through others only when we can see through ourselves. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" Success is often achieved by those who don't know that failure is inevitable. ""</i></sub><br>
+    <b>— ___ Coco Chanel ___</b>
   </p>
 </div>
 
