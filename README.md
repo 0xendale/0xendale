@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Receive without complaint, Work with fate. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" Thought is so cunning, so clever, that it distorts everything for its own convenience. ""</i></sub><br>
+    <b>— ___ Jiddu Krishnamurti ___</b>
   </p>
 </div>
 
