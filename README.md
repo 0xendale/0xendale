@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The journey, not the destination matters. ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" Reading should be a pleasure, not a chore. ""</i></sub><br>
+    <b>— ___ Joan Rivers ___</b>
   </p>
 </div>
 
