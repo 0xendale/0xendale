@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Reading should be a pleasure, not a chore. ""</i></sub><br>
-    <b>— ___ Joan Rivers ___</b>
+    <sub><i>"" I am not absentminded. It is the presence of mind that makes me unaware of everything else. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
