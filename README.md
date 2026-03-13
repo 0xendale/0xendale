@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Although the world is full of suffering, it is also full of the overcoming of it. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" The wiser you get, the less you care to look like a fool. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
