@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even if you're sure you can win, be careful that you can live with what you lose. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" With self-discipline, almost anything is possible. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
