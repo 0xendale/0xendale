@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Human beings can alter their lives by altering their attitudes of mind. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" People do not decide their futures, they decide their habits and their habits decide their futures. ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
