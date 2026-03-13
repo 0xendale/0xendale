@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Experience is simply the name we give our mistakes.  ""</i></sub><br>
-    <b>— ___ Oscar Wilde ___</b>
+    <sub><i>"" Expect the best, plan for the worst, and prepare to be surprised.  ""</i></sub><br>
+    <b>— ___ Denis Waitley ___</b>
   </p>
 </div>
 
