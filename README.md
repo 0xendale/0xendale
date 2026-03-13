@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" With self-discipline, almost anything is possible. ""</i></sub><br>
-    <b>— ___ Theodore Roosevelt ___</b>
+    <sub><i>"" The more something scares you, the more you should do it. ""</i></sub><br>
+    <b>— ___ Mark Manson ___</b>
   </p>
 </div>
 
