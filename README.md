@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is the progressive realization of a worthy goal or ideal. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Human beings can alter their lives by altering their attitudes of mind. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
