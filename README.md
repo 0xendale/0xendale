@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more something scares you, the more you should do it. ""</i></sub><br>
-    <b>— ___ Mark Manson ___</b>
+    <sub><i>"" When you're curious, you find lots of interesting things to do. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
