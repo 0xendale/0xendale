@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" It doesn't matter where you are coming from. All that matters is where you are going.  ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
