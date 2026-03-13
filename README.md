@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. ""</i></sub><br>
-    <b>— ___ Elvis Presley ___</b>
+    <sub><i>"" You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
