@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.  ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
