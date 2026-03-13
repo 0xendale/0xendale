@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Keep your dreams, you never know when you might need them. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" You're always free to change your mind and choose a different future, or a different past. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
