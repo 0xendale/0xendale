@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is often achieved by those who don't know that failure is inevitable. ""</i></sub><br>
-    <b>— ___ Coco Chanel ___</b>
+    <sub><i>"" Experience is simply the name we give our mistakes.  ""</i></sub><br>
+    <b>— ___ Oscar Wilde ___</b>
   </p>
 </div>
 
