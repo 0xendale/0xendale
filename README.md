@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Thought is so cunning, so clever, that it distorts everything for its own convenience. ""</i></sub><br>
-    <b>— ___ Jiddu Krishnamurti ___</b>
+    <sub><i>"" To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
