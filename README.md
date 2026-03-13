@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is a poor teacher. ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" The journey, not the destination matters. ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
