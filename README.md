@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't waste time on excuses. Just get it done. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" Because a thing seems difficult for you, do not think it impossible. ""</i></sub><br>
+    <b>— ___ Marcus Aurelius ___</b>
   </p>
 </div>
 
