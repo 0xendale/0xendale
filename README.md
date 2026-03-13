@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You're always free to change your mind and choose a different future, or a different past. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Success is a poor teacher. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
