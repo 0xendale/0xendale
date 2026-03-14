@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" At first dreams seem impossible, then improbable, then inevitable. ""</i></sub><br>
-    <b>— ___ Christopher Reeve ___</b>
+    <sub><i>"" Those who seek the easy way do not seek the true way. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
