@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing is too high for a man to reach, but he must climb with care and confidence ""</i></sub><br>
-    <b>— ___ Hans Christian Andersen ___</b>
+    <sub><i>"" Genius is the ability to act rightly without precedent - the power to do the right thing the first time. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
