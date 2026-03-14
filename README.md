@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Ponder and deliberate before you make a move. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" You're only given a little spark of madness. You mustn't lose it. ""</i></sub><br>
+    <b>— ___ Robin Williams ___</b>
   </p>
 </div>
 
