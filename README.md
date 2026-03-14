@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Watch what you say, and whatever you say, practice it. ""</i></sub><br>
-    <b>— ___ Soyen Shaku ___</b>
+    <sub><i>"" Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves. ""</i></sub><br>
+    <b>— ___ Adi Da Samraj ___</b>
   </p>
 </div>
 
