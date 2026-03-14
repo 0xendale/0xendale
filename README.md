@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. ""</i></sub><br>
-    <b>— ___ Sigmund Freud ___</b>
+    <sub><i>"" It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. ""</i></sub><br>
+    <b>— ___ Dalai Lama ___</b>
   </p>
 </div>
 
