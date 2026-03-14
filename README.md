@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" One's best success comes after their greatest disappointments. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
