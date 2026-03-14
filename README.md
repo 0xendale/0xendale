@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You're only given a little spark of madness. You mustn't lose it. ""</i></sub><br>
-    <b>— ___ Robin Williams ___</b>
+    <sub><i>"" If you have only one smile in you give it to the people you love. ""</i></sub><br>
+    <b>— ___ Maya Angelou ___</b>
   </p>
 </div>
 
