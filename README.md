@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is getting what you want, happiness is wanting what you get. ""</i></sub><br>
-    <b>— ___ W.P. Kinsella ___</b>
+    <sub><i>"" Sometimes letting things go is an act of far greater power than defending or hanging on. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
