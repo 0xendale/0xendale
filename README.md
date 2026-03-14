@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Follow your heart, listen to your inner voice, stop caring about what others think. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" At first dreams seem impossible, then improbable, then inevitable. ""</i></sub><br>
+    <b>— ___ Christopher Reeve ___</b>
   </p>
 </div>
 
