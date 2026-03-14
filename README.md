@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you have only one smile in you give it to the people you love. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" Nothing is too high for a man to reach, but he must climb with care and confidence ""</i></sub><br>
+    <b>— ___ Hans Christian Andersen ___</b>
   </p>
 </div>
 
