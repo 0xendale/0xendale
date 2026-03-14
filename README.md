@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Doubt is an uncomfortable condition, but certainty is a ridiculous one. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Change your thoughts and you change your world. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
