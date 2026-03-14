@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you're curious, you find lots of interesting things to do. ""</i></sub><br>
-    <b>— ___ Walt Disney ___</b>
+    <sub><i>"" Art, like morality, consists of drawing the line somewhere. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
