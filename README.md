@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's easier to lose than to win.   ""</i></sub><br>
-    <b>— ___ Wayne Gretzky ___</b>
+    <sub><i>"" Knowing others is wisdom, knowing yourself is enlightenment. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
