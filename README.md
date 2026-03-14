@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who seek the easy way do not seek the true way. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" Fear is stupid. So are regrets. ""</i></sub><br>
+    <b>— ___ Marilyn Monroe ___</b>
   </p>
 </div>
 
