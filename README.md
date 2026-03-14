@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Human beings believe just as they breathe - in order to survive. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. ""</i></sub><br>
+    <b>— ___ Sigmund Freud ___</b>
   </p>
 </div>
 
