@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fear is stupid. So are regrets. ""</i></sub><br>
-    <b>— ___ Marilyn Monroe ___</b>
+    <sub><i>"" To live outside the law, you must be honest.  ""</i></sub><br>
+    <b>— ___ Bob Dylan ___</b>
   </p>
 </div>
 
