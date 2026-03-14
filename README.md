@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Take care of your cents: dollars will take care of themselves. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Success is getting what you want, happiness is wanting what you get. ""</i></sub><br>
+    <b>— ___ W.P. Kinsella ___</b>
   </p>
 </div>
 
