@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Knowing others is wisdom, knowing yourself is enlightenment. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" I succeeded by saying what everyone else is thinking. ""</i></sub><br>
+    <b>— ___ Joan Rivers ___</b>
   </p>
 </div>
 
