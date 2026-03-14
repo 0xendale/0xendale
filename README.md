@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If it's not broken, tinker with it till you find out how it works. ""</i></sub><br>
-    <b>— ___ Bob Proctor ___</b>
+    <sub><i>"" It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
