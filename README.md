@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Showing off is the fool's idea of glory.  ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" To seek is to suffer. To seek nothing is bliss. ""</i></sub><br>
+    <b>— ___ Bodhidharma ___</b>
   </p>
 </div>
 
