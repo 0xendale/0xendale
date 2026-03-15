@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Your neighbor is the man who needs you. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
