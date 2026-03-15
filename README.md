@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Little by little, one travels far. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
