@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The whole is greater than the sum of its parts. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" People tend to complicate their own lives, as if living weren't already complicated enough. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
