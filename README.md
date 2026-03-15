@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The one who praises you is a thief. The one who criticizes you is your true friend. ""</i></sub><br>
-    <b>— ___ Seungsahn ___</b>
+    <sub><i>"" Happiness is an effect of doing what you love, not an end goal to be achieved. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
