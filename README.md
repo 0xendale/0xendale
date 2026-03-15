@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you look for perfection, you'll never be content. ""</i></sub><br>
-    <b>— ___ Leo Tolstoy ___</b>
+    <sub><i>"" I can live without money, but I cannot live without love. ""</i></sub><br>
+    <b>— ___ Judy Garland ___</b>
   </p>
 </div>
 
