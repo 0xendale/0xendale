@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life has more imagination than we carry in our dreams. ""</i></sub><br>
-    <b>— ___ Christopher Columbus ___</b>
+    <sub><i>"" Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
