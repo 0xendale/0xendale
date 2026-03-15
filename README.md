@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Remember that sometimes not getting what you want is a wonderful stroke of luck. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" Smile, breathe and go slowly. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
