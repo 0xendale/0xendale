@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" Sometimes it is harder to deprive oneself of a pain than of a pleasure. ""</i></sub><br>
+    <b>— ___ F. Scott Fitzgerald ___</b>
   </p>
 </div>
 
