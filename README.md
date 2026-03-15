@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To seek is to suffer. To seek nothing is bliss. ""</i></sub><br>
-    <b>— ___ Bodhidharma ___</b>
+    <sub><i>"" Nothing external to you has any power over you. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
