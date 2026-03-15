@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you can handle rejection, you'll learn to get everything you want. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Do Something. If it works, do more of it. If it doesn't, do something else. ""</i></sub><br>
+    <b>— ___ Franklin D. Roosevelt ___</b>
   </p>
 </div>
 
