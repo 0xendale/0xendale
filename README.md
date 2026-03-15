@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sometimes it is harder to deprive oneself of a pain than of a pleasure. ""</i></sub><br>
-    <b>— ___ F. Scott Fitzgerald ___</b>
+    <sub><i>"" Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
