@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One of the keys to happiness is a bad memory. ""</i></sub><br>
-    <b>— ___ Rita Mae Brown ___</b>
+    <sub><i>"" The one who praises you is a thief. The one who criticizes you is your true friend. ""</i></sub><br>
+    <b>— ___ Seungsahn ___</b>
   </p>
 </div>
 
