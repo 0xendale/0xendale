@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The road to success and the road to failure are almost exactly the same. ""</i></sub><br>
-    <b>— ___ Colin R. Davis ___</b>
+    <sub><i>"" Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
