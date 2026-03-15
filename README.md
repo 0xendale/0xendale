@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Greatness lies not in being strong, but in the right use of strength. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" Showing off is the fool's idea of glory.  ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
