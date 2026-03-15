@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do Something. If it works, do more of it. If it doesn't, do something else. ""</i></sub><br>
-    <b>— ___ Franklin D. Roosevelt ___</b>
+    <sub><i>"" Greatness lies not in being strong, but in the right use of strength. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
