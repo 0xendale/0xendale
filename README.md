@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" For things to change, you have to change. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" To belittle, you have to be little. ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
