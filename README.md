@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To accomplish big things, I am convinced you must first dream big dreams. ""</i></sub><br>
-    <b>— ___ Conrad Hilton ___</b>
+    <sub><i>"" The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
