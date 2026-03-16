@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I am not the outcome. I am never the result. I am only the effort. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" There are two kinds of perfect people: those who are dead, and those who have not been born yet. ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
