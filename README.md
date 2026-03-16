@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" If you quit once it becomes a habit. ""</i></sub><br>
+    <b>— ___ Michael Jordan ___</b>
   </p>
 </div>
 
