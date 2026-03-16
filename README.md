@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To belittle, you have to be little. ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" If the plan doesn't work, change the plan, but never the goal. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
