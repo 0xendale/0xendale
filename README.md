@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are two kinds of perfect people: those who are dead, and those who have not been born yet. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Turn the pain into power. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
