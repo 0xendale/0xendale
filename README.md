@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sometimes, the only way to evolve is to open ourselves fully. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" It will never rain roses: when we want to have more roses, we must plant more roses. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
