@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" For things to change, you have to change. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
