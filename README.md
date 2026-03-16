@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It will never rain roses: when we want to have more roses, we must plant more roses. ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" Happiness is an effect of doing what you love, not an end goal to be achieved. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
