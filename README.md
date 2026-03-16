@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The glow of one warm thought is to me worth more than money. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" He who leaves the game wins it. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
