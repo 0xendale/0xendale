@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The two most important days in your life are the day you are born and the day you find out why. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" What you resist, persists. ""</i></sub><br>
+    <b>— ___ Carl Jung ___</b>
   </p>
 </div>
 
