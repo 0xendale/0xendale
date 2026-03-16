@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What you resist, persists. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" The glow of one warm thought is to me worth more than money. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
