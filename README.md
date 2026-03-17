@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Embrace the life you have and stop wishing that you could be someone else. ""</i></sub><br>
-    <b>— ___ Joyce Meyer ___</b>
+    <sub><i>"" The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. ""</i></sub><br>
+    <b>— ___ Sonia Ricotti ___</b>
   </p>
 </div>
 
