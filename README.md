@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are not only responsible for what you say, but also for what you do not say.  ""</i></sub><br>
-    <b>— ___ Martin Luther ___</b>
+    <sub><i>"" When it comes to mastering a skill, time is the magic ingredient. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
