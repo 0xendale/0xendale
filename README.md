@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can never cross the ocean unless you have the courage to lose sight of the shore. ""</i></sub><br>
-    <b>— ___ Christopher Columbus ___</b>
+    <sub><i>"" The only way out is through. ""</i></sub><br>
+    <b>— ___ Robert Frost ___</b>
   </p>
 </div>
 
