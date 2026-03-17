@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Always turn a negative situation into a positive situation. ""</i></sub><br>
+    <b>— ___ Michael Jordan ___</b>
   </p>
 </div>
 
