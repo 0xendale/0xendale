@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A Rolling Stone Gathers No Moss. ""</i></sub><br>
-    <b>— ___ Publilius Syrus ___</b>
+    <sub><i>"" If we all did the things we are capable of doing, we would literally astound ourselves. ""</i></sub><br>
+    <b>— ___ Thomas Edison ___</b>
   </p>
 </div>
 
