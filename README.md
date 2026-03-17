@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Either get busy living or get busy dying. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" Embrace the life you have and stop wishing that you could be someone else. ""</i></sub><br>
+    <b>— ___ Joyce Meyer ___</b>
   </p>
 </div>
 
