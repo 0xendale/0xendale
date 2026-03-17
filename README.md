@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I do not exist to impress the world. I exist to live my life in a way that will make me happy. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Either get busy living or get busy dying. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
