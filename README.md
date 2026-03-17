@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The highest level of wisdom is when you not only accept but love adversity. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" If you're brave enough to say goodbye, life will reward you with a new hello. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
