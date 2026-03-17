@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always turn a negative situation into a positive situation. ""</i></sub><br>
-    <b>— ___ Michael Jordan ___</b>
+    <sub><i>"" Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
