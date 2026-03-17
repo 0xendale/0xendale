@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only way out is through. ""</i></sub><br>
-    <b>— ___ Robert Frost ___</b>
+    <sub><i>"" The highest level of wisdom is when you not only accept but love adversity. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
