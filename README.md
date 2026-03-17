@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where your talents and the needs of the world cross, there lies your vocation. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" You are not only responsible for what you say, but also for what you do not say.  ""</i></sub><br>
+    <b>— ___ Martin Luther ___</b>
   </p>
 </div>
 
