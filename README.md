@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" I do not exist to impress the world. I exist to live my life in a way that will make me happy. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
