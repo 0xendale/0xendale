@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When it comes to mastering a skill, time is the magic ingredient. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" A man that flies from his fear may find that he has only taken a short cut to meet it. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
