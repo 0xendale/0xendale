@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is a prerequisite for great success. If you want success faster, double your rate of failure. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
