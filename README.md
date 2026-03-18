@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let the noise of others opinions drown out your inner voice. ""</i></sub><br>
-    <b>— ___ Steve Jobs ___</b>
+    <sub><i>"" Inspire yourself to be great. Being good isn't good enough. ""</i></sub><br>
+    <b>— ___ Gurbaksh Chahal ___</b>
   </p>
 </div>
 
