@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty. ""</i></sub><br>
-    <b>— ___ Theodore Roosevelt ___</b>
+    <sub><i>"" Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. ""</i></sub><br>
+    <b>— ___ John Eliot ___</b>
   </p>
 </div>
 
