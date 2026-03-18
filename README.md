@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. ""</i></sub><br>
-    <b>— ___ Wayne Gretzky ___</b>
+    <sub><i>"" Lying can never save us from another lie. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
