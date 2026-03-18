@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Where the willingness is great, the difficulties cannot be great. ""</i></sub><br>
+    <b>— ___ Niccolo Machiavelli ___</b>
   </p>
 </div>
 
