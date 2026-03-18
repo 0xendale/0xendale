@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where the willingness is great, the difficulties cannot be great. ""</i></sub><br>
-    <b>— ___ Niccolo Machiavelli ___</b>
+    <sub><i>"" Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
