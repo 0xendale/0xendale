@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When something is important enough, you do it even if the odds are not in your favor. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
