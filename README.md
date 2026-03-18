@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Lying can never save us from another lie. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" The biggest challenge after success is shutting up about it. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
