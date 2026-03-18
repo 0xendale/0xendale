@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. ""</i></sub><br>
+    <b>— ___ Dr. Seuss ___</b>
   </p>
 </div>
 
