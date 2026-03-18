@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest challenge after success is shutting up about it. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
