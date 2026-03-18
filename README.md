@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If I have seen further than others, it is by standing upon the shoulders of giants. ""</i></sub><br>
-    <b>— ___ Isaac Newton ___</b>
+    <sub><i>"" Don't let the noise of others opinions drown out your inner voice. ""</i></sub><br>
+    <b>— ___ Steve Jobs ___</b>
   </p>
 </div>
 
