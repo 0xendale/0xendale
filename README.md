@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Small men think they are small; great men never know they are great.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
