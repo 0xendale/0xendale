@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. ""</i></sub><br>
-    <b>— ___ John Eliot ___</b>
+    <sub><i>"" No one can compete with you on being you. Most of life is a search for who and what needs you the most. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
