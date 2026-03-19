@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Preoccupied with a single leaf you won't see the tree. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Any idea, plan, or purpose may be placed in the mind through repetition of thought. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
