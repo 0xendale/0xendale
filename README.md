@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do your duty and a little more and the future will take care of itself. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" You can't tell big dreams to small minded people. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
