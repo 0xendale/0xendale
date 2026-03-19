@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We take care of the future best by taking care of the present now. ""</i></sub><br>
-    <b>— ___ Jon Kabat-Zinn ___</b>
+    <sub><i>"" Persistence is very important. You should not give up unless you are forced to give up. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
