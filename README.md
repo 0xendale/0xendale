@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A heart is not judged by how much you love, but by how much you are loved by others. ""</i></sub><br>
-    <b>— ___ Judy Garland ___</b>
+    <sub><i>"" Never stand begging for that which you have the power to earn. ""</i></sub><br>
+    <b>— ___ Miguel de Cervantes ___</b>
   </p>
 </div>
 
