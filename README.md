@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Inspire yourself to be great. Being good isn't good enough. ""</i></sub><br>
-    <b>— ___ Gurbaksh Chahal ___</b>
+    <sub><i>"" Life is like a wheel. Sooner or later, it always comes around to where you started again. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
