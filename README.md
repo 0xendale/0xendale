@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" Happiness is the absence of the striving for happiness. ""</i></sub><br>
+    <b>— ___ Zhuangzi ___</b>
   </p>
 </div>
 
