@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man is literally what he thinks. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" Do your duty and a little more and the future will take care of itself. ""</i></sub><br>
+    <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
 
