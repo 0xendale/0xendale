@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" My guiding principle is this: Guilt is never to be doubted.  ""</i></sub><br>
-    <b>— ___ Franz Kafka ___</b>
+    <sub><i>"" A heart is not judged by how much you love, but by how much you are loved by others. ""</i></sub><br>
+    <b>— ___ Judy Garland ___</b>
   </p>
 </div>
 
