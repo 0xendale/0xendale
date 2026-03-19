@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" None of us can change our yesterdays but all of us can change our tomorrows. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Most people fail in life not because they aim too high and miss, but because they aim too low and hit. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
