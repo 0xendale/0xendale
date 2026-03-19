@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Pleasure is always derived from something outside you, whereas joy arises from within.  ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. ""</i></sub><br>
+    <b>— ___ John Wooden ___</b>
   </p>
 </div>
 
