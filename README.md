@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Happiness is the absence of the striving for happiness. ""</i></sub><br>
-    <b>— ___ Zhuangzi ___</b>
+    <sub><i>"" Preoccupied with a single leaf you won't see the tree. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
