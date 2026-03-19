@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" She who loves roses must be patient and not cry out when she is pierced by thorns. ""</i></sub><br>
-    <b>— ___ Kenji Miyazawa ___</b>
+    <sub><i>"" Pleasure is always derived from something outside you, whereas joy arises from within.  ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
