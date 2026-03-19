@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I don't pretend to know everything; I just only speak on matters I know I'll win. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" If a thing is worth doing, it is worth doing badly. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
