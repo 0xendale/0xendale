@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Persistence is very important. You should not give up unless you are forced to give up. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Avoiding failure is to avoid progress. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
