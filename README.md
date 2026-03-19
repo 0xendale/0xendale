@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" None of us can change our yesterdays but all of us can change our tomorrows. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
