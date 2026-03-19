@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To be totally at leisure for one day is to be immortal for one day.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" My guiding principle is this: Guilt is never to be doubted.  ""</i></sub><br>
+    <b>— ___ Franz Kafka ___</b>
   </p>
 </div>
 
