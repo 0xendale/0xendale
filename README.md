@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Avoiding failure is to avoid progress. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" She who loves roses must be patient and not cry out when she is pierced by thorns. ""</i></sub><br>
+    <b>— ___ Kenji Miyazawa ___</b>
   </p>
 </div>
 
