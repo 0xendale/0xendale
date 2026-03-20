@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Real loss is only possible when you love something more than you love yourself. ""</i></sub><br>
-    <b>— ___ Robin Williams ___</b>
+    <sub><i>"" The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. ""</i></sub><br>
+    <b>— ___ Bob Marley ___</b>
   </p>
 </div>
 
