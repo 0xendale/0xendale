@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is a traveling to the edge of knowledge, then a leap taken. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" Everyone wants to go to Heaven, but no one wants to die. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
