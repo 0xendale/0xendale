@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be curious, not judgmental. ""</i></sub><br>
-    <b>— ___ Walt Whitman ___</b>
+    <sub><i>"" Smell the cheese often so you know when it is getting old. ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
