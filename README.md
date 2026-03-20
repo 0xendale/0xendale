@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" None of us can change our yesterdays but all of us can change our tomorrows. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Deeds will not be less valiant because they are upraised. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
