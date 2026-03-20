@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Deeds will not be less valiant because they are upraised. ""</i></sub><br>
-    <b>— ___ J.R.R. Tolkien ___</b>
+    <sub><i>"" I can think of nothing less pleasurable than a life devoted to pleasure. ""</i></sub><br>
+    <b>— ___ John D. Rockefeller ___</b>
   </p>
 </div>
 
