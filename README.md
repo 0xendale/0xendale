@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Smell the cheese often so you know when it is getting old. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" It still holds true that man is most uniquely human when he turns obstacles into opportunities. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
