@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. ""</i></sub><br>
-    <b>— ___ Steve Maraboli ___</b>
+    <sub><i>"" To love means loving the unlovable. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
