@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never stand begging for that which you have the power to earn. ""</i></sub><br>
-    <b>— ___ Miguel de Cervantes ___</b>
+    <sub><i>"" Give so much away people insist on paying you. ""</i></sub><br>
+    <b>— ___ Jack Butcher ___</b>
   </p>
 </div>
 
