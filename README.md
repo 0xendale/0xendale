@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" For your life to be great, your faith must be bigger than your fear. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" Real loss is only possible when you love something more than you love yourself. ""</i></sub><br>
+    <b>— ___ Robin Williams ___</b>
   </p>
 </div>
 
