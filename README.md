@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" He who possesses most must be most afraid of loss. ""</i></sub><br>
+    <b>— ___ Leonardo da Vinci ___</b>
   </p>
 </div>
 
