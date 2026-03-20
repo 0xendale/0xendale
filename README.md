@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no sadder sight than a young pessimist. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Live your life and forget your age. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
