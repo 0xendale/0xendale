@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Give so much away people insist on paying you. ""</i></sub><br>
-    <b>— ___ Jack Butcher ___</b>
+    <sub><i>"" The quality of your life is determined by the quality of your thoughts. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
