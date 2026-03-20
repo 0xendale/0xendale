@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.  ""</i></sub><br>
-    <b>— ___ Samuel Beckett ___</b>
+    <sub><i>"" Waste not fresh tears over old griefs. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
