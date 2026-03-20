@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The quality of your life is determined by the quality of your thoughts. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" For your life to be great, your faith must be bigger than your fear. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
