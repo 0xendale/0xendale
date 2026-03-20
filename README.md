@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Among the things you can give and still keep are your word, a smile, and a grateful heart. ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" Life is a traveling to the edge of knowledge, then a leap taken. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
