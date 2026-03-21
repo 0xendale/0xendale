@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your heart is full of fertile seeds, waiting to sprout. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" Everyday you can take a tiny step in the right direction. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
