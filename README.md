@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is better to disappoint people with the truth than to appease them with a lie. ""</i></sub><br>
-    <b>— ___ Simon Sinek ___</b>
+    <sub><i>"" Your heart is full of fertile seeds, waiting to sprout. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
