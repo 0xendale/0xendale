@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The person who cannot control his words shows that he cannot control himself. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" Every time we liberate a woman, we liberate a man.  ""</i></sub><br>
+    <b>— ___ Margaret Mead ___</b>
   </p>
 </div>
 
