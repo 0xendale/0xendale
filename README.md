@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A golden cage is still just a cage. ""</i></sub><br>
-    <b>— ___ Anita Krizzan ___</b>
+    <sub><i>"" You talk when you cease to be at peace with your thoughts. ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
