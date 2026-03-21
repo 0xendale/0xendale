@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Presents are made for the pleasure of who gives them, not the merits of who receives them. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
