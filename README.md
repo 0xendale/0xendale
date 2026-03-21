@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who leaves the game wins it. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. ""</i></sub><br>
+    <b>— ___ Simon Sinek ___</b>
   </p>
 </div>
 
