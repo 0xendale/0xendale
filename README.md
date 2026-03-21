@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" They say love is the best investment; the more you give, the more you get in return. ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" A rational person can find peace by cultivating indifference to things outside of their control. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
