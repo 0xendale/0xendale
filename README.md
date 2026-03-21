@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never argue with stupid people, they will drag you down to their level and then beat you with experience. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" The divine is not something high above us. It is in heaven, it is in earth, it is inside us. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
