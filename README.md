@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The divine is not something high above us. It is in heaven, it is in earth, it is inside us. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" To escape from the world means that one's mind is not concerned with the opinions of the world. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
