@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" When asked, how do you write? I invariably answer, one word at a time. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
