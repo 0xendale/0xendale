@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Success is never final, failure is never fatal. It's courage that counts. ""</i></sub><br>
+    <b>— ___ John Wooden ___</b>
   </p>
 </div>
 
