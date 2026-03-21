@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is never final, failure is never fatal. It's courage that counts. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" They say love is the best investment; the more you give, the more you get in return. ""</i></sub><br>
+    <b>— ___ Audrey Hepburn ___</b>
   </p>
 </div>
 
