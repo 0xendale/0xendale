@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are what you believe in. You become that which you believe you can become. ""</i></sub><br>
-    <b>— ___ Bhagavad Gita ___</b>
+    <sub><i>"" Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
