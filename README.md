@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Remember, hope is a good thing, maybe the best of things. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" He who leaves the game wins it. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
