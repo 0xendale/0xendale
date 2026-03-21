@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" As a matter of fact is an expression that precedes many an expression that isn't. ""</i></sub><br>
-    <b>— ___ Laurence J. Peter ___</b>
+    <sub><i>"" It is better to disappoint people with the truth than to appease them with a lie. ""</i></sub><br>
+    <b>— ___ Simon Sinek ___</b>
   </p>
 </div>
 
