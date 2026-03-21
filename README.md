@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. ""</i></sub><br>
-    <b>— ___ Gabor Mate ___</b>
+    <sub><i>"" Never argue with stupid people, they will drag you down to their level and then beat you with experience. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
