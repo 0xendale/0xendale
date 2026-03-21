@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Problems remain as problems because people are busy defending them rather than finding solutions. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" As a matter of fact is an expression that precedes many an expression that isn't. ""</i></sub><br>
+    <b>— ___ Laurence J. Peter ___</b>
   </p>
 </div>
 
