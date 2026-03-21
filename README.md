@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every time we liberate a woman, we liberate a man.  ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" Life is like a beautiful melody, only the lyrics are messed up. ""</i></sub><br>
+    <b>— ___ Hans Christian Andersen ___</b>
   </p>
 </div>
 
