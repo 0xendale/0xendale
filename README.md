@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Presents are made for the pleasure of who gives them, not the merits of who receives them. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. ""</i></sub><br>
+    <b>— ___ Gabor Mate ___</b>
   </p>
 </div>
 
