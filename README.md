@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When asked, how do you write? I invariably answer, one word at a time. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
