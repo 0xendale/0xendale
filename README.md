@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Follow the man who seeks the truth; run from the man who has found it. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" Remember, hope is a good thing, maybe the best of things. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
