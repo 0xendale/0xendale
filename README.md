@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not what happens to you, but how you react to it that matters. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Follow the man who seeks the truth; run from the man who has found it. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
