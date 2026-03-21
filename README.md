@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Just get out and do it. You will be very, very glad that you did. ""</i></sub><br>
-    <b>— ___ Christopher McCandless ___</b>
+    <sub><i>"" The person who cannot control his words shows that he cannot control himself. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
