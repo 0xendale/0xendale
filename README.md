@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Time goes from present to past. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" When you judge others, you do not define them, you define yourself. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
