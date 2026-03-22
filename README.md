@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday. ""</i></sub><br>
-    <b>— ___ Jonathan Swift ___</b>
+    <sub><i>"" Originality is the fine art of remembering what you hear but forgetting where you heard it.  ""</i></sub><br>
+    <b>— ___ Laurence J. Peter ___</b>
   </p>
 </div>
 
