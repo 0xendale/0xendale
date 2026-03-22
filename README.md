@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
