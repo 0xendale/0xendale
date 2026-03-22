@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No tree, it is said, can grow to heaven unless its roots reach down to hell. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" Turn the pain into power. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
