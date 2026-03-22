@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" Never waste a minute of your precious life thinking about people you don't like. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
