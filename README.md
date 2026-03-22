@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never waste a minute of your precious life thinking about people you don't like. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
