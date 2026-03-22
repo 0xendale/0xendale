@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are the average of the five people you spend the most time with. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" Life is essentially an endless series of problems. The solution to one problem is merely the creation of another. ""</i></sub><br>
+    <b>— ___ Mark Manson ___</b>
   </p>
 </div>
 
