@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One loyal friend is worth ten thousand relatives. ""</i></sub><br>
-    <b>— ___ Euripides ___</b>
+    <sub><i>"" A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
