@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for. ""</i></sub><br>
-    <b>— ___ Gurbaksh Chahal ___</b>
+    <sub><i>"" Better to light a candle than to curse the darkness.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
