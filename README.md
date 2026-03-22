@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Tragedy is a tool for the living to gain wisdom, not a guide by which to live. ""</i></sub><br>
-    <b>— ___ Robert F. Kennedy ___</b>
+    <sub><i>"" Wherever you are, and whatever you do, be in love. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
