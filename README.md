@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fools read fast. Geniuses reread. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. ""</i></sub><br>
+    <b>— ___ Seungsahn ___</b>
   </p>
 </div>
 
