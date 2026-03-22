@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is useless to attempt to reason a man out of a thing he was never reasoned into. ""</i></sub><br>
-    <b>— ___ Jonathan Swift ___</b>
+    <sub><i>"" It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
