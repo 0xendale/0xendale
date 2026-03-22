@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for. ""</i></sub><br>
+    <b>— ___ Gurbaksh Chahal ___</b>
   </p>
 </div>
 
