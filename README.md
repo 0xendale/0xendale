@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is too short to waste your time on people who don't respect, appreciate, and value you. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Do not fight with pigs - you will be smeared in mud but the pig will like it. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
