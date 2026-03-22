@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wherever you are, and whatever you do, be in love. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" It is useless to attempt to reason a man out of a thing he was never reasoned into. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
