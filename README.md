@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be a master of change rather than a victim of change. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" The more you praise and celebrate your life, the more there is in life to celebrate.  ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
