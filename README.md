@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change. ""</i></sub><br>
-    <b>— ___ Mark Manson ___</b>
+    <sub><i>"" We create the world and ourselves; ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
