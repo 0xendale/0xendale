@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No valid plans for the future can be made by those who have no capacity for living now. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" When you're curious, you find lots of interesting things to do. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
