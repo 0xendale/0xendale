@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The mind can calculate, but the spirit yearns, and the heart wants what the heart wants. ""</i></sub><br>
+    <sub><i>"" Quiet people have the loudest minds. ""</i></sub><br>
     <b>— ___ Stephen King ___</b>
   </p>
 </div>
