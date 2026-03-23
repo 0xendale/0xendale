@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Imagination is more important than knowledge. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" Wherever you are, it's the place you need to be. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
