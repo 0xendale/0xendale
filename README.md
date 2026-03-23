@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If there's a definition of freedom, I think it's this: living life on your terms. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" Life is like playing the violin in public and learning the instrument as one goes on. ""</i></sub><br>
+    <b>— ___ Samuel Butler ___</b>
   </p>
 </div>
 
