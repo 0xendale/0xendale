@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Luck is what happens when preparation meets opportunity.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" There will always be suffering. But we must not suffer over the suffering. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
