@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.  ""</i></sub><br>
-    <b>— ___ Buddha ___</b>
+    <sub><i>"" Failure is an option here. If things are not failing, you are not innovating enough. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
