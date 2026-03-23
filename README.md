@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Quiet people have the loudest minds. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" The search for happiness is one of the chief sources of unhappiness. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
