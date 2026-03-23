@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The search for happiness is one of the chief sources of unhappiness. ""</i></sub><br>
-    <b>— ___ Eric Hoffer ___</b>
+    <sub><i>"" Awakening is possible only for those who seek it and want it. ""</i></sub><br>
+    <b>— ___ G.I. Gurdjieff ___</b>
   </p>
 </div>
 
