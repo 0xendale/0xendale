@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive. ""</i></sub><br>
-    <b>— ___ Joan Rivers ___</b>
+    <sub><i>"" Muddy water is best cleared by leaving it alone. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
