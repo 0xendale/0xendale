@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There will always be suffering. But we must not suffer over the suffering. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" If there's a definition of freedom, I think it's this: living life on your terms. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
