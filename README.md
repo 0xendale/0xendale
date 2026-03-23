@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only when one allows themself the right to die, do they then give yourself the permission to live. ""</i></sub><br>
-    <b>— ___ C. Sean McGee ___</b>
+    <sub><i>"" Failure is an option here. If things are not failing, you are not innovating enough. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
