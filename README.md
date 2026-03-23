@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We create the world and ourselves; ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" The way to get started is to quit talking and begin doing. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
