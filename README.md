@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is an option here. If things are not failing, you are not innovating enough. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Imagination is more important than knowledge. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
