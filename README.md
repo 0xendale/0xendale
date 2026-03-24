@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Perfectionism is simply putting a limit on your future. ""</i></sub><br>
-    <b>— ___ John Eliot ___</b>
+    <sub><i>"" Adults are just children who earn money. ""</i></sub><br>
+    <b>— ___ Kenneth Branagh ___</b>
   </p>
 </div>
 
