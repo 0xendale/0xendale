@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Successful people appreciate where they have come from, but they don't let their past set the tone for their future. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
