@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I can think of nothing less pleasurable than a life devoted to pleasure. ""</i></sub><br>
-    <b>— ___ John D. Rockefeller ___</b>
+    <sub><i>"" Great loves too must be endured. ""</i></sub><br>
+    <b>— ___ Coco Chanel ___</b>
   </p>
 </div>
 
