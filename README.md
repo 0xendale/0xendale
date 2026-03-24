@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Dreams are for dreamers. Goals are for achievers. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" Make improvements, not excuses. Seek respect, not attention. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
