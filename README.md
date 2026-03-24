@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The difference between winning and losing is most often not quitting. ""</i></sub><br>
-    <b>— ___ Walt Disney ___</b>
+    <sub><i>"" Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. ""</i></sub><br>
+    <b>— ___ Dr. Seuss ___</b>
   </p>
 </div>
 
