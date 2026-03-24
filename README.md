@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Adults are just children who earn money. ""</i></sub><br>
-    <b>— ___ Kenneth Branagh ___</b>
+    <sub><i>"" Living life in style also means living a life of balance. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
