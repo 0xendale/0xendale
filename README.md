@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you do not change direction, you may end up where you are heading. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Perfectionism is simply putting a limit on your future. ""</i></sub><br>
+    <b>— ___ John Eliot ___</b>
   </p>
 </div>
 
