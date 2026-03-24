@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do good by stealth, and blush to find it fame. ""</i></sub><br>
-    <b>— ___ Alexander Pope ___</b>
+    <sub><i>"" I pay attention to every minute of the day. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
