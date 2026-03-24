@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fear is a natural reaction to moving closer to the truth. ""</i></sub><br>
-    <b>— ___ Pema Chodron ___</b>
+    <sub><i>"" Do good by stealth, and blush to find it fame. ""</i></sub><br>
+    <b>— ___ Alexander Pope ___</b>
   </p>
 </div>
 
