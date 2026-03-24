@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Great loves too must be endured. ""</i></sub><br>
-    <b>— ___ Coco Chanel ___</b>
+    <sub><i>"" When we allow negative messages to fester in our head, they take on a life of their own. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
