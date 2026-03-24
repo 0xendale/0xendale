@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. ""</i></sub><br>
-    <b>— ___ Dr. Seuss ___</b>
+    <sub><i>"" If you do not change direction, you may end up where you are heading. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
