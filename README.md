@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When we have our body and mind in order, everything else will exist in the right place, in the right way. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" Go and do the things you can't. That is how you get to do them. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
