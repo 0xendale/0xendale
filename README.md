@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life may be full of pain but that's not an excuse to give up. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" Eighty percent of success is showing up.  ""</i></sub><br>
+    <b>— ___ Woody Allen ___</b>
   </p>
 </div>
 
