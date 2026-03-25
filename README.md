@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Cease striving. Then there will be transformation. ""</i></sub><br>
-    <b>— ___ Zhuangzi ___</b>
+    <sub><i>"" Better late than never. ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
