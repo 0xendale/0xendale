@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't have to be great to start, but you have to start to be great.   ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" When we have our body and mind in order, everything else will exist in the right place, in the right way. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
