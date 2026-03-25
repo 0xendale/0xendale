@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you judge others, you do not define them, you define yourself. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Cease striving. Then there will be transformation. ""</i></sub><br>
+    <b>— ___ Zhuangzi ___</b>
   </p>
 </div>
 
