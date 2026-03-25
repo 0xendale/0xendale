@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Make each day a new horizon. ""</i></sub><br>
+    <b>— ___ Christopher McCandless ___</b>
   </p>
 </div>
 
