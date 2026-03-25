@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only in the agony of parting do we look into the depths of love. ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" You don't have to be great to start, but you have to start to be great.   ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
