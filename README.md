@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" The greatest treasures are those invisible to the eye but found by the heart. ""</i></sub><br>
+    <b>— ___ Judy Garland ___</b>
   </p>
 </div>
 
