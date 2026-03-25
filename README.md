@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When at last you are come to the ocean of happiness, do not go back thirsty. ""</i></sub><br>
-    <b>— ___ Kabir ___</b>
+    <sub><i>"" When you consider things like the stars, our affairs don't seem to matter very much, do they? ""</i></sub><br>
+    <b>— ___ Virginia Woolf ___</b>
   </p>
 </div>
 
