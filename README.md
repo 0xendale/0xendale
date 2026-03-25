@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you consider things like the stars, our affairs don't seem to matter very much, do they? ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" Faithless is he that says farewell when the road darkens. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
