@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The greatest treasures are those invisible to the eye but found by the heart. ""</i></sub><br>
-    <b>— ___ Judy Garland ___</b>
+    <sub><i>"" Becoming a great leader doesn't mean being perfect. it means living with your imperfections. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
