@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Eighty percent of success is showing up.  ""</i></sub><br>
-    <b>— ___ Woody Allen ___</b>
+    <sub><i>"" A man sees in the world what he carries in his heart. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
