@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" The greatest of empires, is the empire over one's self. ""</i></sub><br>
+    <b>— ___ Publilius Syrus ___</b>
   </p>
 </div>
 
