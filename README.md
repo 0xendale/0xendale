@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Talk sense to a fool and he calls you foolish. ""</i></sub><br>
-    <b>— ___ Euripides ___</b>
+    <sub><i>"" Riches don't make a man rich, they only make him busier. ""</i></sub><br>
+    <b>— ___ Christopher Columbus ___</b>
   </p>
 </div>
 
