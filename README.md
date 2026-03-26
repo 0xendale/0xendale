@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" However difficult life may seem, there is always something you can do and succeed at. ""</i></sub><br>
-    <b>— ___ Stephen Hawking ___</b>
+    <sub><i>"" All wealth is the product of labor. ""</i></sub><br>
+    <b>— ___ John Locke ___</b>
   </p>
 </div>
 
