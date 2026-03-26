@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Follow the man who seeks the truth; run from the man who has found it. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" What's right is what's left if you do everything else wrong. ""</i></sub><br>
+    <b>— ___ Robin Williams ___</b>
   </p>
 </div>
 
