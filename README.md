@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wit is educated insolence. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Faith means believing the unbelievable. ""</i></sub><br>
+    <b>— ___ Gilbert Chesterton ___</b>
   </p>
 </div>
 
