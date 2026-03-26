@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. ""</i></sub><br>
+    <sub><i>"" Those who attain the middle Dominate the whole. ""</i></sub><br>
     <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
