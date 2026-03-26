@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Riches don't make a man rich, they only make him busier. ""</i></sub><br>
-    <b>— ___ Christopher Columbus ___</b>
+    <sub><i>"" However difficult life may seem, there is always something you can do and succeed at. ""</i></sub><br>
+    <b>— ___ Stephen Hawking ___</b>
   </p>
 </div>
 
