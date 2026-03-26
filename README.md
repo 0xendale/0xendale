@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life must be a constant education; one must learn everything, from speaking to dying. ""</i></sub><br>
-    <b>— ___ Gustave Flaubert ___</b>
+    <sub><i>"" Life is either a daring adventure, or it is nothing. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
