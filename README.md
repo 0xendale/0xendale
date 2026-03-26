@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Faith means believing the unbelievable. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Follow the man who seeks the truth; run from the man who has found it. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
