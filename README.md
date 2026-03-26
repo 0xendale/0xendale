@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The greatest of empires, is the empire over one's self. ""</i></sub><br>
-    <b>— ___ Publilius Syrus ___</b>
+    <sub><i>"" Work for something because it is good, not just because it stands a chance to succeed. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
