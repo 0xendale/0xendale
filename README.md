@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All wealth is the product of labor. ""</i></sub><br>
-    <b>— ___ John Locke ___</b>
+    <sub><i>"" The quality of your commitments will determine the course of your life. ""</i></sub><br>
+    <b>— ___ Ralph Marston ___</b>
   </p>
 </div>
 
