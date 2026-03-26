@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What's right is what's left if you do everything else wrong. ""</i></sub><br>
-    <b>— ___ Robin Williams ___</b>
+    <sub><i>"" One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
