@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Work for something because it is good, not just because it stands a chance to succeed. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" Life must be a constant education; one must learn everything, from speaking to dying. ""</i></sub><br>
+    <b>— ___ Gustave Flaubert ___</b>
   </p>
 </div>
 
