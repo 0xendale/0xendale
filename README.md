@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Who you are is defined by what you're willing to struggle for. ""</i></sub><br>
-    <b>— ___ Mark Manson ___</b>
+    <sub><i>"" You cannot have a positive life and a negative mind. ""</i></sub><br>
+    <b>— ___ Joyce Meyer ___</b>
   </p>
 </div>
 
