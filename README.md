@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be strong. Be confident. Be the star of your own life. ""</i></sub><br>
-    <b>— ___ Estee Lauder ___</b>
+    <sub><i>"" Quality means doing it right when no one is looking. ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
