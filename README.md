@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" In the end, it's not the years in your life that count. It's the life in your years. ""</i></sub><br>
+    <b>— ___ Abraham Lincoln ___</b>
   </p>
 </div>
 
