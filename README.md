@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You cannot have a positive life and a negative mind. ""</i></sub><br>
-    <b>— ___ Joyce Meyer ___</b>
+    <sub><i>"" Don't be afraid to go slowly. Be afraid of stopping. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
