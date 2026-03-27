@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Reversing your treatment of the man you have wronged is better than asking his forgiveness. ""</i></sub><br>
-    <b>— ___ Elbert Hubbard ___</b>
+    <sub><i>"" Success and failure come and go, but don't let them define you. It's who you are that matters. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
