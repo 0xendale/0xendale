@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always render more and better service than is expected of you, no matter what your task may be. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" Who you are is defined by what you're willing to struggle for. ""</i></sub><br>
+    <b>— ___ Mark Manson ___</b>
   </p>
 </div>
 
