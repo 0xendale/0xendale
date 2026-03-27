@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't be afraid to give up the good to go for the great. ""</i></sub><br>
-    <b>— ___ John D. Rockefeller ___</b>
+    <sub><i>"" The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
