@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Life is filled with secrets. You can't learn them all at once. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
