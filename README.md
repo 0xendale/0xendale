@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The quality of your commitments will determine the course of your life. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" Don't be afraid to give up the good to go for the great. ""</i></sub><br>
+    <b>— ___ John D. Rockefeller ___</b>
   </p>
 </div>
 
