@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The joy of life comes from our encounters with new experiences. ""</i></sub><br>
-    <b>— ___ Christopher McCandless ___</b>
+    <sub><i>"" Don't let someone elses. opinion become your reality. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
