@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.  ""</i></sub><br>
-    <b>— ___ Miguel de Cervantes ___</b>
+    <sub><i>"" Don't seek, don't avoid, don't expect. Take what comes and be happy. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
