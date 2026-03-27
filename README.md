@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
