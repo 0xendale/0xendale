@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Quality means doing it right when no one is looking. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Victims recite problems, leaders provide solutions. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
