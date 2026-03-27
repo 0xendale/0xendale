@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The four P's to success are pressure, persistence, perseverance, and prayer. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" The joy of life comes from our encounters with new experiences. ""</i></sub><br>
+    <b>— ___ Christopher McCandless ___</b>
   </p>
 </div>
 
