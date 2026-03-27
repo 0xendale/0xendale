@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let someone elses. opinion become your reality. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Take responsibility of your own happiness, never put it in other people's hands. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
