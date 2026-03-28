@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be brave. Take risks. Nothing can substitute experience. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" Light a candle instead of cursing the darkness. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
