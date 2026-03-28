@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is passion that makes man live; wisdom makes one only last. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" Don't wait for extraordinary opportunities. Seize common occasions and make them great. ""</i></sub><br>
+    <b>— ___ Orison Swett Marden ___</b>
   </p>
 </div>
 
