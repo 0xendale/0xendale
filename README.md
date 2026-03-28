@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't wait for inspiration. You have to go after it with a club.  ""</i></sub><br>
-    <b>— ___ Jack London ___</b>
+    <sub><i>"" A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
