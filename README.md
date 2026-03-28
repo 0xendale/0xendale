@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Continuous effort - not strength or intelligence - is the key to unlocking our potential. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" Why fit in when you were born to stand out? ""</i></sub><br>
+    <b>— ___ Dr. Seuss ___</b>
   </p>
 </div>
 
