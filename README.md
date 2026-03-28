@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't be afraid to go slowly. Be afraid of stopping. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" Knowing others is wisdom, knowing yourself is enlightenment. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
