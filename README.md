@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" You can't wait for inspiration. You have to go after it with a club.  ""</i></sub><br>
+    <b>— ___ Jack London ___</b>
   </p>
 </div>
 
