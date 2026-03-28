@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The pursuit of mastery bears gifts.  ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
