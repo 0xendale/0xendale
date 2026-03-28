@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Our view of the world is truly shaped by what we decide to hear. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" The ones who are crazy enough to think they can change the world, are the ones that do. ""</i></sub><br>
+    <b>— ___ Steve Jobs ___</b>
   </p>
 </div>
 
