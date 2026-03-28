@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never let your memories be greater than your dreams. ""</i></sub><br>
-    <b>— ___ Doug Ivester ___</b>
+    <sub><i>"" If you are far from the enemy, make him believe you are near. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
