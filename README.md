@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't wait for extraordinary opportunities. Seize common occasions and make them great. ""</i></sub><br>
-    <b>— ___ Orison Swett Marden ___</b>
+    <sub><i>"" We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
