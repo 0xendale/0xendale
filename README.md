@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Generosity is giving more than you can, and pride is taking less than you need. ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" He who knows, does not speak. He who speaks, does not know. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
