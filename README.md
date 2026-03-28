@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The ones who are crazy enough to think they can change the world, are the ones that do. ""</i></sub><br>
-    <b>— ___ Steve Jobs ___</b>
+    <sub><i>"" Do you have the patience to wait until your mud settles and the water is clear? ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
