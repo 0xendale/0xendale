@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing is impossible. The word itself says 'I'm possible!' ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" Failure is simply the opportunity to begin again, this time more intelligently. ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
