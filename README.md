@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you are far from the enemy, make him believe you are near. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" Be confident, not certain. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
