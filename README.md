@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trying to define yourself is like trying to bite your own teeth. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" A tiny change today brings a dramatically different tomorrow. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
