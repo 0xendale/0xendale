@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are no mistakes in life, only lessons. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" It matters not what someone is born, but what they grow to be. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
