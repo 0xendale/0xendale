@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The right thing to do and the hard thing to do are usually the same. ""</i></sub><br>
-    <b>— ___ Steve Maraboli ___</b>
+    <sub><i>"" Don't spend time beating on a wall, hoping to transform it into a door. ""</i></sub><br>
+    <b>— ___ Coco Chanel ___</b>
   </p>
 </div>
 
