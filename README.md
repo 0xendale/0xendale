@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Listening well is as powerful as talking well, and is also as essential to true conversation. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Turn your face to the sun, as flowers know how to do. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
