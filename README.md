@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" The salvation of the world lies in the human heart. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
