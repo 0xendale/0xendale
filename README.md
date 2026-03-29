@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Words, once they are printed, have a life of their own. ""</i></sub><br>
-    <b>— ___ Carol Burnett ___</b>
+    <sub><i>"" All know that the drop merges into the ocean, but few know that the ocean merges into the drop. ""</i></sub><br>
+    <b>— ___ Kabir ___</b>
   </p>
 </div>
 
