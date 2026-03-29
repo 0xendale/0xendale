@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who can make you believe absurdities can make you commit atrocities.  ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" The more you praise and celebrate your life, the more there is in life to celebrate.  ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
