@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Treat everyone with politeness and kindness, not because they are nice, but because you are. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" It is better to fail in originality than to succeed in imitation. ""</i></sub><br>
+    <b>— ___ Herman Melville ___</b>
   </p>
 </div>
 
