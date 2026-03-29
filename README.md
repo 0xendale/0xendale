@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing can dim the light which shines from within. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" No man is more cheated than the selfish man. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
