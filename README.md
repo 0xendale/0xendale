@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Happiness must be grown in one's own garden. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" It is the power of thought that gives man power over nature. ""</i></sub><br>
+    <b>— ___ Hans Christian Andersen ___</b>
   </p>
 </div>
 
