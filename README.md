@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Find your Light; They can't love you if they can't see you. ""</i></sub><br>
-    <b>— ___ Bette Midler ___</b>
+    <sub><i>"" It's the possibility of having a dream come true that makes life interesting. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
