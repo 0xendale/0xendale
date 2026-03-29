@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No man is more cheated than the selfish man. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" The present moment is filled with joy and happiness. If you are attentive, you will see it. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
