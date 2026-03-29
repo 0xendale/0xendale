@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The present moment is filled with joy and happiness. If you are attentive, you will see it. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" If you do not conquer self, you will be conquered by self. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
