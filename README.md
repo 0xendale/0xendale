@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The eye with which I see God is the same eye with which God sees me. ""</i></sub><br>
-    <b>— ___ Meister Eckhart ___</b>
+    <sub><i>"" Learn to use your emotions to think, not think with your emotions. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
