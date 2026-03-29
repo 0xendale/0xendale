@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is simply the opportunity to begin again, this time more intelligently. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Words, once they are printed, have a life of their own. ""</i></sub><br>
+    <b>— ___ Carol Burnett ___</b>
   </p>
 </div>
 
