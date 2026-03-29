@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no value in anything until it is finished.  ""</i></sub><br>
-    <b>— ___ Genghis Khan ___</b>
+    <sub><i>"" Find your Light; They can't love you if they can't see you. ""</i></sub><br>
+    <b>— ___ Bette Midler ___</b>
   </p>
 </div>
 
