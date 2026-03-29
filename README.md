@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are no secrets to success. It is the result of preparation, hard work, learning from failure. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Art is to console those who are broken by life. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
