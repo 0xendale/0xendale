@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't spend time beating on a wall, hoping to transform it into a door. ""</i></sub><br>
-    <b>— ___ Coco Chanel ___</b>
+    <sub><i>"" Those who can make you believe absurdities can make you commit atrocities.  ""</i></sub><br>
+    <b>— ___ Voltaire ___</b>
   </p>
 </div>
 
