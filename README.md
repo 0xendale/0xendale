@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is 10% what happens to you and 90% how you react to it.  ""</i></sub><br>
-    <b>— ___ Charles Swindoll ___</b>
+    <sub><i>"" Happiness must be grown in one's own garden. ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
