@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more you praise and celebrate your life, the more there is in life to celebrate.  ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" There is no value in anything until it is finished.  ""</i></sub><br>
+    <b>— ___ Genghis Khan ___</b>
   </p>
 </div>
 
