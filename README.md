@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Art is to console those who are broken by life. ""</i></sub><br>
-    <b>— ___ Vincent van Gogh ___</b>
+    <sub><i>"" The eye with which I see God is the same eye with which God sees me. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
