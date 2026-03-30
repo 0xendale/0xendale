@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Failure is an option, fear is not. ""</i></sub><br>
+    <b>— ___ James Cameron ___</b>
   </p>
 </div>
 
