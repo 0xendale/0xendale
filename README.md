@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Without the rain there would be no rainbow. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" The only thing more frustrating than slanderers is those foolish enough to listen to them. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
