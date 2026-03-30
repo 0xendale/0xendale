@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Open your eyes and look within. Are you satisfied with the life you're living? ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" If you do not change direction, you may end up where you are heading. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
