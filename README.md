@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No one has ever become poor by giving. ""</i></sub><br>
-    <b>— ___ Anne Frank ___</b>
+    <sub><i>"" Whenever you find yourself on the side of the majority, it is time to reform. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
