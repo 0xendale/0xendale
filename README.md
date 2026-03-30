@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I never dwell on what happened. You can't change it. Move forward. ""</i></sub><br>
-    <b>— ___ Joan Rivers ___</b>
+    <sub><i>"" No one has ever become poor by giving. ""</i></sub><br>
+    <b>— ___ Anne Frank ___</b>
   </p>
 </div>
 
