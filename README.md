@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When the root is strong, the fruit is sweet. ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
