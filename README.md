@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" I never dwell on what happened. You can't change it. Move forward. ""</i></sub><br>
+    <b>— ___ Joan Rivers ___</b>
   </p>
 </div>
 
