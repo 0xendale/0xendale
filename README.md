@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Let each man exercise the art he knows. ""</i></sub><br>
-    <b>— ___ Aristophanes ___</b>
+    <sub><i>"" One of the advantages of being disorganized is that one is always having surprising discoveries. ""</i></sub><br>
+    <b>— ___ A.A. Milne ___</b>
   </p>
 </div>
 
