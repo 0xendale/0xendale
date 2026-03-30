@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do good, live in the most positive and joyful way possible every day. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. ""</i></sub><br>
+    <b>— ___ Thomas Edison ___</b>
   </p>
 </div>
 
