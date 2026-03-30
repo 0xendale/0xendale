@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is an option, fear is not. ""</i></sub><br>
-    <b>— ___ James Cameron ___</b>
+    <sub><i>"" Open your eyes and look within. Are you satisfied with the life you're living? ""</i></sub><br>
+    <b>— ___ Bob Marley ___</b>
   </p>
 </div>
 
