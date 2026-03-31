@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No one is useless in this world who lightens the burdens of another. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" If you try to micromanage yourself all you're going to do is make yourself miserable. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
