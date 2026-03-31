@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every man desires to live long, but no man wishes to be old. ""</i></sub><br>
-    <b>— ___ Jonathan Swift ___</b>
+    <sub><i>"" The highest level of wisdom is when you not only accept but love adversity. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
