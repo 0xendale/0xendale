@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Experience is simply the name we give our mistakes.  ""</i></sub><br>
-    <b>— ___ Oscar Wilde ___</b>
+    <sub><i>"" Question everything. Learn something. Answer nothing. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
