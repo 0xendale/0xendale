@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let making a living prevent you from making a life. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Keep smiling, because life is a beautiful thing and there's so much to smile about. ""</i></sub><br>
+    <b>— ___ Marilyn Monroe ___</b>
   </p>
 </div>
 
