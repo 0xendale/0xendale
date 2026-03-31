@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is the dancer and you are the dance. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" The act of taking the first step is what separates the winners from the losers. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
