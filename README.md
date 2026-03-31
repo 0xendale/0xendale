@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you try to micromanage yourself all you're going to do is make yourself miserable. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
