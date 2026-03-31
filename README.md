@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The highest level of wisdom is when you not only accept but love adversity. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" Always keep your eyes open. Keep watching. Because whatever you see can inspire you. ""</i></sub><br>
+    <b>— ___ Grace Coddington ___</b>
   </p>
 </div>
 
