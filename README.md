@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All problems are interpersonal relationship problems. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" Tis not too late to seek a newer world. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
