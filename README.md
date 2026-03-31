@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries. ""</i></sub><br>
-    <b>— ___ Amelia Earhart ___</b>
+    <sub><i>"" The right thing to do and the hard thing to do are usually the same. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
