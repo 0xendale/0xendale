@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on. ""</i></sub><br>
-    <b>— ___ Steve Maraboli ___</b>
+    <sub><i>"" Every man desires to live long, but no man wishes to be old. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
