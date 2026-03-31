@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everything that is made beautiful and fair and lovely is made for the eye of one who sees. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Life is a question and how we live it is our answer. ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
