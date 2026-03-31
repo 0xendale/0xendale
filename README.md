@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is a question and how we live it is our answer. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
