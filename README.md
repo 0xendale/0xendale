@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The act of taking the first step is what separates the winners from the losers. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" All problems are interpersonal relationship problems. ""</i></sub><br>
+    <b>— ___ Alfred Adler ___</b>
   </p>
 </div>
 
