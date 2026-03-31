@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Keep smiling, because life is a beautiful thing and there's so much to smile about. ""</i></sub><br>
-    <b>— ___ Marilyn Monroe ___</b>
+    <sub><i>"" No one is useless in this world who lightens the burdens of another. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
