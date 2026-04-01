@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man who cannot tolerate small misfortunes can never accomplish great things. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" A wise person should have money in their head, but not in their heart. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
