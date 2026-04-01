@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Question everything. Learn something. Answer nothing. ""</i></sub><br>
-    <b>— ___ Euripides ___</b>
+    <sub><i>"" A moving door hinge never corrodes. Flowing water never grows stagnant. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
