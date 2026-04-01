@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A moving door hinge never corrodes. Flowing water never grows stagnant. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" Life is one long process of getting tired. ""</i></sub><br>
+    <b>— ___ Samuel Butler ___</b>
   </p>
 </div>
 
