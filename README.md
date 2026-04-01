@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. ""</i></sub><br>
-    <b>— ___ J.R.R. Tolkien ___</b>
+    <sub><i>"" Winners are not people who never fail, but people who never quit. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
