@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I defeat my enemies when I make them my friends. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" Play your part in life, but never forget that it is only a role. ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
