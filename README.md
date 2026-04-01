@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A wise person should have money in their head, but not in their heart. ""</i></sub><br>
-    <b>— ___ Jonathan Swift ___</b>
+    <sub><i>"" The secret of change is to focus all your energy not on fighting the old, but on building the new. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
