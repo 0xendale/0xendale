@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Play your part in life, but never forget that it is only a role. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" To accomplish big things, I am convinced you must first dream big dreams. ""</i></sub><br>
+    <b>— ___ Conrad Hilton ___</b>
   </p>
 </div>
 
