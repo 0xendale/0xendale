@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I do not exist to impress the world. I exist to live my life in a way that will make me happy. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" If you don't find the time, if you don't do the work, you don't get the results. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
