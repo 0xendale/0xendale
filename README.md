@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. ""</i></sub><br>
-    <b>— ___ Buddha ___</b>
+    <sub><i>"" The salvation of the world lies in the human heart. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
