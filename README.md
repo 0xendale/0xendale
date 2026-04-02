@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you have a dream, you've got to grab it and never let go. ""</i></sub><br>
-    <b>— ___ Carol Burnett ___</b>
+    <sub><i>"" It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
