@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What do we live for, if it is not to make life less difficult for each other? ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" FOCUS - Follow One Course Until Successful ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
