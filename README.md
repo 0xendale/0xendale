@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who know, do. Those that understand, teach. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" He who fails to plan, plans to fail. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
