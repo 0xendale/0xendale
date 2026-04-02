@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The best teacher is experience and not through someone's distorted point of view. ""</i></sub><br>
-    <b>— ___ Jack Kerouac ___</b>
+    <sub><i>"" Giving back involves a certain amount of giving up. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
