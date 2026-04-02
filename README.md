@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It still holds true that man is most uniquely human when he turns obstacles into opportunities. ""</i></sub><br>
-    <b>— ___ Eric Hoffer ___</b>
+    <sub><i>"" When you have a dream, you've got to grab it and never let go. ""</i></sub><br>
+    <b>— ___ Carol Burnett ___</b>
   </p>
 </div>
 
