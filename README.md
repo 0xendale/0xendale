@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Discipline is the bridge between goals and accomplishment. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" Showing off is the fool's idea of glory.  ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
