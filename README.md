@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret of change is to focus all your energy not on fighting the old, but on building the new. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. ""</i></sub><br>
+    <b>— ___ Buddha ___</b>
   </p>
 </div>
 
