@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The world is open for play, everything and everybody is mockable in a wonderful way. ""</i></sub><br>
-    <b>— ___ Robin Williams ___</b>
+    <sub><i>"" It still holds true that man is most uniquely human when he turns obstacles into opportunities. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
