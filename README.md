@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A poet should be so crafty with words that he is envied even for his pains. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" The world is open for play, everything and everybody is mockable in a wonderful way. ""</i></sub><br>
+    <b>— ___ Robin Williams ___</b>
   </p>
 </div>
 
