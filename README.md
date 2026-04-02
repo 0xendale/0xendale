@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't go forward and backwards at the same time. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" What do we live for, if it is not to make life less difficult for each other? ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
