@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who fails to plan, plans to fail. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" The best teacher is experience and not through someone's distorted point of view. ""</i></sub><br>
+    <b>— ___ Jack Kerouac ___</b>
   </p>
 </div>
 
