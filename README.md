@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only the educated are free. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" A poet should be so crafty with words that he is envied even for his pains. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
