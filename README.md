@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" FOCUS - Follow One Course Until Successful ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" Only the educated are free. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
