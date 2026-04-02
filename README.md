@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You cannot teach a crab to walk straight. ""</i></sub><br>
-    <b>— ___ Aristophanes ___</b>
+    <sub><i>"" Discipline is the bridge between goals and accomplishment. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
