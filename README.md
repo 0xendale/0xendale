@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The salvation of the world lies in the human heart. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" You miss 100% of the shots you don't take. ""</i></sub><br>
+    <b>— ___ Wayne Gretzky ___</b>
   </p>
 </div>
 
