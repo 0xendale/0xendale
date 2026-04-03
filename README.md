@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" The greatest miracle is to be alive. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
