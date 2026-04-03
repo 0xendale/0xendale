@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone sees what you appear to be, few experience what you really are. ""</i></sub><br>
-    <b>— ___ Niccolo Machiavelli ___</b>
+    <sub><i>"" When you want something in life, you just gotta reach out and grab it. ""</i></sub><br>
+    <b>— ___ Christopher McCandless ___</b>
   </p>
 </div>
 
