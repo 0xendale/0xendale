@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Peace is not the absence of conflict, but the ability to cope with it. ""</i></sub><br>
+    <sub><i>"" The first step toward getting somewhere is to decide that you are not going to stay where you are. ""</i></sub><br>
     <b>— ___ Unknown ___</b>
   </p>
 </div>
