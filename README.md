@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" What is planted in each person's soul will sprout.   ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
