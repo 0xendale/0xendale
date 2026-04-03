@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your neighbor is the man who needs you. ""</i></sub><br>
-    <b>— ___ Elbert Hubbard ___</b>
+    <sub><i>"" Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
