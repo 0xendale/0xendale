@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Showing off is the fool's idea of glory.  ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" Behind every beautiful thing, there's some kind of pain. ""</i></sub><br>
+    <b>— ___ Bob Dylan ___</b>
   </p>
 </div>
 
