@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you want something in life, you just gotta reach out and grab it. ""</i></sub><br>
-    <b>— ___ Christopher McCandless ___</b>
+    <sub><i>"" He who is not contented with what he has, would not be contented with what he would like to have. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
