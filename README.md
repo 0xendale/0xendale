@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" The first rule of business; treat others like they want to treat you. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
