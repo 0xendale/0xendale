@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The greatest miracle is to be alive. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
