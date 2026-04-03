@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is a journey, not a destination. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" I was angered, for I had no shoes. Then I met a man who had no feet.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
