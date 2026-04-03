@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who is not contented with what he has, would not be contented with what he would like to have. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" There are no second chances in life, except to feel remorse. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
