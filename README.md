@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everything will be ok in the end. If it's not ok, it's not the end. ""</i></sub><br>
-    <b>— ___ John Lennon ___</b>
+    <sub><i>"" Your neighbor is the man who needs you. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
