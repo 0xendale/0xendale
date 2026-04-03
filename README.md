@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are no differences but differences of degree between different degrees of difference and no difference. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" Life is a journey, not a destination. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
