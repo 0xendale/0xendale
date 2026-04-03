@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The first step toward getting somewhere is to decide that you are not going to stay where you are. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" There are no differences but differences of degree between different degrees of difference and no difference. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
