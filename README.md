@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you see yourself as prosperous, you will be. ""</i></sub><br>
-    <b>— ___ Robert Collier ___</b>
+    <sub><i>"" Deliberately seek the company of people who influence you to think and act on building the life you desire. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
