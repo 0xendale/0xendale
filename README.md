@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no excuse for not trying. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" The most important thing is to enjoy your life, to be happy, it's all that matters. ""</i></sub><br>
+    <b>— ___ Audrey Hepburn ___</b>
   </p>
 </div>
 
