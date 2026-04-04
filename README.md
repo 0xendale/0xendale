@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" There is no excuse for not trying. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
