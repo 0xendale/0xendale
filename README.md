@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want something then you lose everything. If you don't want anything then you already have everything. ""</i></sub><br>
-    <b>— ___ Seungsahn ___</b>
+    <sub><i>"" If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
