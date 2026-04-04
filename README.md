@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" You don't get in life what you want; you get in life what you are. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
