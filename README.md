@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Courage is the price that life exacts for granting peace. ""</i></sub><br>
-    <b>— ___ Amelia Earhart ___</b>
+    <sub><i>"" Honesty is the first chapter in the book of wisdom. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
