@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I've always lived in the moment. ""</i></sub><br>
-    <b>— ___ Yanni ___</b>
+    <sub><i>"" An intelligence test sometimes shows a man how smart he would have been not to have taken it. ""</i></sub><br>
+    <b>— ___ Laurence J. Peter ___</b>
   </p>
 </div>
 
