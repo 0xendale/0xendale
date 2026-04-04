@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind. ""</i></sub><br>
-    <b>— ___ F. Scott Fitzgerald ___</b>
+    <sub><i>"" A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
