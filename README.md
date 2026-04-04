@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't get in life what you want; you get in life what you are. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Courage is the price that life exacts for granting peace. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
