@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Laziness may appear attractive, but work gives satisfaction. ""</i></sub><br>
-    <b>— ___ Anne Frank ___</b>
+    <sub><i>"" I've always lived in the moment. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
