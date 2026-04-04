@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence. ""</i></sub><br>
-    <b>— ___ Sydney Smith ___</b>
+    <sub><i>"" The person who never made a mistake never tried anything new. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
