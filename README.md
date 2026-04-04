@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" An intelligence test sometimes shows a man how smart he would have been not to have taken it. ""</i></sub><br>
-    <b>— ___ Laurence J. Peter ___</b>
+    <sub><i>"" The greatest deception men suffer is from their own opinions. ""</i></sub><br>
+    <b>— ___ Leonardo da Vinci ___</b>
   </p>
 </div>
 
