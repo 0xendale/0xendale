@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The person who never made a mistake never tried anything new. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" We need never be ashamed of our tears. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
