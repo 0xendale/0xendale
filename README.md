@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Unless someone truly has the power to say no, they never truly have the power to say yes. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence. ""</i></sub><br>
+    <b>— ___ Sydney Smith ___</b>
   </p>
 </div>
 
