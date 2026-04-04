@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The most important thing is to enjoy your life, to be happy, it's all that matters. ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" What have you done today to make someone else happy? ""</i></sub><br>
+    <b>— ___ Deepam Chaterjee ___</b>
   </p>
 </div>
 
