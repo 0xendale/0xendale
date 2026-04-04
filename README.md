@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We need never be ashamed of our tears. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. ""</i></sub><br>
+    <b>— ___ Carl Jung ___</b>
   </p>
 </div>
 
