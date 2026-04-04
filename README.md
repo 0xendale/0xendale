@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The first rule of business; treat others like they want to treat you. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind. ""</i></sub><br>
+    <b>— ___ F. Scott Fitzgerald ___</b>
   </p>
 </div>
 
