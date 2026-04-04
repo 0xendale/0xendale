@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. ""</i></sub><br>
-    <b>— ___ Robert Kiyosaki ___</b>
+    <sub><i>"" There is no limitations except those we create for ourselves. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
