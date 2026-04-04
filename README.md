@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Thinking is difficult, that's why most people judge. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" Success is about creating value. ""</i></sub><br>
+    <b>— ___ Candice Carpenter ___</b>
   </p>
 </div>
 
