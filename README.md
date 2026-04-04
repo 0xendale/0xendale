@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What have you done today to make someone else happy? ""</i></sub><br>
-    <b>— ___ Deepam Chaterjee ___</b>
+    <sub><i>"" Unless someone truly has the power to say no, they never truly have the power to say yes. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
