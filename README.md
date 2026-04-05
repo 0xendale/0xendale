@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where words fail, music speaks. ""</i></sub><br>
-    <b>— ___ Hans Christian Andersen ___</b>
+    <sub><i>"" No need to hurry. No need to sparkle. No need to be anybody but oneself. ""</i></sub><br>
+    <b>— ___ Virginia Woolf ___</b>
   </p>
 </div>
 
