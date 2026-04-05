@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We have a choice everyday regarding the attitude we will embrace for that day. ""</i></sub><br>
-    <b>— ___ Charles Swindoll ___</b>
+    <sub><i>"" First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
