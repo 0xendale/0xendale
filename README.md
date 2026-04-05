@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  ""</i></sub><br>
-    <b>— ___ Denis Waitley ___</b>
+    <sub><i>"" You are the only real obstacle in your path to a fulfilling life. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
