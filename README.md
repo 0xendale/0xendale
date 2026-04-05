@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Actions are the seeds of fate. Deeds grow into destiny. ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" Don't be pushed by your problems; be led by your dreams. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
