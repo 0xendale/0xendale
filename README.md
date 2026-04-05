@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man with outward courage dares to die: a man with inner courage dares to live. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. ""</i></sub><br>
+    <b>— ___ Dale Carnegie ___</b>
   </p>
 </div>
 
