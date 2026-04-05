@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. ""</i></sub><br>
-    <b>— ___ Dale Carnegie ___</b>
+    <sub><i>"" By seeking and blundering we learn. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
