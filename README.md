@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" While some of us act without thinking, too many of us think without acting. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.  ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
