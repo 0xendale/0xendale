@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are the only real obstacle in your path to a fulfilling life. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" What loneliness is more lonely than distrust? ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
