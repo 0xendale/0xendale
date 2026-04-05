@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are the only real obstacle in your path to a fulfilling life. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" If you've never eaten while crying you don t know what life tastes like. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
