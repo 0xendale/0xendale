@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest room in the world is the room for improvement. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" None are more hopelessly enslaved than those who falsely believe they are free. ""</i></sub><br>
+    <b>— ___ Johann Wolfgang von Goethe ___</b>
   </p>
 </div>
 
