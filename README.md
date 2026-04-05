@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only by acceptance of the past, can you alter it. ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. ""</i></sub><br>
+    <b>— ___ Richard Bach ___</b>
   </p>
 </div>
 
