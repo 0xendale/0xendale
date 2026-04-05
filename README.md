@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not try to be on the side of the majority, but live according to your inner laws. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" You are the only real obstacle in your path to a fulfilling life. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
