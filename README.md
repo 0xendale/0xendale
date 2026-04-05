@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Words are clothes that thoughts wear ""</i></sub><br>
-    <b>— ___ Samuel Butler ___</b>
+    <sub><i>"" Actions are the seeds of fate. Deeds grow into destiny. ""</i></sub><br>
+    <b>— ___ Harry S. Truman ___</b>
   </p>
 </div>
 
