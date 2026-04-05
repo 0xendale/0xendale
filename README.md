@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No need to hurry. No need to sparkle. No need to be anybody but oneself. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" Words are clothes that thoughts wear ""</i></sub><br>
+    <b>— ___ Samuel Butler ___</b>
   </p>
 </div>
 
