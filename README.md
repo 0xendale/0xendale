@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Do not look for a sanctuary in anyone except your self. ""</i></sub><br>
+    <b>— ___ Buddha ___</b>
   </p>
 </div>
 
