@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What loneliness is more lonely than distrust? ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
