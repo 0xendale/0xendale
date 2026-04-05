@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A needle is not sharp at both ends.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Only by acceptance of the past, can you alter it. ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
