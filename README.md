@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you've never eaten while crying you don t know what life tastes like. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" The biggest room in the world is the room for improvement. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
