@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Public opinion is the worst of all opinions. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" The difference between treason and patriotism is only a matter of dates. ""</i></sub><br>
+    <b>— ___ Alexandre Dumas ___</b>
   </p>
 </div>
 
