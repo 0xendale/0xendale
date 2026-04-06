@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   ""</i></sub><br>
-    <b>— ___ Estee Lauder ___</b>
+    <sub><i>"" You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
