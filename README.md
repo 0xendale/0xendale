@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can either add to our character each day, or we can fritter away our energies in distractions. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" The positive thinker sees the invisible, feels the intangible, and achieves the impossible. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
