@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The positive thinker sees the invisible, feels the intangible, and achieves the impossible. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" A day wasted on others is not wasted on one's self. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
