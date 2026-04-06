@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The dream is free, but the hustle is sold separately. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" Absence makes the heart grow fonder. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
