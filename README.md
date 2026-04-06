@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Absence makes the heart grow fonder. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
