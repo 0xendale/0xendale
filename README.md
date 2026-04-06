@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trust thyself: every heart vibrates to that iron string. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" Ask no questions, and you'll be told no lies. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
