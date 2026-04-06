@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A day wasted on others is not wasted on one's self. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" Knowledge isn't power until it is applied. ""</i></sub><br>
+    <b>— ___ Dale Carnegie ___</b>
   </p>
 </div>
 
