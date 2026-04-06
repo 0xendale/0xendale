@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Live life as though nobody is watching, and express yourself as though everyone is listening. ""</i></sub><br>
-    <b>— ___ Nelson Mandela ___</b>
+    <sub><i>"" The way to get started is to quit talking and begin doing. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
