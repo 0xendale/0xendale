@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The birth of the mind is the death of the senses. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Trust thyself: every heart vibrates to that iron string. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
