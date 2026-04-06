@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Originality is the fine art of remembering what you hear but forgetting where you heard it.  ""</i></sub><br>
-    <b>— ___ Laurence J. Peter ___</b>
+    <sub><i>"" The birth of the mind is the death of the senses. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
