@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Common sense is not so common.  ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Far and away the best prize that life has to offer is the chance to work hard at work worth doing. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
