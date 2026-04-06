@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Originality is the fine art of remembering what you hear but forgetting where you heard it.  ""</i></sub><br>
+    <b>— ___ Laurence J. Peter ___</b>
   </p>
 </div>
 
