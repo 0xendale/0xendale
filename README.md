@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is achieved and maintained by those who try and keep trying.  ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" Success is good at any age, but the sooner you find it, the longer you will enjoy it. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
