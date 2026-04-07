@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" While some of us act without thinking, too many of us think without acting. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" What have you done today to make someone else happy? ""</i></sub><br>
+    <b>— ___ Deepam Chaterjee ___</b>
   </p>
 </div>
 
