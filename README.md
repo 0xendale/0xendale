@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is good at any age, but the sooner you find it, the longer you will enjoy it. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" While some of us act without thinking, too many of us think without acting. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
