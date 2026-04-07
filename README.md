@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always turn a negative situation into a positive situation. ""</i></sub><br>
-    <b>— ___ Michael Jordan ___</b>
+    <sub><i>"" Empty your mind, be formless, shapeless, like water. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
