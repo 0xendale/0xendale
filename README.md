@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Empty your mind, be formless, shapeless, like water. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" The single most powerful asset we all have is our mind. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
