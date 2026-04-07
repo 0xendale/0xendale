@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you're waiting until you feel talented enough to make it, you'll never make it. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Against the assault of laughter nothing can stand. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
