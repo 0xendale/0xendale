@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you need inspiration, don't do it. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Whatever your heart clings to and confides in, that is really your God. ""</i></sub><br>
+    <b>— ___ Martin Luther ___</b>
   </p>
 </div>
 
