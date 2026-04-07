@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want something new, you have to stop doing something old. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" It's not what happens to you, but how you react to it that matters. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
