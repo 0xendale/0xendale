@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You may be one person in this world, but to one person you may mean the world. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  ""</i></sub><br>
+    <b>— ___ Denis Waitley ___</b>
   </p>
 </div>
 
