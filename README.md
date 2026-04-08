@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It ain't where you start in life, it's where you end up, and what you did along the way. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Don't let the silly little dramas of each day get you down. For you are here to do great things. ""</i></sub><br>
+    <b>— ___ Ralph Marston ___</b>
   </p>
 </div>
 
