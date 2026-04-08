@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good. ""</i></sub><br>
-    <b>— ___ Bhagavad Gita ___</b>
+    <sub><i>"" It ain't where you start in life, it's where you end up, and what you did along the way. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
