@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more you know, the more you know you don't know. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" You may be one person in this world, but to one person you may mean the world. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
