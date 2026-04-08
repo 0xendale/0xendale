@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let the silly little dramas of each day get you down. For you are here to do great things. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" The only real security that a man can have in this world is a reserve of knowledge, experience and ability.  ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
