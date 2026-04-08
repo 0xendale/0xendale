@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only real security that a man can have in this world is a reserve of knowledge, experience and ability.  ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" A man that flies from his fear may find that he has only taken a short cut to meet it. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
