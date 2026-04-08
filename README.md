@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change the changeable, accept the unchangeable, and remove yourself from the unacceptable.  ""</i></sub><br>
-    <b>— ___ Denis Waitley ___</b>
+    <sub><i>"" Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good. ""</i></sub><br>
+    <b>— ___ Bhagavad Gita ___</b>
   </p>
 </div>
 
