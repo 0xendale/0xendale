@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you don't like something, change it. If you can't change it, change your attitude. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" Where the willingness is great, the difficulties cannot be great. ""</i></sub><br>
+    <b>— ___ Niccolo Machiavelli ___</b>
   </p>
 </div>
 
