@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Perfection is not attainable, but if we chase perfection we can catch excellence. ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" The more you know, the more you know you don't know. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
