@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Enjoy life. There's plenty of time to be dead. ""</i></sub><br>
-    <b>— ___ Hans Christian Andersen ___</b>
+    <sub><i>"" If you don't like something, change it. If you can't change it, change your attitude. ""</i></sub><br>
+    <b>— ___ Maya Angelou ___</b>
   </p>
 </div>
 
