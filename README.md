@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Against the assault of laughter nothing can stand. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  ""</i></sub><br>
+    <b>— ___ Orison Swett Marden ___</b>
   </p>
 </div>
 
