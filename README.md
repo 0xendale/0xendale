@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The way out is in. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" It's just a bad day, not a bad life. ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
