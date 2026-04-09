@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It doesn't matter how slow you go, as long as you don't stop. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Normality is a paved road: It's comfortable to walk, but no flowers grow on it. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
