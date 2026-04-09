@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" Sometimes it is harder to deprive oneself of a pain than of a pleasure. ""</i></sub><br>
+    <b>— ___ F. Scott Fitzgerald ___</b>
   </p>
 </div>
 
