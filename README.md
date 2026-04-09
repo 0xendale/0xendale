@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Doubt is an uncomfortable condition, but certainty is a ridiculous one. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Have a vision. Be demanding. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
