@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Have a vision. Be demanding. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Cherish forever what makes you unique, cuz you're really a yawn if it goes. ""</i></sub><br>
+    <b>— ___ Bette Midler ___</b>
   </p>
 </div>
 
