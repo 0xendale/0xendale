@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who can, does. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" Believe in your infinite potential. Your only limitations are those you set upon yourself. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
