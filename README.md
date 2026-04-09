@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't build a reputation on what you are going to do.  ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Doubt is an uncomfortable condition, but certainty is a ridiculous one. ""</i></sub><br>
+    <b>— ___ Voltaire ___</b>
   </p>
 </div>
 
