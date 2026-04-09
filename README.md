@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People who have goals succeed because they know where they're going. It's that simple. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" You can't build a reputation on what you are going to do.  ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
