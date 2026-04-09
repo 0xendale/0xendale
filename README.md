@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One is never afraid of the unknown; one is afraid of the known coming to an end. ""</i></sub><br>
-    <b>— ___ Jiddu Krishnamurti ___</b>
+    <sub><i>"" Creativity is intelligence having fun. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
