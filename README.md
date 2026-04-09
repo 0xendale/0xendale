@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Believe in your infinite potential. Your only limitations are those you set upon yourself. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Chase your passion, not your pension.  ""</i></sub><br>
+    <b>— ___ Denis Waitley ___</b>
   </p>
 </div>
 
