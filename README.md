@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Cherish forever what makes you unique, cuz you're really a yawn if it goes. ""</i></sub><br>
-    <b>— ___ Bette Midler ___</b>
+    <sub><i>"" It's your road, and yours alone, others may walk it with you, but no one can walk it for you. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
