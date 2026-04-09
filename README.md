@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Creativity is intelligence having fun. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" He suffers more than necessary, who suffers before it is necessary.   ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
