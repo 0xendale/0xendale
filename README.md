@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Normality is a paved road: It's comfortable to walk, but no flowers grow on it. ""</i></sub><br>
-    <b>— ___ Vincent van Gogh ___</b>
+    <sub><i>"" One is never afraid of the unknown; one is afraid of the known coming to an end. ""</i></sub><br>
+    <b>— ___ Jiddu Krishnamurti ___</b>
   </p>
 </div>
 
