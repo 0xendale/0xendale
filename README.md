@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's your road, and yours alone, others may walk it with you, but no one can walk it for you. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" He that can have patience can have what he will. ""</i></sub><br>
+    <b>— ___ Benjamin Franklin ___</b>
   </p>
 </div>
 
