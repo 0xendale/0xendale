@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Getting lost along your path is a part of finding the path you are meant to be on. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" Life is a question and how we live it is our answer. ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
