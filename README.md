@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Teachers open the door. You enter by yourself.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Prefer to be defeated in the presence of the wise than to excel among fools. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
