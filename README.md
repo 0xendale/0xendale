@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The measure of who we are is what we do with what we have. ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" The world would go on even without you. Don't take yourself so seriously. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
