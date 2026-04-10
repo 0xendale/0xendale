@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You will face many defeats in life, but never let yourself be defeated. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" The greater the impact you want to make, the greater your influence needs to be. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
