@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Prefer to be defeated in the presence of the wise than to excel among fools. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" Getting lost along your path is a part of finding the path you are meant to be on. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
