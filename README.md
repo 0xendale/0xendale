@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Throw your heart over the fence and the rest will follow ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" The measure of who we are is what we do with what we have. ""</i></sub><br>
+    <b>— ___ Vince Lombardi ___</b>
   </p>
 </div>
 
