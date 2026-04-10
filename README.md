@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The road to success is always under construction. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
