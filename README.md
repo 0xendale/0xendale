@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The world would go on even without you. Don't take yourself so seriously. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" Never put off to tomorrow what you can do to-day. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
