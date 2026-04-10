@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The measure of wisdom is how calm you are when facing any given situation. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" If you're afraid to die, you're afraid to live. You can't have one without the other. ""</i></sub><br>
+    <b>— ___ Rita Mae Brown ___</b>
   </p>
 </div>
 
