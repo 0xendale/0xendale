@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Silence is the great teacher and to learn its lessons you must pay attention to it. ""</i></sub><br>
-    <b>— ___ Deepak Chopra ___</b>
+    <sub><i>"" To achieve, you need thought. You have to know what you are doing and that's real power. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
