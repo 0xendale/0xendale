@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To achieve, you need thought. You have to know what you are doing and that's real power. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" In the End, we will remember not the words of our enemies, but the silence of our friends. ""</i></sub><br>
+    <b>— ___ Martin Luther King, Jr. ___</b>
   </p>
 </div>
 
