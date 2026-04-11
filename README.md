@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Giving is living. If you stop wanting to give, there's nothing more to live for. ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" There is no one giant step that does it. It's a lot of little steps. ""</i></sub><br>
+    <b>— ___ Peter A. Cohen ___</b>
   </p>
 </div>
 
