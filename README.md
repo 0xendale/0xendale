@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" By failing to prepare, you are preparing to fail. ""</i></sub><br>
-    <b>— ___ Benjamin Franklin ___</b>
+    <sub><i>"" One small positive thought can change your whole day. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
