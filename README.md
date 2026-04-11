@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you put water into a cup, it becomes the cup. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" If you see yourself as prosperous, you will be. ""</i></sub><br>
+    <b>— ___ Robert Collier ___</b>
   </p>
 </div>
 
