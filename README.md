@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can calculate the worth of a man by the number of his enemies. ""</i></sub><br>
-    <b>— ___ Gustave Flaubert ___</b>
+    <sub><i>"" I do not seek. I find. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
