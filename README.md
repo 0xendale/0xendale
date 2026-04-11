@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Expect the best of yourself, and then do what is necessary to make it a reality. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" The greatest weariness comes from work not done. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
