@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We should not look back unless it is to derive useful lessons from past errors. ""</i></sub><br>
-    <b>— ___ George Washington ___</b>
+    <sub><i>"" I like the dreams of the future better than the history of the past. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
