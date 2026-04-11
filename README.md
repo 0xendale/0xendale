@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is your attitude, not your aptitude, that determines your altitude. ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" By failing to prepare, you are preparing to fail. ""</i></sub><br>
+    <b>— ___ Benjamin Franklin ___</b>
   </p>
 </div>
 
