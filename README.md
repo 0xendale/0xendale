@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't think money does everything or you are going to end up doing everything for money. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Time flies whether you are having fun or not. ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
