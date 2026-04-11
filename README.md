@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The greatest weariness comes from work not done. ""</i></sub><br>
-    <b>— ___ Eric Hoffer ___</b>
+    <sub><i>"" If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. ""</i></sub><br>
+    <b>— ___ Seungsahn ___</b>
   </p>
 </div>
 
