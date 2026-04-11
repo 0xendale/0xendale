@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Opportunities multiply as they are seized. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" The single biggest problem in communication is the illusion that it has taken place. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
