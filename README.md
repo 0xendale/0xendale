@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Some people don't like change, but you need to embrace change if the alternative is disaster. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Don't be afraid to stand for what you believe in, even if that means standing alone. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
