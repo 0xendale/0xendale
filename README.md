@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is getting what you want, happiness is wanting what you get. ""</i></sub><br>
-    <b>— ___ W.P. Kinsella ___</b>
+    <sub><i>"" The truly rich men are the ones who have health, loved ones and a work they love. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
