@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Information changes your mind. Action changes your circumstances. ""</i></sub><br>
-    <b>— ___ Jack Butcher ___</b>
+    <sub><i>"" In spite of everything, I shall rise again. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
