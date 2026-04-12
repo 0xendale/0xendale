@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's easy to be a critic, but being a doer requires effort, risk, and change.   ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" When things go wrong, don't go with them. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
