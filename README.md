@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Giving is living. If you stop wanting to give, there's nothing more to live for. ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" There are no mistakes in life, only lessons. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
