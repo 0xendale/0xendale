@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are all self-made, but only the successful will admit it. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Watch what you say, and whatever you say, practice it. ""</i></sub><br>
+    <b>— ___ Soyen Shaku ___</b>
   </p>
 </div>
 
