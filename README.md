@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Most great people have achieved their greatest success just one step beyond their greatest failure. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" Time heals what reason cannot.   ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
