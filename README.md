@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We tend to live up to our expectations. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Giving is living. If you stop wanting to give, there's nothing more to live for. ""</i></sub><br>
+    <b>— ___ Audrey Hepburn ___</b>
   </p>
 </div>
 
