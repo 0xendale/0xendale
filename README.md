@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are no mistakes in life, only lessons. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" There is nothing more truly artistic than to love people. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
