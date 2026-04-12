@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You get paid in direct proportion to the difficulty of problems you solve. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" Great things are not accomplished by those who yield to trends and fads and popular opinion. ""</i></sub><br>
+    <b>— ___ Jack Kerouac ___</b>
   </p>
 </div>
 
