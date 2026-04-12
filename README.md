@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. ""</i></sub><br>
-    <b>— ___ Denis Waitley ___</b>
+    <sub><i>"" Happiness is the absence of the striving for happiness. ""</i></sub><br>
+    <b>— ___ Zhuangzi ___</b>
   </p>
 </div>
 
