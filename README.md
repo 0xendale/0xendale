@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Great things are not accomplished by those who yield to trends and fads and popular opinion. ""</i></sub><br>
-    <b>— ___ Jack Kerouac ___</b>
+    <sub><i>"" Some people don't like change, but you need to embrace change if the alternative is disaster. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
