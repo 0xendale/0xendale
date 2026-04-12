@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Time heals what reason cannot.   ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" You get paid in direct proportion to the difficulty of problems you solve. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
