@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Character is the result of two things: mental attitude and the way we spend our time. ""</i></sub><br>
-    <b>— ___ Elbert Hubbard ___</b>
+    <sub><i>"" Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
