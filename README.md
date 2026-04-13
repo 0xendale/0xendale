@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only way to 'find out if it will work out' is to do it. ""</i></sub><br>
-    <b>— ___ Simon Sinek ___</b>
+    <sub><i>"" Character is the result of two things: mental attitude and the way we spend our time. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
