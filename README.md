@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can start changing our world for the better daily, no matter how small the action. ""</i></sub><br>
-    <b>— ___ Nelson Mandela ___</b>
+    <sub><i>"" Embody what you teach, and teach only what you have embodied. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
