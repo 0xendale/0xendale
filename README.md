@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The majority of what you want will come from the minority of what you do. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" It is in the darkness that one finds the light. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
