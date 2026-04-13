@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" The only way to 'find out if it will work out' is to do it. ""</i></sub><br>
+    <b>— ___ Simon Sinek ___</b>
   </p>
 </div>
 
