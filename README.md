@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The whole is greater than the sum of its parts. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" First say to yourself what you would be; and then do what you have to do. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
