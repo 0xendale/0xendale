@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you judge others, you do not define them, you define yourself. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Happiness is the meaning and the purpose of life, the whole aim and end of human existence. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
