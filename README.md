@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The primary point of this existence is to live, and all living things move and grow. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" If you're afraid to die, you're afraid to live. You can't have one without the other. ""</i></sub><br>
+    <b>— ___ Rita Mae Brown ___</b>
   </p>
 </div>
 
