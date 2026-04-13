@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Growing up is losing some illusions, in order to acquire others. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" You can start changing our world for the better daily, no matter how small the action. ""</i></sub><br>
+    <b>— ___ Nelson Mandela ___</b>
   </p>
 </div>
 
