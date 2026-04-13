@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If the grass is greener on the other side, maybe that's because you're not taking good care of your grass. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" The primary point of this existence is to live, and all living things move and grow. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
