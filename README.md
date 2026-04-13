@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" First say to yourself what you would be; and then do what you have to do. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Throw your heart over the fence and the rest will follow ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
