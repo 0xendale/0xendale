@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I have never in my life learned anything from any man who agreed with me. ""</i></sub><br>
-    <b>— ___ Dudley Field Malone ___</b>
+    <sub><i>"" Believe and you're halfway there. ""</i></sub><br>
+    <b>— ___ Harry S. Truman ___</b>
   </p>
 </div>
 
