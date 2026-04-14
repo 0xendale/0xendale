@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. ""</i></sub><br>
-    <b>— ___ Pema Chodron ___</b>
+    <sub><i>"" Heaven is right where you are standing. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
