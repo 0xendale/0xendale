@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" New beginnings are disguised as painful endings. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. ""</i></sub><br>
+    <b>— ___ Pema Chodron ___</b>
   </p>
 </div>
 
