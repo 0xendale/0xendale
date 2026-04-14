@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" A lie can travel half way around the world while the truth is putting on its shoes. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
