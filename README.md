@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Discipline is the mark of intelligent living. ""</i></sub><br>
-    <b>— ___ Sathya Sai Baba ___</b>
+    <sub><i>"" New beginnings are disguised as painful endings. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
