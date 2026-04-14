@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you're afraid to die, you're afraid to live. You can't have one without the other. ""</i></sub><br>
-    <b>— ___ Rita Mae Brown ___</b>
+    <sub><i>"" Discipline is the mark of intelligent living. ""</i></sub><br>
+    <b>— ___ Sathya Sai Baba ___</b>
   </p>
 </div>
 
