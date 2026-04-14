@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Believe and you're halfway there. ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" It's the unknown we fear when we look upon death and darkness, nothing more. ""</i></sub><br>
+    <b>— ___ Albus Dumbledore ___</b>
   </p>
 </div>
 
