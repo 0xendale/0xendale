@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Heaven is right where you are standing. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" If you quit once it becomes a habit. ""</i></sub><br>
+    <b>— ___ Michael Jordan ___</b>
   </p>
 </div>
 
