@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's the unknown we fear when we look upon death and darkness, nothing more. ""</i></sub><br>
-    <b>— ___ Albus Dumbledore ___</b>
+    <sub><i>"" You can't let your failures define you. You have to let your failures teach you. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
