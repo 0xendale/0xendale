@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" Memory is the scribe of the soul. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
