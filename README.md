@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? ""</i></sub><br>
-    <b>— ___ Sathya Sai Baba ___</b>
+    <sub><i>"" Only when one allows themself the right to die, do they then give yourself the permission to live. ""</i></sub><br>
+    <b>— ___ C. Sean McGee ___</b>
   </p>
 </div>
 
