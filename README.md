@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only when one allows themself the right to die, do they then give yourself the permission to live. ""</i></sub><br>
-    <b>— ___ C. Sean McGee ___</b>
+    <sub><i>"" Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.   ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
