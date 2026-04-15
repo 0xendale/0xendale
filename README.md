@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Man suffers only because he takes seriously what the gods made for fun. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" To avoid criticism, do nothing, say nothing, and be nothing. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
