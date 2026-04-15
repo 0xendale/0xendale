@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never spend your money before you have earned it. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Words, once they are printed, have a life of their own. ""</i></sub><br>
+    <b>— ___ Carol Burnett ___</b>
   </p>
 </div>
 
