@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Older men declare war. But it is youth that must fight and die. ""</i></sub><br>
-    <b>— ___ Herbert Hoover ___</b>
+    <sub><i>"" Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
