@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To avoid criticism, do nothing, say nothing, and be nothing. ""</i></sub><br>
-    <b>— ___ Elbert Hubbard ___</b>
+    <sub><i>"" Older men declare war. But it is youth that must fight and die. ""</i></sub><br>
+    <b>— ___ Herbert Hoover ___</b>
   </p>
 </div>
 
