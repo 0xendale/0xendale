@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A lie can travel half way around the world while the truth is putting on its shoes. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Change is hard at first, messy in the middle and gorgeous at the end. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
