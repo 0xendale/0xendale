@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Memory is the scribe of the soul. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Never spend your money before you have earned it. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
