@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A fear of weakness only strengthens weakness. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Man suffers only because he takes seriously what the gods made for fun. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
