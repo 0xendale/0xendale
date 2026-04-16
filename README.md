@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. ""</i></sub><br>
-    <b>— ___ Steve Maraboli ___</b>
+    <sub><i>"" If you do not change direction, you may end up where you are heading. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
