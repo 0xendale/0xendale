@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Once you learn to quit, it becomes a habit. ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
