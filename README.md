@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" We are what we repeatedly do. Excellence, then, is not an act, but a habit. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
