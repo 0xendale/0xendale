@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are what we repeatedly do. Excellence, then, is not an act, but a habit. ""</i></sub><br>
+    <sub><i>"" To perceive is to suffer. ""</i></sub><br>
     <b>— ___ Aristotle ___</b>
   </p>
 </div>
