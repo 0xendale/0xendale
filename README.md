@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Time is more valuable than money. You can get more money, but you cannot get more time. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" In the beginner's mind there are many possibilities, but in the expert's mind there are few. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
