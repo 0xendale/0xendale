@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Unless you're ashamed of yourself now and then, you're not honest. ""</i></sub><br>
-    <b>— ___ William Faulkner ___</b>
+    <sub><i>"" I learned the value of hard work by working hard.  ""</i></sub><br>
+    <b>— ___ Margaret Mead ___</b>
   </p>
 </div>
 
