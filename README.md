@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Words, once they are printed, have a life of their own. ""</i></sub><br>
-    <b>— ___ Carol Burnett ___</b>
+    <sub><i>"" Once you learn to quit, it becomes a habit. ""</i></sub><br>
+    <b>— ___ Vince Lombardi ___</b>
   </p>
 </div>
 
