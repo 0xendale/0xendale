@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To perceive is to suffer. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Unless you're ashamed of yourself now and then, you're not honest. ""</i></sub><br>
+    <b>— ___ William Faulkner ___</b>
   </p>
 </div>
 
