@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only place where success comes before work is in the dictionary. ""</i></sub><br>
-    <b>— ___ Vidal Sassoon ___</b>
+    <sub><i>"" Go for it now. The future is promised to no one. ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
