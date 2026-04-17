@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no value in anything until it is finished.  ""</i></sub><br>
-    <b>— ___ Genghis Khan ___</b>
+    <sub><i>"" The best revenge is to be unlike him who performed the injury. ""</i></sub><br>
+    <b>— ___ Marcus Aurelius ___</b>
   </p>
 </div>
 
