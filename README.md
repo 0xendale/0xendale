@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always do your best. What you plant now, you will harvest later. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" The only place where success comes before work is in the dictionary. ""</i></sub><br>
+    <b>— ___ Vidal Sassoon ___</b>
   </p>
 </div>
 
