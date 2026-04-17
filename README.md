@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Anything worth doing is worth doing slowly. ""</i></sub><br>
-    <b>— ___ Mae West ___</b>
+    <sub><i>"" We can know only that we know nothing. And that is the highest degree of human wisdom. ""</i></sub><br>
+    <b>— ___ Leo Tolstoy ___</b>
   </p>
 </div>
 
