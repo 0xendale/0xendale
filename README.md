@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Freedom from desire leads to inner peace. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
