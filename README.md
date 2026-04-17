@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you are going to achieve excellence in big things, you develop the habit in little matters. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" It is only depth of character that determines the profundity with which we face life. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
