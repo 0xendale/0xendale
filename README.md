@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is only depth of character that determines the profundity with which we face life. ""</i></sub><br>
+    <sub><i>"" Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. ""</i></sub><br>
     <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
