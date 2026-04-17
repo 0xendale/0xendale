@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can know only that we know nothing. And that is the highest degree of human wisdom. ""</i></sub><br>
-    <b>— ___ Leo Tolstoy ___</b>
+    <sub><i>"" Even the finest sword plunged into salt water will eventually rust. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
