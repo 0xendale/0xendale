@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even the finest sword plunged into salt water will eventually rust. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" There is no value in anything until it is finished.  ""</i></sub><br>
+    <b>— ___ Genghis Khan ___</b>
   </p>
 </div>
 
