@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Go for it now. The future is promised to no one. ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" I believe that potential is unlimited - success depends on daring to act on dreams.    ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
