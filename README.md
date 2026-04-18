@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" As soon as you truly commit to making something happen, the 'how' will reveal itself. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" You can't climb the ladder of success with your hands in your pockets. ""</i></sub><br>
+    <b>— ___ Arnold Schwarzenegger ___</b>
   </p>
 </div>
 
