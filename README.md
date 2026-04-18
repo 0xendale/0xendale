@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" Some people are old at 18 and some are young at 90. Time is a concept that humans created. ""</i></sub><br>
+    <b>— ___ Yoko Ono ___</b>
   </p>
 </div>
 
