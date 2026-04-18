@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Freedom is the open window through which pours the sunlight of the human spirit and human dignity. ""</i></sub><br>
-    <b>— ___ Herbert Hoover ___</b>
+    <sub><i>"" Life is filled with secrets. You can't learn them all at once. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
