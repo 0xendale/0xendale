@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Some people are old at 18 and some are young at 90. Time is a concept that humans created. ""</i></sub><br>
-    <b>— ___ Yoko Ono ___</b>
+    <sub><i>"" Freedom is the open window through which pours the sunlight of the human spirit and human dignity. ""</i></sub><br>
+    <b>— ___ Herbert Hoover ___</b>
   </p>
 </div>
 
