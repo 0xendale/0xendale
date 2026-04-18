@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is ten percent what you experience and ninety percent how you respond to it. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Your greatest asset is your earning ability. Your greatest resource is your time. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
