@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Who you are is always right. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" True knowledge exists in knowing that you know nothing. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
