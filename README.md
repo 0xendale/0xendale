@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing is particularly hard if you divide it into small jobs.  ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Only the hand that erases can write the true thing. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
