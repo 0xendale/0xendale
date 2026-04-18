@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is filled with secrets. You can't learn them all at once. ""</i></sub><br>
-    <b>— ___ Dan Brown ___</b>
+    <sub><i>"" As soon as you truly commit to making something happen, the 'how' will reveal itself. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
