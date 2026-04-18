@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only the hand that erases can write the true thing. ""</i></sub><br>
-    <b>— ___ Meister Eckhart ___</b>
+    <sub><i>"" Where there is anger, there is always pain underneath. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
