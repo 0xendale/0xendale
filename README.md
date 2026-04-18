@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do one thing every day that scares you. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" There is a difference between giving directions and giving direction. ""</i></sub><br>
+    <b>— ___ Simon Sinek ___</b>
   </p>
 </div>
 
