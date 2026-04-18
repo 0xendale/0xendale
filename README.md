@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" True knowledge exists in knowing that you know nothing. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" It is literally true that you can succeed best and quickest by helping others succeed. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
