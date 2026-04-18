@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Instead of worrying about what you cannot control, shift your energy to what you can create. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" It is better to change an opinion than to persist in a wrong one. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
