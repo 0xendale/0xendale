@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Children are our greatest natural resource. ""</i></sub><br>
-    <b>— ___ Herbert Hoover ___</b>
+    <sub><i>"" Nothing is particularly hard if you divide it into small jobs.  ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
