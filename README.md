@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is better to change an opinion than to persist in a wrong one. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" The more you feed your mind with positive thoughts, the more you can attract great things into your life. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
