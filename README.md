@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where there is anger, there is always pain underneath. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
