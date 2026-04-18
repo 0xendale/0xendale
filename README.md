@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only normal people are the ones you don't know very well. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
