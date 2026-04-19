@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.   ""</i></sub><br>
-    <b>— ___ Ray Bradbury ___</b>
+    <sub><i>"" In peace, sons bury their fathers. In war, fathers bury their sons.  ""</i></sub><br>
+    <b>— ___ Herodotus ___</b>
   </p>
 </div>
 
