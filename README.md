@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Better to live until you die. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Create with the heart; build with the mind. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
