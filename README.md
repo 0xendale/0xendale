@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can change our lives. We can do, have, and be exactly what we wish. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Let the beauty of what you love be what you do. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
