@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
