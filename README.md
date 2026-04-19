@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The road to success is always under construction. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" You don't earn loyalty in a day. You earn loyalty day-by-day. ""</i></sub><br>
+    <b>— ___ Jeffrey Gitomer ___</b>
   </p>
 </div>
 
