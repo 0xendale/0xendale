@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's not what we do once in a while that shapes our lives, but what we do consistently. ""</i></sub><br>
+    <sub><i>"" We can change our lives. We can do, have, and be exactly what we wish. ""</i></sub><br>
     <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
