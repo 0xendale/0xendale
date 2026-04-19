@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Mistakes are always forgivable, if one has the courage to admit them.  ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" To be in harmony with the wholeness of things is not to have anxiety over imperfections. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
