@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In peace, sons bury their fathers. In war, fathers bury their sons.  ""</i></sub><br>
-    <b>— ___ Herodotus ___</b>
+    <sub><i>"" A man is literally what he thinks. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
