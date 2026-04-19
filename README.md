@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Act the way you want to be and soon you'll be the way you act. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
