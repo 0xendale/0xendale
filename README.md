@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To be in harmony with the wholeness of things is not to have anxiety over imperfections. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" A life without a cause is a life without effect. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
