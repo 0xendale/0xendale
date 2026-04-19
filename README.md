@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't climb the ladder of success with your hands in your pockets. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. ""</i></sub><br>
+    <b>— ___ Anne Wilson Schaef ___</b>
   </p>
 </div>
 
