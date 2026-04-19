@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. ""</i></sub><br>
-    <b>— ___ Anne Wilson Schaef ___</b>
+    <sub><i>"" Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
