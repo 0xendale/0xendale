@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Let the beauty of what you love be what you do. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Life is and will ever remain an equation incapable of solution, but it contains certain known factors.  ""</i></sub><br>
+    <b>— ___ Nikola Tesla ___</b>
   </p>
 </div>
 
