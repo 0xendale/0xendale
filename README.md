@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself. ""</i></sub><br>
-    <b>— ___ Samuel Butler ___</b>
+    <sub><i>"" Those who are possessed by nothing possess everything. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
