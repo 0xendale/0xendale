@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man is literally what he thinks. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
