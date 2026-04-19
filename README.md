@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Make yourself so useful to other people, that they think you are irreplaceable. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" To seek greatness is the only righteous vengeance. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
