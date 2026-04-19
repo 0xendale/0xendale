@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" The road to success is always under construction. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
