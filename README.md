@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success in any endeavor depends on the degree to which it is an expression of your true self.  ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! ""</i></sub><br>
+    <b>— ___ Charles Darwin ___</b>
   </p>
 </div>
 
