@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is but one dream flowing into another. ""</i></sub><br>
+    <sub><i>"" It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. ""</i></sub><br>
     <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
