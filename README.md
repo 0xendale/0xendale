@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Courage is resistance to fear, mastery of fear - not absence of fear. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Don't let your mind stop you. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
