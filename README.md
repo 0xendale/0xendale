@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let your mind stop you. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" Success in any endeavor depends on the degree to which it is an expression of your true self.  ""</i></sub><br>
+    <b>— ___ Ralph Marston ___</b>
   </p>
 </div>
 
