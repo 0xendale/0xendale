@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is and will ever remain an equation incapable of solution, but it contains certain known factors.  ""</i></sub><br>
-    <b>— ___ Nikola Tesla ___</b>
+    <sub><i>"" When you repeat a mistake, it is not a mistake anymore: it is a decision. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
