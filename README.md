@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" To know your Enemy, you must become your Enemy. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
