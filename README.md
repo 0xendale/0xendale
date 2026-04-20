@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" On the other side of the clouds is a bright blue sky. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" You do not read a book for the book's sake, but for your own. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
