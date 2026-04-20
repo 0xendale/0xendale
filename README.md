@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! ""</i></sub><br>
-    <b>— ___ Charles Darwin ___</b>
+    <sub><i>"" A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
