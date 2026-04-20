@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" On the other side of the clouds is a bright blue sky. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
