@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You do not read a book for the book's sake, but for your own. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" Courage is resistance to fear, mastery of fear - not absence of fear. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
