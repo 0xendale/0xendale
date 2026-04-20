@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life needs to be more than just solving problems every day. You need to wake up and be excited about the future. ""</i></sub><br>
-    <b>— ___ Elon Musk ___</b>
+    <sub><i>"" A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
