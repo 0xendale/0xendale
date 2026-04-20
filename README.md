@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you repeat a mistake, it is not a mistake anymore: it is a decision. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" How many times do you have to get hit over the head until you figure out who's hitting you? ""</i></sub><br>
+    <b>— ___ Harry S. Truman ___</b>
   </p>
 </div>
 
