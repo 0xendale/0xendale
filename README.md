@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you don't like something change it; if you can't change it, change the way you think about it. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
