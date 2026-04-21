@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Get mad, then get over it. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Don't Let Yesterday Take Up Too Much Of Today. ""</i></sub><br>
+    <b>— ___ Will Rogers ___</b>
   </p>
 </div>
 
