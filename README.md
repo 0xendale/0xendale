@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Learn to value yourself, which means: fight for your happiness. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" If you don't like something change it; if you can't change it, change the way you think about it. ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
