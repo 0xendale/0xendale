@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A memory is a beautiful thing, it's almost a desire that you miss. ""</i></sub><br>
-    <b>— ___ Gustave Flaubert ___</b>
+    <sub><i>"" Prefer to be defeated in the presence of the wise than to excel among fools. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
