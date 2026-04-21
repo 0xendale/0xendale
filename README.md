@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If it is not right, do not do it, if it is not true, do not say it. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" Learn to value yourself, which means: fight for your happiness. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
