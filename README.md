@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trust is the foundation of great leadership. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" We may not be able to stop evil in the world, but how we treat one another is entirely up to us. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
