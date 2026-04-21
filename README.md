@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Help others achieve their dreams and you will achieve yours. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Get mad, then get over it. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
