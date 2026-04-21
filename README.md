@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" How much pain they have cost us, the evils which have never happened. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" A memory is a beautiful thing, it's almost a desire that you miss. ""</i></sub><br>
+    <b>— ___ Gustave Flaubert ___</b>
   </p>
 </div>
 
