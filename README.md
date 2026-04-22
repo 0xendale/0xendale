@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" The power of man has grown in every sphere, except over himself. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
