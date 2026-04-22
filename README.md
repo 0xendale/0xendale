@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
