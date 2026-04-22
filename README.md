@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The power of man has grown in every sphere, except over himself. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" Without the confidence, nothing can be accomplished. ""</i></sub><br>
+    <b>— ___ Sathya Sai Baba ___</b>
   </p>
 </div>
 
