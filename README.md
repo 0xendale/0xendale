@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" The harder the conflict, the greater the triumph.  ""</i></sub><br>
+    <b>— ___ George Washington ___</b>
   </p>
 </div>
 
