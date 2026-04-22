@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Appear weak when you are strong, and strong when you are weak. ""</i></sub><br>
+    <sub><i>"" Know yourself and you will win all battles. ""</i></sub><br>
     <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
