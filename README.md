@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The harder the conflict, the greater the triumph.  ""</i></sub><br>
-    <b>— ___ George Washington ___</b>
+    <sub><i>"" While some of us act without thinking, too many of us think without acting. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
