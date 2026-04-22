@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To earn more you must learn more. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" Hope and fear come from feeling that we lack something; they come from a sense of poverty. ""</i></sub><br>
+    <b>— ___ Pema Chodron ___</b>
   </p>
 </div>
 
