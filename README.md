@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who are possessed by nothing possess everything. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. ""</i></sub><br>
+    <b>— ___ Deepak Chopra ___</b>
   </p>
 </div>
 
