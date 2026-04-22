@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't look for meaning in the words. Listen to the silences. ""</i></sub><br>
-    <b>— ___ Samuel Beckett ___</b>
+    <sub><i>"" The only thing worse than being blind is having sight but no vision. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
