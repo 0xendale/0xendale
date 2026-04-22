@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What do we live for if not to make life less difficult for each other? ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" Embody what you teach, and teach only what you have embodied. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
