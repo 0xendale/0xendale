@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only thing worse than being blind is having sight but no vision. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" There are dark shadows on the earth, but its lights are stronger in the contrast. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
