@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are dark shadows on the earth, but its lights are stronger in the contrast. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. ""</i></sub><br>
+    <b>— ___ Peter Drucker ___</b>
   </p>
 </div>
 
