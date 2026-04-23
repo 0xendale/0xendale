@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I succeeded by saying what everyone else is thinking. ""</i></sub><br>
-    <b>— ___ Joan Rivers ___</b>
+    <sub><i>"" What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
