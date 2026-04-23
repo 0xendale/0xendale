@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do every act of your life as if it were your last. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" Aim for the moon. If you miss, you may hit a star. ""</i></sub><br>
+    <b>— ___ W. Clement Stone ___</b>
   </p>
 </div>
 
