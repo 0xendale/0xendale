@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. ""</i></sub><br>
+    <sub><i>"" If you do not push the boundaries, you will never know where they are. ""</i></sub><br>
     <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
