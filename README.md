@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you are able to employ your will always for constructive purposes, you become the controller of your destiny. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  ""</i></sub><br>
+    <b>— ___ Charles Swindoll ___</b>
   </p>
 </div>
 
