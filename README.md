@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Aim for the moon. If you miss, you may hit a star. ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" When you are able to employ your will always for constructive purposes, you become the controller of your destiny. ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
