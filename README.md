@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" We are willing to believe anything other than the truth. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
