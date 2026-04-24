@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. ""</i></sub><br>
-    <b>— ___ Charles Darwin ___</b>
+    <sub><i>"" People become attached to their burdens sometimes more than the burdens are attached to them. ""</i></sub><br>
+    <b>— ___ George Bernard Shaw ___</b>
   </p>
 </div>
 
