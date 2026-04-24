@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  ""</i></sub><br>
-    <b>— ___ Herodotus ___</b>
+    <sub><i>"" It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. ""</i></sub><br>
+    <b>— ___ Gary Keller ___</b>
   </p>
 </div>
 
