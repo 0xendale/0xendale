@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Our life isn't how much we can take out, but how much we can put in.   ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
