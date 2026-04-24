@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What lies behind us and what lies before us are tiny matters compared to what lies within us. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" It's your life-but only if you make it so. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
