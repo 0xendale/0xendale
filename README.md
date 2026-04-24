@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People do not decide their futures, they decide their habits and their habits decide their futures. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  ""</i></sub><br>
+    <b>— ___ Herodotus ___</b>
   </p>
 </div>
 
