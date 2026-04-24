@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People become attached to their burdens sometimes more than the burdens are attached to them. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" Do not look for approval except for the consciousness of doing your best. ""</i></sub><br>
+    <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
 
