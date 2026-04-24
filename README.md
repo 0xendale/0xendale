@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you spend too much time thinking about a thing, you'll never get it done.  ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" What lies behind us and what lies before us are tiny matters compared to what lies within us. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
