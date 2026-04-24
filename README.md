@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is about creating value. ""</i></sub><br>
-    <b>— ___ Candice Carpenter ___</b>
+    <sub><i>"" We learn to walk by falling down. If we never fell down, we would never walk. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
