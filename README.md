@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" My instinct is always to seek out challenges as opposed to avoiding them. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" He who is untrue to his own cause cannot command the respect of others. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
