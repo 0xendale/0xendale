@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Study logic and math, because once you've mastered them, you won't fear any book. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" If you spend too much time thinking about a thing, you'll never get it done.  ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
