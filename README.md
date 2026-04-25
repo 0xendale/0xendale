@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time. ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" If you want something new, you have to stop doing something old. ""</i></sub><br>
+    <b>— ___ Peter Drucker ___</b>
   </p>
 </div>
 
