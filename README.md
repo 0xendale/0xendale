@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All problems are illusions of the mind. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" It is during our darkest moments that we must focus to see the light. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
