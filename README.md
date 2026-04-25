@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Remember the entrance to the sanctuary is inside you. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Every failure brings with it the seed of an equivalent success. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
