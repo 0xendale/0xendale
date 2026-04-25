@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" But better die than live mechanically a life that is a repetition of repetitions. ""</i></sub><br>
-    <b>— ___ D. H. Lawrence ___</b>
+    <sub><i>"" Remember the entrance to the sanctuary is inside you. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
