@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We cannot change anything unless we accept it. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" Enthusiasm is a vital element toward the individual success of every man or woman. ""</i></sub><br>
+    <b>— ___ Conrad Hilton ___</b>
   </p>
 </div>
 
