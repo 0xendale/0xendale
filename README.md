@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be willing to be a beginner every single morning. ""</i></sub><br>
-    <b>— ___ Meister Eckhart ___</b>
+    <sub><i>"" All human wisdom is contained in these two words - Wait and Hope ""</i></sub><br>
+    <b>— ___ Alexandre Dumas ___</b>
   </p>
 </div>
 
