@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Simple words, repeated daily, can change your life. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" But better die than live mechanically a life that is a repetition of repetitions. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
