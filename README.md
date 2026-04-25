@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not look for approval except for the consciousness of doing your best. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" A man should do his job so well that the living, the dead, and the unborn could do it no better. ""</i></sub><br>
+    <b>— ___ Martin Luther King, Jr. ___</b>
   </p>
 </div>
 
