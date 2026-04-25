@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man should do his job so well that the living, the dead, and the unborn could do it no better. ""</i></sub><br>
-    <b>— ___ Martin Luther King, Jr. ___</b>
+    <sub><i>"" Don't try to be young. Just open your mind. Stay interested in stuff. ""</i></sub><br>
+    <b>— ___ Betty White ___</b>
   </p>
 </div>
 
