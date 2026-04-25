@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is during our darkest moments that we must focus to see the light. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Better to live until you die. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
