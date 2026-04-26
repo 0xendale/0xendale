@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sorrow is how we learn to love. ""</i></sub><br>
-    <b>— ___ Rita Mae Brown ___</b>
+    <sub><i>"" The more perfect a person is on the outside, the more demons they have on the inside. ""</i></sub><br>
+    <b>— ___ Sigmund Freud ___</b>
   </p>
 </div>
 
