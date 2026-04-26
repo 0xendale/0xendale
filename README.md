@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always try to be a little kinder than necessary. ""</i></sub><br>
-    <b>— ___ James Matthew Barrie ___</b>
+    <sub><i>"" Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
