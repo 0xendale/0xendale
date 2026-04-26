@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is not how high you have climbed, but how you make a positive difference to the world. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Always try to be a little kinder than necessary. ""</i></sub><br>
+    <b>— ___ James Matthew Barrie ___</b>
   </p>
 </div>
 
