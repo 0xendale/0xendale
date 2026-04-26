@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The greatest value of a picture is when it forces us to notice what we never expected to see. ""</i></sub><br>
-    <b>— ___ John Tukey ___</b>
+    <sub><i>"" an action committed in anger is an action doomed to failure.  ""</i></sub><br>
+    <b>— ___ Genghis Khan ___</b>
   </p>
 </div>
 
