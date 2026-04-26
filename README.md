@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Normal is the average of deviance. ""</i></sub><br>
-    <b>— ___ Rita Mae Brown ___</b>
+    <sub><i>"" If you do not push the boundaries, you will never know where they are. ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
