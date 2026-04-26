@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't listen to the person who has the answers; listen to the person who has the questions. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" Be where your enemy is not. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
