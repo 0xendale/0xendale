@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be where your enemy is not. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" Sorrow is how we learn to love. ""</i></sub><br>
+    <b>— ___ Rita Mae Brown ___</b>
   </p>
 </div>
 
