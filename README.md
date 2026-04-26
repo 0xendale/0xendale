@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We become brave by doing brave acts. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" People who belittle people, will be LITTLE people, and will accomplish very Little ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
