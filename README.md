@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want peace, accept. If you want suffering, expect. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" Reality is nothing but a collective hunch. ""</i></sub><br>
+    <b>— ___ Lily Tomlin ___</b>
   </p>
 </div>
 
