@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not until we are lost do we begin to understand ourselves. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" We become brave by doing brave acts. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
