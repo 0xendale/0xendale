@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can know only that we know nothing. And that is the highest degree of human wisdom. ""</i></sub><br>
-    <b>— ___ Leo Tolstoy ___</b>
+    <sub><i>"" Failure is the key to success; each mistake teaches us something. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
