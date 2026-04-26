@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Reality is nothing but a collective hunch. ""</i></sub><br>
-    <b>— ___ Lily Tomlin ___</b>
+    <sub><i>"" The greatest miracle is to be alive. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
