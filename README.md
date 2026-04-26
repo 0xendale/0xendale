@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every time we liberate a woman, we liberate a man.  ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" Not until we are lost do we begin to understand ourselves. ""</i></sub><br>
+    <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
 
