@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People who belittle people, will be LITTLE people, and will accomplish very Little ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" If you want peace, accept. If you want suffering, expect. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
