@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The smallest of actions is always better than the noblest of intentions. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" When reading, only read. When eating, only eat. When thinking, only think. ""</i></sub><br>
+    <b>— ___ Seungsahn ___</b>
   </p>
 </div>
 
