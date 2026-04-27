@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. ""</i></sub><br>
-    <b>— ___ Joan Rivers ___</b>
+    <sub><i>"" Everything great that has ever happened to humanity has begun as a single thought in someone's mind. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
