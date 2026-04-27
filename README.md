@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everything great that has ever happened to humanity has begun as a single thought in someone's mind. ""</i></sub><br>
-    <b>— ___ Yanni ___</b>
+    <sub><i>"" Leadership starts at the top. ""</i></sub><br>
+    <b>— ___ Morgan Wootten ___</b>
   </p>
 </div>
 
