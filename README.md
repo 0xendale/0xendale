@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Before preparing to improve the world, first look around your own home three times.  ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" I'm not afraid of death, but I'm in no hurry to die. ""</i></sub><br>
+    <b>— ___ Stephen Hawking ___</b>
   </p>
 </div>
 
