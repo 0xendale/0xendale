@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I'm not afraid of death, but I'm in no hurry to die. ""</i></sub><br>
-    <b>— ___ Stephen Hawking ___</b>
+    <sub><i>"" Always try to be a little kinder than necessary. ""</i></sub><br>
+    <b>— ___ James Matthew Barrie ___</b>
   </p>
 </div>
 
