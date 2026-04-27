@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The person who cannot control his words shows that he cannot control himself. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" The best way to predict your future is to create it. ""</i></sub><br>
+    <b>— ___ Abraham Lincoln ___</b>
   </p>
 </div>
 
