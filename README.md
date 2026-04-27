@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't look back - you're not going that way. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" The person who cannot control his words shows that he cannot control himself. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
