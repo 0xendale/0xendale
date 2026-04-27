@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The important thing is not to stop questioning. Curiosity has its own reason for existing. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" The smallest of actions is always better than the noblest of intentions. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
