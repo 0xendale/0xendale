@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is liking yourself, liking what you do, and liking how you do it. ""</i></sub><br>
-    <b>— ___ Maya Angelou ___</b>
+    <sub><i>"" Projecting your mind into a successful situation is the most powerful means to achieve goals.   ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
