@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. ""</i></sub><br>
+    <b>— ___ Joan Rivers ___</b>
   </p>
 </div>
 
