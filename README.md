@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The quality of your commitments will determine the course of your life. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" Don't live the same year 75 times and call it a life. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
