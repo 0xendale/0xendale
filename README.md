@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Great things are not done by impulse, but by a series of small things brought together. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
