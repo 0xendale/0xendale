@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret of life is to fall seven times and to get up eight times. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.  ""</i></sub><br>
+    <b>— ___ Buddha ___</b>
   </p>
 </div>
 
