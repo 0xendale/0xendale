@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wheels of justice grind slow but grind fine. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" If you don't have time to do it right, when will you have time to do it over? ""</i></sub><br>
+    <b>— ___ John Wooden ___</b>
   </p>
 </div>
 
