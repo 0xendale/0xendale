@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.  ""</i></sub><br>
-    <b>— ___ Buddha ___</b>
+    <sub><i>"" Wheels of justice grind slow but grind fine. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
