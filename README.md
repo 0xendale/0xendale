@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Truth is not something outside to be discovered, it is something inside to be realized. ""</i></sub><br>
-    <b>— ___ Osho ___</b>
+    <sub><i>"" The quality of your commitments will determine the course of your life. ""</i></sub><br>
+    <b>— ___ Ralph Marston ___</b>
   </p>
 </div>
 
