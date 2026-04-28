@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always try to be a little kinder than necessary. ""</i></sub><br>
-    <b>— ___ James Matthew Barrie ___</b>
+    <sub><i>"" Man must use what he has, not hope for what is not. ""</i></sub><br>
+    <b>— ___ G.I. Gurdjieff ___</b>
   </p>
 </div>
 
