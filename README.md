@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You cannot swim for new horizons until you have courage to lose sight of the shore. ""</i></sub><br>
-    <b>— ___ William Faulkner ___</b>
+    <sub><i>"" The less you try to impress, the more peaceful you can be. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
