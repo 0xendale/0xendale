@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Heroes don't need to talk about what they did. ""</i></sub><br>
-    <b>— ___ W.P. Kinsella ___</b>
+    <sub><i>"" The biggest adventure is what lies ahead. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
