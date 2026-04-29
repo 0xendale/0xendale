@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is a constant series of opportunities. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" There is no truth. There is only perception. ""</i></sub><br>
+    <b>— ___ Gustave Flaubert ___</b>
   </p>
 </div>
 
