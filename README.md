@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You may be disappointed if you fail, but you are doomed if you don't try.  ""</i></sub><br>
-    <b>— ___ Beverly Sills ___</b>
+    <sub><i>"" The destiny of man is in his own soul.  ""</i></sub><br>
+    <b>— ___ Herodotus ___</b>
   </p>
 </div>
 
