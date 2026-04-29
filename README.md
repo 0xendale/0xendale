@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The destiny of man is in his own soul.  ""</i></sub><br>
-    <b>— ___ Herodotus ___</b>
+    <sub><i>"" Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
