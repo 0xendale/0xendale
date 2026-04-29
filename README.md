@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" Heroes don't need to talk about what they did. ""</i></sub><br>
+    <b>— ___ W.P. Kinsella ___</b>
   </p>
 </div>
 
