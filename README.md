@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you don't have time to do it right, when will you have time to do it over? ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" You may be disappointed if you fail, but you are doomed if you don't try.  ""</i></sub><br>
+    <b>— ___ Beverly Sills ___</b>
   </p>
 </div>
 
