@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The less you try to impress, the more peaceful you can be. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" It's very strange that the people you love are often the people you're most cruel to. ""</i></sub><br>
+    <b>— ___ Kenneth Branagh ___</b>
   </p>
 </div>
 
