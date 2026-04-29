@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest adventure is what lies ahead. ""</i></sub><br>
-    <b>— ___ J.R.R. Tolkien ___</b>
+    <sub><i>"" Opportunity often comes disguised in the form of misfortune or temporary defeat. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
