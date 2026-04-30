@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Absorb what is useful, discard what is useless and add what is specifically your own.   ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" Why fit in when you were born to stand out? ""</i></sub><br>
+    <b>— ___ Dr. Seuss ___</b>
   </p>
 </div>
 
