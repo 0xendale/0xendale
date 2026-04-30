@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What would you do if you weren't afraid? ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" The friend is the man who knows all about you, and still likes you. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
