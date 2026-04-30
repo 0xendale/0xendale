@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you can't make them see the light, make them feel the heat. ""</i></sub><br>
-    <b>— ___ Ronald Reagan ___</b>
+    <sub><i>"" The future is not a gift. It is an achievement. ""</i></sub><br>
+    <b>— ___ Robert F. Kennedy ___</b>
   </p>
 </div>
 
