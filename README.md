@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What lies behind us and what lies before us are tiny matters compared to what lies within us. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
