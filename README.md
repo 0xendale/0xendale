@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The future is not a gift. It is an achievement. ""</i></sub><br>
-    <b>— ___ Robert F. Kennedy ___</b>
+    <sub><i>"" What would you do if you weren't afraid? ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
