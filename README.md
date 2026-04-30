@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We become what we believe. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" Dream big. Start small. But most of all, start. ""</i></sub><br>
+    <b>— ___ Simon Sinek ___</b>
   </p>
 </div>
 
