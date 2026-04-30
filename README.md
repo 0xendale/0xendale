@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sometimes letting things go is an act of far greater power than defending or hanging on. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" Absorb what is useful, discard what is useless and add what is specifically your own.   ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
