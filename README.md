@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Quality is more important than quantity. One home run is much better than two doubles. ""</i></sub><br>
-    <b>— ___ Steve Jobs ___</b>
+    <sub><i>"" Intelligence is the ability to adapt to change. ""</i></sub><br>
+    <b>— ___ Stephen Hawking ___</b>
   </p>
 </div>
 
