@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Intelligence is the ability to adapt to change. ""</i></sub><br>
-    <b>— ___ Stephen Hawking ___</b>
+    <sub><i>"" If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
