@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The season of failure is the best time for sowing the seeds of success.  ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" We must be free not because we claim freedom, but because we practice it. ""</i></sub><br>
+    <b>— ___ William Faulkner ___</b>
   </p>
 </div>
 
