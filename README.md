@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The merit of all things lies in their difficulty. ""</i></sub><br>
-    <b>— ___ Alexandre Dumas ___</b>
+    <sub><i>"" If you want something you've never had you must be willing to do something you've never done. ""</i></sub><br>
+    <b>— ___ Thomas Jefferson ___</b>
   </p>
 </div>
 
