@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Judge a man by his questions rather than his answers. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" The merit of all things lies in their difficulty. ""</i></sub><br>
+    <b>— ___ Alexandre Dumas ___</b>
   </p>
 </div>
 
