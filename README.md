@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is the power of thought that gives man power over nature. ""</i></sub><br>
-    <b>— ___ Hans Christian Andersen ___</b>
+    <sub><i>"" The weak can never forgive. Forgiveness is the attribute of the strong. ""</i></sub><br>
+    <b>— ___ Mahatma Gandhi ___</b>
   </p>
 </div>
 
