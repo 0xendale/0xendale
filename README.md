@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The weak can never forgive. Forgiveness is the attribute of the strong. ""</i></sub><br>
-    <b>— ___ Mahatma Gandhi ___</b>
+    <sub><i>"" Judge a man by his questions rather than his answers. ""</i></sub><br>
+    <b>— ___ Voltaire ___</b>
   </p>
 </div>
 
