@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All you need is the plan, the road map, and the courage to press on to your destination. ""</i></sub><br>
-    <b>— ___ Earl Nightingale ___</b>
+    <sub><i>"" It is the power of thought that gives man power over nature. ""</i></sub><br>
+    <b>— ___ Hans Christian Andersen ___</b>
   </p>
 </div>
 
