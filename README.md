@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. ""</i></sub><br>
-    <b>— ___ Sydney Smith ___</b>
+    <sub><i>"" For every minute you are angry you lose sixty seconds of happiness. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
