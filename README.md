@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everyone sees what you appear to be, few experience what you really are. ""</i></sub><br>
-    <b>— ___ Niccolo Machiavelli ___</b>
+    <sub><i>"" You will succeed because most people are lazy. ""</i></sub><br>
+    <b>— ___ Shahir Zag ___</b>
   </p>
 </div>
 
