@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be thankful for everything that happens in your life; it's all an experience. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Work out your own salvation. Do not depend on others. ""</i></sub><br>
+    <b>— ___ Buddha ___</b>
   </p>
 </div>
 
