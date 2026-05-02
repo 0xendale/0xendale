@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is never final, failure is never fatal. It's courage that counts. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Nature is pleased with simplicity. And nature is no dummy. ""</i></sub><br>
+    <b>— ___ Isaac Newton ___</b>
   </p>
 </div>
 
