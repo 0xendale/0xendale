@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" One of the first signs of the beginning of understanding is the wish to die.  ""</i></sub><br>
-    <b>— ___ Franz Kafka ___</b>
+    <sub><i>"" Be thankful for everything that happens in your life; it's all an experience. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
