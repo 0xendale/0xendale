@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The scariest moment is always just before you start. After that, things can only get better. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" Trust your instincts: my first reaction is almost invariably the right one.   ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
