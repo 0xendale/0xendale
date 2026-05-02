@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success does not consist in never making mistakes but in never making the same one a second time. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" One of the first signs of the beginning of understanding is the wish to die.  ""</i></sub><br>
+    <b>— ___ Franz Kafka ___</b>
   </p>
 </div>
 
