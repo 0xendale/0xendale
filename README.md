@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What you get by achieving your goals is not as important as what you become by achieving your goals. ""</i></sub><br>
+    <sub><i>"" Disobedience is the true foundation of liberty. The obedient must be slaves. ""</i></sub><br>
     <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
