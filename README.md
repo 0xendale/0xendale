@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Remember to look up at the stars and not down at your feet. ""</i></sub><br>
-    <b>— ___ Stephen Hawking ___</b>
+    <sub><i>"" What you get by achieving your goals is not as important as what you become by achieving your goals. ""</i></sub><br>
+    <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
 
