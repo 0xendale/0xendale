@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Disobedience is the true foundation of liberty. The obedient must be slaves. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" The scariest moment is always just before you start. After that, things can only get better. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
