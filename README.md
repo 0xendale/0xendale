@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If we know how to adapt, we end up being superior. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" To be totally at leisure for one day is to be immortal for one day.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
