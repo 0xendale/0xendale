@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nature is pleased with simplicity. And nature is no dummy. ""</i></sub><br>
-    <b>— ___ Isaac Newton ___</b>
+    <sub><i>"" When we strive to become better than we are, everything around us becomes better, too. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
