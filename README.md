@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We take care of the future best by taking care of the present now. ""</i></sub><br>
-    <b>— ___ Jon Kabat-Zinn ___</b>
+    <sub><i>"" The quicker you let go of old cheese, the sooner you find new cheese. ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
