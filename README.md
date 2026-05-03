@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Friendship takes time and energy if it's going to work. ""</i></sub><br>
-    <b>— ___ Betty White ___</b>
+    <sub><i>"" The season of failure is the best time for sowing the seeds of success.  ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
