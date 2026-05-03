@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" By seeking and blundering we learn. ""</i></sub><br>
-    <b>— ___ Johann Wolfgang von Goethe ___</b>
+    <sub><i>"" Friendship takes time and energy if it's going to work. ""</i></sub><br>
+    <b>— ___ Betty White ___</b>
   </p>
 </div>
 
