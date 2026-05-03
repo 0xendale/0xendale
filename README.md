@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your past does not equal your future. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" The day is for honest men, the night for thieves. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
