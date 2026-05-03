@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Whatever you are, be a good one. ""</i></sub><br>
-    <b>— ___ Abraham Lincoln ___</b>
+    <sub><i>"" Don't let the silly little dramas of each day get you down. For you are here to do great things. ""</i></sub><br>
+    <b>— ___ Ralph Marston ___</b>
   </p>
 </div>
 
