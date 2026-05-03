@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let the silly little dramas of each day get you down. For you are here to do great things. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" Your past does not equal your future. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
