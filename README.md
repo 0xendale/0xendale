@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When we strive to become better than we are, everything around us becomes better, too. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" The world makes way for the man who knows where he is going. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
