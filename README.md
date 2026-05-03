@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We forge the chains we wear in life. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" Whatever you are, be a good one. ""</i></sub><br>
+    <b>— ___ Abraham Lincoln ___</b>
   </p>
 </div>
 
