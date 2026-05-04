@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Man suffers only because he takes seriously what the gods made for fun. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" In order to control myself I must first accept myself by going with and not against my nature. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
