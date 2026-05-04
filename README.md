@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The wisdom of life consists in the elimination of the nonessentials. ""</i></sub><br>
-    <b>— ___ Lin Yutang ___</b>
+    <sub><i>"" At every moment where language can't go, that's your mind. ""</i></sub><br>
+    <b>— ___ Bodhidharma ___</b>
   </p>
 </div>
 
