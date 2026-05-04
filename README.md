@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" At every moment where language can't go, that's your mind. ""</i></sub><br>
-    <b>— ___ Bodhidharma ___</b>
+    <sub><i>"" Boldness makes even the smallest animal dangerous. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
