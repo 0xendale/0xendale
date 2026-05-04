@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A dream doesn't become reality through magic it takes sweat, determination and hard work. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Fears are nothing more than a state of mind. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
