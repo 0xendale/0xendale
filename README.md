@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Each day your life grows a day shorter. Make every move count. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" Peace begins with a smile. ""</i></sub><br>
+    <b>— ___ Mother Teresa ___</b>
   </p>
 </div>
 
