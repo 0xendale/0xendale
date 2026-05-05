@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Anyone who has ever made anything of importance was disciplined. ""</i></sub><br>
-    <b>— ___ Andrew Hendrixson ___</b>
+    <sub><i>"" The world is changed by your example, not by your opinion. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
