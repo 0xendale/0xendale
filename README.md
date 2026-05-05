@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All our dreams can come true, if we have the courage to pursue them. ""</i></sub><br>
-    <b>— ___ Walt Disney ___</b>
+    <sub><i>"" Observe things as they are and don't pay attention to other people. ""</i></sub><br>
+    <b>— ___ Huang Po ___</b>
   </p>
 </div>
 
