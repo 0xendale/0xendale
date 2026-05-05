@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always seek out the seed of triumph in every adversity. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" All our dreams can come true, if we have the courage to pursue them. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
