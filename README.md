@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Observe things as they are and don't pay attention to other people. ""</i></sub><br>
-    <b>— ___ Huang Po ___</b>
+    <sub><i>"" The more reasons you have for achieving your goal, the more determined you will become. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
