@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" Anyone who has ever made anything of importance was disciplined. ""</i></sub><br>
+    <b>— ___ Andrew Hendrixson ___</b>
   </p>
 </div>
 
