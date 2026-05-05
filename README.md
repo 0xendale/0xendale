@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" There are three classes of people: those who see. Those who see when they are shown. Those who do not see. ""</i></sub><br>
+    <b>— ___ Leonardo da Vinci ___</b>
   </p>
 </div>
 
