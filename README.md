@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you let your head get too big, it'll break your neck. ""</i></sub><br>
-    <b>— ___ Elvis Presley ___</b>
+    <sub><i>"" Always seek out the seed of triumph in every adversity. ""</i></sub><br>
+    <b>— ___ Og Mandino ___</b>
   </p>
 </div>
 
