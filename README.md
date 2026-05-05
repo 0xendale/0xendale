@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are three classes of people: those who see. Those who see when they are shown. Those who do not see. ""</i></sub><br>
-    <b>— ___ Leonardo da Vinci ___</b>
+    <sub><i>"" Continuous effort - not strength or intelligence - is the key to unlocking our potential. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
