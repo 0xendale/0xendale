@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Storms don't last forever. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" The divine is not something high above us. It is in heaven, it is in earth, it is inside us. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
