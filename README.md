@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is easy to discover what another has discovered before. ""</i></sub><br>
-    <b>— ___ Christopher Columbus ___</b>
+    <sub><i>"" A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. ""</i></sub><br>
+    <b>— ___ Christopher Reeve ___</b>
   </p>
 </div>
 
