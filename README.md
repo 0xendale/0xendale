@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Without the rain there would be no rainbow. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Storms don't last forever. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
