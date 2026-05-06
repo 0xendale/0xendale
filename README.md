@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Leadership starts at the top. ""</i></sub><br>
-    <b>— ___ Morgan Wootten ___</b>
+    <sub><i>"" The key to immortality is first living a life worth remembering.  ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
