@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you have to be in a soap opera try not to be cast in the worst role. ""</i></sub><br>
-    <b>— ___ Judy Garland ___</b>
+    <sub><i>"" To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to. ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
