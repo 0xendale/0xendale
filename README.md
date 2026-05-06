@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to. ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" Giving is living. If you stop wanting to give, there's nothing more to live for. ""</i></sub><br>
+    <b>— ___ Audrey Hepburn ___</b>
   </p>
 </div>
 
