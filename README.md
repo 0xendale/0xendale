@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The key to immortality is first living a life worth remembering.  ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
