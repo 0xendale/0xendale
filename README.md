@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I love fools' experiments. I am always making them. ""</i></sub><br>
-    <b>— ___ Charles Darwin ___</b>
+    <sub><i>"" Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! ""</i></sub><br>
+    <b>— ___ Alfred Adler ___</b>
   </p>
 </div>
 
