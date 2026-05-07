@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When it comes to mastering a skill, time is the magic ingredient. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" There is a wisdom of the head, and there is a wisdom of the heart. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
