@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No one can confidently say that he will still be living tomorrow. ""</i></sub><br>
-    <b>— ___ Euripides ___</b>
+    <sub><i>"" Great minds discuss ideas. Average minds discuss events. Small minds discuss people. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
