@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is built sequentially. It's one thing at a time. ""</i></sub><br>
-    <b>— ___ Gary Keller ___</b>
+    <sub><i>"" Excellence is not a skill. It is an attitude.  ""</i></sub><br>
+    <b>— ___ Ralph Marston ___</b>
   </p>
 </div>
 
