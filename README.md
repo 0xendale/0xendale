@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Excellence is not a skill. It is an attitude.  ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" A man with outward courage dares to die: a man with inner courage dares to live. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
