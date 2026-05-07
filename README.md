@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who attain the middle Dominate the whole. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" When it comes to mastering a skill, time is the magic ingredient. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
