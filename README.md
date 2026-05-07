@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be where your enemy is not. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" Those who attain the middle Dominate the whole. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
