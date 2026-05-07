@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man with outward courage dares to die: a man with inner courage dares to live. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Surrender to what is. Let go of what was. Have faith in what will be. ""</i></sub><br>
+    <b>— ___ Sonia Ricotti ___</b>
   </p>
 </div>
 
