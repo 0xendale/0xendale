@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Surrender to what is. Let go of what was. Have faith in what will be. ""</i></sub><br>
-    <b>— ___ Sonia Ricotti ___</b>
+    <sub><i>"" No one can confidently say that he will still be living tomorrow. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
