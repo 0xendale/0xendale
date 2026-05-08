@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What have you done today to make someone else happy? ""</i></sub><br>
-    <b>— ___ Deepam Chaterjee ___</b>
+    <sub><i>"" In youth we run into difficulties. In old age difficulties run into us.  ""</i></sub><br>
+    <b>— ___ Beverly Sills ___</b>
   </p>
 </div>
 
