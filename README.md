@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. ""</i></sub><br>
-    <b>— ___ John Lennon ___</b>
+    <sub><i>"" All that we see or seem is but a dream within a dream. ""</i></sub><br>
+    <b>— ___ Edgar Allan Poe ___</b>
   </p>
 </div>
 
