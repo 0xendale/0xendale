@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nature loves to hide. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" Everybody's life is either rewarding or an example. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
