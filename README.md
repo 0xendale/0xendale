@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can only lose something that you have, but you cannot lose something that you are. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" The ones who are crazy enough to think they can change the world, are the ones that do. ""</i></sub><br>
+    <b>— ___ Steve Jobs ___</b>
   </p>
 </div>
 
