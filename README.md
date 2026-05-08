@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I would rather be hated for who I am than loved for who I'm not.   ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" Nature loves to hide. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
