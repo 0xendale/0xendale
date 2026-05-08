@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good. ""</i></sub><br>
-    <b>— ___ Bhagavad Gita ___</b>
+    <sub><i>"" Insanity is relative. It depends on who has who locked in what cage.   ""</i></sub><br>
+    <b>— ___ Ray Bradbury ___</b>
   </p>
 </div>
 
