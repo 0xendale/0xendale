@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The ones who are crazy enough to think they can change the world, are the ones that do. ""</i></sub><br>
-    <b>— ___ Steve Jobs ___</b>
+    <sub><i>"" Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them. ""</i></sub><br>
+    <b>— ___ W. Clement Stone ___</b>
   </p>
 </div>
 
