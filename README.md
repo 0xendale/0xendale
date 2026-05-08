@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In youth we run into difficulties. In old age difficulties run into us.  ""</i></sub><br>
-    <b>— ___ Beverly Sills ___</b>
+    <sub><i>"" Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. ""</i></sub><br>
+    <b>— ___ John Lennon ___</b>
   </p>
 </div>
 
