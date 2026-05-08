@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All that we see or seem is but a dream within a dream. ""</i></sub><br>
-    <b>— ___ Edgar Allan Poe ___</b>
+    <sub><i>"" You can only lose something that you have, but you cannot lose something that you are. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
