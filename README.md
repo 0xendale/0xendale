@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't let your failures define you. You have to let your failures teach you. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" Do not look for a sanctuary in anyone except your self. ""</i></sub><br>
+    <b>— ___ Buddha ___</b>
   </p>
 </div>
 
