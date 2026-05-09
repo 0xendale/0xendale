@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Once you learn to quit, it becomes a habit. ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" Surround yourself with only people who are going to lift you higher.  ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
