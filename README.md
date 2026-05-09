@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To do great work one must be very idle as well as very industrious. ""</i></sub><br>
-    <b>— ___ Samuel Butler ___</b>
+    <sub><i>"" Change is not a four letter word...but often your reaction to it is! ""</i></sub><br>
+    <b>— ___ Jeffrey Gitomer ___</b>
   </p>
 </div>
 
