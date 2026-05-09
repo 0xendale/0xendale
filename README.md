@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The man who does not value himself, cannot value anything or anyone. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" Once you learn to quit, it becomes a habit. ""</i></sub><br>
+    <b>— ___ Vince Lombardi ___</b>
   </p>
 </div>
 
