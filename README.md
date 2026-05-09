@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Change is not a four letter word...but often your reaction to it is! ""</i></sub><br>
-    <b>— ___ Jeffrey Gitomer ___</b>
+    <sub><i>"" When a man is penalized for honesty he learns to lie. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
