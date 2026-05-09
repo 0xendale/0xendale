@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Blessed is he who expects nothing, for he shall be disappointed. ""</i></sub><br>
-    <b>— ___ Jonathan Swift ___</b>
+    <sub><i>"" When you have to make a choice and don't make it, that is in itself a choice. ""</i></sub><br>
+    <b>— ___ William James ___</b>
   </p>
 </div>
 
