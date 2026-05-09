@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you have to make a choice and don't make it, that is in itself a choice. ""</i></sub><br>
-    <b>— ___ William James ___</b>
+    <sub><i>"" To do great work one must be very idle as well as very industrious. ""</i></sub><br>
+    <b>— ___ Samuel Butler ___</b>
   </p>
 </div>
 
