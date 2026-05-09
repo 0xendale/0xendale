@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be happy now, without reason - or you never will be at all. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" The man who does not value himself, cannot value anything or anyone. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
