@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Insanity is relative. It depends on who has who locked in what cage.   ""</i></sub><br>
-    <b>— ___ Ray Bradbury ___</b>
+    <sub><i>"" Meditate. It won't be fun but it will surface what you need to deal with. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
