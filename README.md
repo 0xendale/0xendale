@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's necessary to get the losers out of your life if you want to live your dream. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Allow motion to equal emotion. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
