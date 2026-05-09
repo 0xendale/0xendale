@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When a man is penalized for honesty he learns to lie. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" You can't let your failures define you. You have to let your failures teach you. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
