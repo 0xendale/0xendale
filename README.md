@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" True prayer has no set form. ""</i></sub><br>
-    <b>— ___ Morihei Ueshiba ___</b>
+    <sub><i>"" You make your own luck if you stay at it long enough. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
