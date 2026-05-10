@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You make your own luck if you stay at it long enough. ""</i></sub><br>
-    <b>— ___ Naval Ravikant ___</b>
+    <sub><i>"" Genius is patience. ""</i></sub><br>
+    <b>— ___ Isaac Newton ___</b>
   </p>
 </div>
 
