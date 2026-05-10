@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't look for meaning in the words. Listen to the silences. ""</i></sub><br>
-    <b>— ___ Samuel Beckett ___</b>
+    <sub><i>"" A man is but a product of his thoughts. What he thinks he becomes. ""</i></sub><br>
+    <b>— ___ Mahatma Gandhi ___</b>
   </p>
 </div>
 
