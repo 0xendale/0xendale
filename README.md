@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's easier to go down a hill than up it but the view is much better at the top. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" Intelligent men are cruel. Stupid men are monstrously cruel. ""</i></sub><br>
+    <b>— ___ Jack London ___</b>
   </p>
 </div>
 
