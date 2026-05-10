@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't have to be great to start, but you have to start to be great.   ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" Live your life and forget your age. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
