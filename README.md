@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.  ""</i></sub><br>
-    <b>— ___ Steve Jobs ___</b>
+    <sub><i>"" To be able to forget means sanity. ""</i></sub><br>
+    <b>— ___ Jack London ___</b>
   </p>
 </div>
 
