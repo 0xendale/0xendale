@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never do to others what you would not like them to do to you.  ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Before preparing to improve the world, first look around your own home three times.  ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
