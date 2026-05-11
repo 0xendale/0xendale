@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Take away love and our earth is a tomb. ""</i></sub><br>
-    <b>— ___ Robert Browning ___</b>
+    <sub><i>"" The fewer the words, the better the prayer. ""</i></sub><br>
+    <b>— ___ Martin Luther ___</b>
   </p>
 </div>
 
