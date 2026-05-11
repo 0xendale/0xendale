@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Correct what you can. Learn from what you can't. ""</i></sub><br>
-    <b>— ___ Toni Morrison ___</b>
+    <sub><i>"" Take away love and our earth is a tomb. ""</i></sub><br>
+    <b>— ___ Robert Browning ___</b>
   </p>
 </div>
 
