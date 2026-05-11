@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" True it is, we only hate those whom we do not know. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" Correct what you can. Learn from what you can't. ""</i></sub><br>
+    <b>— ___ Toni Morrison ___</b>
   </p>
 </div>
 
