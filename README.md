@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not engaging in ignorance is wisdom.  ""</i></sub><br>
-    <b>— ___ Bodhidharma ___</b>
+    <sub><i>"" Life happens in the river, not the shore. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
