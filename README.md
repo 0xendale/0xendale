@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If I can laugh, I can live. ""</i></sub><br>
-    <b>— ___ Christopher Reeve ___</b>
+    <sub><i>"" Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
