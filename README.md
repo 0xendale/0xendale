@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. ""</i></sub><br>
+    <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
 
