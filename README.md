@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
