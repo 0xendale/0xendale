@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today. ""</i></sub><br>
+    <sub><i>"" People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. ""</i></sub><br>
     <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
