@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No matter what happens, always be yourself. ""</i></sub><br>
-    <b>— ___ Dale Carnegie ___</b>
+    <sub><i>"" The busy man is never wise and the wise man is never busy. ""</i></sub><br>
+    <b>— ___ Lin Yutang ___</b>
   </p>
 </div>
 
