@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not bite at the bait of pleasure, till you know there is no hook beneath it. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" No matter what happens, always be yourself. ""</i></sub><br>
+    <b>— ___ Dale Carnegie ___</b>
   </p>
 </div>
 
