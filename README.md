@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot. ""</i></sub><br>
-    <b>— ___ Wayne Gretzky ___</b>
+    <sub><i>"" Learn from the rejection and turn it into an opportunity! ""</i></sub><br>
+    <b>— ___ Mary Engelbreit ___</b>
   </p>
 </div>
 
