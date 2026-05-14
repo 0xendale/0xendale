@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" One loyal friend is worth ten thousand relatives. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
