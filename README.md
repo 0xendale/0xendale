@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A zen master's life is one continuous mistake. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
