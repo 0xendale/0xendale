@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Worry is a waste of emotional reserve. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" Being ignorant is not so much a shame, as being unwilling to learn. ""</i></sub><br>
+    <b>— ___ Benjamin Franklin ___</b>
   </p>
 </div>
 
