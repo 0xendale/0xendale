@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where violence reigns, reason is weak. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" No matter what happens, always be yourself. ""</i></sub><br>
+    <b>— ___ Dale Carnegie ___</b>
   </p>
 </div>
 
