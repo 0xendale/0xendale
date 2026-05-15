@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" Where violence reigns, reason is weak. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
