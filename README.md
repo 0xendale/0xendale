@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot. ""</i></sub><br>
-    <b>— ___ Wayne Gretzky ___</b>
+    <sub><i>"" There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. ""</i></sub><br>
+    <b>— ___ Elbert Hubbard ___</b>
   </p>
 </div>
 
