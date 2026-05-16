@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" The purpose of life is the life of purpose. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
