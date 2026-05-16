@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Engage in those actions and thoughts that nurture the good qualities you want to have. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" Animals don't hate, and we're supposed to be better than them. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
