@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not all those who wander are lost. ""</i></sub><br>
+    <sub><i>"" It's the job that's never started that takes the longest to finish. ""</i></sub><br>
     <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
