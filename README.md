@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. ""</i></sub><br>
-    <b>— ___ Paulo Coelho ___</b>
+    <sub><i>"" Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot. ""</i></sub><br>
+    <b>— ___ Wayne Gretzky ___</b>
   </p>
 </div>
 
