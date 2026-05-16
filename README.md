@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has. ""</i></sub><br>
-    <b>— ___ Margaret Mead ___</b>
+    <sub><i>"" The attempt to escape from pain, is what creates more pain. ""</i></sub><br>
+    <b>— ___ Gabor Mate ___</b>
   </p>
 </div>
 
