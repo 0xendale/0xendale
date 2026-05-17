@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are willing to believe anything other than the truth. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" Growth is in a series of mistakes. That's the only way you learn. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
