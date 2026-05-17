@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The attempt to escape from pain, is what creates more pain. ""</i></sub><br>
-    <b>— ___ Gabor Mate ___</b>
+    <sub><i>"" Life is like stepping onto a boat which is about to sail out to sea and sink. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
