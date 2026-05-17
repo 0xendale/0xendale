@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is like stepping onto a boat which is about to sail out to sea and sink. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" It's the job that's never started that takes the longest to finish. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
