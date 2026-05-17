@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot. ""</i></sub><br>
-    <b>— ___ Wayne Gretzky ___</b>
+    <sub><i>"" Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today. ""</i></sub><br>
+    <b>— ___ Andrew Carnegie ___</b>
   </p>
 </div>
 
