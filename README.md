@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The purpose of life is the life of purpose. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" The attempt to escape from pain, is what creates more pain. ""</i></sub><br>
+    <b>— ___ Gabor Mate ___</b>
   </p>
 </div>
 
