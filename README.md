@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Growth is in a series of mistakes. That's the only way you learn. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" The busy man is never wise and the wise man is never busy. ""</i></sub><br>
+    <b>— ___ Lin Yutang ___</b>
   </p>
 </div>
 
