@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" Life is like stepping onto a boat which is about to sail out to sea and sink. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
