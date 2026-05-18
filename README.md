@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No matter what happens, always be yourself. ""</i></sub><br>
-    <b>— ___ Dale Carnegie ___</b>
+    <sub><i>"" There is no path to Happiness. Happiness is the path. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
