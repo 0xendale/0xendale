@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no path to Happiness. Happiness is the path. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Every artist dips his brush in his own soul, and paints his own nature into his pictures. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
