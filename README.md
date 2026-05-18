@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No man will make a great leader who wants to do it all himself or to get all the credit for doing it. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" Do it with passion, or not at all. ""</i></sub><br>
+    <b>— ___ Rosa Nouchette Carey ___</b>
   </p>
 </div>
 
