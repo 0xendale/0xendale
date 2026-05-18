@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The busy man is never wise and the wise man is never busy. ""</i></sub><br>
-    <b>— ___ Lin Yutang ___</b>
+    <sub><i>"" He who cheats the earth will be cheated by the earth. ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
