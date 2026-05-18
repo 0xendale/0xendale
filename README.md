@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every man gotta right to decide his own destiny. ""</i></sub><br>
+    <sub><i>"" Love the life you live, live the life you love. ""</i></sub><br>
     <b>— ___ Bob Marley ___</b>
   </p>
 </div>
