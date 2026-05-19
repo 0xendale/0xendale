@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is like reaching an important birthday and finding you're exactly the same. ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" When you are tempted to give up, your breakthrough is probably just around the corner. ""</i></sub><br>
+    <b>— ___ Joyce Meyer ___</b>
   </p>
 </div>
 
