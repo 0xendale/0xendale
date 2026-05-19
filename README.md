@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more you trust yourself, the less you compare yourself to others. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Every limit is a beginning as well as an ending. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
