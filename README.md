@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love the life you live, live the life you love. ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" The more you trust yourself, the less you compare yourself to others. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
