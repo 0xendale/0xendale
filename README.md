@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The best way out is always through. ""</i></sub><br>
-    <b>— ___ Robert Frost ___</b>
+    <sub><i>"" Success is like reaching an important birthday and finding you're exactly the same. ""</i></sub><br>
+    <b>— ___ Audrey Hepburn ___</b>
   </p>
 </div>
 
