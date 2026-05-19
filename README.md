@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you are tempted to give up, your breakthrough is probably just around the corner. ""</i></sub><br>
-    <b>— ___ Joyce Meyer ___</b>
+    <sub><i>"" Man should fear never beginning to live. ""</i></sub><br>
+    <b>— ___ Marcus Aurelius ___</b>
   </p>
 </div>
 
