@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest challenge after success is shutting up about it. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" We will outstretch the hand if you unclench your fist. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
