@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The question is not what you look at, but what you see. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" We are all here for some special reason. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
