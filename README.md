@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. ""</i></sub><br>
-    <b>— ___ Ronald Reagan ___</b>
+    <sub><i>"" The question is not what you look at, but what you see. ""</i></sub><br>
+    <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
 
