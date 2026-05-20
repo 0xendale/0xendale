@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are all here for some special reason. ""</i></sub><br>
-    <b>— ___ Robin Sharma ___</b>
+    <sub><i>"" Get mad, then get over it. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
