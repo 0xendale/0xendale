@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Get mad, then get over it. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" You don't need anybody to tell you who you are or what you are. You are what you are! ""</i></sub><br>
+    <b>— ___ John Lennon ___</b>
   </p>
 </div>
 
