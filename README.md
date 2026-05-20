@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Man should fear never beginning to live. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. ""</i></sub><br>
+    <b>— ___ Ronald Reagan ___</b>
   </p>
 </div>
 
