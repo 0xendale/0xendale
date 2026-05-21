@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Looking after my health today gives me a better hope for tomorrow.  ""</i></sub><br>
-    <b>— ___ Anne Wilson Schaef ___</b>
+    <sub><i>"" A friend to all is a friend to none. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
