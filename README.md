@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" Through selfless service, you will always be fruitful and find the fulfillment of your desires. ""</i></sub><br>
+    <b>— ___ Bhagavad Gita ___</b>
   </p>
 </div>
 
