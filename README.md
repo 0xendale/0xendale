@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life moves on and so should we. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" You are not what you think you are, You are not what others think you are, You are what you think others think you are. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
