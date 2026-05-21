@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Unless a man is master of his soul, all other kinds of mastery amount to little. ""</i></sub><br>
-    <b>— ___ Theodore Roosevelt ___</b>
+    <sub><i>"" When the fish is caught we pay no more attention to the trap. ""</i></sub><br>
+    <b>— ___ Huang Po ___</b>
   </p>
 </div>
 
