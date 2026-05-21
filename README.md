@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A friend to all is a friend to none. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
