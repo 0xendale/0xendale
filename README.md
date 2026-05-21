@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When the fish is caught we pay no more attention to the trap. ""</i></sub><br>
-    <b>— ___ Huang Po ___</b>
+    <sub><i>"" It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
