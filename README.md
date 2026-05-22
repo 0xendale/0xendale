@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wealth consists not in having great possessions, but in having few wants. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" You cannot find peace avoiding life. ""</i></sub><br>
+    <b>— ___ Virginia Woolf ___</b>
   </p>
 </div>
 
