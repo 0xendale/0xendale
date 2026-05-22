@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" The greatest treasures are those invisible to the eye but found by the heart. ""</i></sub><br>
+    <b>— ___ Judy Garland ___</b>
   </p>
 </div>
 
