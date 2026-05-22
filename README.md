@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is much more successfully looked at from a single window. ""</i></sub><br>
-    <b>— ___ F. Scott Fitzgerald ___</b>
+    <sub><i>"" Focus is a matter of deciding what things you're not going to do. ""</i></sub><br>
+    <b>— ___ John Carmack ___</b>
   </p>
 </div>
 
