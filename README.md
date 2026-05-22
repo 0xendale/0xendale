@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You cannot find peace avoiding life. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" Life is much more successfully looked at from a single window. ""</i></sub><br>
+    <b>— ___ F. Scott Fitzgerald ___</b>
   </p>
 </div>
 
