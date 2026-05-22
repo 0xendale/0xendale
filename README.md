@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let making a living prevent you from making a life. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Don't try to be young. Just open your mind. Stay interested in stuff. ""</i></sub><br>
+    <b>— ___ Betty White ___</b>
   </p>
 </div>
 
