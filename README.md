@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Patience expands your options. If you insist on immediate gratification, your choices are severely limited. ""</i></sub><br>
-    <b>— ___ Ralph Marston ___</b>
+    <sub><i>"" On the other side of the clouds is a bright blue sky. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
