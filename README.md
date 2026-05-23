@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Focus is a matter of deciding what things you're not going to do. ""</i></sub><br>
-    <b>— ___ John Carmack ___</b>
+    <sub><i>"" It is truth that liberates, not your effort to be free. ""</i></sub><br>
+    <b>— ___ Jiddu Krishnamurti ___</b>
   </p>
 </div>
 
