@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is truth that liberates, not your effort to be free. ""</i></sub><br>
-    <b>— ___ Jiddu Krishnamurti ___</b>
+    <sub><i>"" If there's a definition of freedom, I think it's this: living life on your terms. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
