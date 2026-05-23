@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Turn off your mind, relax, and float downstream. ""</i></sub><br>
-    <b>— ___ John Lennon ___</b>
+    <sub><i>"" If you want to make God laugh, tell him about your plans.  ""</i></sub><br>
+    <b>— ___ Woody Allen ___</b>
   </p>
 </div>
 
