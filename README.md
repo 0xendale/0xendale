@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no truth. There is only perception. ""</i></sub><br>
-    <b>— ___ Gustave Flaubert ___</b>
+    <sub><i>"" The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
