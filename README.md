@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" On the other side of the clouds is a bright blue sky. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" Never to suffer would never to have been blessed. ""</i></sub><br>
+    <b>— ___ Edgar Allan Poe ___</b>
   </p>
 </div>
 
