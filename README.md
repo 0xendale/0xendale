@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to make God laugh, tell him about your plans.  ""</i></sub><br>
-    <b>— ___ Woody Allen ___</b>
+    <sub><i>"" To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
