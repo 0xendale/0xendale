@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man is literally what he thinks. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" Our greatest glory is not in never falling but in rising every time we fall. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
