@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. ""</i></sub><br>
-    <b>— ___ Simon Sinek ___</b>
+    <sub><i>"" It is never too late to be what you might have been. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
