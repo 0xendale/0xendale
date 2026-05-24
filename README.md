@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only normal people are the ones you don't know very well. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" The greatest work that kindness does to others is that it makes them kind themselves. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
