@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never to suffer would never to have been blessed. ""</i></sub><br>
-    <b>— ___ Edgar Allan Poe ___</b>
+    <sub><i>"" You'll see it when you believe it. ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
