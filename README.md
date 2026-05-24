@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Our greatest glory is not in never falling but in rising every time we fall. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Where violence reigns, reason is weak. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
