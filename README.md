@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want things to be different, perhaps the answer is to become different yourself. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" A man is literally what he thinks. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
