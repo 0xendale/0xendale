@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Today I begin a new life. I will greet this day with love in my heart. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" Fear does not have any special power unless you empower it by submitting to it. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
