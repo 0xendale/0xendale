@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All know the way; few actually walk it. ""</i></sub><br>
-    <b>— ___ Bodhidharma ___</b>
+    <sub><i>"" Alone we can do so little; together we can do so much. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
