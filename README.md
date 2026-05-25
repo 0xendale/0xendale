@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Heart is what separates the good from the great. ""</i></sub><br>
-    <b>— ___ Michael Jordan ___</b>
+    <sub><i>"" All know the way; few actually walk it. ""</i></sub><br>
+    <b>— ___ Bodhidharma ___</b>
   </p>
 </div>
 
