@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't let anyone define you. You define yourself. ""</i></sub><br>
-    <b>— ___ Billie Jean King ___</b>
+    <sub><i>"" Heart is what separates the good from the great. ""</i></sub><br>
+    <b>— ___ Michael Jordan ___</b>
   </p>
 </div>
 
