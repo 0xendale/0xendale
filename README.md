@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Don't let anyone define you. You define yourself. ""</i></sub><br>
+    <b>— ___ Billie Jean King ___</b>
   </p>
 </div>
 
