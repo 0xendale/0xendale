@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Better a diamond with a flaw than a pebble without one. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Today I begin a new life. I will greet this day with love in my heart. ""</i></sub><br>
+    <b>— ___ Og Mandino ___</b>
   </p>
 </div>
 
