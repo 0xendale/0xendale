@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Alone we can do so little; together we can do so much. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit. ""</i></sub><br>
+    <b>— ___ Robin Sharma ___</b>
   </p>
 </div>
 
