@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" I would rather die on my feet than live on my knees. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
