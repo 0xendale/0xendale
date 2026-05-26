@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you are going to achieve excellence in big things, you develop the habit in little matters. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" Keep your eyes on the goal, and just keep taking the next step towards completing it. ""</i></sub><br>
+    <b>— ___ John Carmack ___</b>
   </p>
 </div>
 
