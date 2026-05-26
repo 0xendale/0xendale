@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Words are the clothes thoughts wear. ""</i></sub><br>
-    <b>— ___ Samuel Beckett ___</b>
+    <sub><i>"" It's always to soon to quit! ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
