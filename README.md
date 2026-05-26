@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Muddy water is best cleared by leaving it alone. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" If you are going to achieve excellence in big things, you develop the habit in little matters. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
