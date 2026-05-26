@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It's always to soon to quit! ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" The chief enemy of creativity is good sense. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
