@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The friendship that can cease has never been real. ""</i></sub><br>
-    <b>— ___ St. Jerome ___</b>
+    <sub><i>"" Muddy water is best cleared by leaving it alone. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
