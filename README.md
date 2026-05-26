@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I would rather die on my feet than live on my knees. ""</i></sub><br>
-    <b>— ___ Euripides ___</b>
+    <sub><i>"" Words are the clothes thoughts wear. ""</i></sub><br>
+    <b>— ___ Samuel Beckett ___</b>
   </p>
 </div>
 
