@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Keep your eyes on the goal, and just keep taking the next step towards completing it. ""</i></sub><br>
-    <b>— ___ John Carmack ___</b>
+    <sub><i>"" The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
