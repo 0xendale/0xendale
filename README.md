@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" The successful warrior is the average man, with laser-like focus. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
