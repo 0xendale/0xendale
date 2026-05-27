@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We need a backbone, not a wishbone. ""</i></sub><br>
-    <b>— ___ Joyce Meyer ___</b>
+    <sub><i>"" Don't change your mind just because people are offended; change your mind if you're wrong. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
