@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The difference between impossible and possible is a willing heart. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" First learn the meaning of what you say, and then speak. ""</i></sub><br>
+    <b>— ___ Epictetus ___</b>
   </p>
 </div>
 
