@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The successful warrior is the average man, with laser-like focus. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" Thinking is the hardest work there is, which is probably the reason why so few engage in it. ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
