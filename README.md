@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't change your mind just because people are offended; change your mind if you're wrong. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" The difference between impossible and possible is a willing heart. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
