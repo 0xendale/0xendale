@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Play your part in life, but never forget that it is only a role. ""</i></sub><br>
-    <b>— ___ Paramahansa Yogananda ___</b>
+    <sub><i>"" If you can't imagine it, you can't have it. ""</i></sub><br>
+    <b>— ___ Toni Morrison ___</b>
   </p>
 </div>
 
