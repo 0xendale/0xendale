@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Thinking is the hardest work there is, which is probably the reason why so few engage in it. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Waste not fresh tears over old griefs. ""</i></sub><br>
+    <b>— ___ Euripides ___</b>
   </p>
 </div>
 
