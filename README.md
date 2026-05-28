@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is what you make it. Always has been, always will be. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" Even though you are on the right track - you will get run over if you just sit there. ""</i></sub><br>
+    <b>— ___ Will Rogers ___</b>
   </p>
 </div>
 
