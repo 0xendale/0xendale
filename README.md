@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" The quality, not the longevity, of one's life is what is important. ""</i></sub><br>
+    <b>— ___ Martin Luther King, Jr. ___</b>
   </p>
 </div>
 
