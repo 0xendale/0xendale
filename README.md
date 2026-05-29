@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In life you need either inspiration or desperation. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Stop wasting time looking at someone else's reality while doing nothing about yours. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
