@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life can be wonderful if you're not afraid of it. ""</i></sub><br>
-    <b>— ___ Charlie Chaplin ___</b>
+    <sub><i>"" The best mind-altering drug is the truth. ""</i></sub><br>
+    <b>— ___ Lily Tomlin ___</b>
   </p>
 </div>
 
