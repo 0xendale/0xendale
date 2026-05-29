@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The guest will judge better of a feast than the cook. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" It takes a very long time to become young. ""</i></sub><br>
+    <b>— ___ Pablo Picasso ___</b>
   </p>
 </div>
 
