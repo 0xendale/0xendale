@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It takes a very long time to become young. ""</i></sub><br>
-    <b>— ___ Pablo Picasso ___</b>
+    <sub><i>"" In life you need either inspiration or desperation. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
