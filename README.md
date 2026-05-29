@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The quality, not the longevity, of one's life is what is important. ""</i></sub><br>
-    <b>— ___ Martin Luther King, Jr. ___</b>
+    <sub><i>"" Life can be wonderful if you're not afraid of it. ""</i></sub><br>
+    <b>— ___ Charlie Chaplin ___</b>
   </p>
 </div>
 
