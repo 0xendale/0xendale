@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" The deeper the truth in a creative work, the longer it will live. ""</i></sub><br>
+    <b>— ___ Charlie Chaplin ___</b>
   </p>
 </div>
 
