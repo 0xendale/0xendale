@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Lying can never save us from another lie. ""</i></sub><br>
-    <b>— ___ Vaclav Havel ___</b>
+    <sub><i>"" Truth is exact correspondence with reality. ""</i></sub><br>
+    <b>— ___ Paramahansa Yogananda ___</b>
   </p>
 </div>
 
