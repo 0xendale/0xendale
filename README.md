@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more we have the less we own. ""</i></sub><br>
-    <b>— ___ Meister Eckhart ___</b>
+    <sub><i>"" I defeat my enemies when I make them my friends. ""</i></sub><br>
+    <b>— ___ Dalai Lama ___</b>
   </p>
 </div>
 
