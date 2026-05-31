@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The deeper the truth in a creative work, the longer it will live. ""</i></sub><br>
-    <b>— ___ Charlie Chaplin ___</b>
+    <sub><i>"" There is nothing in the world so irresistibly contagious as laughter and good humor. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
