@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is nothing in the world so irresistibly contagious as laughter and good humor. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
