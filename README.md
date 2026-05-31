@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Of all men's miseries the bitterest is this: to know so much and to have control over nothing. ""</i></sub><br>
-    <b>— ___ Herodotus ___</b>
+    <sub><i>"" The more we have the less we own. ""</i></sub><br>
+    <b>— ___ Meister Eckhart ___</b>
   </p>
 </div>
 
