@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is about choice. You can choose to be a victim or anything else you like to be. ""</i></sub><br>
-    <b>— ___ Celestine Chua ___</b>
+    <sub><i>"" Throw me to the wolves and I will return leading the pack. ""</i></sub><br>
+    <b>— ___ Seneca ___</b>
   </p>
 </div>
 
