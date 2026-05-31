@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only real mistake is the one from which we learn nothing. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Lying can never save us from another lie. ""</i></sub><br>
+    <b>— ___ Vaclav Havel ___</b>
   </p>
 </div>
 
