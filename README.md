@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Throw me to the wolves and I will return leading the pack. ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" Being wrong opens us up to the possibility of change. ""</i></sub><br>
+    <b>— ___ Mark Manson ___</b>
   </p>
 </div>
 
