@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never be bored, and you will never be boring. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" There is only the one reality, neither to be realized nor attained. ""</i></sub><br>
+    <b>— ___ Huang Po ___</b>
   </p>
 </div>
 
