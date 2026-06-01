@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't worry about being successful, but work toward being significant and the success will naturally follow. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" Never be bored, and you will never be boring. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
