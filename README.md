@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Being wrong opens us up to the possibility of change. ""</i></sub><br>
-    <b>— ___ Mark Manson ___</b>
+    <sub><i>"" You live by what you thrill to, and there's the end of it. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
