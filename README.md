@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is only the one reality, neither to be realized nor attained. ""</i></sub><br>
-    <b>— ___ Huang Po ___</b>
+    <sub><i>"" To lead the people, walk behind them. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
