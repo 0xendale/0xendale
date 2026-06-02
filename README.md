@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who is untrue to his own cause cannot command the respect of others. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" I would rather be hated for who I am than loved for who I'm not. ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
