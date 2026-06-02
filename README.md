@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To lead the people, walk behind them. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" The wise accomplish all that they want without arousing the envy or scorn of others. ""</i></sub><br>
+    <b>— ___ Ming-Dao Deng ___</b>
   </p>
 </div>
 
