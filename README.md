@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Self-knowledge is the beginning of self-correction. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" Death and life have their determined appointments; riches and honors depend upon heaven. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
