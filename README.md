@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Death and life have their determined appointments; riches and honors depend upon heaven. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" Change your thoughts and you change your world. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
