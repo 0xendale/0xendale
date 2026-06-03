@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only defense against the world is a thorough knowledge of it. ""</i></sub><br>
-    <b>— ___ John Locke ___</b>
+    <sub><i>"" Conflict cannot survive without your participation. ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
