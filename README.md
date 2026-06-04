@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Happiness depends on your mindset and attitude. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" The key to success is emotional stability. ""</i></sub><br>
+    <b>— ___ Warren Buffett ___</b>
   </p>
 </div>
 
