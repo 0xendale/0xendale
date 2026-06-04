@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The key to success is emotional stability. ""</i></sub><br>
-    <b>— ___ Warren Buffett ___</b>
+    <sub><i>"" No man is happy unless he believes he is. ""</i></sub><br>
+    <b>— ___ Publilius Syrus ___</b>
   </p>
 </div>
 
