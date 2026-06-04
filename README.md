@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even a hare will bite when it is cornered. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day! ""</i></sub><br>
+    <b>— ___ Og Mandino ___</b>
   </p>
 </div>
 
