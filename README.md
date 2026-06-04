@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Quality is not an act, it is a habit. ""</i></sub><br>
-    <b>— ___ Colin R. Davis ___</b>
+    <sub><i>"" Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. ""</i></sub><br>
+    <b>— ___ George Washington ___</b>
   </p>
 </div>
 
