@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day! ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" The key to success is emotional stability. ""</i></sub><br>
+    <b>— ___ Warren Buffett ___</b>
   </p>
 </div>
 
