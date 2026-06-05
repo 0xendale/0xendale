@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Keep your friends close, and your enemies closer. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" Attitude is a little thing that makes a big difference. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
