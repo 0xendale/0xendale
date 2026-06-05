@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Attitude is a little thing that makes a big difference. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" One always begins to forgive a place as soon as it's left behind. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
