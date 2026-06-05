@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Before preparing to improve the world, first look around your own home three times. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" The future doesn't belong to the faint-hearted; it belongs to the brave. ""</i></sub><br>
+    <b>— ___ Ronald Reagan ___</b>
   </p>
 </div>
 
