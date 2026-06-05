@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you have a dream, you've got to grab it and never let go. ""</i></sub><br>
-    <b>— ___ Carol Burnett ___</b>
+    <sub><i>"" Not everything that weighs you down is yours to carry. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
