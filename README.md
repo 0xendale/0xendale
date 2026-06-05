@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The future doesn't belong to the faint-hearted; it belongs to the brave. ""</i></sub><br>
-    <b>— ___ Ronald Reagan ___</b>
+    <sub><i>"" The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. ""</i></sub><br>
+    <b>— ___ Naval Ravikant ___</b>
   </p>
 </div>
 
