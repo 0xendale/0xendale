@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The easiest way in the world to make enemies is to hire friends. ""</i></sub><br>
-    <b>— ___ George Lorimer ___</b>
+    <sub><i>"" Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
