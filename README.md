@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. ""</i></sub><br>
-    <b>— ___ James Matthew Barrie ___</b>
+    <sub><i>"" As a matter of fact is an expression that precedes many an expression that isn't. ""</i></sub><br>
+    <b>— ___ Laurence J. Peter ___</b>
   </p>
 </div>
 
