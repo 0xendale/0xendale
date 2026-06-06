@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is impossible for a man to learn what he thinks he already knows. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" The world makes way for the man who knows where he is going. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
