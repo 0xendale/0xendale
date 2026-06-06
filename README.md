@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The world makes way for the man who knows where he is going. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" The easiest way in the world to make enemies is to hire friends. ""</i></sub><br>
+    <b>— ___ George Lorimer ___</b>
   </p>
 </div>
 
