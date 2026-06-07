@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" How you think when you lose determines how long it will be until you win. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Intelligent men are cruel. Stupid men are monstrously cruel. ""</i></sub><br>
+    <b>— ___ Jack London ___</b>
   </p>
 </div>
 
