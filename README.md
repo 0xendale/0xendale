@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Anyone who reads a book with a sense of obligation does not understand the art of reading. ""</i></sub><br>
-    <b>— ___ Lin Yutang ___</b>
+    <sub><i>"" Thoughts become things. If you see it in your mind, you will hold it in your hand. ""</i></sub><br>
+    <b>— ___ Bob Proctor ___</b>
   </p>
 </div>
 
