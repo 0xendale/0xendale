@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Intelligent men are cruel. Stupid men are monstrously cruel. ""</i></sub><br>
-    <b>— ___ Jack London ___</b>
+    <sub><i>"" The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. ""</i></sub><br>
+    <b>— ___ Josh Waitzkin ___</b>
   </p>
 </div>
 
