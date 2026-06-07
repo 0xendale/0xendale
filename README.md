@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Honesty is a very expensive gift, Don't expect it from cheap people. ""</i></sub><br>
-    <b>— ___ Warren Buffett ___</b>
+    <sub><i>"" Anyone who reads a book with a sense of obligation does not understand the art of reading. ""</i></sub><br>
+    <b>— ___ Lin Yutang ___</b>
   </p>
 </div>
 
