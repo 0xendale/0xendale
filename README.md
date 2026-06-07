@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your success and happiness lie in you. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
