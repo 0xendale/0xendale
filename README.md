@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. ""</i></sub><br>
-    <b>— ___ Josh Waitzkin ___</b>
+    <sub><i>"" Invisible things are the only realities. ""</i></sub><br>
+    <b>— ___ Edgar Allan Poe ___</b>
   </p>
 </div>
 
