@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Loss is nothing else but change and change is nature's delight. ""</i></sub><br>
-    <b>— ___ Marcus Aurelius ___</b>
+    <sub><i>"" You don't know who is important to you until you actually lose them. ""</i></sub><br>
+    <b>— ___ Mahatma Gandhi ___</b>
   </p>
 </div>
 
