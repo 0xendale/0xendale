@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you take responsibility for yourself you will develop a hunger to accomplish your dream. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" When you move beyond your fear, you feel free. ""</i></sub><br>
+    <b>— ___ Spencer Johnson ___</b>
   </p>
 </div>
 
