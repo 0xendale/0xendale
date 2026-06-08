@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you correct your mind, the rest of your life will fall into place. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" If you take responsibility for yourself you will develop a hunger to accomplish your dream. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
