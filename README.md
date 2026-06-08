@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When you move beyond your fear, you feel free. ""</i></sub><br>
-    <b>— ___ Spencer Johnson ___</b>
+    <sub><i>"" Loss is nothing else but change and change is nature's delight. ""</i></sub><br>
+    <b>— ___ Marcus Aurelius ___</b>
   </p>
 </div>
 
