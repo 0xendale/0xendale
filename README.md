@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't know who is important to you until you actually lose them. ""</i></sub><br>
-    <b>— ___ Mahatma Gandhi ___</b>
+    <sub><i>"" Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. ""</i></sub><br>
+    <b>— ___ Miguel de Cervantes ___</b>
   </p>
 </div>
 
