@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" My powers are ordinary. Only my application brings me success. ""</i></sub><br>
-    <b>— ___ Isaac Newton ___</b>
+    <sub><i>"" Where there's life, there's hope. ""</i></sub><br>
+    <b>— ___ Stephen Hawking ___</b>
   </p>
 </div>
 
