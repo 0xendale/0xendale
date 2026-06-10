@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Choose a job you love, and you will never have to work a day in your life. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" If you don't program yourself, life will program you. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
