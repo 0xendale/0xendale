@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" When you judge others, you do not define them, you define yourself. ""</i></sub><br>
+    <b>— ___ Earl Nightingale ___</b>
   </p>
 </div>
 
