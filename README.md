@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The harder you work, the harder it is to surrender. ""</i></sub><br>
+    <sub><i>"" Perfection is not attainable, but if we chase perfection we can catch excellence. ""</i></sub><br>
     <b>— ___ Vince Lombardi ___</b>
   </p>
 </div>
