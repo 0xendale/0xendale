@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Coming together is a beginning, staying together is progress, and working together is success. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" The harder you work, the harder it is to surrender. ""</i></sub><br>
+    <b>— ___ Vince Lombardi ___</b>
   </p>
 </div>
 
