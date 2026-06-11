@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Most of us will do anything to avoid facing ourselves. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
