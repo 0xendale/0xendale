@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Perfection is not attainable, but if we chase perfection we can catch excellence. ""</i></sub><br>
-    <b>— ___ Vince Lombardi ___</b>
+    <sub><i>"" There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
