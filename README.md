@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" Most of us will do anything to avoid facing ourselves. ""</i></sub><br>
+    <b>— ___ Lolly Daskal ___</b>
   </p>
 </div>
 
