@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every moment is a fresh beginning. ""</i></sub><br>
-    <b>— ___ T.S. Eliot ___</b>
+    <sub><i>"" Remember the entrance to the sanctuary is inside you. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
