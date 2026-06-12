@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I want the fishing rod, not the fish. ""</i></sub><br>
-    <b>— ___ Yanni ___</b>
+    <sub><i>"" So long as we are being remembered, we remain alive. ""</i></sub><br>
+    <b>— ___ Carlos Ruiz Zafon ___</b>
   </p>
 </div>
 
