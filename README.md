@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Talk does not cook rice. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" I want the fishing rod, not the fish. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
