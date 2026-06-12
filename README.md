@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more people you help become successful the more successful you become. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" Much learning does not teach understanding. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
