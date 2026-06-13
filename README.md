@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not why the addiction but why the pain. ""</i></sub><br>
-    <b>— ___ Gabor Mate ___</b>
+    <sub><i>"" Life can only be understood backwards; but it must be lived forwards. ""</i></sub><br>
+    <b>— ___ Soren Kierkegaard ___</b>
   </p>
 </div>
 
