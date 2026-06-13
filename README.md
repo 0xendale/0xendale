@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more we value things, the less we value ourselves. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" Friendship is one of the most tangible things in a world which offers fewer and fewer supports. ""</i></sub><br>
+    <b>— ___ Kenneth Branagh ___</b>
   </p>
 </div>
 
