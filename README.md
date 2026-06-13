@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Friendship is one of the most tangible things in a world which offers fewer and fewer supports. ""</i></sub><br>
-    <b>— ___ Kenneth Branagh ___</b>
+    <sub><i>"" There's no next time. It's now or never. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
