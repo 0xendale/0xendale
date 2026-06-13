@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life can only be understood backwards; but it must be lived forwards. ""</i></sub><br>
-    <b>— ___ Soren Kierkegaard ___</b>
+    <sub><i>"" Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
