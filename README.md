@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Walk towards the sunshine, and the shadows will fall behind you. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" All we have to decide is what to do with the time that is given to us. ""</i></sub><br>
+    <b>— ___ J.R.R. Tolkien ___</b>
   </p>
 </div>
 
