@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to make God laugh, tell him about your plans. ""</i></sub><br>
-    <b>— ___ Woody Allen ___</b>
+    <sub><i>"" If you think adventure is dangerous, try routine; it is lethal. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
