@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Just as true humor is laughter at oneself, true humanity is knowledge of oneself. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" Failure is not fatal, but failure to change might be. ""</i></sub><br>
+    <b>— ___ John Wooden ___</b>
   </p>
 </div>
 
