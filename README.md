@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is not fatal, but failure to change might be. ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Sometimes adversity is what you need to face in order to become successful. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
