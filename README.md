@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When angry count to ten before you speak. If very angry, count to one hundred. ""</i></sub><br>
-    <b>— ___ Thomas Jefferson ___</b>
+    <sub><i>"" If you want to make God laugh, tell him about your plans. ""</i></sub><br>
+    <b>— ___ Woody Allen ___</b>
   </p>
 </div>
 
