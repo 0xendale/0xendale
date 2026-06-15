@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life's too mysterious to take too serious. ""</i></sub><br>
-    <b>— ___ Mary Engelbreit ___</b>
+    <sub><i>"" Be a good animal, true to your instincts. ""</i></sub><br>
+    <b>— ___ D. H. Lawrence ___</b>
   </p>
 </div>
 
