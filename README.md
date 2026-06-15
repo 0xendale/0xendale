@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who look for the bad in people will surely find it. ""</i></sub><br>
-    <b>— ___ Abraham Lincoln ___</b>
+    <sub><i>"" If you want things to be different, perhaps the answer is to become different yourself. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
