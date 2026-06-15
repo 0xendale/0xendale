@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only thing worse than being blind is having sight but no vision. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" Those who look for the bad in people will surely find it. ""</i></sub><br>
+    <b>— ___ Abraham Lincoln ___</b>
   </p>
 </div>
 
