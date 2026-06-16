@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Only he who has no use for the empire is fit to be entrusted with it. ""</i></sub><br>
-    <b>— ___ Zhuangzi ___</b>
+    <sub><i>"" The secret to success is to know something nobody else knows. ""</i></sub><br>
+    <b>— ___ David Brinkley ___</b>
   </p>
 </div>
 
