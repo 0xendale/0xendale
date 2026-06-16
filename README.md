@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret to success is to know something nobody else knows. ""</i></sub><br>
-    <b>— ___ David Brinkley ___</b>
+    <sub><i>"" Passion is born deaf and dumb. ""</i></sub><br>
+    <b>— ___ Honore de Balzac ___</b>
   </p>
 </div>
 
