@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is simply what our feelings do to us. ""</i></sub><br>
-    <b>— ___ Honore de Balzac ___</b>
+    <sub><i>"" You may delay, but time will not. ""</i></sub><br>
+    <b>— ___ Benjamin Franklin ___</b>
   </p>
 </div>
 
