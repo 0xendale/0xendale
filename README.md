@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A journey of a thousand miles must begin with a single step. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
