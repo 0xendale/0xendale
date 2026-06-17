@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In the End, we will remember not the words of our enemies, but the silence of our friends. ""</i></sub><br>
-    <b>— ___ Martin Luther King, Jr. ___</b>
+    <sub><i>"" Success is not final, failure is not fatal: it is the courage to continue that counts. ""</i></sub><br>
+    <b>— ___ Winston Churchill ___</b>
   </p>
 </div>
 
