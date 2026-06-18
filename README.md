@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A Rolling Stone Gathers No Moss. ""</i></sub><br>
-    <b>— ___ Publilius Syrus ___</b>
+    <sub><i>"" It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. ""</i></sub><br>
+    <b>— ___ John Lennon ___</b>
   </p>
 </div>
 
