@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is not final, failure is not fatal: it is the courage to continue that counts. ""</i></sub><br>
-    <b>— ___ Winston Churchill ___</b>
+    <sub><i>"" Life doesn't get easier or more forgiving, we get stronger and more resilient. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
