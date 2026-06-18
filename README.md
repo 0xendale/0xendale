@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" In the middle of chaos lies opportunity. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" A Rolling Stone Gathers No Moss. ""</i></sub><br>
+    <b>— ___ Publilius Syrus ___</b>
   </p>
 </div>
 
