@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If we have no peace, it is because we have forgotten that we belong to each other. ""</i></sub><br>
-    <b>— ___ Mother Teresa ___</b>
+    <sub><i>"" You will not do incredible things without an incredible dream. ""</i></sub><br>
+    <b>— ___ John Eliot ___</b>
   </p>
 </div>
 
