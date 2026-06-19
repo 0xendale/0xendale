@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. ""</i></sub><br>
-    <b>— ___ John Lennon ___</b>
+    <sub><i>"" All I can do is be me, whoever that is. ""</i></sub><br>
+    <b>— ___ Bob Dylan ___</b>
   </p>
 </div>
 
