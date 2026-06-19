@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A lie can travel half way around the world while the truth is putting on its shoes. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" When something is important enough, you do it even if the odds are not in your favor. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
