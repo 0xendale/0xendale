@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If the grass is greener on the other side, maybe that's because you're not taking good care of your grass. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" If we have no peace, it is because we have forgotten that we belong to each other. ""</i></sub><br>
+    <b>— ___ Mother Teresa ___</b>
   </p>
 </div>
 
