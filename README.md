@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't cry because it's over. Smile because it happened. ""</i></sub><br>
-    <b>— ___ Dr. Seuss ___</b>
+    <sub><i>"" We are what we repeatedly do. Excellence, then, is not an act, but a habit. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
