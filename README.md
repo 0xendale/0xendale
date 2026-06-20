@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is not how high you have climbed, but how you make a positive difference to the world. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Don't cry because it's over. Smile because it happened. ""</i></sub><br>
+    <b>— ___ Dr. Seuss ___</b>
   </p>
 </div>
 
