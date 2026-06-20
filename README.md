@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only person you should try to be better than is the person you were yesterday. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" Success is not how high you have climbed, but how you make a positive difference to the world. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
