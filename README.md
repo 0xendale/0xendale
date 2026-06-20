@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are what we repeatedly do. Excellence, then, is not an act, but a habit. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" When I let go of what I am, I become what I might be. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
