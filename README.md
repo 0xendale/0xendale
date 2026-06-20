@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" The only person you should try to be better than is the person you were yesterday. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
