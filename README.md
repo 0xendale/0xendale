@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Doing the best at this moment puts you in the best place for the next moment. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" The only place where success comes before work is in the dictionary. ""</i></sub><br>
+    <b>— ___ Vidal Sassoon ___</b>
   </p>
 </div>
 
