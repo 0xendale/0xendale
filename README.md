@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Tragedy is a tool for the living to gain wisdom, not a guide by which to live. ""</i></sub><br>
-    <b>— ___ Robert F. Kennedy ___</b>
+    <sub><i>"" Health is the greatest of all possessions. ""</i></sub><br>
+    <b>— ___ Jonathan Swift ___</b>
   </p>
 </div>
 
