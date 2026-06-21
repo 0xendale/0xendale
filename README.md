@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" No grand idea was ever born in a conference, but a lot of foolish ideas have died there. ""</i></sub><br>
-    <b>— ___ F. Scott Fitzgerald ___</b>
+    <sub><i>"" You can calculate the worth of a man by the number of his enemies. ""</i></sub><br>
+    <b>— ___ Gustave Flaubert ___</b>
   </p>
 </div>
 
