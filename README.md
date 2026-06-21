@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Those who know, do. Those that understand, teach. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
