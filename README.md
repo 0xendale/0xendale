@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" Tragedy is a tool for the living to gain wisdom, not a guide by which to live. ""</i></sub><br>
+    <b>— ___ Robert F. Kennedy ___</b>
   </p>
 </div>
 
