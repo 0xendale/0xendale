@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" So long as we are being remembered, we remain alive. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" Intelligent men are cruel. Stupid men are monstrously cruel. ""</i></sub><br>
+    <b>— ___ Jack London ___</b>
   </p>
 </div>
 
