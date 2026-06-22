@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Believe you can and you're halfway there. ""</i></sub><br>
-    <b>— ___ Colin R. Davis ___</b>
+    <sub><i>"" No one is useless in this world who lightens the burdens of another. ""</i></sub><br>
+    <b>— ___ Charles Dickens ___</b>
   </p>
 </div>
 
