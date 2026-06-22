@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Intelligent men are cruel. Stupid men are monstrously cruel. ""</i></sub><br>
-    <b>— ___ Jack London ___</b>
+    <sub><i>"" Believe you can and you're halfway there. ""</i></sub><br>
+    <b>— ___ Colin R. Davis ___</b>
   </p>
 </div>
 
