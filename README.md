@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is ignorance that causes most mistakes. ""</i></sub><br>
-    <b>— ___ Harry S. Truman ___</b>
+    <sub><i>"" Thinking will not overcome fear but action will. ""</i></sub><br>
+    <b>— ___ W. Clement Stone ___</b>
   </p>
 </div>
 
