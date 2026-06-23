@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Intelligence is the ability to adapt to change. ""</i></sub><br>
-    <b>— ___ Stephen Hawking ___</b>
+    <sub><i>"" The greatest value of a picture is when it forces us to notice what we never expected to see. ""</i></sub><br>
+    <b>— ___ John Tukey ___</b>
   </p>
 </div>
 
