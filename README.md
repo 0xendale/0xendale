@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is getting what you want. Happiness is wanting what you get. ""</i></sub><br>
-    <b>— ___ Andrew Carnegie ___</b>
+    <sub><i>"" Live your life as an exclamation rather than an explanation. ""</i></sub><br>
+    <b>— ___ Isaac Newton ___</b>
   </p>
 </div>
 
