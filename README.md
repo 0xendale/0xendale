@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Thinking will not overcome fear but action will. ""</i></sub><br>
-    <b>— ___ W. Clement Stone ___</b>
+    <sub><i>"" Surround yourself only with people who are going to take you higher. ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
