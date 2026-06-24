@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. ""</i></sub><br>
-    <b>— ___ Robert Frost ___</b>
+    <sub><i>"" You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. ""</i></sub><br>
+    <b>— ___ Anita Krizzan ___</b>
   </p>
 </div>
 
