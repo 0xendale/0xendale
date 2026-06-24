@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We will outstretch the hand if you unclench your fist. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" We must create our own world or we will die from inaction. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
