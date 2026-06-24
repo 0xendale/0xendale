@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You play the hand you're dealt. I think the game's worthwhile. ""</i></sub><br>
-    <b>— ___ Christopher Reeve ___</b>
+    <sub><i>"" Don't want anything. Then you get everything. ""</i></sub><br>
+    <b>— ___ Seungsahn ___</b>
   </p>
 </div>
 
