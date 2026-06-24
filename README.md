@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. ""</i></sub><br>
+    <b>— ___ Robert Frost ___</b>
   </p>
 </div>
 
