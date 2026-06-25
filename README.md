@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" Progress is limited by your ability to change your mind. ""</i></sub><br>
+    <b>— ___ Jack Butcher ___</b>
   </p>
 </div>
 
