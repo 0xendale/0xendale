@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Sometimes you have to shut your eyes, so you can see the real beauty. ""</i></sub><br>
-    <b>— ___ Kilian Jornet ___</b>
+    <sub><i>"" Disobedience is the true foundation of liberty. The obedient must be slaves. ""</i></sub><br>
+    <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
 
