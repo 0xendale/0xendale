@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Good things aren't supposed to just fall into your lap. ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
