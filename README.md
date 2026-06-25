@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Progress is limited by your ability to change your mind. ""</i></sub><br>
-    <b>— ___ Jack Butcher ___</b>
+    <sub><i>"" Nothing is permanent in this wicked world - not even our troubles. ""</i></sub><br>
+    <b>— ___ Charlie Chaplin ___</b>
   </p>
 </div>
 
