@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never close your lips to those whom you have already opened your heart. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" Sometimes you have to shut your eyes, so you can see the real beauty. ""</i></sub><br>
+    <b>— ___ Kilian Jornet ___</b>
   </p>
 </div>
 
