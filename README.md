@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is in your moments of decision that your destiny is shaped. ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Everything has its beauty, but not everyone sees it. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
