@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" Circumstances do not make the man, they reveal him. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
