@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Great things are not accomplished by those who yield to trends and fads and popular opinion. ""</i></sub><br>
-    <b>— ___ Jack Kerouac ___</b>
+    <sub><i>"" The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
