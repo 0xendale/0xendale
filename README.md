@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't wish it were easier, wish you were better. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" Great things are not accomplished by those who yield to trends and fads and popular opinion. ""</i></sub><br>
+    <b>— ___ Jack Kerouac ___</b>
   </p>
 </div>
 
