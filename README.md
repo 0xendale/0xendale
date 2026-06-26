@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Circumstances do not make the man, they reveal him. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" It is in your moments of decision that your destiny is shaped. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
