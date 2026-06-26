@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Disobedience is the true foundation of liberty. The obedient must be slaves. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" Don't wish it were easier, wish you were better. ""</i></sub><br>
+    <b>— ___ Jim Rohn ___</b>
   </p>
 </div>
 
