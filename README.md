@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Everything has its beauty, but not everyone sees it. ""</i></sub><br>
-    <b>— ___ Confucius ___</b>
+    <sub><i>"" A leader is one who knows the way, goes the way, and shows the way. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
