@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble. ""</i></sub><br>
+    <b>— ___ Robert Greene ___</b>
   </p>
 </div>
 
