@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Whether you have a problem in your life or not depends upon your own attitude, your own understanding. ""</i></sub><br>
-    <b>— ___ Shunryu Suzuki ___</b>
+    <sub><i>"" You can discover what your enemy fears most by observing the means he uses to frighten you. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
