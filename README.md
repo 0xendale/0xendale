@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble. ""</i></sub><br>
-    <b>— ___ Robert Greene ___</b>
+    <sub><i>"" If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
