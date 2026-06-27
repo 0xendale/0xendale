@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't be afraid that you do not know something. Be afraid of not learning about it. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" Watch your thoughts, they become words; watch your words, they become actions; ""</i></sub><br>
+    <b>— ___ Jeff Booth ___</b>
   </p>
 </div>
 
