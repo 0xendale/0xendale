@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Watch your thoughts, they become words; watch your words, they become actions; ""</i></sub><br>
-    <b>— ___ Jeff Booth ___</b>
+    <sub><i>"" The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
