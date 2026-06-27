@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What one does is what counts. Not what one had the intention of doing. ""</i></sub><br>
-    <b>— ___ Pablo Picasso ___</b>
+    <sub><i>"" Imagination is more important than knowledge. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
