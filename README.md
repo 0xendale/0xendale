@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" Whether you have a problem in your life or not depends upon your own attitude, your own understanding. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
