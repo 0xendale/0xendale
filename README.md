@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Your time is limited, so don't waste it living someone elses. life. ""</i></sub><br>
+    <b>— ___ Steve Jobs ___</b>
   </p>
 </div>
 
