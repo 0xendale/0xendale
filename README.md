@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You have as much laughter as you have faith. ""</i></sub><br>
-    <b>— ___ Martin Luther ___</b>
+    <sub><i>"" The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach. ""</i></sub><br>
+    <b>— ___ Benjamin Mays ___</b>
   </p>
 </div>
 
