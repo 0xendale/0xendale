@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You use a glass mirror to see your face; you use works of art to see your soul. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
