@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The one who boasts does so only out of a feeling of inferiority. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" A lot of people have gone further than they thought they could because someone else thought they could. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
