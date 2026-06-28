@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Open your eyes and look within. Are you satisfied with the life you're living? ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
