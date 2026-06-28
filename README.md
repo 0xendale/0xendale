@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where we fall are the stepping-stones for our journey. ""</i></sub><br>
-    <b>— ___ Lolly Daskal ___</b>
+    <sub><i>"" With self-discipline, almost anything is possible. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
