@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Here and now...breathe and relax...in battle and in life. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Anyone who wants to achieve a dream must stay strong, focused and steady. ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
