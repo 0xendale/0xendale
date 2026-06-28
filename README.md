@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" Here and now...breathe and relax...in battle and in life. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
