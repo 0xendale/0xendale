@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Great minds are always feared by lesser minds. ""</i></sub><br>
+    <b>— ___ Dan Brown ___</b>
   </p>
 </div>
 
