@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach. ""</i></sub><br>
-    <b>— ___ Benjamin Mays ___</b>
+    <sub><i>"" You don't know who is important to you until you actually lose them. ""</i></sub><br>
+    <b>— ___ Mahatma Gandhi ___</b>
   </p>
 </div>
 
