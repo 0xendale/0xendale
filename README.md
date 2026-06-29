@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your best life will not be found in comfort. It will be found in fighting for what you believe in. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" A man is but a product of his thoughts. What he thinks he becomes. ""</i></sub><br>
+    <b>— ___ Mahatma Gandhi ___</b>
   </p>
 </div>
 
