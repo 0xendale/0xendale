@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A man is but a product of his thoughts. What he thinks he becomes. ""</i></sub><br>
-    <b>— ___ Mahatma Gandhi ___</b>
+    <sub><i>"" Opportunity often comes disguised in the form of misfortune or temporary defeat. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
