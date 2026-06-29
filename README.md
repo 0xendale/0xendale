@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Just do what must be done. This may not be happiness but it is greatness. ""</i></sub><br>
-    <b>— ___ George Bernard Shaw ___</b>
+    <sub><i>"" Act the way you want to be and soon you'll be the way you act. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
