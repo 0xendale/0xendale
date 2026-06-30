@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I love fools' experiments. I am always making them. ""</i></sub><br>
-    <b>— ___ Charles Darwin ___</b>
+    <sub><i>"" Educating the mind without educating the heart is no education at all. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
