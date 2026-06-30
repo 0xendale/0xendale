@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want others to be happy, practice compassion. If you want to be happy, practice compassion. ""</i></sub><br>
-    <b>— ___ Dalai Lama ___</b>
+    <sub><i>"" How to get more opportunity: Create more opportunity for others. ""</i></sub><br>
+    <b>— ___ Jack Butcher ___</b>
   </p>
 </div>
 
