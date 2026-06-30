@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A scientific man ought to have no wishes, no affections, - a mere heart of stone. ""</i></sub><br>
-    <b>— ___ Charles Darwin ___</b>
+    <sub><i>"" Don't be afraid to give up the good to go for the great. ""</i></sub><br>
+    <b>— ___ Colin R. Davis ___</b>
   </p>
 </div>
 
