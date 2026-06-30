@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The biggest adventure you can ever take is to live the life of your dreams. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" Fear is your worst enemy. Risk is your best friend. ""</i></sub><br>
+    <b>— ___ Gurbaksh Chahal ___</b>
   </p>
 </div>
 
