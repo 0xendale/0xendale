@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If we will be quiet and ready enough, we shall find compensation in every disappointment. ""</i></sub><br>
-    <b>— ___ Henry David Thoreau ___</b>
+    <sub><i>"" A scientific man ought to have no wishes, no affections, - a mere heart of stone. ""</i></sub><br>
+    <b>— ___ Charles Darwin ___</b>
   </p>
 </div>
 
