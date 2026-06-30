@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Educating the mind without educating the heart is no education at all. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" The biggest adventure you can ever take is to live the life of your dreams. ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
