@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Don't be afraid to give up the good to go for the great. ""</i></sub><br>
-    <b>— ___ Colin R. Davis ___</b>
+    <sub><i>"" People who bite the hand that feeds them usually lick the boot that kicks them. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
