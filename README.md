@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Before anything else, preparation is the key to success. ""</i></sub><br>
-    <b>— ___ Alexander Graham Bell ___</b>
+    <sub><i>"" I love fools' experiments. I am always making them. ""</i></sub><br>
+    <b>— ___ Charles Darwin ___</b>
   </p>
 </div>
 
