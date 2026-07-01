@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People who bite the hand that feeds them usually lick the boot that kicks them. ""</i></sub><br>
-    <b>— ___ Eric Hoffer ___</b>
+    <sub><i>"" What we know is a drop, what we don't know is an ocean. ""</i></sub><br>
+    <b>— ___ Isaac Newton ___</b>
   </p>
 </div>
 
