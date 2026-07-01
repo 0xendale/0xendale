@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What we know is a drop, what we don't know is an ocean. ""</i></sub><br>
-    <b>— ___ Isaac Newton ___</b>
+    <sub><i>"" People think you're crazy if you talk about things they don't understand. ""</i></sub><br>
+    <b>— ___ Elvis Presley ___</b>
   </p>
 </div>
 
