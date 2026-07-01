@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" True love stories never have endings. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Do not stop thinking of life as an adventure. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
