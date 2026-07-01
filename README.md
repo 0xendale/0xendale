@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not stop thinking of life as an adventure. ""</i></sub><br>
-    <b>— ___ Eleanor Roosevelt ___</b>
+    <sub><i>"" You have to go through the falling down in order to learn to walk. It helps to know that you can survive it. That's an education in itself. ""</i></sub><br>
+    <b>— ___ Carol Burnett ___</b>
   </p>
 </div>
 
