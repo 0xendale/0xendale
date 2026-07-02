@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want to see things just as they are, then you yourself must practice just as you are. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" Wheresoever you go, go with all your heart. ""</i></sub><br>
+    <b>— ___ Confucius ___</b>
   </p>
 </div>
 
