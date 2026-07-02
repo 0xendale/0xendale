@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is nothing better than the encouragement of a good friend. ""</i></sub><br>
-    <b>— ___ David Brinkley ___</b>
+    <sub><i>"" Try to be a rainbow in someone's cloud. ""</i></sub><br>
+    <b>— ___ Maya Angelou ___</b>
   </p>
 </div>
 
