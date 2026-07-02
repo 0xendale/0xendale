@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing is impossible. The word itself says 'I'm possible!' ""</i></sub><br>
-    <b>— ___ Audrey Hepburn ___</b>
+    <sub><i>"" Stay away from people who makes you feel like you are wasting their time. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
