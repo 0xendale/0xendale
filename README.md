@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who leaves the game wins it. ""</i></sub><br>
-    <b>— ___ Nicolas Chamfort ___</b>
+    <sub><i>"" Dream big and dare to fail. ""</i></sub><br>
+    <b>— ___ Norman Vaughan ___</b>
   </p>
 </div>
 
