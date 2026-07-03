@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it. ""</i></sub><br>
-    <b>— ___ Robert Frost ___</b>
+    <sub><i>"" It takes 20 years to build a reputation and five minutes to ruin it. ""</i></sub><br>
+    <b>— ___ Warren Buffett ___</b>
   </p>
 </div>
 
