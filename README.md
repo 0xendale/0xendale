@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't tell big dreams to small minded people. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" He who leaves the game wins it. ""</i></sub><br>
+    <b>— ___ Nicolas Chamfort ___</b>
   </p>
 </div>
 
