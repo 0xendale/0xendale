@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. ""</i></sub><br>
-    <b>— ___ A.A. Milne ___</b>
+    <sub><i>"" For fast-acting relief try slowing down. ""</i></sub><br>
+    <b>— ___ Lily Tomlin ___</b>
   </p>
 </div>
 
