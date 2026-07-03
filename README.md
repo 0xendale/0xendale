@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. ""</i></sub><br>
-    <b>— ___ Gurbaksh Chahal ___</b>
+    <sub><i>"" You can't tell big dreams to small minded people. ""</i></sub><br>
+    <b>— ___ Steve Harvey ___</b>
   </p>
 </div>
 
