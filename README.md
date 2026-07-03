@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is well known that those who do not trust themselves never trust others. ""</i></sub><br>
-    <b>— ___ Alfred Adler ___</b>
+    <sub><i>"" A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. ""</i></sub><br>
+    <b>— ___ Christopher Reeve ___</b>
   </p>
 </div>
 
