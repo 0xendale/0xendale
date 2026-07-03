@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles. ""</i></sub><br>
-    <b>— ___ Christopher Reeve ___</b>
+    <sub><i>"" You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. ""</i></sub><br>
+    <b>— ___ A.A. Milne ___</b>
   </p>
 </div>
 
