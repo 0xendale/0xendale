@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Faith means believing the unbelievable. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Be a gift to everyone who enters your life, and to everyone whose life you enter. ""</i></sub><br>
+    <b>— ___ Neale Donald Walsch ___</b>
   </p>
 </div>
 
