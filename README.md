@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. ""</i></sub><br>
-    <b>— ___ Chinese Proverb ___</b>
+    <sub><i>"" True knowledge exists in knowing that you know nothing. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
