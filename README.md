@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All wealth is the product of labor. ""</i></sub><br>
-    <b>— ___ John Locke ___</b>
+    <sub><i>"" When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. ""</i></sub><br>
+    <b>— ___ Jack Butcher ___</b>
   </p>
 </div>
 
