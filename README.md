@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be a gift to everyone who enters your life, and to everyone whose life you enter. ""</i></sub><br>
-    <b>— ___ Neale Donald Walsch ___</b>
+    <sub><i>"" Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
