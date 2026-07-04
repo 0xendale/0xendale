@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. ""</i></sub><br>
+    <b>— ___ Sigmund Freud ___</b>
   </p>
 </div>
 
