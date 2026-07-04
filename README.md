@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I believe that one of life's greatest risks is never daring to risk. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" When you believe in a thing, believe in it all the way, implicitly and unquestionable. ""</i></sub><br>
+    <b>— ___ Walt Disney ___</b>
   </p>
 </div>
 
