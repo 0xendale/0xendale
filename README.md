@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. ""</i></sub><br>
-    <b>— ___ Sigmund Freud ___</b>
+    <sub><i>"" An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. ""</i></sub><br>
+    <b>— ___ Chinese Proverb ___</b>
   </p>
 </div>
 
