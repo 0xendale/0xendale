@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Not how long, but how well you have lived is the main thing. ""</i></sub><br>
-    <b>— ___ Seneca ___</b>
+    <sub><i>"" I believe that one of life's greatest risks is never daring to risk. ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
