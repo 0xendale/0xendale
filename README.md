@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Falling down is not failure. Failure comes when you stay where you have fallen. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" What we dwell on is who we become. ""</i></sub><br>
+    <b>— ___ Oprah Winfrey ___</b>
   </p>
 </div>
 
