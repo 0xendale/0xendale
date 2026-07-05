@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A single thread doesn't make a cloth, a single tree doesn't make a forest. ""</i></sub><br>
-    <b>— ___ Tibetan Proverb ___</b>
+    <sub><i>"" Most people fail in life not because they aim too high and miss, but because they aim too low and hit. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
