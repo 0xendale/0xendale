@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Where you are right now doesn't have to determine where you'll end up. ""</i></sub><br>
-    <b>— ___ Barack Obama ___</b>
+    <sub><i>"" Rather than love, than money, than fame, give me truth. ""</i></sub><br>
+    <b>— ___ Henry David Thoreau ___</b>
   </p>
 </div>
 
