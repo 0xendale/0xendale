@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You are free, and that is why you are lost. ""</i></sub><br>
-    <b>— ___ Franz Kafka ___</b>
+    <sub><i>"" Where you are right now doesn't have to determine where you'll end up. ""</i></sub><br>
+    <b>— ___ Barack Obama ___</b>
   </p>
 </div>
 
