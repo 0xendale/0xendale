@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is never too late to be what you might have been. ""</i></sub><br>
-    <b>— ___ George Eliot ___</b>
+    <sub><i>"" Nothing endures but change. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
