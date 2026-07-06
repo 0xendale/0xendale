@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It takes 20 years to build a reputation and five minutes to ruin it. ""</i></sub><br>
-    <b>— ___ Warren Buffett ___</b>
+    <sub><i>"" Inner peace is when you realize that, in the end, nothing matters. ""</i></sub><br>
+    <b>— ___ Maxime Lagace ___</b>
   </p>
 </div>
 
