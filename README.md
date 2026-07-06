@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You will succeed because most people are lazy. ""</i></sub><br>
-    <b>— ___ Shahir Zag ___</b>
+    <sub><i>"" People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind. ""</i></sub><br>
+    <b>— ___ Eckhart Tolle ___</b>
   </p>
 </div>
 
