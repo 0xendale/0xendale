@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Inner peace is when you realize that, in the end, nothing matters. ""</i></sub><br>
-    <b>— ___ Maxime Lagace ___</b>
+    <sub><i>"" Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. ""</i></sub><br>
+    <b>— ___ Robert Kiyosaki ___</b>
   </p>
 </div>
 
