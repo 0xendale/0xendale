@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Most people fail in life not because they aim too high and miss, but because they aim too low and hit. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" It takes 20 years to build a reputation and five minutes to ruin it. ""</i></sub><br>
+    <b>— ___ Warren Buffett ___</b>
   </p>
 </div>
 
