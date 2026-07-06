@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood. ""</i></sub><br>
-    <b>— ___ Charles Dickens ___</b>
+    <sub><i>"" You will succeed because most people are lazy. ""</i></sub><br>
+    <b>— ___ Shahir Zag ___</b>
   </p>
 </div>
 
