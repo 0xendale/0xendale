@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind. ""</i></sub><br>
-    <b>— ___ Eckhart Tolle ___</b>
+    <sub><i>"" In the beginner's mind there are many possibilities, but in the expert's mind there are few. ""</i></sub><br>
+    <b>— ___ Shunryu Suzuki ___</b>
   </p>
 </div>
 
