@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Doing the best at this moment puts you in the best place for the next moment. ""</i></sub><br>
-    <b>— ___ Oprah Winfrey ___</b>
+    <sub><i>"" The soul without imagination is what an observatory would be without a telescope. ""</i></sub><br>
+    <b>— ___ Henry Ward Beecher ___</b>
   </p>
 </div>
 
