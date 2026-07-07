@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing endures but change. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" From error to error one discovers the entire truth. ""</i></sub><br>
+    <b>— ___ Sigmund Freud ___</b>
   </p>
 </div>
 
