@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The soul without imagination is what an observatory would be without a telescope. ""</i></sub><br>
-    <b>— ___ Henry Ward Beecher ___</b>
+    <sub><i>"" A tiger doesn't lose sleep over the opinion of sheep. ""</i></sub><br>
+    <b>— ___ Shahir Zag ___</b>
   </p>
 </div>
 
