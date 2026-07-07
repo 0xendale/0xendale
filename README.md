@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Looking after my health today gives me a better hope for tomorrow. ""</i></sub><br>
-    <b>— ___ Anne Wilson Schaef ___</b>
+    <sub><i>"" I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. ""</i></sub><br>
+    <b>— ___ Virginia Woolf ___</b>
   </p>
 </div>
 
