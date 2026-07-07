@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. ""</i></sub><br>
-    <b>— ___ Virginia Woolf ___</b>
+    <sub><i>"" Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
