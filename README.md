@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you don't find the time, if you don't do the work, you don't get the results. ""</i></sub><br>
-    <b>— ___ Arnold Schwarzenegger ___</b>
+    <sub><i>"" Our life isn't how much we can take out, but how much we can put in. ""</i></sub><br>
+    <b>— ___ Estee Lauder ___</b>
   </p>
 </div>
 
