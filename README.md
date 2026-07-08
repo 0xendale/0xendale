@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The act of taking the first step is what separates the winners from the losers. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind. ""</i></sub><br>
+    <b>— ___ Theodore Roosevelt ___</b>
   </p>
 </div>
 
