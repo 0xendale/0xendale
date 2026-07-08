@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All human wisdom is contained in these two words - Wait and Hope ""</i></sub><br>
-    <b>— ___ Alexandre Dumas ___</b>
+    <sub><i>"" Love is merely the name for the desire and pursuit of the whole. ""</i></sub><br>
+    <b>— ___ Aristophanes ___</b>
   </p>
 </div>
 
