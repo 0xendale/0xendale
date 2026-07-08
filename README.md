@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Our life isn't how much we can take out, but how much we can put in. ""</i></sub><br>
-    <b>— ___ Estee Lauder ___</b>
+    <sub><i>"" A leader leads by example, not by force. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
