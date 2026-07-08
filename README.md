@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind. ""</i></sub><br>
-    <b>— ___ Theodore Roosevelt ___</b>
+    <sub><i>"" Only by acceptance of the past, can you alter it. ""</i></sub><br>
+    <b>— ___ T.S. Eliot ___</b>
   </p>
 </div>
 
