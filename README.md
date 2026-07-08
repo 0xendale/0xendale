@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you want something then you lose everything. If you don't want anything then you already have everything. ""</i></sub><br>
-    <b>— ___ Seungsahn ___</b>
+    <sub><i>"" The act of taking the first step is what separates the winners from the losers. ""</i></sub><br>
+    <b>— ___ Brian Tracy ___</b>
   </p>
 </div>
 
