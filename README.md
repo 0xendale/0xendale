@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All leaders are readers. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" A good stance and posture reflect a proper state of mind. ""</i></sub><br>
+    <b>— ___ Morihei Ueshiba ___</b>
   </p>
 </div>
 
