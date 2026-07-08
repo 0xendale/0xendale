@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A leader leads by example, not by force. ""</i></sub><br>
-    <b>— ___ Sun Tzu ___</b>
+    <sub><i>"" If you want something then you lose everything. If you don't want anything then you already have everything. ""</i></sub><br>
+    <b>— ___ Seungsahn ___</b>
   </p>
 </div>
 
