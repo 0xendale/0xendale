@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. ""</i></sub><br>
-    <b>— ___ Alan Watts ___</b>
+    <sub><i>"" Dreams provide nourishment for the soul, just as a meal does for the body. ""</i></sub><br>
+    <b>— ___ Paulo Coelho ___</b>
   </p>
 </div>
 
