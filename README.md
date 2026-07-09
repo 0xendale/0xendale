@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The longer we dwell on our misfortunes, the greater is their power to harm us. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. ""</i></sub><br>
+    <b>— ___ Alan Watts ___</b>
   </p>
 </div>
 
