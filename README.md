@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. ""</i></sub><br>
-    <b>— ___ James Cameron ___</b>
+    <sub><i>"" Opportunity comes when you continually push forward. ""</i></sub><br>
+    <b>— ___ Sonia Ricotti ___</b>
   </p>
 </div>
 
