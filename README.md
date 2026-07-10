@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If you tell the truth, you don't have to remember anything. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" Never let the fear of striking out keep you from playing the game. ""</i></sub><br>
+    <b>— ___ Babe Ruth ___</b>
   </p>
 </div>
 
