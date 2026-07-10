@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A Quitter never wins - and - a Winner never quits. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" The strength of a wall is neither greater nor less than the courage of the men who defend it. ""</i></sub><br>
+    <b>— ___ Genghis Khan ___</b>
   </p>
 </div>
 
