@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! ""</i></sub><br>
-    <b>— ___ Tony Robbins ___</b>
+    <sub><i>"" Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
