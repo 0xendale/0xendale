@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. ""</i></sub><br>
-    <b>— ___ David Brinkley ___</b>
+    <sub><i>"" We can change our lives. We can do, have, and be exactly what we wish. ""</i></sub><br>
+    <b>— ___ Tony Robbins ___</b>
   </p>
 </div>
 
