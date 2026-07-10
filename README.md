@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Genius is the ability to act rightly without precedent - the power to do the right thing the first time. ""</i></sub><br>
-    <b>— ___ Elbert Hubbard ___</b>
+    <sub><i>"" You have a brain and mind of your own. Use it, and reach your own decisions. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
