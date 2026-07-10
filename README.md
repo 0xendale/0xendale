@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You have a brain and mind of your own. Use it, and reach your own decisions. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" The only thing worse than being blind is having sight but no vision. ""</i></sub><br>
+    <b>— ___ Helen Keller ___</b>
   </p>
 </div>
 
