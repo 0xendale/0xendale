@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" If you tell the truth, you don't have to remember anything. ""</i></sub><br>
+    <b>— ___ Mark Twain ___</b>
   </p>
 </div>
 
