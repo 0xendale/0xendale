@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only thing worse than being blind is having sight but no vision. ""</i></sub><br>
-    <b>— ___ Helen Keller ___</b>
+    <sub><i>"" Love the life you live, live the life you love. ""</i></sub><br>
+    <b>— ___ Bob Marley ___</b>
   </p>
 </div>
 
