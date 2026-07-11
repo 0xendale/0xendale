@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Knowing yourself is the beginning of all wisdom. ""</i></sub><br>
-    <b>— ___ Aristotle ___</b>
+    <sub><i>"" Fashion fades, only style remains the same. ""</i></sub><br>
+    <b>— ___ Coco Chanel ___</b>
   </p>
 </div>
 
