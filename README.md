@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If I love myself I love you. If I love you I love myself. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" What the mind can conceive and believe, and the heart desire, you can achieve. ""</i></sub><br>
+    <b>— ___ Norman Vincent Peale ___</b>
   </p>
 </div>
 
