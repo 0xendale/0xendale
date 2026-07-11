@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The future is no more uncertain than the present. ""</i></sub><br>
-    <b>— ___ Walt Whitman ___</b>
+    <sub><i>"" The ladder of success is best climbed by stepping on the rungs of opportunity. ""</i></sub><br>
+    <b>— ___ Ayn Rand ___</b>
   </p>
 </div>
 
