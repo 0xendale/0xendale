@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love the life you live, live the life you love. ""</i></sub><br>
-    <b>— ___ Bob Marley ___</b>
+    <sub><i>"" Persistence is very important. You should not give up unless you are forced to give up. ""</i></sub><br>
+    <b>— ___ Elon Musk ___</b>
   </p>
 </div>
 
