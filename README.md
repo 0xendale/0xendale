@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" What the mind can conceive and believe, and the heart desire, you can achieve. ""</i></sub><br>
-    <b>— ___ Norman Vincent Peale ___</b>
+    <sub><i>"" It is better to change an opinion than to persist in a wrong one. ""</i></sub><br>
+    <b>— ___ Socrates ___</b>
   </p>
 </div>
 
