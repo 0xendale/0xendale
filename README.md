@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fashion fades, only style remains the same. ""</i></sub><br>
-    <b>— ___ Coco Chanel ___</b>
+    <sub><i>"" If I love myself I love you. If I love you I love myself. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
