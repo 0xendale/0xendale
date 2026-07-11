@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Heroes don't need to talk about what they did. ""</i></sub><br>
-    <b>— ___ W.P. Kinsella ___</b>
+    <sub><i>"" The future is no more uncertain than the present. ""</i></sub><br>
+    <b>— ___ Walt Whitman ___</b>
   </p>
 </div>
 
