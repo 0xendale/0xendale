@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is better to change an opinion than to persist in a wrong one. ""</i></sub><br>
-    <b>— ___ Socrates ___</b>
+    <sub><i>"" A gentleman accepts the responsibility of his actions and bears the burden of their consequences. ""</i></sub><br>
+    <b>— ___ William Faulkner ___</b>
   </p>
 </div>
 
