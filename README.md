@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" Knowing yourself is the beginning of all wisdom. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
