@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. ""</i></sub><br>
-    <b>— ___ Sonia Ricotti ___</b>
+    <sub><i>"" Love is the energy of life. ""</i></sub><br>
+    <b>— ___ Robert Browning ___</b>
   </p>
 </div>
 
