@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Instead of worrying about what you cannot control, shift your energy to what you can create. ""</i></sub><br>
-    <b>— ___ Roy T. Bennett ___</b>
+    <sub><i>"" Absorb what is useful, discard what is not, add what is uniquely your own. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
