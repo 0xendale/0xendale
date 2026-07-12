@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Optimism is the one quality more associated with success and happiness than any other. ""</i></sub><br>
-    <b>— ___ Brian Tracy ___</b>
+    <sub><i>"" It is easier to put leather on the soles of one's feet than cover the world with leather. ""</i></sub><br>
+    <b>— ___ Tibetan Proverb ___</b>
   </p>
 </div>
 
