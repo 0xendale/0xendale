@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A good character is the best tombstone. Carve your name on hearts, not on marble. ""</i></sub><br>
-    <b>— ___ Charles Spurgeon ___</b>
+    <sub><i>"" The more you are grateful for what you have the more you will have to be grateful for. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
