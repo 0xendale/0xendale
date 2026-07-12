@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Absorb what is useful, discard what is not, add what is uniquely your own. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" Even the finest sword plunged into salt water will eventually rust. ""</i></sub><br>
+    <b>— ___ Sun Tzu ___</b>
   </p>
 </div>
 
