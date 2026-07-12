@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The hardest arithmetic to master is that which enables us to count our blessings. ""</i></sub><br>
-    <b>— ___ Eric Hoffer ___</b>
+    <sub><i>"" Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. ""</i></sub><br>
+    <b>— ___ Sonia Ricotti ___</b>
   </p>
 </div>
 
