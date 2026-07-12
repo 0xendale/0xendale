@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love is the energy of life. ""</i></sub><br>
-    <b>— ___ Robert Browning ___</b>
+    <sub><i>"" The chief cause of failure and unhappiness is trading what you want most for what you want right now. ""</i></sub><br>
+    <b>— ___ Zig Ziglar ___</b>
   </p>
 </div>
 
