@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Learn to value yourself, which means: fight for your happiness. ""</i></sub><br>
-    <b>— ___ Ayn Rand ___</b>
+    <sub><i>"" The hardest arithmetic to master is that which enables us to count our blessings. ""</i></sub><br>
+    <b>— ___ Eric Hoffer ___</b>
   </p>
 </div>
 
