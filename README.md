@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The chief cause of failure and unhappiness is trading what you want most for what you want right now. ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" A good character is the best tombstone. Carve your name on hearts, not on marble. ""</i></sub><br>
+    <b>— ___ Charles Spurgeon ___</b>
   </p>
 </div>
 
