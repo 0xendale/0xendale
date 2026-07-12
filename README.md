@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more you are grateful for what you have the more you will have to be grateful for. ""</i></sub><br>
-    <b>— ___ Zig Ziglar ___</b>
+    <sub><i>"" All life is an experiment. The more experiments you make, the better. ""</i></sub><br>
+    <b>— ___ Ralph Waldo Emerson ___</b>
   </p>
 </div>
 
