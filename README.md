@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" All life is an experiment. The more experiments you make, the better. ""</i></sub><br>
-    <b>— ___ Ralph Waldo Emerson ___</b>
+    <sub><i>"" Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
