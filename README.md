@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I never said it would be easy, I only said it would be worth it. ""</i></sub><br>
-    <b>— ___ Mae West ___</b>
+    <sub><i>"" Time is a game played beautifully by children. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
