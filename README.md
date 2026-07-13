@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We shape clay into a pot, but it is the emptiness inside that holds whatever we want. ""</i></sub><br>
-    <b>— ___ Lao Tzu ___</b>
+    <sub><i>"" I never said it would be easy, I only said it would be worth it. ""</i></sub><br>
+    <b>— ___ Mae West ___</b>
   </p>
 </div>
 
