@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The more often a stupidity is repeated, the more it gets the appearance of wisdom. ""</i></sub><br>
-    <b>— ___ Voltaire ___</b>
+    <sub><i>"" Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. ""</i></sub><br>
+    <b>— ___ Peter Drucker ___</b>
   </p>
 </div>
 
