@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There is no way to happiness - happiness is the way. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" A fool sees himself as another, but a wise man sees others as himself. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
