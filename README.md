@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do it with passion, or not at all. ""</i></sub><br>
-    <b>— ___ Rosa Nouchette Carey ___</b>
+    <sub><i>"" A wise man can learn more from a foolish question than a fool can learn from a wise answer. ""</i></sub><br>
+    <b>— ___ Bruce Lee ___</b>
   </p>
 </div>
 
