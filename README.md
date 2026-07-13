@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. ""</i></sub><br>
-    <b>— ___ Peter Drucker ___</b>
+    <sub><i>"" There is no way to happiness - happiness is the way. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
