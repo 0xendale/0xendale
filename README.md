@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A wise man can learn more from a foolish question than a fool can learn from a wise answer. ""</i></sub><br>
-    <b>— ___ Bruce Lee ___</b>
+    <sub><i>"" We shape clay into a pot, but it is the emptiness inside that holds whatever we want. ""</i></sub><br>
+    <b>— ___ Lao Tzu ___</b>
   </p>
 </div>
 
