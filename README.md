@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Fear can hold you prisoner. Hope can set you free. ""</i></sub><br>
-    <b>— ___ Stephen King ___</b>
+    <sub><i>"" Do it with passion, or not at all. ""</i></sub><br>
+    <b>— ___ Rosa Nouchette Carey ___</b>
   </p>
 </div>
 
