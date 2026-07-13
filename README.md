@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The road to success is always under construction. ""</i></sub><br>
-    <b>— ___ Steve Harvey ___</b>
+    <sub><i>"" The more often a stupidity is repeated, the more it gets the appearance of wisdom. ""</i></sub><br>
+    <b>— ___ Voltaire ___</b>
   </p>
 </div>
 
