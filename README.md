@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A fool sees himself as another, but a wise man sees others as himself. ""</i></sub><br>
-    <b>— ___ Dogen ___</b>
+    <sub><i>"" Fear can hold you prisoner. Hope can set you free. ""</i></sub><br>
+    <b>— ___ Stephen King ___</b>
   </p>
 </div>
 
