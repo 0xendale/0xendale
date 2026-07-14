@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Friends ask you questions; enemies question you. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" The heart wants what it wants - or else it does not care. ""</i></sub><br>
+    <b>— ___ Emily Dickinson ___</b>
   </p>
 </div>
 
