@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The heart wants what it wants - or else it does not care. ""</i></sub><br>
-    <b>— ___ Emily Dickinson ___</b>
+    <sub><i>"" It doesn't matter what you do, only how well you do it. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
