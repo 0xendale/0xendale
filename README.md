@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Knowing your own darkness is the best method for dealing with the darknesses of other people. ""</i></sub><br>
-    <b>— ___ Carl Jung ___</b>
+    <sub><i>"" A good system shortens the road to the goal. ""</i></sub><br>
+    <b>— ___ Orison Swett Marden ___</b>
   </p>
 </div>
 
