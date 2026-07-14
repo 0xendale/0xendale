@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Argue for your limitations and sure enough, they're yours. ""</i></sub><br>
-    <b>— ___ Richard Bach ___</b>
+    <sub><i>"" Every day do something that will inch you closer to a better tomorrow. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
