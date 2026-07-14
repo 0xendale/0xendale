@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Do not save what is left after spending, but spend what is left after saving. ""</i></sub><br>
-    <b>— ___ Warren Buffett ___</b>
+    <sub><i>"" If what you're doing is not your passion, you have nothing to lose. ""</i></sub><br>
+    <b>— ___ Celestine Chua ___</b>
   </p>
 </div>
 
