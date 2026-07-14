@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Time is a game played beautifully by children. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" It is never too late to be what you might have been. ""</i></sub><br>
+    <b>— ___ George Eliot ___</b>
   </p>
 </div>
 
