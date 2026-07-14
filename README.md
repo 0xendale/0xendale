@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If there is a book that you want to read, but it hasn't been written yet, then you must write it. ""</i></sub><br>
-    <b>— ___ Toni Morrison ___</b>
+    <sub><i>"" Those who know, do. Those that understand, teach. ""</i></sub><br>
+    <b>— ___ Aristotle ___</b>
   </p>
 </div>
 
