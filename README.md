@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every day do something that will inch you closer to a better tomorrow. ""</i></sub><br>
-    <b>— ___ Unknown ___</b>
+    <sub><i>"" If there is a book that you want to read, but it hasn't been written yet, then you must write it. ""</i></sub><br>
+    <b>— ___ Toni Morrison ___</b>
   </p>
 </div>
 
