@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" A good system shortens the road to the goal. ""</i></sub><br>
-    <b>— ___ Orison Swett Marden ___</b>
+    <sub><i>"" Friends ask you questions; enemies question you. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
