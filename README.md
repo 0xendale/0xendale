@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is one long process of getting tired. ""</i></sub><br>
-    <b>— ___ Samuel Butler ___</b>
+    <sub><i>"" Do not save what is left after spending, but spend what is left after saving. ""</i></sub><br>
+    <b>— ___ Warren Buffett ___</b>
   </p>
 </div>
 
