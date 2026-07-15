@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! ""</i></sub><br>
-    <b>— ___ Sathya Sai Baba ___</b>
+    <sub><i>"" Do not fear failure but rather fear not trying. ""</i></sub><br>
+    <b>— ___ Roy T. Bennett ___</b>
   </p>
 </div>
 
