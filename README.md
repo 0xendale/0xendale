@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Why do you stay in prison when the door is so wide open? ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" It is not titles that honour men, but men that honour titles. ""</i></sub><br>
+    <b>— ___ Niccolo Machiavelli ___</b>
   </p>
 </div>
 
