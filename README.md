@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It doesn't matter what you do, only how well you do it. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" If we are not able to smile, then the world will not have peace. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
