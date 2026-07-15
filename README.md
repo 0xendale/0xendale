@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is not titles that honour men, but men that honour titles. ""</i></sub><br>
-    <b>— ___ Niccolo Machiavelli ___</b>
+    <sub><i>"" The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. ""</i></sub><br>
+    <b>— ___ Herodotus ___</b>
   </p>
 </div>
 
