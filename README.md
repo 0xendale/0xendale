@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never feel shame for trying and failing, for he who has never failed is he who has never tried. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" If ever you feel like an animal among men, be a lion. ""</i></sub><br>
+    <b>— ___ Criss Jami ___</b>
   </p>
 </div>
 
