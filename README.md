@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Simplicity is a difficult thing to achieve. ""</i></sub><br>
-    <b>— ___ Charlie Chaplin ___</b>
+    <sub><i>"" Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
