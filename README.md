@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If we are not able to smile, then the world will not have peace. ""</i></sub><br>
-    <b>— ___ Thich Nhat Hanh ___</b>
+    <sub><i>"" Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! ""</i></sub><br>
+    <b>— ___ Sathya Sai Baba ___</b>
   </p>
 </div>
 
