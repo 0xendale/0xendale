@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. ""</i></sub><br>
-    <b>— ___ Zen Proverb ___</b>
+    <sub><i>"" Never feel shame for trying and failing, for he who has never failed is he who has never tried. ""</i></sub><br>
+    <b>— ___ Og Mandino ___</b>
   </p>
 </div>
 
