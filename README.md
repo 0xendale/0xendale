@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Behind every cloud is another cloud. ""</i></sub><br>
-    <b>— ___ Judy Garland ___</b>
+    <sub><i>"" Circumstances do not make the man, they reveal him. ""</i></sub><br>
+    <b>— ___ James Allen ___</b>
   </p>
 </div>
 
