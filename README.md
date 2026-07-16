@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Wise people, even though all laws were abolished, would still lead the same life. ""</i></sub><br>
-    <b>— ___ Aristophanes ___</b>
+    <sub><i>"" Failure is acceptable. Not trying is a whole different ball park. ""</i></sub><br>
+    <b>— ___ Michael Jordan ___</b>
   </p>
 </div>
 
