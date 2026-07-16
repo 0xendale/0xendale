@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The only real security that a man can have in this world is a reserve of knowledge, experience and ability. ""</i></sub><br>
-    <b>— ___ Henry Ford ___</b>
+    <sub><i>"" Creativity is the greatest rebellion in existence. ""</i></sub><br>
+    <b>— ___ Osho ___</b>
   </p>
 </div>
 
