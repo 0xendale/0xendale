@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" There's a very deep connection among human beings. All we have to do is open our minds to it. ""</i></sub><br>
-    <b>— ___ Yanni ___</b>
+    <sub><i>"" You don't need to be better than anyone else, you just need to be better than you used to be. ""</i></sub><br>
+    <b>— ___ Wayne Dyer ___</b>
   </p>
 </div>
 
