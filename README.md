@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You don't need to be better than anyone else, you just need to be better than you used to be. ""</i></sub><br>
-    <b>— ___ Wayne Dyer ___</b>
+    <sub><i>"" The source of a true smile is an awakened mind. ""</i></sub><br>
+    <b>— ___ Thich Nhat Hanh ___</b>
   </p>
 </div>
 
