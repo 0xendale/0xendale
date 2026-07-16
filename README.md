@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life doesn't get easier or more forgiving, we get stronger and more resilient. ""</i></sub><br>
-    <b>— ___ Steve Maraboli ___</b>
+    <sub><i>"" Wise people, even though all laws were abolished, would still lead the same life. ""</i></sub><br>
+    <b>— ___ Aristophanes ___</b>
   </p>
 </div>
 
