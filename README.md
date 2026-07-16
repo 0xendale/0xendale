@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Faults are yours to fix, not to curse. ""</i></sub><br>
-    <b>— ___ Colin Powell ___</b>
+    <sub><i>"" There's a very deep connection among human beings. All we have to do is open our minds to it. ""</i></sub><br>
+    <b>— ___ Yanni ___</b>
   </p>
 </div>
 
