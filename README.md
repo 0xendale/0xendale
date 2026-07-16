@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Circumstances do not make the man, they reveal him. ""</i></sub><br>
-    <b>— ___ James Allen ___</b>
+    <sub><i>"" The only real security that a man can have in this world is a reserve of knowledge, experience and ability. ""</i></sub><br>
+    <b>— ___ Henry Ford ___</b>
   </p>
 </div>
 
