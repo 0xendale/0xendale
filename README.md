@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" If a thing is worth doing, it is worth doing badly. ""</i></sub><br>
-    <b>— ___ Gilbert Chesterton ___</b>
+    <sub><i>"" Faults are yours to fix, not to curse. ""</i></sub><br>
+    <b>— ___ Colin Powell ___</b>
   </p>
 </div>
 
