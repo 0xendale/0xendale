@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We all give up great expectations along the way. ""</i></sub><br>
-    <b>— ___ Carlos Ruiz Zafon ___</b>
+    <sub><i>"" Behind every cloud is another cloud. ""</i></sub><br>
+    <b>— ___ Judy Garland ___</b>
   </p>
 </div>
 
