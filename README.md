@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Nothing good ever comes of violence. ""</i></sub><br>
-    <b>— ___ Martin Luther ___</b>
+    <sub><i>"" Raise your words, not voice. It is rain that grows flowers, not thunder. ""</i></sub><br>
+    <b>— ___ Rumi ___</b>
   </p>
 </div>
 
