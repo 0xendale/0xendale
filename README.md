@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. ""</i></sub><br>
-    <b>— ___ Albert Einstein ___</b>
+    <sub><i>"" Do one thing every day that scares you. ""</i></sub><br>
+    <b>— ___ Eleanor Roosevelt ___</b>
   </p>
 </div>
 
