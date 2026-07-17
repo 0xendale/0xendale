@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We are all like the bright moon, we still have our darker side. ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" Nothing good ever comes of violence. ""</i></sub><br>
+    <b>— ___ Martin Luther ___</b>
   </p>
 </div>
 
