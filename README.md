@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Always render more and better service than is expected of you, no matter what your task may be. ""</i></sub><br>
-    <b>— ___ Og Mandino ___</b>
+    <sub><i>"" He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. ""</i></sub><br>
+    <b>— ___ Albert Einstein ___</b>
   </p>
 </div>
 
