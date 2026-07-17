@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Life is one long process of getting tired. ""</i></sub><br>
-    <b>— ___ Samuel Butler ___</b>
+    <sub><i>"" Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. ""</i></sub><br>
+    <b>— ___ Kamal Ravikant ___</b>
   </p>
 </div>
 
