@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. ""</i></sub><br>
-    <b>— ___ Jon Kabat-Zinn ___</b>
+    <sub><i>"" We are all like the bright moon, we still have our darker side. ""</i></sub><br>
+    <b>— ___ Kahlil Gibran ___</b>
   </p>
 </div>
 
