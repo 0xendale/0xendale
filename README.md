@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Remember we're all in this alone. ""</i></sub><br>
-    <b>— ___ Lily Tomlin ___</b>
+    <sub><i>"" Be true to yourself, help others, make each day your masterpiece ""</i></sub><br>
+    <b>— ___ John Wooden ___</b>
   </p>
 </div>
 
