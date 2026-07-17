@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Be true to yourself, help others, make each day your masterpiece ""</i></sub><br>
-    <b>— ___ John Wooden ___</b>
+    <sub><i>"" Your goals are the road maps that guide you and show you what is possible for your life. ""</i></sub><br>
+    <b>— ___ Les Brown ___</b>
   </p>
 </div>
 
