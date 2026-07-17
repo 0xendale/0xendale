@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. ""</i></sub><br>
-    <b>— ___ Kamal Ravikant ___</b>
+    <sub><i>"" Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time. ""</i></sub><br>
+    <b>— ___ Jon Kabat-Zinn ___</b>
   </p>
 </div>
 
