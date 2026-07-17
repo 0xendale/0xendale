@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Raise your words, not voice. It is rain that grows flowers, not thunder. ""</i></sub><br>
-    <b>— ___ Rumi ___</b>
+    <sub><i>"" Always render more and better service than is expected of you, no matter what your task may be. ""</i></sub><br>
+    <b>— ___ Og Mandino ___</b>
   </p>
 </div>
 
