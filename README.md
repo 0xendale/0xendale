@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Failure is acceptable. Not trying is a whole different ball park. ""</i></sub><br>
-    <b>— ___ Michael Jordan ___</b>
+    <sub><i>"" Remember we're all in this alone. ""</i></sub><br>
+    <b>— ___ Lily Tomlin ___</b>
   </p>
 </div>
 
