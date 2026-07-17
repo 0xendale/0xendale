@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Your goals are the road maps that guide you and show you what is possible for your life. ""</i></sub><br>
-    <b>— ___ Les Brown ___</b>
+    <sub><i>"" Life is one long process of getting tired. ""</i></sub><br>
+    <b>— ___ Samuel Butler ___</b>
   </p>
 </div>
 
