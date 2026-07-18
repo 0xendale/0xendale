@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" When things go wrong, don't go with them. ""</i></sub><br>
-    <b>— ___ Elvis Presley ___</b>
+    <sub><i>"" Knowledge is learning something everyday. Wisdom is letting go of something everyday. ""</i></sub><br>
+    <b>— ___ Unknown ___</b>
   </p>
 </div>
 
