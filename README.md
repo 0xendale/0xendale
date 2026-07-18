@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Give a girl the right shoes, and she can conquer the world. ""</i></sub><br>
-    <b>— ___ Bette Midler ___</b>
+    <sub><i>"" Honor is the foundation of courage. ""</i></sub><br>
+    <b>— ___ Amelia Earhart ___</b>
   </p>
 </div>
 
