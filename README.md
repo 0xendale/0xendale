@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. ""</i></sub><br>
-    <b>— ___ Epictetus ___</b>
+    <sub><i>"" Truth is the offspring of silence and meditation. ""</i></sub><br>
+    <b>— ___ Isaac Newton ___</b>
   </p>
 </div>
 
