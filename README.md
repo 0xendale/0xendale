@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" To lose your temper is only useful once a year. ""</i></sub><br>
-    <b>— ___ Colin R. Davis ___</b>
+    <sub><i>"" Those who seek the easy way do not seek the true way. ""</i></sub><br>
+    <b>— ___ Dogen ___</b>
   </p>
 </div>
 
