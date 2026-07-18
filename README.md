@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" I don't pretend to know everything; I just only speak on matters I know I'll win. ""</i></sub><br>
-    <b>— ___ Criss Jami ___</b>
+    <sub><i>"" Give a girl the right shoes, and she can conquer the world. ""</i></sub><br>
+    <b>— ___ Bette Midler ___</b>
   </p>
 </div>
 
