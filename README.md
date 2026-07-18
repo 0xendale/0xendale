@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" We can either add to our character each day, or we can fritter away our energies in distractions. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" To lose your temper is only useful once a year. ""</i></sub><br>
+    <b>— ___ Colin R. Davis ___</b>
   </p>
 </div>
 
