@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The worst part of success is trying to find someone who is happy for you. ""</i></sub><br>
-    <b>— ___ Bette Midler ___</b>
+    <sub><i>"" The wise man reads both books and life itself. ""</i></sub><br>
+    <b>— ___ Lin Yutang ___</b>
   </p>
 </div>
 
