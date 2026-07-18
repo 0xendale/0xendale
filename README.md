@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The wise man reads both books and life itself. ""</i></sub><br>
-    <b>— ___ Lin Yutang ___</b>
+    <sub><i>"" Not engaging in ignorance is wisdom. ""</i></sub><br>
+    <b>— ___ Bodhidharma ___</b>
   </p>
 </div>
 
