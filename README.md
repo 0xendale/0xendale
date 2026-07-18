@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You may forget with whom you laughed, but you will never forget with whom you wept. ""</i></sub><br>
-    <b>— ___ Kahlil Gibran ___</b>
+    <sub><i>"" Those who dream by day are cognizant of many things which escape those who dream only by night. ""</i></sub><br>
+    <b>— ___ Vincent van Gogh ___</b>
   </p>
 </div>
 
