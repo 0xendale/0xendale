@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The few who do are the envy of the many who only watch. ""</i></sub><br>
-    <b>— ___ Jim Rohn ___</b>
+    <sub><i>"" The sun is new each day. ""</i></sub><br>
+    <b>— ___ Heraclitus ___</b>
   </p>
 </div>
 
