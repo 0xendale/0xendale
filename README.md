@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit. ""</i></sub><br>
-    <b>— ___ Napoleon Hill ___</b>
+    <sub><i>"" The secret of happiness is not in doing what you like but in liking what you have to do. ""</i></sub><br>
+    <b>— ___ Sathya Sai Baba ___</b>
   </p>
 </div>
 
