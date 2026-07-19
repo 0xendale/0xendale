@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Never allow someone to be your priority while allowing yourself to be their option. ""</i></sub><br>
-    <b>— ___ Mark Twain ___</b>
+    <sub><i>"" A mountain never yields to the wind no matter how strong it is. ""</i></sub><br>
+    <b>— ___ Zen Proverb ___</b>
   </p>
 </div>
 
