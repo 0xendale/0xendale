@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Every day passes whether you participate or not. ""</i></sub><br>
-    <b>— ___ Ming-Dao Deng ___</b>
+    <sub><i>"" You may think I'm small, but I have a universe inside my mind. ""</i></sub><br>
+    <b>— ___ Yoko Ono ___</b>
   </p>
 </div>
 
