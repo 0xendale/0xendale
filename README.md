@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" Truth is the offspring of silence and meditation. ""</i></sub><br>
-    <b>— ___ Isaac Newton ___</b>
+    <sub><i>"" You can live a whole life time never being awake. ""</i></sub><br>
+    <b>— ___ Dan Millman ___</b>
   </p>
 </div>
 
