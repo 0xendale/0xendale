@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The score never interested me, only the game. ""</i></sub><br>
-    <b>— ___ Mae West ___</b>
+    <sub><i>"" The sun shines upon good and bad alike. ""</i></sub><br>
+    <b>— ___ Hans Christian Andersen ___</b>
   </p>
 </div>
 
