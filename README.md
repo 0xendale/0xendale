@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The secret of happiness is not in doing what you like but in liking what you have to do. ""</i></sub><br>
-    <b>— ___ Sathya Sai Baba ___</b>
+    <sub><i>"" It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime. ""</i></sub><br>
+    <b>— ___ Steve Maraboli ___</b>
   </p>
 </div>
 
