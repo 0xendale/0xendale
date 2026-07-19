@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" The sun is new each day. ""</i></sub><br>
-    <b>— ___ Heraclitus ___</b>
+    <sub><i>"" Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit. ""</i></sub><br>
+    <b>— ___ Napoleon Hill ___</b>
   </p>
 </div>
 
