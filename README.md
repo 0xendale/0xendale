@@ -20,8 +20,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"" You can live a whole life time never being awake. ""</i></sub><br>
-    <b>— ___ Dan Millman ___</b>
+    <sub><i>"" The score never interested me, only the game. ""</i></sub><br>
+    <b>— ___ Mae West ___</b>
   </p>
 </div>
 
