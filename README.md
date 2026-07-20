@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Absurdity is the ecstasy of intellectualism."</i></sub><br>
-    <b>— Criss Jami</b>
+    <sub><i>"Knowledge isn't power until it is applied."</i></sub><br>
+    <b>— Dale Carnegie</b>
   </p>
 </div>
 
