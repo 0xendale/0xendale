@@ -3,7 +3,9 @@
 <div align="center">
   <code><h1>Endale D.</h1></code>
   <p>
-    • <a href="https://t.me/d41d3v">Telegram</a> • 
+    • <a href="https://0xendale.github.io">Website</a> •
+    <a href="https://endale-cv.up.railway.app/">CV</a> •
+    <a href="https://t.me/d41d3v">Telegram</a> •
   </p>
 </div>
 
@@ -29,5 +31,5 @@
 
 ---
 <p align="right">
-  <sub>12/02/2026</sub>
+  <sub>{__date}</sub>
 </p>

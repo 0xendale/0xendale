@@ -16,9 +16,12 @@ async function main() {
         author: data[0].a
     };
 
+    const date = new Date().toLocaleDateString("en-GB", { timeZone: "Asia/Ho_Chi_Minh" });
+
     const readme = readmeTemplate
-        .replace("{__quote}", `" ${quote?.quote} "`)
-        .replace("{__character}", `___ ${quote?.author ? quote?.author : "0xEnda"} ___`)
+        .replace("{__quote}", quote?.quote)
+        .replace("{__character}", quote?.author ? quote?.author : "0xEnda")
+        .replace("{__date}", date)
     await fs.writeFile("README.md", readme);
 }
 main();
