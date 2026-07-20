@@ -3,7 +3,16 @@
 <div align="center">
   <code><h1>Endale D.</h1></code>
   <p>
-    • <a href="https://t.me/d41d3v">Telegram</a> • 
+    <sub>building multichain infra @</sub>
+    <img src="https://img.shields.io/badge/EVM-0d0d0d?style=flat-square&logo=ethereum&logoColor=C5A059" alt="EVM" />
+    <img src="https://img.shields.io/badge/Solana-0d0d0d?style=flat-square&logo=solana&logoColor=C5A059" alt="Solana" />
+  </p>
+  <p>
+    • <a href="https://0xendale.github.io">Website</a> •
+    <a href="https://endale-cv.up.railway.app/">CV</a> •
+    <a href="https://t.me/d41d3v">Telegram</a> •
+    <a href="https://www.linkedin.com/in/endadinh/">LinkedIn</a> •
+    <a href="mailto:endadinh@gmail.com">Email</a> •
   </p>
 </div>
 
@@ -29,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>12/02/2026</sub>
+  <sub>{__date}</sub>
 </p>
