@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Knowledge isn't power until it is applied."</i></sub><br>
-    <b>— Dale Carnegie</b>
+    <sub><i>"If life were predictable it would cease to be life, and be without flavor."</i></sub><br>
+    <b>— Eleanor Roosevelt</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>20/07/2026</sub>
+  <sub>21/07/2026</sub>
 </p>
