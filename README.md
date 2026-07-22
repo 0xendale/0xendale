@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"If life were predictable it would cease to be life, and be without flavor."</i></sub><br>
-    <b>— Eleanor Roosevelt</b>
+    <sub><i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i></sub><br>
+    <b>— Plato</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>21/07/2026</sub>
+  <sub>22/07/2026</sub>
 </p>
