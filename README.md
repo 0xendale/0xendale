@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i></sub><br>
-    <b>— Plato</b>
+    <sub><i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i></sub><br>
+    <b>— A.A. Milne</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>22/07/2026</sub>
+  <sub>23/07/2026</sub>
 </p>
