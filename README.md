@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i></sub><br>
-    <b>— A.A. Milne</b>
+    <sub><i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i></sub><br>
+    <b>— Eleanor Roosevelt</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>23/07/2026</sub>
+  <sub>24/07/2026</sub>
 </p>
