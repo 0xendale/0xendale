@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i></sub><br>
-    <b>— Tony Robbins</b>
+    <sub><i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i></sub><br>
+    <b>— Ralph Marston</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>10/09/2026</sub>
+  <sub>11/09/2026</sub>
 </p>
