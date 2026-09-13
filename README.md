@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Art, like morality, consists of drawing the line somewhere."</i></sub><br>
-    <b>— Gilbert Chesterton</b>
+    <sub><i>"Adventure is worthwhile in itself."</i></sub><br>
+    <b>— Amelia Earhart</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>12/09/2026</sub>
+  <sub>13/09/2026</sub>
 </p>
