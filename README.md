@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Adventure is worthwhile in itself."</i></sub><br>
-    <b>— Amelia Earhart</b>
+    <sub><i>"Everything that irritates us about others."</i></sub><br>
+    <b>— Carl Jung</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>13/09/2026</sub>
+  <sub>14/09/2026</sub>
 </p>
