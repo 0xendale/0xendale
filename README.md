@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Everything that irritates us about others."</i></sub><br>
-    <b>— Carl Jung</b>
+    <sub><i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i></sub><br>
+    <b>— Zen Proverb</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>14/09/2026</sub>
+  <sub>15/09/2026</sub>
 </p>
