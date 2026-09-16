@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i></sub><br>
-    <b>— Zen Proverb</b>
+    <sub><i>"It is not how much we have, but how much we enjoy, that makes happiness."</i></sub><br>
+    <b>— Charles Spurgeon</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>15/09/2026</sub>
+  <sub>16/09/2026</sub>
 </p>
