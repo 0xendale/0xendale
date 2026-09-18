@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Growth is in a series of mistakes. That's the only way you learn."</i></sub><br>
-    <b>— Steve Harvey</b>
+    <sub><i>"Life has more imagination than we carry in our dreams."</i></sub><br>
+    <b>— Christopher Columbus</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>17/09/2026</sub>
+  <sub>18/09/2026</sub>
 </p>
