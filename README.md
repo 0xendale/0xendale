@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Life has more imagination than we carry in our dreams."</i></sub><br>
-    <b>— Christopher Columbus</b>
+    <sub><i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i></sub><br>
+    <b>— Dogen</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>18/09/2026</sub>
+  <sub>19/09/2026</sub>
 </p>
