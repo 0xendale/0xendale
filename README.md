@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"When you can't make them see the light, make them feel the heat."</i></sub><br>
-    <b>— Ronald Reagan</b>
+    <sub><i>"Words used to attract the dull of wit are not to be relied on."</i></sub><br>
+    <b>— Huang Po</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>20/09/2026</sub>
+  <sub>21/09/2026</sub>
 </p>
