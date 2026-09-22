@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Words used to attract the dull of wit are not to be relied on."</i></sub><br>
-    <b>— Huang Po</b>
+    <sub><i>"Be brave to stand for what you believe in even if you stand alone."</i></sub><br>
+    <b>— Roy T. Bennett</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>21/09/2026</sub>
+  <sub>22/09/2026</sub>
 </p>
