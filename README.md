@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Be brave to stand for what you believe in even if you stand alone."</i></sub><br>
-    <b>— Roy T. Bennett</b>
+    <sub><i>"The few who do are the envy of the many who only watch."</i></sub><br>
+    <b>— Jim Rohn</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>22/09/2026</sub>
+  <sub>23/09/2026</sub>
 </p>
