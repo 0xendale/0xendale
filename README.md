@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The few who do are the envy of the many who only watch."</i></sub><br>
-    <b>— Jim Rohn</b>
+    <sub><i>"You can put lipstick on a pig. It's still a pig."</i></sub><br>
+    <b>— Barack Obama</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>23/09/2026</sub>
+  <sub>24/09/2026</sub>
 </p>
