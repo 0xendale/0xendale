@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"You can put lipstick on a pig. It's still a pig."</i></sub><br>
-    <b>— Barack Obama</b>
+    <sub><i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i></sub><br>
+    <b>— Mother Teresa</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>24/09/2026</sub>
+  <sub>25/09/2026</sub>
 </p>
