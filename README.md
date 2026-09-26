@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i></sub><br>
-    <b>— Mother Teresa</b>
+    <sub><i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i></sub><br>
+    <b>— Martin Luther King, Jr.</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>25/09/2026</sub>
+  <sub>26/09/2026</sub>
 </p>
