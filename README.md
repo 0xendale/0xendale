@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Loss is nothing else but change and change is nature's delight."</i></sub><br>
-    <b>— Marcus Aurelius</b>
+    <sub><i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i></sub><br>
+    <b>— Spencer Johnson</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>27/09/2026</sub>
+  <sub>28/09/2026</sub>
 </p>
