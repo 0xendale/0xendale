@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i></sub><br>
-    <b>— Spencer Johnson</b>
+    <sub><i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i></sub><br>
+    <b>— Norman Vincent Peale</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>28/09/2026</sub>
+  <sub>29/09/2026</sub>
 </p>
