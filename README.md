@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i></sub><br>
-    <b>— Ayn Rand</b>
+    <sub><i>"Life itself is the most wonderful fairy tale."</i></sub><br>
+    <b>— Hans Christian Andersen</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>30/09/2026</sub>
+  <sub>01/10/2026</sub>
 </p>
