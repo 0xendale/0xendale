@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Much learning does not teach understanding."</i></sub><br>
-    <b>— Heraclitus</b>
+    <sub><i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i></sub><br>
+    <b>— Winston Churchill</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>02/10/2026</sub>
+  <sub>03/10/2026</sub>
 </p>
