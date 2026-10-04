@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i></sub><br>
-    <b>— Winston Churchill</b>
+    <sub><i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i></sub><br>
+    <b>— Isaac Newton</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>03/10/2026</sub>
+  <sub>04/10/2026</sub>
 </p>
