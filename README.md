@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i></sub><br>
-    <b>— Isaac Newton</b>
+    <sub><i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i></sub><br>
+    <b>— Celestine Chua</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>04/10/2026</sub>
+  <sub>05/10/2026</sub>
 </p>
