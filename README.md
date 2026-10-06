@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i></sub><br>
-    <b>— Celestine Chua</b>
+    <sub><i>"There is little success where there is little laughter."</i></sub><br>
+    <b>— Andrew Carnegie</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>05/10/2026</sub>
+  <sub>06/10/2026</sub>
 </p>
