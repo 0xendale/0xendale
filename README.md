@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"There is little success where there is little laughter."</i></sub><br>
-    <b>— Andrew Carnegie</b>
+    <sub><i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i></sub><br>
+    <b>— Roy T. Bennett</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>06/10/2026</sub>
+  <sub>07/10/2026</sub>
 </p>
