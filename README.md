@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Human happiness and moral duty are inseparably connected."</i></sub><br>
-    <b>— George Washington</b>
+    <sub><i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i></sub><br>
+    <b>— Dalai Lama</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>08/10/2026</sub>
+  <sub>09/10/2026</sub>
 </p>
