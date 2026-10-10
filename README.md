@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i></sub><br>
-    <b>— Dalai Lama</b>
+    <sub><i>"Do the difficult things while they are easy and do the great things while they are small."</i></sub><br>
+    <b>— Lao Tzu</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>09/10/2026</sub>
+  <sub>10/10/2026</sub>
 </p>
