@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The quality, not the longevity, of one's life is what is important."</i></sub><br>
-    <b>— Martin Luther King, Jr.</b>
+    <sub><i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i></sub><br>
+    <b>— Tony Robbins</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>11/10/2026</sub>
+  <sub>12/10/2026</sub>
 </p>
