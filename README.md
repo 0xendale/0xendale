@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i></sub><br>
-    <b>— Tony Robbins</b>
+    <sub><i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i></sub><br>
+    <b>— Roy T. Bennett</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>12/10/2026</sub>
+  <sub>13/10/2026</sub>
 </p>
