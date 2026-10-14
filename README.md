@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i></sub><br>
-    <b>— Roy T. Bennett</b>
+    <sub><i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i></sub><br>
+    <b>— Tony Robbins</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>13/10/2026</sub>
+  <sub>14/10/2026</sub>
 </p>
