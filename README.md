@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i></sub><br>
-    <b>— Tony Robbins</b>
+    <sub><i>"Wealth is the product of man's capacity to think."</i></sub><br>
+    <b>— Ayn Rand</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>14/10/2026</sub>
+  <sub>15/10/2026</sub>
 </p>
