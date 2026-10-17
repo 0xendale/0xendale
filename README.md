@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"You don't have to control your thoughts; you just have to stop letting them control you."</i></sub><br>
-    <b>— Dan Millman</b>
+    <sub><i>"Nothing is more real than nothing."</i></sub><br>
+    <b>— Samuel Beckett</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>16/10/2026</sub>
+  <sub>17/10/2026</sub>
 </p>
