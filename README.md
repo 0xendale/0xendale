@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Nothing is more real than nothing."</i></sub><br>
-    <b>— Samuel Beckett</b>
+    <sub><i>"It is far easier to start something than it is to finish it."</i></sub><br>
+    <b>— Amelia Earhart</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>17/10/2026</sub>
+  <sub>18/10/2026</sub>
 </p>
