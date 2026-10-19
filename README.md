@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"It is far easier to start something than it is to finish it."</i></sub><br>
-    <b>— Amelia Earhart</b>
+    <sub><i>"Less is more."</i></sub><br>
+    <b>— Robert Browning</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>18/10/2026</sub>
+  <sub>19/10/2026</sub>
 </p>
