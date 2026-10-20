@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Less is more."</i></sub><br>
-    <b>— Robert Browning</b>
+    <sub><i>"To be prepared is half the victory."</i></sub><br>
+    <b>— Miguel de Cervantes</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>19/10/2026</sub>
+  <sub>20/10/2026</sub>
 </p>
