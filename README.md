@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"To be prepared is half the victory."</i></sub><br>
-    <b>— Miguel de Cervantes</b>
+    <sub><i>"There is no path to Love. Love is the path."</i></sub><br>
+    <b>— Dan Millman</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>20/10/2026</sub>
+  <sub>21/10/2026</sub>
 </p>
