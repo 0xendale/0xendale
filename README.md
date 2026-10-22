@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"There is no path to Love. Love is the path."</i></sub><br>
-    <b>— Dan Millman</b>
+    <sub><i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i></sub><br>
+    <b>— Denis Waitley</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>21/10/2026</sub>
+  <sub>22/10/2026</sub>
 </p>
