@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i></sub><br>
-    <b>— Denis Waitley</b>
+    <sub><i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i></sub><br>
+    <b>— Leo Tolstoy</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>22/10/2026</sub>
+  <sub>23/10/2026</sub>
 </p>
