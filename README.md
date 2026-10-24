@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i></sub><br>
-    <b>— Leo Tolstoy</b>
+    <sub><i>"Happiness is only real, when shared."</i></sub><br>
+    <b>— Christopher McCandless</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>23/10/2026</sub>
+  <sub>24/10/2026</sub>
 </p>
