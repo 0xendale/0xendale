@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Happiness is only real, when shared."</i></sub><br>
-    <b>— Christopher McCandless</b>
+    <sub><i>"The dream is free, but the hustle is sold separately."</i></sub><br>
+    <b>— Steve Harvey</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>24/10/2026</sub>
+  <sub>25/10/2026</sub>
 </p>
