@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The dream is free, but the hustle is sold separately."</i></sub><br>
-    <b>— Steve Harvey</b>
+    <sub><i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i></sub><br>
+    <b>— George Washington</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>25/10/2026</sub>
+  <sub>26/10/2026</sub>
 </p>
