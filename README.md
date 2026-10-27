@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i></sub><br>
-    <b>— George Washington</b>
+    <sub><i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i></sub><br>
+    <b>— James Cameron</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>26/10/2026</sub>
+  <sub>27/10/2026</sub>
 </p>
