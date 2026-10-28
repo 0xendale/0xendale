@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i></sub><br>
-    <b>— James Cameron</b>
+    <sub><i>"It is easier to fight for one's principles than to live up to them."</i></sub><br>
+    <b>— Alfred Adler</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>27/10/2026</sub>
+  <sub>28/10/2026</sub>
 </p>
