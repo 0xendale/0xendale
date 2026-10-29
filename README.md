@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"It is easier to fight for one's principles than to live up to them."</i></sub><br>
-    <b>— Alfred Adler</b>
+    <sub><i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i></sub><br>
+    <b>— Theodore Roosevelt</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>28/10/2026</sub>
+  <sub>29/10/2026</sub>
 </p>
