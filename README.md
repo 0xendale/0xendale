@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i></sub><br>
-    <b>— Theodore Roosevelt</b>
+    <sub><i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i></sub><br>
+    <b>— Robert Greene</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>29/10/2026</sub>
+  <sub>30/10/2026</sub>
 </p>
