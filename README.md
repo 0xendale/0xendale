@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i></sub><br>
-    <b>— Robert Greene</b>
+    <sub><i>"A person is only by the thoughts that he chooses."</i></sub><br>
+    <b>— James Allen</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>30/10/2026</sub>
+  <sub>31/10/2026</sub>
 </p>
