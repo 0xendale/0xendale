@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"A person is only by the thoughts that he chooses."</i></sub><br>
-    <b>— James Allen</b>
+    <sub><i>"Happiness is only real, when shared."</i></sub><br>
+    <b>— Christopher McCandless</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>31/10/2026</sub>
+  <sub>01/11/2026</sub>
 </p>
