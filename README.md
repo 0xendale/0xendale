@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Happiness is only real, when shared."</i></sub><br>
-    <b>— Christopher McCandless</b>
+    <sub><i>"It's your life-but only if you make it so."</i></sub><br>
+    <b>— Eleanor Roosevelt</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>01/11/2026</sub>
+  <sub>02/11/2026</sub>
 </p>
