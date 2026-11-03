@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"It's your life-but only if you make it so."</i></sub><br>
-    <b>— Eleanor Roosevelt</b>
+    <sub><i>"Don't let them drag you down by rumors. Just go with what you believe in."</i></sub><br>
+    <b>— Michael Jordan</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>02/11/2026</sub>
+  <sub>03/11/2026</sub>
 </p>
