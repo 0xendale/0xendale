@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Don't let them drag you down by rumors. Just go with what you believe in."</i></sub><br>
-    <b>— Michael Jordan</b>
+    <sub><i>"Life is a process. We are a process. The universe is a process."</i></sub><br>
+    <b>— Anne Wilson Schaef</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>03/11/2026</sub>
+  <sub>04/11/2026</sub>
 </p>
