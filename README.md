@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Life is a process. We are a process. The universe is a process."</i></sub><br>
-    <b>— Anne Wilson Schaef</b>
+    <sub><i>"Before you embark on a journey of revenge, dig two graves."</i></sub><br>
+    <b>— Confucius</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>04/11/2026</sub>
+  <sub>05/11/2026</sub>
 </p>
