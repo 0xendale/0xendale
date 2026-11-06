@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Before you embark on a journey of revenge, dig two graves."</i></sub><br>
-    <b>— Confucius</b>
+    <sub><i>"Being wrong opens us up to the possibility of change."</i></sub><br>
+    <b>— Mark Manson</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>05/11/2026</sub>
+  <sub>06/11/2026</sub>
 </p>
