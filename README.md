@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Being wrong opens us up to the possibility of change."</i></sub><br>
-    <b>— Mark Manson</b>
+    <sub><i>"Look to the beauty of this day, miracles are all around you."</i></sub><br>
+    <b>— Mary Engelbreit</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>06/11/2026</sub>
+  <sub>07/11/2026</sub>
 </p>
