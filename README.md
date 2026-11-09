@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Focused, hard work is the real key to success."</i></sub><br>
-    <b>— John Carmack</b>
+    <sub><i>"Growing up is losing some illusions, in order to acquire others."</i></sub><br>
+    <b>— Virginia Woolf</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>08/11/2026</sub>
+  <sub>09/11/2026</sub>
 </p>
