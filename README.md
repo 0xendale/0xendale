@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Growing up is losing some illusions, in order to acquire others."</i></sub><br>
-    <b>— Virginia Woolf</b>
+    <sub><i>"Sorrow is how we learn to love."</i></sub><br>
+    <b>— Rita Mae Brown</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>09/11/2026</sub>
+  <sub>10/11/2026</sub>
 </p>
