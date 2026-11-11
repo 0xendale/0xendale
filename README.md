@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Sorrow is how we learn to love."</i></sub><br>
-    <b>— Rita Mae Brown</b>
+    <sub><i>"As a man thinketh in his heart, so shall he be."</i></sub><br>
+    <b>— James Allen</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>10/11/2026</sub>
+  <sub>11/11/2026</sub>
 </p>
