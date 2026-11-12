@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"As a man thinketh in his heart, so shall he be."</i></sub><br>
-    <b>— James Allen</b>
+    <sub><i>"Life is but one dream flowing into another."</i></sub><br>
+    <b>— Ming-Dao Deng</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>11/11/2026</sub>
+  <sub>12/11/2026</sub>
 </p>
