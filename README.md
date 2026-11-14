@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Only in the agony of parting do we look into the depths of love."</i></sub><br>
-    <b>— George Eliot</b>
+    <sub><i>"Rest and be kind, you don't have to prove anything."</i></sub><br>
+    <b>— Jack Kerouac</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>13/11/2026</sub>
+  <sub>14/11/2026</sub>
 </p>
