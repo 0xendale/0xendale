@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Rest and be kind, you don't have to prove anything."</i></sub><br>
-    <b>— Jack Kerouac</b>
+    <sub><i>"Nothing good ever comes of violence."</i></sub><br>
+    <b>— Martin Luther</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>14/11/2026</sub>
+  <sub>15/11/2026</sub>
 </p>
