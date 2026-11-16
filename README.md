@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Nothing good ever comes of violence."</i></sub><br>
-    <b>— Martin Luther</b>
+    <sub><i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i></sub><br>
+    <b>— Unknown</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>15/11/2026</sub>
+  <sub>16/11/2026</sub>
 </p>
