@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i></sub><br>
-    <b>— Unknown</b>
+    <sub><i>"Trying to define yourself is like trying to bite your own teeth."</i></sub><br>
+    <b>— Alan Watts</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>16/11/2026</sub>
+  <sub>17/11/2026</sub>
 </p>
