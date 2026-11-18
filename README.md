@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"Trying to define yourself is like trying to bite your own teeth."</i></sub><br>
-    <b>— Alan Watts</b>
+    <sub><i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i></sub><br>
+    <b>— Kabir</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>17/11/2026</sub>
+  <sub>18/11/2026</sub>
 </p>
