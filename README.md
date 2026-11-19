@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i></sub><br>
-    <b>— Kabir</b>
+    <sub><i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i></sub><br>
+    <b>— Unknown</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>18/11/2026</sub>
+  <sub>19/11/2026</sub>
 </p>
