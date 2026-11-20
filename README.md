@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i></sub><br>
-    <b>— Unknown</b>
+    <sub><i>"If you want work well done, select a busy man; the other kind has no time."</i></sub><br>
+    <b>— Elbert Hubbard</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>19/11/2026</sub>
+  <sub>20/11/2026</sub>
 </p>
