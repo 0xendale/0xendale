@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"If you want work well done, select a busy man; the other kind has no time."</i></sub><br>
-    <b>— Elbert Hubbard</b>
+    <sub><i>"But better die than live mechanically a life that is a repetition of repetitions."</i></sub><br>
+    <b>— D. H. Lawrence</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>20/11/2026</sub>
+  <sub>21/11/2026</sub>
 </p>
