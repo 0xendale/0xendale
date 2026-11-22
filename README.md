@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"But better die than live mechanically a life that is a repetition of repetitions."</i></sub><br>
-    <b>— D. H. Lawrence</b>
+    <sub><i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i></sub><br>
+    <b>— George Bernard Shaw</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>21/11/2026</sub>
+  <sub>22/11/2026</sub>
 </p>
