@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i></sub><br>
-    <b>— George Bernard Shaw</b>
+    <sub><i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i></sub><br>
+    <b>— Kahlil Gibran</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>22/11/2026</sub>
+  <sub>23/11/2026</sub>
 </p>
