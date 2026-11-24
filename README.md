@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i></sub><br>
-    <b>— Kahlil Gibran</b>
+    <sub><i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i></sub><br>
+    <b>— Steve Harvey</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>23/11/2026</sub>
+  <sub>24/11/2026</sub>
 </p>
