@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i></sub><br>
-    <b>— Steve Harvey</b>
+    <sub><i>"What we dwell on is who we become."</i></sub><br>
+    <b>— Oprah Winfrey</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>24/11/2026</sub>
+  <sub>25/11/2026</sub>
 </p>
