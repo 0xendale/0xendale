@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"What we dwell on is who we become."</i></sub><br>
-    <b>— Oprah Winfrey</b>
+    <sub><i>"We learn to walk by falling down. If we never fell down, we would never walk."</i></sub><br>
+    <b>— Robert Kiyosaki</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>25/11/2026</sub>
+  <sub>26/11/2026</sub>
 </p>
