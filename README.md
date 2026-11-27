@@ -29,8 +29,8 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/16/737373/quote-left.png" />
   <p>
-    <sub><i>"We learn to walk by falling down. If we never fell down, we would never walk."</i></sub><br>
-    <b>— Robert Kiyosaki</b>
+    <sub><i>"What have you done today to make someone else happy?"</i></sub><br>
+    <b>— Deepam Chaterjee</b>
   </p>
 </div>
 
@@ -38,5 +38,5 @@
 
 ---
 <p align="right">
-  <sub>26/11/2026</sub>
+  <sub>27/11/2026</sub>
 </p>
